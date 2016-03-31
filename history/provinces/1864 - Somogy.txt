@@ -1,0 +1,15 @@
+#1864 - Somogy
+
+owner = JZY
+controller = JZY
+culture = carantanian
+religion = orthodox
+capital = "Kaposvár"
+trade_goods = grain
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 3
+is_city = yes
+estate = estate_church
+add_core = JZY

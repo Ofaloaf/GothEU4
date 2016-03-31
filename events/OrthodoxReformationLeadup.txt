@@ -1,0 +1,227 @@
+namespace = orthoreform
+
+#########################################################
+#		Saint performs miracle						  	#
+#########################################################
+country_event = {
+	id = orthoreform.1
+	title = "EVTNAME5061"
+	desc = "EVTDESC5061"
+	picture = POPE_PREACHING_eventPicture
+
+	is_triggered_only = yes
+
+	trigger = {
+		NOT = { is_year = 1700 }
+		religion = orthodox
+		NOT = { stability = 2 }
+	}
+
+	mean_time_to_happen = {
+		days = 1
+		
+		modifier = {
+			factor = 2.0
+			NOT = { innovativeness_ideas = 2 }
+		}
+		modifier = {
+			factor = 2.0
+			luck = yes
+		}
+		modifier = {
+			factor = 0.66
+			innovativeness_ideas = 6
+		}
+	}
+
+	option = {
+		name = "EVTOPTA5061"		# We have truly been blessed
+		ai_chance = {
+			factor = 55
+		}
+		add_stability = 1
+		add_reform_desire = 0.005
+	}
+	option = {
+		name = "EVTOPTB5061"		# Their actions have shown us the true path
+		ai_chance = { factor = 45 }
+		trigger = { NOT = { tag = ECU } }
+		add_papal_influence = 20
+	}
+}
+
+# Bible Translated
+province_event = {
+	id = orthoreform.2
+	title = "random_event.EVTNAME21"
+	desc = "random_event.EVTDESC21"
+	picture = BIG_BOOK_eventPicture
+	
+	trigger = {
+		owner = {
+			NOT = { has_country_flag = bible_translated }
+			OR = {
+				religion = orthodox
+				religion = gnostic
+			}
+		}
+		is_religion_enabled = gnostic
+		is_reformation_center = no
+		religion_group = christian
+	}
+
+	mean_time_to_happen = {
+		months = 5000 # Random Province Event
+		modifier = {
+			factor = 0.75
+			province_id = 59 # Wittenberg	
+		}
+	}
+	
+	immediate = {
+		owner = {
+			set_country_flag = bible_translated
+		}
+	}
+	
+	option = {
+		name = "random_event.EVTOPTA21" # Heresy! Burn the priest and his books!
+		owner = {
+			add_reform_desire = -0.01
+			PAP = {
+				add_opinion = { who = ROOT modifier = opinion_grateful }
+			}
+			every_neighbor_country = {
+				limit = {
+					religion = orthodox
+				}
+				add_opinion = { who = ROOT modifier = opinion_grateful }
+			}
+			every_neighbor_country = {
+				limit = {
+					religion = gnostic
+				}
+				add_opinion = { who = ROOT modifier = opinion_angry }
+			}
+		}
+	}
+	option = {
+		name = "random_event.EVTOPTB21" # Great news! Spread these bibles far and wide
+		if = {
+			limit = {
+				owner = {
+					OR = {
+						religion = orthodox
+						religion = gnostic
+					}
+				}
+			}
+			change_religion = gnostic
+		}
+		#if = {
+		#	limit = {
+		#		owner = {
+		#			religion = reformed
+		#		}
+		#	}
+		#	change_religion = reformed
+		#}
+		owner = {
+			add_reform_desire = 0.03
+			ECU = {
+				add_opinion = { who = ROOT modifier = opinion_angry }
+			}
+			every_neighbor_country = {
+				limit = {
+					religion = orthodox
+				}
+				add_opinion = { who = ROOT modifier = opinion_irritated }
+			}
+			every_neighbor_country = {
+				limit = {
+					religion = gnostic
+				}
+				add_opinion = { who = ROOT modifier = opinion_grateful }
+			}
+		}
+	}
+}
+
+# The Arian Legacy
+province_event = {
+	id = orthoreform.3
+	title = "orthoreform.EVTNAME3"
+	desc = "orthoreform.EVTDESC3"
+	picture = BIG_BOOK_eventPicture
+	
+	trigger = {
+		owner = {
+			NOT = { has_country_flag = arian_legacy }
+			religion = orthodox
+		}
+		OR = {
+			culture_group = gothic_group
+			owner = { culture_group = gothic_group }
+		}
+		is_reformation_center = no
+		religion_group = christian
+	}
+
+	mean_time_to_happen = {
+		months = 5000 # Random Province Event
+		modifier = {
+			factor = 0.75
+			province_id = 203 # Lyon/Liyun/Lugdunum	
+		}
+	}
+	
+	immediate = {
+		owner = {
+			set_country_flag = arian_legacy
+		}
+	}
+	
+	option = {
+		name = "orthoreform.EVTOPTA3" # Lies! The Goths have always been Orthodox!
+		owner = {
+			add_reform_desire = -0.01
+			PAP = {
+				add_opinion = { who = ROOT modifier = opinion_grateful }
+			}
+			every_neighbor_country = {
+				limit = {
+					religion = orthodox
+				}
+				add_opinion = { who = ROOT modifier = opinion_grateful }
+			}
+			every_neighbor_country = {
+				limit = {
+					religion = gnostic
+				}
+				add_opinion = { who = ROOT modifier = opinion_angry }
+			}
+		}
+	}
+	option = {
+		name = "orthoreform.EVTOPTB3" # The Goths' past is an honorable one, regardless of its heresy. 
+		owner = {
+			add_reform_desire = 0.05
+			prestige = 0.05
+			ECU = {
+				add_opinion = { who = ROOT modifier = opinion_angry }
+			}
+			every_neighbor_country = {
+				limit = {
+					religion = orthodox
+				}
+				add_opinion = { who = ROOT modifier = opinion_irritated }
+			}
+			every_neighbor_country = {
+				limit = {
+					religion = gnostic
+				}
+				add_opinion = { who = ROOT modifier = opinion_grateful }
+			}
+		}
+	}
+}

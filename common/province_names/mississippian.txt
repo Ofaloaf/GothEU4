@@ -1,0 +1,6 @@
+895 = "Guachoyo"
+918 = "Pacaha"
+940 = "Tolu"
+2514 = "Towosahgy"
+2515 = "Tula"
+2528 = "Quigualtam"

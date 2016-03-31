@@ -1,0 +1,15 @@
+#2302 - Içel
+
+owner = MTU
+controller = MTU
+culture = turkish
+religion = manichee
+capital = "Ermenek"
+trade_goods = naval_supplies
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 3
+is_city = yes
+fort_15th = yes
+add_core = MTU

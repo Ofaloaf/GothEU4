@@ -1,0 +1,14 @@
+#325 - Kastamonu
+
+owner = MTU
+controller = MTU
+culture = turkish
+religion = manichee
+capital = "Kastamonu"
+trade_goods = copper
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 3
+is_city = yes
+add_core = MTU

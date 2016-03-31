@@ -1,0 +1,6 @@
+government = merchant_republic
+mercantilism = 0.25
+primary_culture = rhenish
+religion = orthodox
+technology_group = western
+capital = 90 # Brujas

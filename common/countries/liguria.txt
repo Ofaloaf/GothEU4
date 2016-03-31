@@ -1,0 +1,113 @@
+# Liguria
+
+graphical_culture = westerngfx
+
+color = { 218  215  56 }
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	trade_ideas
+	economic_ideas
+	innovativeness_ideas
+	spy_ideas
+	offensive_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	italian_condotta
+	spanish_tercio
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Tiuderigh #0" = 40
+	"Alarigh #0" = 40
+	"Ainrigh #0" = 30
+	"Eurigh #0" = 20
+	"Ësteo #0" = 15
+	"Lissànder #0" = 10
+
+	"Barnabas #0" = 0
+	"Bonifass #0" = 0
+	"Buterigh #0" = 0
+	"Éracle #0" = 0
+	"Evasi #0" = 0
+	"Federigh #0" = 0
+	"Flip #0" = 0
+	"Fravitta #0" = 0
+	"Gajo #0" = 0
+	"Gezo #0" = 0
+	"Giacint #0" = 0
+	"Giòrs #0" = 0
+	"Giouan #0" = 0
+	"Gundemaro #0" = 0
+	"Iblet #0" = 0
+	"Janus #0" = 0
+	"Margh #0" = 0
+	"Maximus #0" = 0
+	"Medeo #0" = 0
+	"Nicholaus #0" = 0
+	"Odilo #0" = 0
+	"Odoacre #0" = 0
+	"Pàol #0" = 0
+	"Pé #0" = 0
+	"Reccesvindo #0" = 0
+	"Ricolfus #0" = 0
+	"Roderigh #0" = 0
+	"Ròmol #0" = 0
+	"Tigridius #0" = 0
+	"Tiudòr #0" = 0
+	"Tomà #0" = 0
+	"Tribigildo #0" = 0
+	"Tulga #0" = 0
+	"Vitgarius #0" = 0
+}
+
+leader_names = {
+	Ambronius Agus Alimonda Acet "d'Asèj" "d'Alba" "d'Äich" "d'Arbinauno"
+	Baiardo Bache Barzizza Bisi Balla Bonomel
+	Calvani Canella Carta Castrarosa Celant Cybo Calame "De Castello" Calv
+	Erede
+	"De Ferrari"
+	Gora Gras Gogna Germonius "de Gorrevôd" "dël Giss" "ëd Génoa"
+	Issel
+	Luxoro "ëd Lissandria"
+	Marana Malerba Malaspina "dël Mondvì"
+	Otelma
+	Pamphili "dël Pesi"
+	Rava "dla Ròca" "dla Rol"
+	Sauli Semini Signoris Scramp
+	Tavarone Travi Trevisan Turchi "de Turrin"
+	"da Voltri" "ëd Valèis" "dla Vermegnana"
+	Waldelenus Walchunus
+	Zaccaria Zanoia
+}
+
+ship_names = {
+	Albingaunum Ademarus "Augusta Taurinorum"
+	Cuneum Capritiana Cisalpina
+	Genua
+	Intemelia Imperia "Iohannes Baptista"
+	Liguria
+	Municipium
+	Nicaea
+	Obertus Oneglia
+	"Portus Maurici"
+	"Sant Evasi" Stalia
+	Taurasia
+	Unelia
+	"Vada Sabatia"
+}

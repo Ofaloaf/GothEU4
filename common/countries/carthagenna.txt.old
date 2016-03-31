@@ -1,0 +1,163 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 200 30 0 }
+
+revolutionary_colors = { 5  8  5 }
+
+historical_idea_groups = {
+	exploration_ideas
+	religious_ideas
+	offensive_ideas
+	expansion_ideas
+	influence_ideas
+	maritime_ideas
+	quality_ideas
+	defensive_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	spanish_tercio
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Nigolago #2" = 40
+	"Augustinu #1" = 30
+	"Dedon #2" = 20
+
+	"Abraham #0" = 0
+	"Alici #0" = 0
+	"Amador #0" = 0
+	"Ascanio #0" = 0
+	"Atrianus #0" = 0
+	"Belacco #0" = 0
+	"Cebrián #0" = 0
+	"Celsino #0" = 0
+	"Cesáreo #0" = 0
+	"Dadeo #0" = 0
+	"Dalmazius #0" = 0
+	"Davi #0" = 0
+	"Decimanus #0" = 0
+	"Egenio #0" = 0
+	"Emiliano #0" = 0
+	"Eolalio #0" = 0
+	"Estafili #0" = 0
+	"Eusebio #0" = 0
+	"Exemeno #0" = 0
+	"Faluax #0" = 0
+	"Frontinyà #0" = 0
+	"Gaudenzo #0" = 0
+	"Gercorio #0" = 0
+	"Giberio #0" = 0
+	"Héctor #0" = 0
+	"Heródoto #0" = 0
+	"Hilario #0" = 0
+	"Iacob #0" = 0
+	"Iaquinti #0" = 0
+	"Iohannis #0" = 0
+	"Iose #0" = 0
+	"Isidoro #0" = 0
+	"Lalan #0" = 0
+	"Leo #0" = 0
+	"Liciniano #0" = 0
+	"Lopon #0" = 0
+	"Lucus #0" = 0
+	"Malasco #0" = 0
+	"Marchus #0" = 0
+	"Miles #0" = 0
+	"Múnulo #0" = 0
+	"Nonnit #0" = 0
+	"Octavio #0" = 0
+	"Offrasius #0" = 0
+	"Osormeo #0" = 0
+	"Paul #0" = 0
+	"Pelaius #0" = 0
+	"Próculo #0" = 0
+	"Próspero #0" = 0
+	"Quinzano #0" = 0
+	"Selva #0" = 0
+	"Sergi #0" = 0
+	"Servus #0" = 0
+	"Tardenatus #0" = 0
+	"Theoclezo #0" = 0
+	"Theodoro #0" = 0
+	"Theofilo #0" = 0
+	"Ticia #0" = 0
+	"Titus #0" = 0
+	"Tranquil #0" = 0
+	"Vigitino #0" = 0
+	"Vincencio #0" = 0
+	"Yspanni #0" = 0
+	"Zacarias #0" = 0
+	"Zarraquina #0" = 0
+	"Zarraco #0" = 0
+}
+
+leader_names = {
+	Ahala Aculeo Asellio
+	Barroso "de Batet" Bugueiro "de Biclaro" Borrull Bucco Buteo "de Bellvís"
+	Coloma "de Carvajal" "de Celis" "de Creixell" Carbonell Climent "de Calcena" Caepio Capito Carbo Celer Cilo
+	Cethegus Calvinus Cornicen Cotta Costa
+	Daza Dento Dorsuo Dolabella
+	Fabra Fronto Figulo Flacco Fullo
+	Gumiel Guissall Galeo Glabrio Gurges
+	Helva
+	Izquierdo Iullus
+	Labeo "de Lordat" Laenas Libo Lurco
+	Magaz Miralles "de Montgrí" "de Mur" Mercader "de Malla" Macer Macula Maro Merula
+	Noloaquisino Nasica Naso Natta Nepus
+	Ocella
+	Pansa Papus Pavo Pera "de Peratallada" "de Palafolls" "de Prat" "de Paulhac" Piso Potitus
+	Ruga "de Rivas" "de Redorta" Rullus
+	Silíceo Sicinius Sacosta Scaeva Scrofa Salinator Sura Stolo
+	Trejo "de Torrella" Tuccius Tubero
+	Varro "de Vargas" "de Vilamarí" "de Vilert" "de Vilaró" Vatia
+}
+
+ship_names = {
+	Augustus Anas Aulus Aeneas Adiutrix "Antoninus Pius" Amulius "Ancus Marcius"
+	Baecula Baetis Brigantium
+	Carpetania Callaecia Cissa Cinidi Claudius Commodus Cleopatra Corvus Centurio Cicero Camilus Calpus
+	Danielus Diana
+	Egeria
+	Fortis Fidens Faustulus Faunus Fortuna
+	"G. Iulius Caesar" Gordianus "Graccus Sempronius"
+	Hispania Hasdrubal
+	Invictus
+	Lupa Larentia "Lupus Lepidosus"
+	"Mons Calpe" Murtia Magnus Mamercus Marius
+	"Nicholaus Lepidosus" Numacia Numitor "Numa Pompilius"
+	Offirmatus Obstinatus Obortas Orestes
+	Passer Praefractus Pomponius Pinus Picus
+	Romulus Remus Regina Regulus "Rea Silvia" Romulinus
+	"Scipio Africanus" "Septimius Severus" "Sanctus Stephanus" "Servius Tullius" Superbus
+	Turdus Traianus Testaccio "Titus Tatius" "Tullus Hostilius"
+	Victor Vindicator Vergilius "Valerius Antias"
+}
+
+army_names = {
+	"Legio I Fidelis" "Legio II Tarraconica" "Legio III Herculea" "Legio IV Vasconica" "Legio V Alaudae" 
+	"Legio VI Ferrata" "Legio VII" "Legio VIII Augusta" "Legio IX Hispana" "Legio X Fretensis" "Legio XI Barcinonica"
+	"Legio XII Victrix" "Legio XIII Gemina" "Legio XIV Dianica" "Legio XV Primigenia" "Legio XVI Flavia Firma" 
+	"Legio XVII Valentica"  "Legio XVIII Saetabica" "Legio XIX" "Legio XX Valeria Victrix" "Legio XXI Rapax"
+	"Legio XXII Deiotariana" "Legio XXIII" "Legio XXIV" "Legio XXV" "Legio XXVI" "Legio XXVII" "Legio XXVIII" 
+	"Legio XXIX" "Legio XXX Classica" "Legio Gemella" "Legio Iovia" "Legio Martia" "Legio Flavia Pacis" 
+	"Legio Apollinaris" "Legio Minervia" "Legio Traiana" "Legio $PROVINCE$"
+}
+
+fleet_names = {
+	"Classis Hispanica" "Classis Sardinica" "Classis Ballearica" "Classis $PROVINCE$"
+}

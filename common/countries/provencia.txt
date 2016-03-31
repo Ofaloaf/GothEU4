@@ -1,0 +1,108 @@
+# Provencia
+
+graphical_culture = westerngfx
+
+color = { 98  165  168 }
+
+preferred_religion = gnostic
+
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	religious_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	offensive_ideas
+	spy_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	french_caracolle
+	anglofrench_line
+	french_dragoon
+	french_bluecoat
+	french_cuirassier
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Lucas #2" = 30
+	"Thomas #2" = 30
+	"Maximïen #1" = 20
+	"Didago #1" = 15
+	"Timotheus #1" = 10
+	"Mercurius #1" = 10
+
+	"Anna #0" = -3
+	"Donata #0" = -1
+	"Rosmerta #1" = -5
+	"Sofia #1" = -5
+
+	"Alexis #0" = 0
+	"Apollonaris #0" = 0
+	"Aurelïen #0" = 0
+	"Bonetus #0" = 0
+	"Danieles #0" = 0
+	"Deusdedit #0" = 0
+	"Domitianes #0" = 0
+	"Egides #0" = 0
+	"Estephanes #0" = 0
+	"Eugendus #0" = 0
+	"Joanes #0" = 0
+	"Lazares #0" = 0
+	"Lupes #0" = 0
+	"Maximïen #0" = 0
+	"Michel #0" = 0
+	"Miles #0" = 0
+	"Paule #0" = 0
+	"Pelagis #0" = 0
+	"Petres #0" = 0
+	"Poncis #0" = 0
+	"Rasifes #0" = 0
+	"Sidonis #0" = 0
+	"Thomas #0" = 0
+	"Toutellus #1" = 0
+	"Vicentis #0" = 0
+	"Victor #0" = 0
+}
+
+leader_names = {
+	"de Arelate" "de Avennio" "de Arausio" Anvallo Artais
+	Barasc Barlais
+	"de Cavallo" "de Carpentorate" "de Crion" "de Caussada"
+	Druentane Dondara
+	"de Fabrica"
+	"de Grassa" "de Gargarius" "de Glanum" "del Gua"
+	Mirs "de Marsilia"
+	"de Niomes" "de Nemausus" "de Niela"
+	Orgetoricien
+	"del Pog"
+	"de Roci" "de Reii"
+	"de Segustero"
+	Tasgetien "de Trias"
+	"de Vindasca" "de Vaqueriis" Vindonnino Vives "de Vezis"
+}
+
+ship_names = {
+	"Aquae Sextiae" Athenopolis Aurelia Apollo
+	Bituitus
+	Cemenelum "Canus Natus"
+	Druentus Domitia
+	Gallitas Hyptis
+	"Sanctus Lazarus"
+	Massilia Magdalena
+	Oxybii Olbia
+	Provincia Postumus Pytheas Protis
+	Salyes
+	Transalpina Tetricus "Titus Annius Milo"
+}

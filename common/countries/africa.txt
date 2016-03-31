@@ -1,0 +1,127 @@
+#Country Name: Please see filename.
+
+graphical_culture = muslimgfx
+
+color = { 216 56 16 }
+
+revolutionary_colors = { 8  5  9 }
+
+preferred_religion = gnostic
+
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	religious_ideas
+	maritime_ideas	
+	administrative_ideas
+	offensive_ideas
+	economic_ideas
+	expansion_ideas
+}
+
+historical_units = {
+	mamluk_archer
+	mamluk_cavalry_charge
+	mamluk_duel
+	mamluk_musket_charge
+	muslim_mass_infantry
+	muslim_dragoon
+	ali_bey_reformed_infantry
+}
+
+monarch_names = {
+	"Tulemeju #1" = 40
+	"Garmules #0" = 30
+	"Pascale #1" = 30
+	"Gildon #1" = 20
+
+	"Dihya #0" = -10
+	"Monica #0" = -5
+
+	"Adherbal #0" = 0
+	"Aggur #0" = 0
+	"Aksil #0" = 0
+	"Andromachus #0" = 0
+	"Antalas #0" = 0
+	"Antonius #0" = 0
+	"Awgustin #0" = 0
+	"Badis #0" = 0
+	"Bukkus #0" = 0
+	"Custantinus #0" = 0
+	"Dawud #0" = 0
+	"Donatus #0" = 0
+	"Ezechiel #0" = 0
+	"Generosus #0" = 0
+	"Gulusa #0" = 0
+	"Hamilcar #0" = 0
+	"Hanno #0" = 0
+	"Heraclius #0" = 0
+	"Hilarion #0" = 0
+	"Ialdas #0" = 0
+	"Iaudas #0" = 0
+	"Ibrahim #0" = 0
+	"Ilyas #0" = 0
+	"Immeghar #0" = 0
+	"Ishac #0" = 0
+	"Ismail #0" = 0
+	"Iutungun #0" = 0
+	"Justinus #0" = 0
+	"Masguinus #0" = 0
+	"Masties #0" = 0
+	"Mastigas #0" = 0
+	"Masuna #0" = 0
+	"Matiya #0" = 0
+	"Maximus #0" = 0
+	"Micipsa #0" = 0
+	"Musa #0" = 0
+	"Nicomachus #0" = 0
+	"Ninellus #0" = 0
+	"Petrus #0" = 0
+	"Paulus #0" = 0
+	"Renatus #0" = 0
+	"Salomon #0" = 0
+	"Sinzira #0" = 0
+	"Sisinniolus #0" = 0
+	"Sisso #0" = 0
+	"Stotzas #0" = 0
+	"Theodorus #0" = 0
+	"Theodosius #0" = 0
+	"Ticonius #0" = 0
+	"Tifan #0" = 0
+	"Timotheus #0" = 0
+	"Yeften #0" = 0
+	"Yunes #0" = 0
+	"Yusuf #0" = 0
+}
+
+leader_names = {
+	Autololus Awras
+	Barghawata
+	Frexenses
+	Julius
+	Luwata
+	Maurus Miknasa Musonius Mastracianus
+	Nigrinus
+	Rulasen Rogathinus "de Ruspe"
+	"de Saldae"
+	Tingitanus
+	"de Volubilis"
+}
+
+ship_names = {
+	Africa Altava Augustinus Africanitas Aurasium
+	"Bonifacius Comes" Byzacena
+	Christianitas Caesariensis Carthago
+	Didoni
+	Fortunatus
+	Gloria
+	Imperator
+	Leopardus Leo
+	Mauria
+	Numidia Neptunus
+	Prosperitas
+	Saturnus Sitifensis "Scipiu Africanu"
+	Tingis Tigris
+	Venator Vulpes Victoria
+	Zeugitana
+}

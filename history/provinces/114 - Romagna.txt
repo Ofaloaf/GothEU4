@@ -1,0 +1,15 @@
+#114 - Romagna
+
+owner = LRM
+controller = LRM
+culture = lat_roman 
+religion = orthodox
+hre = yes
+base_tax = 6 
+base_production = 6    
+trade_goods = salt
+base_manpower = 4    
+capital = "Bononia"
+estate = estate_nobles
+is_city = yes	# Estimated 
+add_core = LRM

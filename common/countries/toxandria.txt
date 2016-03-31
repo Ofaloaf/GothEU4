@@ -1,0 +1,83 @@
+# Toxandria
+
+graphical_culture = westerngfx
+
+color = { 118 193 153 }
+
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	religious_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	offensive_ideas
+	spy_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	french_caracolle
+	anglofrench_line
+	french_dragoon
+	french_bluecoat
+	french_carabinier
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Tiuderic #0" = 50
+	"Evaric #0" = 40
+	"Alaric #0" = 0
+
+	"Benaitu #0" = 0
+	"Borel #0" = 0
+	"Caraules #0" = 0
+	"Estilicó #0" = 0
+	"Gomé #0" = 0
+	"Jehan #0" = 0
+	"Ordonno #0" = 0
+	"Oveco #0" = 0
+	"Pascalis #0" = 0
+	"Pèitre #0" = 0
+	"Pol #0" = 0
+}
+
+leader_names = {
+	Aleu d'Anduerpis d'Arescod Aymerich
+	Bonto "de Brussèlas" "de Braida" Bartomeu
+	Camps "de Camaraco" "de Cervia" Colomer "de Carnotus" Camlonch
+	Dolsà Dardarich
+	Font Feliu Fontanills Fisnerola Feyna
+	Guiscart "de Grentberghis" Grau Grech Gorgoll Gatell Garriga "de Galdames"
+	Isbert
+	Joan
+	"de Lovanha" "de Lierra"
+	Monrós "de Maslinas" Màrgens Muntargull "de Malthibella" Massot Mas
+	Nabet
+	Oms
+	Pascas Plana Par Prat
+	Queralt
+	Roig "de Ruigenhil" Rofreo "de Rodes" Rovira
+	Serra Santleyr Segarra Salvat Sallels
+	Texidor "de Tilbaurg"
+	Vallongera
+}
+
+ship_names = {
+	Ambivaritus
+	Bracbatensis Brosella
+	"Civitas Tungrorum" Camaracum Ceuclum
+	Fanomartensis
+	Salius Silvaducis
+	Taxus Tilliburgis
+	Zomam
+}

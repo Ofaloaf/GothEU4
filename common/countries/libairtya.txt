@@ -1,0 +1,123 @@
+# Libairtya
+
+graphical_culture = westerngfx
+
+colonial_parent = GTH
+random_nation_chance = 0
+
+historical_score = 200
+
+color = { 157 208 69 }
+
+historical_idea_groups = {
+	plutocracy_ideas
+	trade_ideas
+	economic_ideas
+	defensive_ideas
+	maritime_ideas
+	administrative_ideas
+	offensive_ideas
+	quantity_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	chevauchee
+	western_longbow
+	gaelic_mercenary
+	gaelic_free_shooter
+	french_caracolle
+	irish_charge
+	anglofrench_line
+	french_dragoon
+	british_redcoat
+	british_hussar
+	british_square
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Fidel #0" = 40
+	"Zachariah #0" = 35
+
+	"Aaron #0" = 0
+	"Abraham #0" = 0
+	"Adam #0" = 0
+	"Agricola #0" = 0
+	"Andromachus #0" = 0
+	"Azanias #0" = 0
+	"Belan #0" = 0
+	"Beniamin #0" = 0
+	"Boson #0" = 0
+	"Cresques #0" = 0
+	"Davi #0" = 0
+	"Edoard #0" = 0
+	"Elias #0" = 0
+	"Elihu #0" = 0
+	"Enrich #0" = 0
+	"Ezras #0" = 0
+	"Gabriel #0" = 0
+	"Isaac #0" = 0
+	"Isaias #0" = 0
+	"Ismael #0" = 0
+	"Israel #0" = 0
+	"Itzah #0" = 0
+	"Jeremias #0" = 0
+	"Jonah #0" = 0
+	"Jussó #0" = 0
+	"Judah #0" = 0
+	"Levi #0" = 0
+	"Micah #0" = 0
+	"Mordecai #0" = 0
+	"Moyses #0" = 0
+	"Nathaniel #0" = 0
+	"Nehemiah #0" = 0
+	"Nicodemus #0" = 0
+	"Obed #0" = 0
+	"Pirkoi #0" = 0
+	"Profach #0" = 0
+	"Safrax #0" = 0
+	"Samiel #0" = 0
+	"Shadrach #0" = 0
+	"Thaddeus #0" = 0
+	"Uriah #0" = 0
+	"Vives #0" = 0
+	"Zebediah #0" = 0
+}
+
+leader_names = {
+	Aunfridi Aunoni Abemoysa Arenós Anguera Avella Albarado Amargos
+	Baurgansa Beza Blanca Bonjudas Bonsiac "de Bellcaire" Bonatrugues
+	Choen Caralha Castella Cols Calderó Civilla Cosclano "de Cabestay"
+	Danieli Dudan Deulocresa Deloregne Damini
+	Ercoli Egani Erman Elies Espareguera Esbri Evescha
+	Faudrat Fita Ferriols
+	Guadencuni Garranha Gricuola Gironi Gonbau Giner Gatbay
+	Ilduini
+	Jehaneli
+	Libdos Lovensa Lorosa Limdanes Lopis
+	Marcanes Monofrt Montoliu Mundó Mascaroó "de Melguelh" Metge "de Megalas" Manero Martí
+	Nasi Novelha
+	"de Oblitis"
+	Petrus Pavali Profayt
+	Roselha Roca "del Rio" "de Roaxio" Retonditor Ralhaferi
+	Salvadora Scola
+	Taugan
+	Vidalis "de Vilavasca"
+	Yspani
+}
+
+ship_names = {
+	Apollo Aquila Ablabius
+	Columbia Castra Campus Cavallus
+	Franciscus Felicitas
+	Golias
+	Libertas
+	Minerva
+	Noah Notarius "Novus Mundus" "Nauva Gautya"
+	Stabilitas
+	Utilitas
+}

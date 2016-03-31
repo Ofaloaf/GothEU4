@@ -1,0 +1,7 @@
+government = papal_government
+government_rank = 2
+primary_culture = lat_roman
+religion = orthodox
+technology_group = western
+capital = 118	# Roma
+fixed_capital = 118  # Cannot move capital away from this province & no power cost to move to it

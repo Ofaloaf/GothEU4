@@ -1,0 +1,7 @@
+government = feudal_monarchy
+primary_culture = lusitanian
+religion = orthodox
+technology_group = western
+capital = 218
+
+national_focus = DIP

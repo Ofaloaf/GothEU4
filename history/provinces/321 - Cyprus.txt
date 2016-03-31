@@ -1,0 +1,18 @@
+#321 - Cyprus
+
+owner = KOJ
+controller = KOJ
+culture = greek
+religion = orthodox
+capital = "Nicosia"
+trade_goods = wine
+hre = no
+base_tax = 6 
+base_production = 6
+base_manpower = 3
+is_city = yes
+fort_15th = yes
+add_core = CYP
+
+add_core = KOJ
+

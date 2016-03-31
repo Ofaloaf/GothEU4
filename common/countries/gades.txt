@@ -1,0 +1,95 @@
+# Gaditanus
+
+graphical_culture = westerngfx
+
+color = { 255 180 130 }
+
+historical_idea_groups = {
+	religious_ideas
+	trade_ideas
+	defensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	spy_ideas
+	offensive_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	prussian_uhlan
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Benignus #4" = 40
+	"Antonio #1" = 15
+	"Samuhel #2" = 15
+	"Frunimio #1" = 10
+	"Osormeo #1" = 10
+	"Eita #1" = 10
+	"Ermentarius #1" = 10
+
+	"Aurobonna #0" = -5
+	"Gaudiosa #0" = -5
+	"Honoria #1" = -5
+	"Valeria #1" = -5
+
+	"Bennatus #0" = 0
+	"Eularius #0" = 0
+	"Juango #0" = 0
+	"Magnus #0" = 0
+	"Malasco #0" = 0
+	"Nigolago #0" = 0
+	"Paulo #0" = 0
+	"Postonio #0" = 0
+	"Salvadus #0" = 0
+	"Servatus #0" = 0
+	"Silvester #0" = 0
+	"Tertulianus #0" = 0
+	"Theoclezo #0" = 0
+	"Yspanni #0" = 0
+}
+
+leader_names = {
+	Alcense Aturensis "de Asido" "de Aretio"
+	"de Baelo" "de Barbesula" "de Baesippo"
+	Coras "de Cetaria" "de Carteia" Crespos "de Ceret" "de Carissa"
+	"de Erisane"
+	"de Gades"
+	"de Lacippo" "de Lascuto" "de Lacca"
+	Marinus "de Malaca" "de Mellaria" Macius "de Mercablo"
+	"de Nabrissa"
+	"de Ocuri" "de Onoba"
+	"de Puiggros"
+	"de Ronda"
+	Solanus "de Sarlatum" "de Saepo" "de Solis" "de Saguntia" "de Saudo"
+	Teodolis "de Turrecremata"
+}
+
+ship_names = {
+	Arunda "Ad Herculem" "Ad Pontem" "Ad Portum" Acinippo Aipora
+	Burdoga
+	Conobaria Caepionis Continussa
+	Felix
+	Gaditana
+	Hasta
+	Iptuci Iunonis
+	Kalathousa
+	"Lascutana Turris" "Lacus Ligustinus"
+	"Mons Calpe" Mercablum "Magnus Ulpianus"
+	Turirecina Tartessos
+	Urgia
+}

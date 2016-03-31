@@ -1,0 +1,14 @@
+#1767 - Veroce
+
+owner = ILY
+controller = ILY
+culture = dalmatian
+religion = orthodox
+capital = "Osijek"
+trade_goods = cloth
+hre = no
+base_tax = 4 
+base_production = 4
+base_manpower = 2
+is_city = yes
+add_core = ILY

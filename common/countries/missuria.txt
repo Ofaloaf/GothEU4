@@ -1,0 +1,151 @@
+# Missuria
+
+graphical_culture = westerngfx
+
+color = { 226 154 3 }
+
+colonial_parent = GTH
+
+historical_idea_groups = {
+	plutocracy_ideas
+	trade_ideas
+	economic_ideas
+	defensive_ideas
+	maritime_ideas
+	administrative_ideas
+	offensive_ideas
+	quantity_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	chevauchee
+	western_longbow
+	gaelic_mercenary
+	gaelic_free_shooter
+	french_caracolle
+	irish_charge
+	anglofrench_line
+	french_dragoon
+	british_redcoat
+	british_hussar
+	british_square
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Gabrieù #0" = 50
+	"Jehan #0" = 40
+	"Jacme #0" = 40
+	"Istève #0" = 40
+	"Ludovich #0" = 35
+	"Lissandre #0" = 30
+	"Romulus #0" = 10
+
+	"Alexandrina #0" = -10
+	"Georgia #0" = -5
+
+	"Ardalió #0" = 0
+	"Atanasi #0" = 0
+	"Atila #0" = 0
+	"Audericho #0" = 0
+	"Audoacre #0" = 0
+	"Baptista #0" = 0
+	"Centolh #0" = 0
+	"Dàvi #0" = 0
+	"Diaco #0" = 0
+	"Eraric #0" = 0
+	"Evaric #0" = 0
+	"Eudald #0" = 0
+	"Filip #0" = 0
+	"Frodoí #0" = 0
+	"Froila #0" = 0
+	"Galactori #0" = 0
+	"Gonçalo #0" = 0
+	"Hieroteu #0" = 0
+	"Ignasi #0" = 0
+	"Jorge #0" = 0
+	"Juli #0" = 0
+	"Liun #0" = 0
+	"Laülf #0" = 0
+	"Leuberic #0" = 0
+	"Leidrat #0" = 0
+	"Mardari #0" = 0
+	"Mercurial #0" = 0
+	"Narseis #0" = 0
+	"Ordonno #0" = 0
+	"Oveco #0" = 0
+	"Paladinus #0" = 0
+	"Pèitre #0" = 0
+	"Pol #0" = 0
+	"Pons #0" = 0
+	"Pradas #0" = 0
+	"Ranimiro #0" = 0
+	"Remistau #0" = 0
+	"Ricard #0" = 0
+	"Riculf #0" = 0
+	"Rodericho #0" = 0
+	"Romà #0" = 0
+	"Saba #0" = 0
+	"Sans #0" = 0
+	"Savarics #0" = 0
+	"Sergi #0" = 0
+	"Sidauni #0" = 0
+	"Suer #0" = 0
+	"Suneario #0" = 0
+	"Teia #0" = 0
+	"Telo #0" = 0
+	"Tiudemir #0" = 0
+	"Tiuderic #0" = 0
+	"Turismau #0" = 0
+	"Valaric #0" = 0
+	"Victor #0" = 0
+	"Vicenç #0" = 0
+	"Vigitino #0" = 0
+	"Walia #0" = 0
+	"Wifredo #0" = 0
+}
+
+leader_names = {
+	Adapaqua Aurelius Arloy Aorlhaghas Aldebalt Anhostet
+	Barthas Besseyra Barsanghas Barascona Balaria Benezeyt Blaela Bresso Boet Brunel Brossozas
+	Chavada Cardenal "de Capduelh" "de Castellione" "de Chablo" Camion Cebial Chabrelhat Colandres Claro
+	Daude "de Dovia" Dalmas  Delostal Dolmeira Ducel
+	Escrivan Esquet Espinassa
+	"de Frassenet" Fabre Faet Ferabocha Frescho
+	Guashusa Galhart Garneyr Gibalda Granat Guandilho Guabarela Gleisola "lo Granger"
+	Jaca Joglar Jenressa Jueria
+	Latgaza Laydet Lobaressas Loleyr
+	Maigre Malara Maistrona Manen Manhagha Maurangas Manuola Molto Monneyr Moreyras
+	Niúache Novella Nadal Nassi Neiro Noel
+	Obax Orssa Oulher
+	Perpesat Paden Pealfalit Peliceyr Pelros Penonola Polnerelas Pratmayrat
+	Quatrelhouras Quitarda
+	Rasquanela "de Riquer" Redoli Renel Retalhada Rinas Rotgeirola
+	Servent "de Saurinot" Sabateir Sangnaneva Salvanhat Saurini Seghalory Selho Siuque Suor Sebnejol
+	Targanaira Talissa Teyssedre Toret Torral
+	Voltoirer "de Vachayri" Vaurlheta Valgarguas
+}
+
+ship_names = {
+	Awati Ariihiris Arikaree Amiel Astrugha
+	"Bei'i'iiniicie"
+	Calendau Ciprianet
+	Dakota
+	Exira
+	Hidatsa
+	Iowa "Ickari'"
+	"Lo Jove"
+	Kansas Kickatus Kicita
+	Losaneta Lodoycus
+	Mississippi Missouri Montana Monichaki Macunajin
+	Niobrara Natchez Nebraska Niutachi "Niinéniiniicíihéhe'" Nishnabotna Nemaha
+	Osage Omaha Ogallala
+	Ponca "Pon-Cee-Cee" Ponkawee "Pehriska-Ruhpa"
+	Sioux Sergius
+	Tonwatonga Theophilus
+	Washingusaba
+}

@@ -1,0 +1,154 @@
+# Gotunya
+
+graphical_culture = westerngfx
+
+color = { 112 165 197 }
+
+preferred_religion = gnostic
+
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	spy_ideas
+	offensive_ideas
+	trade_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	french_caracolle
+	anglofrench_line
+	french_dragoon
+	french_bluecoat
+	french_cuirassier
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Amandus #1" = 30
+	"Totila #1" = 20
+
+	"Agust #0" = 0
+	"Ainric #0" = 0
+	"Alaric #0" = 0
+	"Alexandre #0" = 0
+	"Alffonsus #0" = 0
+	"Aloito #0" = 0
+	"Amalric #0" = 0
+	"Atalaric #0" = 0
+	"Atila #0" = 0
+	"Aznar #0" = 0
+	"Baltasar #0" = 0
+	"Borel #0" = 0
+	"Boson #0" = 0
+	"Caraules #0" = 0
+	"Centolh #0" = 0
+	"Claudi #0" = 0
+	"Dàvi #0" = 0
+	"Diaco #0" = 0
+	"Dion #0" = 0
+	"Eraric #0" = 0
+	"Estilicó #0" = 0
+	"Evaric #0" = 0
+	"Flaín #0" = 0
+	"Frederi #0" = 0
+	"Froila #0" = 0
+	"Fulc #0"= 0
+	"Gauteric #0" = 0
+	"Godesteo #0" = 0
+	"Gonçalo #0" = 0
+	"Gudafres #0" = 0
+	"Guttier #0" = 0
+	"Ildebad #0" = 0
+	"Immanuèl #0" = 0
+	"Istève #0" = 0
+	"Laülf #0" = 0
+	"Leuberic #0" = 0
+	"Lozoïc #0" = 0
+	"Marc #0" = 0
+	"Matfrei #0" = 0
+	"Matias #0" = 0
+	"Miquel #0" = 0
+	"Miró #0" = 0
+	"Nicaulas #0" = 0
+	"Oveco #0" = 0
+	"Raolf #0" = 0
+	"Ricard #0" = 0
+	"Rodericho #0" = 0
+	"Teia #0" = 0
+	"Telo #0" = 0
+	"Tiuderic #0" = 0
+	"Tumas #0" = 0
+	"Ubald #0" = 0
+	"Úlfila #0" = 0
+	"Valaric #0" = 0
+	"Veremundo #0" = 0
+	"Vézian #0" = 0
+	"Vigitino #0" = 0
+	"Vitiges #0" = 0
+	"Wifredo #0" = 0
+	"Zenon #0" = 0
+}
+
+leader_names = {
+	Alavivus Alfor Armenós Aleu d'Auns d'Argentorate Arracartas
+	Berenguer Baró Bartomeu Boey Bonto Bosens "de Béfô" "de Belgardis" "de Brancèi" "de Bruomade" Blaves Baigos
+	Brulartus Baveraz
+	Cardona "de Caleua" "de Columbarius" Camlonc Camps Carbó Canyelles Costa Cirera Caranyana "de Calauna" 
+	"de Camilliaco" Castanel Caffanjehanel
+	Dardaric
+	Estrader Esquelles d'Egino
+	Fisnerola "de Firida" Frius Fortuny Feliu Feyna Font Fontanills
+	Garriga Guiscart Gorgoll "de Galdames" Gatell Grec Gual Galdimel Guartès
+	Isbert Isambart
+	Jofre
+	Lió "de Laixeu" Lero "de Laungan" "de Landsaire"
+	Muntargull "de Mettis" "de Maurobaccus" Marti Moreau Martorell Massa "de Malthibella" Massot Mégaivandes Mamuro
+	Nodiyés
+	Oms Obradors Olivera
+	Par Pascas Paguer Pariquet Plana Pajaul Plansyun
+	"de Quisirèi"
+	"de Rubjac" Ruti Raugèi RésalRoig Rofreo Rovira Roca Ramondet Riba Rabassa
+	Sweritha Serra Sala Santleyr Segarra Simeu "de Surregius" "de Scletistata" Saulnaz Suardas
+	Texidor "de Tribuni" Totosaus Torra "de Tribuni" "de Thanna" Tiudinger
+	Vallongera "de Vesulio" "de Vosegus" "de Vesontio" Vilagrassa Valls Vaguer "de Vaisulaz"
+	Yagut
+	"de Ziaberna"
+}
+
+ship_names = {
+	Alpinya Ariolica Athala Aquensis Argentoratum Arar
+	Besontio
+	Cisjurania Chrysopolis Catalaunum Casticos
+	Daubs
+	Epamanduodurum
+	Gothonia
+	Juria
+	"Ledo Salinarius" Loposagium Luxovium Lovincus
+	"Maxima Sequanorum" Magetobria
+	Nordgovia
+	"Pons Dubis" 
+	Segobudium "La Sòna" Segodunum Sundgovia
+	Transjurania
+	Vosegus
+	Wasgovia
+}
+
+army_names = {
+	"Armada de $PROVINCE$" 
+}
+
+fleet_names = {
+	"Fluta de $PROVINCE$"
+}

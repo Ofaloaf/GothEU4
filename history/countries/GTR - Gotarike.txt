@@ -1,0 +1,8 @@
+government = feudal_monarchy
+technology_group = western
+unit_type = western
+primary_culture = geatish
+religion = orthodox
+capital = 7
+
+national_focus = MIL

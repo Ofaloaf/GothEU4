@@ -1,0 +1,18 @@
+#Uppland, contains Stockholm, Uppsala & Nyköping.
+
+add_core = SWE
+add_core = GTR
+owner = GTR
+controller = GTR
+culture = swedish
+religion = orthodox
+hre = no
+base_tax = 5 
+base_production = 5
+trade_goods = grain
+base_manpower = 3
+capital = "Stockholm"
+is_city = yes
+fort_15th = yes
+
+

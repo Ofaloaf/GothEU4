@@ -1,0 +1,113 @@
+# Tarraco
+
+graphical_culture = westerngfx
+
+color = { 213  132  76 }
+
+preferred_religion = gnostic
+
+historical_idea_groups = {
+	maritime_ideas
+	trade_ideas
+	religious_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	offensive_ideas
+	spy_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	french_caracolle
+	anglofrench_line
+	french_dragoon
+	french_bluecoat
+	french_cuirassier
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Varvarinus #2" = 40
+	"Decimanus #1" = 40
+
+	"Margarida #1" = -5
+
+	"Adrià #0" = 0
+	"Antoní #0" = 0
+	"Agust #0" = 0
+	"Ascanio #0" = 0
+	"Asiático #0" = 0
+	"Aureli #0" = 0
+	"Ceioni #0" = 0
+	"Cerealis #0" = 0
+	"Cèsar #0" = 0
+	"Còmmode #0" = 0
+	"Domicià #0" = 0
+	"Ennegus #1" = 0
+	"Fructuós #0" = 0
+	"Luci #0" = 0
+	"Marc #0" = 0
+	"Marsial #0" = 0
+	"Pius #0" = 0
+	"Próspero #0" = 0
+	"Selva #0" = 0
+	"Ticiano #0" = 0
+	"Tit #0" = 0
+	"Trajà #0" = 0
+	"Tuti #0" = 0
+	"Ulpi #0" = 0
+	"Ver #0" = 0
+}
+
+leader_names = {
+	Afer "de Auso" "de Aeso" "de Adeba" "de Arragona" Aguri Attoni Albanell Agricola
+	"de Barcinona" "de Baetulo" "de Bidaro" "de Blandae" "de Bilbilis" Borras
+	Clodi "de Calagurris" "de Castalia" "de Cesarcosta" "de Celsa" "de Cinniana" Costas Comes Clasquerí Cotoner
+	Dalmaci "de Dertusa"
+	Esebiani "de Egara" Elogi Emiliani
+	Font
+	Gralla "de Gerunda"
+	"de Ilerda" "de Indibilis"
+	"de Kissa" "de Keresos"
+	"de Lassira" "de Lauro" "de Lusá" Linás Lario Lanzis
+	Mela Maxo
+	"de Narbo" "de Novas"
+	"de Oleastrum"
+	Prudenti "de Praetorio" "de Palfuriana" Poli
+	Quintiliano
+	"de Rubricato"
+	Siveri "de Sigarra" "de Sebenduno" "de Setelsis" "de Subur" "de Semproniana" "de Seterrae" Sancis "de Setabi"
+	"de Sucro" "de Segunto" "de Sebelari"
+	Tort "de Turissa" Teres
+	"de Valentia"
+}
+
+ship_names = {
+	"Ad Fines Castrum Octavianum" "Ad Novias" "Aquae Calidae" Agrippa Adeba Auci Antistiana
+	Castalia Celsa
+	Dertosa Dianum
+	Edeta Etobesa
+	Ferrarium
+	"Gallika Phlaoula"
+	Iessos Iluro Ilduro Indibilis Ilerda
+	"Jovis Mons" 
+	Lobetania
+	Martialis Màrcia
+	Oleastrum Otobesa
+	Praetorium "Portus Sucronis" Palfuriana Planesia
+	Quirinus
+	Rubricatum
+	"Stabulum Novum" Sebelaci Saetabis "Sub Saltu" Salauris Subur
+	Tarraconensis Tulcis "Tria Capita"
+	Urbiaca
+	"Victrix Togata" Valentia
+}

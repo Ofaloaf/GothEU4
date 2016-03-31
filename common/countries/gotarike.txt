@@ -1,0 +1,132 @@
+# Götarike
+# Götarige?
+
+graphical_culture = westerngfx	 
+
+color = { 8 165 82 }
+
+revolutionary_colors = { 13  8  13 } #Fictional
+
+preferred_religion = protestant
+
+historical_idea_groups = {
+	administrative_ideas
+	offensive_ideas
+	maritime_ideas
+	quality_ideas
+	innovativeness_ideas
+	defensive_ideas
+	expansion_ideas
+	trade_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	dutch_maurician
+	french_caracolle
+	swedish_gallop
+	swedish_gustavian
+	swedish_caroline
+	swedish_arme_blanche
+	prussian_uhlan
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Karl #0" = 50
+	"Johan #0" = 40
+	"Erik #0" = 40
+	"Fredrik #0" = 35
+	"Magnus #0" = 10
+
+	"Ulrika #0" = -5
+	"Hedwig #0" = -5
+
+	"Adam #0" = 0
+	"Adolf #0" = 0
+	"Alfred #0" = 0
+	"Anton #0" = 0
+	"Axel #0" = 0
+	"Bengt #0" = 0
+	"Birger #0" = 0
+	"Björn #0" = 0
+	"Corfitz #0" = 0
+	"Dagmar #0" = 0
+	"Detler #0" = 0
+	"Edvard #0" = 0
+	"Emil #0" = 0
+	"Ernst #0" = 0
+	"Filip #0" = 0
+	"Henrik #0" = 0
+	"Inge #0" = 0
+	"Jakob #0" = 0
+	"Knut #0" = 0
+	"Lars #0" = 0
+	"Lennart #0" = 0
+	"Ludvig #0" = 0
+	"Martin #0" = 0
+	"Mikael #0" = 0
+	"Nils #0" = 0
+	"Olof #0" = 0
+	"Oscar #0" = 0
+	"Rangvald #0" = 0
+	"Rettil #0" = 0
+	"Sigismund #0" = 0
+	"Simon #0" = 0
+	"Sten #0" = 0
+	"Sven #0" = 0
+	"Tomas #0" = 0
+	"Tycho #0" = 0
+	"Valdemar #0" = 0
+}
+
+leader_names = {
+	Adlersparre Åhlin Andersson Alkmaar Anckarström Alkarp Algotsson Angermannus
+	Bosson Bylow Bremer Banér Bagge Boberg Bügler Bäckelin Bärfelt Biörner Benzelius Billichius
+	Carshult Cronstedt Curtenius Cavallius
+	Dafgård
+	Eriksson Eka Ehrenstrahl Edström Emmelin "von Engeström"
+	Furbo Forshæll Fock
+	Grip Gyllenhaal Gyllenheilm Gustavsson Gyllenkrok
+	Hastfer "von Hylthéen"
+	Ihre
+	Jonsson Jägerhorn
+	Karlsson Klingspor Klingius
+	Leijonhufvud Lidman Liljencrantz Lindschöld
+	Nilsson Nericius
+	Östlind
+	Porse Petersson Peringskiöld Poppelman Prytz
+	Roos Ribbing Rehnskiöld Rudbeckius Rålamb Rodhe
+	Schenström Steenhoff Stenbock Sture Sjöberg Sessandes Svebilius Schomerus Stigzelius Steuchius
+	Tham Tornerhjelm Teet
+	Ulfsson Ungius
+	Wallenstierna "von Wallvijk" Wallenstråle
+}
+
+ship_names = {
+	Alingsås Anten Akilles Ansgar Ätran Adolphus Aspeland
+	Beowulf "Bödvar Bjarki" Borås Birka Brömsebro Bohuslän
+	Carolus
+	Draken Dáinn Dvalinn Duneyrr Durathrór Dal
+	Egenäs
+	Fagertärn Fegen Falkenburg Frida Fäktare Finnveden
+	Gothia Góinn Grafvitnir Grábakr Gullered Gustavus Gothus
+	Hornborgasjön Högvadsån Halmstad Handbörd
+	Isenhult
+	Kolmården Kalmar Körmt Kerlaugar Kalvån Kungsbacka Korp Krigare Kinda
+	Loholmen Lif Lifthrasir Lagaholm
+	Móinn Möre
+	Näck Norden Njudung
+	Oden Örmt Ófnir "Östra Frölunda"
+	Paganus
+	Rönneholm
+	Strömkarl Scania Småland Sätuna Skalunda Sváfnir Skuld Sibbarp Sevede Svarttorp
+	Tylöskog Tiveden Trollkyrka Thetis Troilus Tjust
+	Varberg Värend Vänern Vassända "Vit Riddare" Värmeln Vedbo
+	Wermelandia
+}

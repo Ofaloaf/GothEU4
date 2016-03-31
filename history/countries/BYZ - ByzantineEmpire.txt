@@ -1,0 +1,7 @@
+government = feudal_monarchy
+government_rank = 3
+primary_culture = rimlyani
+religion = orthodox
+technology_group = eastern
+capital = 151 # Constantinople
+fixed_capital = 151 # Cannot move capital away from this province & no power cost to move to it

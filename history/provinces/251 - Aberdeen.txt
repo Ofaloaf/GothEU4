@@ -1,0 +1,15 @@
+#251 - Aberdeen
+
+owner = LBA
+controller = LBA
+culture = cumbric
+religion = orthodox
+hre = no
+base_tax = 4 
+base_production = 4
+trade_goods = fish
+base_manpower = 2
+capital = "Aberdeen"
+is_city = yes
+add_core = LBA
+

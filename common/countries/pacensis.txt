@@ -1,0 +1,101 @@
+# Pacensis
+
+graphical_culture = westerngfx
+
+color = { 6 150 198 }
+
+historical_idea_groups = {
+	defensive_ideas
+	innovativeness_ideas
+	maritime_ideas
+	exploration_ideas
+	trade_ideas
+	diplomatic_ideas
+	economic_ideas
+	quality_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	chevauchee
+	western_longbow
+	gaelic_mercenary
+	gaelic_free_shooter
+	french_caracolle
+	irish_charge
+	anglofrench_line
+	french_dragoon
+	british_redcoat
+	british_hussar
+	british_square
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Duda #2" = 30
+	"Ponpilo #1" = 20
+	"Dedon #2" = 15
+	"Romaeus #1" = 10
+	"Tacite #1" = 10
+
+	"Cecilia #0" = -5
+
+	"Adamantius #1" = 0
+	"Antonius #0" = 0
+	"Artemius #0" = 0
+	"Avidio #0" = 0
+	"Bianus #1" = 0
+	"Egenio #0" = 0
+	"Exemeno #1" = 0
+	"Florenzo #0" = 0
+	"Gercorio #0" = 0
+	"Girardus #0" = 0
+	"Hila #1" = 0
+	"Iacobus #2" = 0
+	"Irmanricus #0" = 0
+	"Isidorus #0" = 0
+	"Laurus #0" = 0
+	"Lucado #0" = 0
+	"Luzo #0" = 0
+	"Mallaton #0" = 0
+	"Marchus #0" = 0
+	"Modarius #0" = 0
+	"Palmacius #0" = 0
+	"Paulo #0" = 0
+	"Reles #0" = 0
+	"Santoius #0" = 0
+	"Theoclezo #0" = 0
+	"Theodoretus #0" = 0
+	"Verissimus #0" = 0
+}
+
+leader_names = {
+	Abelliolo  "de Arandis" "de Arucci" Arrias
+	Benveniste "de Balsa" "de Baesuris"
+	Coras "de Cibilis" "de Corticata" Carvalhio Cunhio
+	"de Dipo" Dantas
+	"de Gouveia"
+	"de Illipoula"
+	Lero "de Lacerda"
+	"de Mirobriga" "de Metallum" "de Mata" "de Mello"
+	Palhio "de Patulo" "de Praesidium"
+	Quaresmus
+	"de Rubras" Rochus
+	"de Serpa"
+	"de Turobriga"
+	Valentinus
+}
+
+ship_names = {
+	"Ad Rubras"
+	Cilpes Cuneus
+	"Flumen Anas"
+	"Iulia Myrtilis"
+	Kortikata
+	Ossonoba
+	Preziosa "Pax Iulia" "Portus Hannibalis" "Patulus Portus"
+	Sacrum
+}

@@ -1,0 +1,19 @@
+#1774 - Treviso
+owner = LRM
+controller = LRM
+add_core = VEN
+add_core = LRM
+culture = lat_venetian 
+religion = orthodox 
+hre = yes
+base_tax = 7 
+base_production = 7 
+trade_goods = grain
+base_manpower = 4  
+capital = "Tarvisium" 
+is_city = yes	# Estimated 
+fort_15th = yes
+#discovered_by = western
+#discovered_by = eastern
+#discovered_by = muslim
+#discovered_by = ottoman

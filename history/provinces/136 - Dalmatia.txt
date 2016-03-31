@@ -1,0 +1,15 @@
+#136 - Dalmatia
+
+owner = ILY
+controller = ILY
+culture = dalmatian
+religion = orthodox
+capital = "Zadar"
+trade_goods = wool
+hre = no
+base_tax = 6 
+base_production = 4
+base_manpower = 3
+is_city = yes
+fort_15th = yes # Klis Fortress
+add_core = ILY

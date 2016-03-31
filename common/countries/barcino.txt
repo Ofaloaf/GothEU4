@@ -1,0 +1,201 @@
+# Barcino
+
+graphical_culture = westerngfx
+
+color = { 70 140 83 }
+
+preferred_religion = gnostic
+
+historical_idea_groups = {
+	trade_ideas
+	maritime_ideas
+	defensive_ideas
+	offensive_ideas
+	economic_ideas
+	religious_ideas
+	spy_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	french_caracolle
+	anglofrench_line
+	french_dragoon
+	prussian_frederickian
+	prussian_uhlan
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Osevio #1" = 20
+	"Marecco #1" = 15
+	"Teorenius #1" = 15
+	"Malasco #1" = 10
+	"Reles #1" = 10
+	"Bianus #0" = 10
+
+	"Abdias #0" = 0
+	"Adiuvando #0" = 0
+	"Amorolino #0" = 0
+	"Anderias #0" = 0
+	"Anfelagio #0" = 0
+	"Antenato #0" = 0
+	"Auriolus #0" = 0
+	"Avolos #0" = 0
+	"Barva #0" = 0
+	"Bitaco #0" = 0
+	"Bonimenzo #0" = 0
+	"Cadenio #0" = 0
+	"Cardello #0" = 0
+	"Cesarius #0" = 0
+	"Conparato #0" = 0
+	"Constanzo #0" = 0
+	"Dadeo #0" = 0
+	"Dalmazius #0" = 0
+	"Daniel #0" = 0
+	"Davi #0" = 0
+	"Didago #0" = 0
+	"Donatu #0" = 0
+	"Domno #0" = 0
+	"Donnadeo #0" = 0
+	"Donumdei #0" = 0
+	"Eolalio #0" = 0
+	"Eleiro #0" = 0
+	"Eleras #0" = 0
+	"Elyas #0" = 0
+	"Egenio #0" = 0
+	"Effronio #0" = 0
+	"Fidelis #0" = 0
+	"Fenesteiro #0" = 0
+	"Ferrario #0" = 0
+	"Ferrocinto #0" = 0
+	"Flaino #0" = 0
+	"Florenzo #0" = 0
+	"Fortis #0" = 0
+	"Fulvidio #0" = 0
+	"Fructux #0" = 0
+	"Frunimio #0" = 0
+	"Galiano #0" = 0
+	"Gaudenzo #0" = 0
+	"Gercorio #0" = 0
+	"Giorcio #0" = 0
+	"Iacob #0" = 0
+	"Iaquinti #0" = 0
+	"Iamnado #0" = 0
+	"Ioacino #0" = 0
+	"Iohannis #0" = 0
+	"Iunas #0" = 0
+	"Ioab #0" = 0
+	"Iosidio #0" = 0
+	"Iose #0" = 0
+	"Lalan #0" = 0
+	"Leo #0" = 0
+	"Ligo #0" = 0
+	"Lillo #0" = 0
+	"Liverto #0" = 0
+	"Lopon #0" = 0
+	"Lucado #0" = 0
+	"Lucus #0" = 0
+	"Lutido #0" = 0
+	"Mallaton #0" = 0
+	"Marchus #0" = 0
+	"Micael #0" = 0
+	"Montano #0" = 0
+	"Marius #0" = 0
+	"Marecco #0" = 0
+	"Moino #0" = 0
+	"Marcello #0" = 0
+	"Mertinus #0" = 0
+	"Magnus #0" = 0
+	"Nebucano #0" = 0
+	"Nigolago #0" = 0
+	"Numantius #0" = 0
+	"Octavio #0" = 0
+	"Orbanus #0" = 0
+	"Osormeo #0" = 0
+	"Patrino #0" = 0
+	"Pascual #0" = 0
+	"Pantaleon #0" = 0
+	"Paulo #0" = 0
+	"Pelaius #0" = 0
+	"Penti #0" = 0
+	"Perello #0" = 0
+	"Piliolus #0" = 0
+	"Pinniolo #0" = 0
+	"Ponpilo #0" = 0
+	"Postonio #0" = 0
+	"Principio #0" = 0
+	"Puricello #0" = 0
+	"Pero #0" = 0
+	"Quinto #0" = 0
+	"Quinzano #0" = 0
+	"Renovado #0" = 0
+	"Ramulus #0" = 0
+	"Salomon #0" = 0
+	"Salvator #0" = 0
+	"Santon #0" = 0
+	"Sexto #0" = 0
+	"Severo #0" = 0
+	"Samuhel #0" = 0
+	"Scemoso #0" = 0
+	"Semeson #0" = 0
+	"Stevanus 30" = 0
+	"Symphonio #0" = 0
+	"Simeon #0" = 0
+	"Silus #0" = 0
+	"Tardenatus #0" = 0
+	"Timotheus #0" = 0
+	"Tiyon #0" = 0
+	"Todosio #0" = 0
+	"Theodoro #0" = 0
+	"Theoclezo #0" = 0
+	"Theofilo #0" = 0
+	"Valentinus #0" = 0
+	"Venatori #0" = 0
+	"Verissimus #0" = 0
+	"Viator #0" = 0
+	"Vincemalus #0" = 0
+	"Vitus #0" = 0
+	"Vivenzu #0" = 0
+	"Yspanni #0" = 0
+	"Zacarias #0" = 0
+	"Zarraquina #0" = 0
+	"Zarraco #0" = 0
+}
+
+leader_names = {
+	"de Auso" "de Arragona" "de Antistiana" Aulovictor
+	"de Betulo" "de Barcino" Barca "de Blandae"
+	"de Cinniana" "de Caucholiberi" "de Eombusta"
+	"de Deciana"
+	Egarensis
+	"de Gerunda"
+	"de Ilduro" "de Iluro" Idalaci
+	"de Juncaria"
+	Lampio "de Lauro"
+	Nundinari Nebridi
+	Peneguardo "de Praetorium" Pretextato
+	Quirze
+	"de Ruscino" Rubricatensis "de Rhoda"
+	"de Sebendunum" "de Seterrae" "de Semproniana" "de Subur" "de Setelsis"
+	Teolicus "de Turissa" Totxa
+}
+
+ship_names = {
+	"Aquae Voconiae" "Ad Fines" "Aquae Calidae" "Ad Pyrenaeum" "Ad Septimum Decimum" "Aulus Victor" Alexander
+	Barcinensis
+	Cervaria "Castrum Octavianum"
+	"Hannibal Barca"
+	Illiberris Iessos
+	"Jovis Mons"
+	"Lounarion Akron" Lampius
+	Pyrenai "Portus Veneris" "Pompei Tropaea" Praetextatus
+	Sigarra "Stabulum Novum" "Sanctus Pacianus" "Sanctus Theodosius" "Sanctus Eterius"
+}

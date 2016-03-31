@@ -1,0 +1,155 @@
+# Suessionia
+
+graphical_culture = westerngfx
+
+color = { 251 223 111 }
+
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	offensive_ideas
+	spy_ideas
+	religious_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	french_bluecoat
+	french_dragoon
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Guidéric #0" = 40
+	"Frederi #0" = 30
+	"Siagri #0" = 30
+	"Egidi #0" = 20
+
+	"Alaïs #0" = -1
+	"Monnia #0" = -1
+	"Urraca #0" = -1
+
+	"Amadaius #0" = 0
+	"Apolloni #0" = 0
+	"Ardalió #0" = 0
+	"Atanasi #0" = 0
+	"Atila #0" = 0
+	"Audericho #0" = 0
+	"Audoacre #0" = 0
+	"Baptista #0" = 0
+	"Calixt #0" = 0
+	"Capitó #0" = 0
+	"Centolh #0" = 0
+	"Dàvi #0" = 0
+	"Diaco #0" = 0
+	"Dodon #0" = 0
+	"Eraric #0" = 0
+	"Evaric #0" = 0
+	"Eudald #0" = 0
+	"Filip #0" = 0
+	"Frodoí #0" = 0
+	"Froila #0" = 0
+	"Galactori #0" = 0
+	"Gonçalo #0" = 0
+	"Hieroteu #0" = 0
+	"Ignasi #0" = 0
+	"Ildebad #0" = 0
+	"Istève #0" = 0
+	"Jacme #0" = 0
+	"Joan #0" = 0
+	"Jorge #0" = 0
+	"Juli #0" = 0
+	"Liun #0" = 0
+	"Laülf #0" = 0
+	"Leuberic #0" = 0
+	"Leidrat #0" = 0
+	"Mardari #0" = 0
+	"Mercurial #0" = 0
+	"Narseis #0" = 0
+	"Ordonno #0" = 0
+	"Oveco #0" = 0
+	"Pèitre #0" = 0
+	"Pol #0" = 0
+	"Pons #0" = 0
+	"Pradas #0" = 0
+	"Ranimiro #0" = 0
+	"Remistau #0" = 0
+	"Ricard #0" = 0
+	"Riculf #0" = 0
+	"Rodericho #0" = 0
+	"Romà #0" = 0
+	"Saba #0" = 0
+	"Sans #0" = 0
+	"Savarics #0" = 0
+	"Sergi #0" = 0
+	"Sidauni #0" = 0
+	"Suer #0" = 0
+	"Suneario #0" = 0
+	"Teia #0" = 0
+	"Telo #0" = 0
+	"Tiudemir #0" = 0
+	"Tiuderic #0" = 0
+	"Turismau #0" = 0
+	"Valaric #0" = 0
+	"Victor #0" = 0
+	"Vicenç #0" = 0
+	"Vigitino #0" = 0
+	"Walia #0" = 0
+	"Wifredo #0" = 0
+}
+
+leader_names = {
+	"d'Athrebate"
+	"de Betuna" "de Bovinas" "de Bapalma" "de Bolonia" "de Brocosburga" Barbal
+	"de Coucia" "de Corbegia"
+	Deguavrin "de Dunquerca"
+	"de Falconia"
+	"de Gusia" "de Ghisnae" "de Graveninga"
+	Henin Hirtius
+	"d'Insulano"
+	"de Kales"
+	"de Lauon" "de Lennacas"
+	"de Mondisderium" "de Morinon" "de Merki"
+	Novon
+	"de Perunna"
+	Ravissa "de Reistete"
+	Salembi "de Samarobriu" "de Sithiu"
+	"de Teruane" "de Terna"
+	Vincenti "de Veromandis"
+	"de Ypra"
+}
+
+ship_names = {
+	Aegidius Ambiorix Axona
+	Bellovacum
+	Correus Cernunnos
+	Diviacus
+	Galba
+	Himcar
+	Maiorianus
+	Noviomagus Noviodunum
+	Priscus
+	Signum Syagrius Suessionum "Sant Remigi" Samarobriva
+	Trebonius
+	Viromandensis
+}
+
+army_names = {
+	"Armada de $PROVINCE$" 
+}
+
+fleet_names = {
+	"Fluta de $PROVINCE$"
+}

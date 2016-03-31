@@ -1,0 +1,19 @@
+# 188 Metz - Principal cities: Metz, Thionville
+
+owner = GTY
+controller = GTY
+capital = "Mettis"
+is_city = yes
+culture = gautonian
+religion = orthodox
+hre = yes
+base_tax = 6 
+base_production = 6
+trade_goods = iron
+base_manpower = 5
+add_core = GTY
+#discovered_by = eastern
+#discovered_by = western
+#discovered_by = muslim
+#discovered_by = ottoman
+

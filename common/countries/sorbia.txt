@@ -1,0 +1,100 @@
+# Sorbia
+
+graphical_culture = easterngfx
+
+color = { 198 188 114 }
+
+historical_idea_groups = {
+	administrative_ideas
+	trade_ideas
+	defensive_ideas
+	innovativeness_ideas
+	diplomatic_ideas
+	offensive_ideas
+	economic_ideas
+	quality_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+monarch_names = {
+	"Przybyslaw #1" = 30
+	"Czimislav #0" = 30
+	"Czestibor #0" = 20
+	"Bartosz #1" = 20
+	"Jindrich #1" = 20
+	"Dervan #0" = 10
+
+	"Albinus #0" = 0
+	"Augustin #0" = 0
+	"Bedrijch #0" = 0
+	"Bogumil #0" = 0
+	"Gero #0" = 0
+	"Handrij #0" = 0
+	"Jakob #0" = 0
+	"Jan #0" = 0
+	"Jurij #0" = 0
+	"Karol #0" = 0
+	"Mato #0" = 0
+	"Merczin #0" = 0
+	"Michal #0" = 0
+	"Mikolaj #0" = 0
+	"Mikulasz #0" = 0
+	"Miliduch #0" = 0
+	"Nussito #0" = 0
+	"Pawol #0" = 0
+	"Stanislav #0" = 0
+	"Teodoryk #0" = 0
+	"Tunglo #0" = 0
+	"Vratislaw #0" = 0
+	"Wojciech #0" = 0
+}
+
+leader_names = {
+	Besunzané Buk Brezan Boguslawski
+	Ciszinski Cyzh Colodicus
+	Diduné Dolomice
+	Fryco Frencel Fabricius
+	Glomacze
+	Hornik
+	Jakubica Juriszic
+	Kosyk Kocor Koczka
+	Lugiow 
+	Milczané Muka Matyniak
+	Omané
+	Sitice Skala Szwjela Smoler Seik Satow Slonski
+	Voseczek
+	Witkojc Wuszcanski Wielezynsji
+}
+
+ship_names = {
+	Arokona
+	Budziszyn
+	Cimusclus
+	Dervanus
+	Janszojcach
+	Karentia
+	Lusatia
+	Milsko Miliduoch Maik Misnia
+	"Prisibislavus Dux" Polabia Porevit Porenut
+	Rugievit Rethra
+	"Sankt Barralus" "Sankt Gausbertus" Svantevit
+	Tjarnaglofi
+}

@@ -1,0 +1,116 @@
+# Welsh Ireland, aka Iwerddon
+
+graphical_culture = westerngfx
+
+color = { 112  150  105 }
+
+revolutionary_colors = { 10  0  6 }
+
+historical_idea_groups = {
+	maritime_ideas
+	aristocracy_ideas
+	exploration_ideas
+	trade_ideas
+	economic_ideas
+	innovativeness_ideas
+	spy_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	gaelic_galloglaigh
+	gaelic_mercenary
+	gaelic_free_shooter
+	irish_charge
+	anglofrench_line
+	british_redcoat
+	british_hussar
+	british_square
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Dyfnwal #2" = 40
+	"Mawgan #2" = 25
+	"Anarawd #1" = 20
+	"Ceneu #1" = 15
+	"Fychan #1" = 15
+	"Huw #1" = 15
+	"Asaph #1" = 10
+	"Math #1" = 10
+	"Cai #1" = 10
+	"Caradog #1" = 10
+	"Ceredig #1" = 10
+	"Elud #1" = 10
+	"Llywelyn #1" = 10
+	"Iestyn #1" = 10
+	"Algwyn #1" = 5
+	"Mael #1" = 5
+	"Morfach #1" = 5
+	"Cynwyd #1" = 5
+	"Uthyr #1" = 5
+
+	"Catrin #0" = -5
+
+	"Arod #0" = 0
+	"Arthen #0" = 0
+	"Cacht #1" = 0
+	"Cain #0" = 0
+	"Custennin #0" = 0
+	"Cydifor #0" = 0
+	"Cynwared #1" = 0
+	"Einion #0" = 0
+	"Fragan #0" = 0
+	"Garmon #0" = 0
+	"Gwriad #0" = 0
+	"Ithel #0" = 0
+	"March #0" = 0
+	"Matuid #0" = 0
+	"Morien #0" = 0
+	"Padern #0" = 0
+	"Rhirid #0" = 0
+	"Riol #0" = 0
+	"Sior #0" = 0
+	"Ungust #0" = 0
+}
+
+leader_names = {
+	"de Athlone"
+	Bangor Batto Bobyth
+	Cynfyn Caenogion Coch Chwith
+	Dyfed
+	Efionydd Elys "ap Eignon"
+	"de Finglas"
+	Gethyn Gwyn Guentanet Guinbiu
+	Halbiu Hincomhal
+	Iserninus Iarnuuallon Ilcarthon Iudhent
+	Kynlleth
+	Llandaff Llwyd Louhelic
+	Mostyn Maelienydd MaelPatraic Maeloc Morhaetho
+	Ordguydel Ossine Ourdilic
+	Perem Prosgwdel
+	Rannoeu "de Ruyabon" Resmen Rinduran
+	Sulcen Sulleisoc Sulmed
+	Tege Talybont Talan "ap Tethion" Terithien
+	Voyll Vermeredethe
+}
+
+ship_names = {
+	Agricola Adamnán Aglaia
+	Brîd
+	"Cennétig Iserninus" Corc "Colomen yr Eglwys"
+	Dulyn Daire "Dyfnwal Uib"
+	"Elud Dyfed"
+	"Ffinan Wynin" Ffraid Faughart Fravittas
+	Hibernia
+	Palladius
+	Rhuddlad
+	Sligeach "Sant Gall" "Sant Padrig"
+	Wlaidd
+	Ysbail
+}

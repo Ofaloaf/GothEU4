@@ -1,0 +1,15 @@
+#152 - Belovár
+
+owner = RNT
+controller = RNT
+culture = carantanian
+religion = orthodox
+capital = "Varazdin"
+trade_goods = cloth
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 1
+is_city = yes
+add_core = RNT
+add_core = ILY

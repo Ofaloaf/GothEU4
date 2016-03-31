@@ -1,0 +1,19 @@
+#262 - Sadecki
+
+owner = ALN
+controller = ALN
+culture = alan
+religion = orthodox
+capital = "Nowy Sacz"
+hre = no
+base_tax = 6
+base_production = 6
+trade_goods = iron
+base_manpower = 2
+is_city = yes
+add_core = ALN
+#discovered_by = eastern
+#discovered_by = western
+#discovered_by = muslim
+#discovered_by = ottoman
+extra_cost = 10

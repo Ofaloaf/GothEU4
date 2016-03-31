@@ -1,0 +1,17 @@
+# 1742 Limburg
+
+owner = TOX
+controller = TOX
+add_core = TOX
+is_city = yes
+capital = "Triecto"
+culture = rhenish
+religion = orthodox
+hre = yes
+base_tax = 6 
+base_production = 6
+trade_goods = iron
+base_manpower = 4
+fort_15th = yes
+
+

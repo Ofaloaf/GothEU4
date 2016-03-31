@@ -1,0 +1,5 @@
+government = feudal_monarchy
+primary_culture = cartagginu
+religion = orthodox
+technology_group = muslim
+capital = 341

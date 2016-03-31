@@ -1,0 +1,60 @@
+british = {
+	anglo_saxon = {
+		primary = ENG
+		male_names = {
+			Æthelbald Æthelberht Ælle Ælfwald Ælfweard Æthelric Æthelræd Æthelsige Æthelstan Æthelmær
+			Arncytel Augustinus Aldhelm Alaricus Anastasius Anacletus
+			Beda Balthere Beorhtfrith Beorhthelm Beorhtmær Beorhtnoth Beorhtric Beorhtsige Beorhtwine Burgheard
+			Byrhtnoth Beorn Beornræd Beornwulf Bucca
+			Cenræd Cearl Cædmon Cenfus Cenwulf Ceolwulf Cerdic
+			Eadræd Eadsige Eadulf Eormenred Eorcenberht Eormenric Eadbald Eadgar
+			Georgius Gregorius
+			Hacon Harold Heahberht Hereberht Hereweald Hereweard Hlothere Heanrig
+			Inwær Ignatius Iacobus
+			Leofric Leofweald Leofwine Leofheah Leofhelm
+			Maccus Morcar Mærleswegn
+			Osric Osulf Osweald Oswine Oswulf Osræd Osmund Onlaf Ordgar Offa Oscytel Oshere
+			Pæga Petre Paulus
+			Rædwald Rædwulf Rumwold
+			Sigeberht Sigehelm Sigeric Sigeræd Sighere Siweard Stigand Swegn Swithelm Swithræd Swæfræd Sæbert 
+			Sælræd Sæweald Scule
+			Tostig Thoræd Thurcytel Thurfrith Tostig Theoderig Theophilus Theodorus Thaddeus
+			Uhtræd
+			Wulf Wulfgar Wulfgeat Wulfhelm Wulfhere Wulfmær Wulfnoth Wulfstan Willelm
+		}
+		female_names = {
+			Æbba Ælfflæd Ælfswith Ælfthryth Ælfwynn Æthelburg Æthelflæd Æthelgifu Æthelhild Æthelswith
+			Agatha Anastasia Anna
+			Balthild Beorhtflæd Beorhtgifu Beorhtgyth Beorhtwaru Beorhtwynn Beornflæd Beorngyth Blæja Burgflæd
+			Ceolflæd Cristina Cuthburg Cwenburg Cyneburg Cynegyth Cynehild Cyneswith Cynethryth
+			Eadburg Eadflæd Eadgifu Eadgyth Eadhburh Eadhild Ealdgyth Ealhflæd Ealhswith Eanswith Ecgfrida 
+			Ecgwyn
+			Gunhilda Godiva Gytha Georgia
+			Helga Heregyth Hereswith Hextilda Hungifu
+			Judith Julia
+			Leofflæd Leofgifu Leofrun Leofwaru Leofwynn
+			Margaret Maud Mildrith Maria
+			Octreda
+			Sifflæd Sigrid Sæthryth Seaxburh
+			Wulfflæd Wulfgifu Wulfgyth Wulfhild Wulfrun Wulfthryth Wulfwaru Wulfwynn Wynnflæd Wærburg Wihtburh
+		}
+		dynasty_names = {
+			Ælfwig
+			Cild 
+			Earninga
+			Godwinson Gyrwas
+			Hengistson Horsason Herefinna Hendrica
+			Ohtgaga
+			Pencersaete Petringa
+			Snottinga Sweodora Suthamhymbre
+			Tomsæte
+			Wreocenset
+		}
+	}
+}
+
+celtic = {
+	pictish = {
+		dynasty_names = { "Uib" }
+	}
+}

@@ -1,0 +1,20 @@
+#104 - Milano
+
+owner = LRM
+controller = LRM
+culture = taurinjeis
+religion = orthodox
+hre = yes
+base_tax = 11 
+base_production = 11 
+trade_goods = cloth
+base_manpower = 8
+fort_15th = yes 
+capital = "Milan"
+is_city = yes	# Estimated
+add_core = LGI
+add_core = LRM
+#discovered_by = western
+#discovered_by = eastern
+#discovered_by = muslim
+#discovered_by = ottoman

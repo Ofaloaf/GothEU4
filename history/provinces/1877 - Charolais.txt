@@ -1,0 +1,16 @@
+owner = LIU
+controller = LIU
+capital = "Quadrigellae"
+is_city = yes
+culture = gautonian
+religion = orthodox
+hre = yes
+base_tax = 3 
+base_production = 3
+trade_goods = salt
+base_manpower = 2
+add_core = LIU
+#discovered_by = eastern
+#discovered_by = western
+#discovered_by = muslim
+#discovered_by = ottoman

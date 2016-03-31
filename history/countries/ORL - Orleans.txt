@@ -1,0 +1,7 @@
+government = feudal_monarchy
+government_rank = 1
+primary_culture = armorican
+religion = orthodox
+technology_group = western
+capital = 184	# Orléans
+fixed_capital = 184 # Cannot move capital away from this province & no power cost to move to it

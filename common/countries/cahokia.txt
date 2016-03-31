@@ -1,0 +1,80 @@
+# Cahokia
+
+graphical_culture = northamericagfx
+
+color = { 153 83 107 }
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	plutocracy_ideas
+	spy_ideas
+	economic_ideas
+}
+
+historical_units = {
+	native_indian_archer
+	native_indian_tribal_warfare
+	native_indian_horsemen
+	native_indian_mountain_warfare
+	iroquois_rifle_scout
+	sioux_dragoon
+	american_western_franchise_warfare
+}
+
+monarch_names = {
+	"Obalalkabiche #0" = 40
+	"Hashequarhiqua #0" = 30
+	"Pyesa #0" = 30
+	"Attacullaculla #0" = 25
+	"Waukon #0" = 20
+
+	"Haboguwiga #0" = -5
+	"Ashewequa #0" = -5
+
+	"Cap'osgaga #0" = 0
+	"Cugiga #0" = 0
+	"Gamesett #0" = 0
+	"Keesheswa #0" = 0
+	"Keokuk #0" = 0
+	"Nashashuk #0" = 0
+	"Nasomsee #0" = 0
+	"Ouchequaka #0" = 0
+	"Pashepaho #0" = 0
+	"Quashquame #0" = 0
+	"Taimah #0" = 0
+	"Wapello #0" = 0
+	"Yatika #0" = 0
+}
+
+leader_names = {
+	Anlico Aquijo Anoixi
+	Chaouacha Coligua Calpista Chaguate Casqui Chicaza
+	Decorah
+	Grigra
+	Hotanke Hasinai
+	Jenzenak
+	Naguatex Nishone Newkumet
+	Ochungaraw
+	Pacaha Pato
+	Quizquiz Quipana
+	Sabe
+	Tioux Tutilpinco Tanico Tutilcoya
+	Utiangue
+}
+
+ship_names = {
+	Ahahe Allamakee
+	Chert Chunkey
+	Heshucka "Herok'a" Hejakiga Hinukshi "He-pujogera"
+	Kecagega Kisik Kunu
+	"Ma'una" "Ma'e-maniga"
+	Niukonsa Namequa
+	Ogee
+	Saukenuk
+	Wakshucka Wakdjakaga Wadexuga Wakceki "Wiragoshge Xetera"
+	"Zuniya-ake"
+}

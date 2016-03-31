@@ -1,0 +1,5 @@
+government = feudal_monarchy
+primary_culture = dalmatian
+religion = orthodox
+technology_group = eastern
+capital = 131	# Zagreb

@@ -1,0 +1,18 @@
+#Westphalia
+
+owner = FRK
+controller = FRK
+culture = oostfranken
+religion = orthodox
+trade_goods = wool
+capital = "Arnsberg"
+base_tax = 3 
+base_production = 3
+base_manpower = 1
+hre = no
+is_city = yes
+add_core = FRK
+#discovered_by = eastern
+#discovered_by = western
+#discovered_by = muslim
+#discovered_by = ottoman

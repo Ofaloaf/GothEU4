@@ -1,0 +1,14 @@
+#329 - Sivas
+
+owner = MTU
+controller = MTU
+culture = turkish
+religion = manichee
+capital = "Sivas"
+trade_goods = wool
+hre = no
+base_tax = 4 
+base_production = 4
+base_manpower = 4
+is_city = yes
+add_core = MTU

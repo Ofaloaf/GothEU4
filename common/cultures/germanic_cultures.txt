@@ -1,0 +1,60 @@
+germanic = {
+	oostfranken = {
+		male_names = {
+			Arnulf Alewinus Agberto Adulfo Albertus Arnekin Alard Assceric Ancelin Arnst Andries Adriaan
+			Berengarius Bauto Batten Bodekine Barwold Brandekijn Blomart Boio Bavo
+			Clodovech Chlotarius Chlodomer Childebert Childerik Chilperik Charietto Cajus Cornelis Constantijn
+			Dagobert Daniël David
+			Eltato Eingelberto Eylwardo Evergero Eremboldus Erwin
+			Fredegar Folcard Folpert
+			Guntram Geykonis Gheram Gerlacus Ghisebrecht Ghiselijn Godefridus
+			Hitto Hesso Hugobert Haghen Hylonus Herlewin Hubrecht
+			Isaac
+			Johannes
+			Karel Karloman
+			Lodewijk Lotharius Lotijn Lammekin Lubbiko Leo
+			Merovech Marcoman Mummolus Meynolphus Maurits
+			Pepijn Poppo
+			Ragnachar Ricchar Rignomer Richnomer Riquardus Roeland
+			Syagrius Sigebert Sunno Samo Silvanus Sylawert Sicco Simon
+			Theuderik Theudebert Theudowald Theudoald Thiadbold Thomas
+			Valken Victor Valentijn
+			Willem
+			Zacharias
+		}
+		female_names = {
+			Anna Alpaida Aleydis Amalburga Alene Atghardis Aghete Agnes
+			Basina Brunhilde Betrada Breghlent Brundonis Baua Beatrix Barbara
+			Clothilde Cecilie Clara Clementia
+			Ermegardis Euffemia
+			Flore
+			Gloria Godeweris Gisele Geile Gerburgis Gertrudis Gheesen
+			Hadewigis Hodine Heile Heilsota Heylewigis Hilduardis Helyana
+			Imma
+			Jute
+			Kerstine Katerina
+			Lenildis Liudburgis Lutghardis Lisebette
+			Mabelia Meynseth Mette Machtilden Marcibilia Margareta Maria
+			Natalien Nimme
+			Oda Oderada
+			Pernele
+			Romana Rabburgis Remsindis
+			Saxiardis Suaneka Sophia Sara Salome Sybillia Schilla
+			Tetta
+			Verghina Vivien
+			Walburgis
+			Yda Yaen
+			Zuanelt Zoete
+		}
+		dynasty_names = {
+			Ampsivaring Aper 
+			Bructering 
+			Cherusking Chatting Chamaving Chattuar 
+			Ellic Egghebrecht 
+			Inghel
+			Sugambriër
+			Tencter
+			Ubiër Usipet
+		}
+	}
+}

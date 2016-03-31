@@ -1,0 +1,14 @@
+#2299 - Bolu
+
+owner = MTU
+controller = MTU
+culture = turkish
+religion = manichee
+capital = "Bolu"
+trade_goods = fish
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 2
+is_city = yes
+add_core = MTU

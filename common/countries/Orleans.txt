@@ -1,0 +1,88 @@
+# actually Aurliansa
+
+graphical_culture = westerngfx
+
+color = { 155 0 25 }
+
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	religious_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	offensive_ideas
+	spy_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	french_caracolle
+	anglofrench_line
+	french_dragoon
+	french_bluecoat
+	french_carabinier
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Vicenç #1" = 30
+	"Alias #2" = 30
+	"Pol #1" = 20
+	"Justí #2" = 20
+
+	"Agusta #1" = -5
+	"Todora #0" = -5
+
+	"Acfred #0" = 0
+	"Arias #0" = 0
+	"Barral #0" = 0
+	"Flaurènç #0" = 0
+	"Froila #0" = 0
+	"Gilbèrt #0" = 0
+	"Jordan #0" = 0
+	"Leidrat #0" = 0
+	"Lodoycus #0" = 0
+	"Narseis #0" = 0
+	"Rodericho #0" = 0
+	"Sidauni #0" = 0
+	"Tiuderic #0" = 0
+}
+
+leader_names = {
+	"de Belca"
+	"de Casteldun" "de Colomna" "de Carnutis"
+	"de Drocas"
+	"d'Esparnona"
+	Milith "de Miciaco"
+	Rava
+	Sergerics "de Setelsona"
+	Triarius
+	Unilasuna
+	"de Vigo"
+}
+
+ship_names = {
+	"Alico Gastigodis" "Ad Fines" Autricum Aurelius
+	Blesum Brunissenda
+	Castrodunum Carnutum Cenabum
+	"Dunensa Castrum"
+	Hildigunthi
+	Marquisa
+	Noviogentum Noviodunum
+	Petronilha
+	Sparniacum Salioclita Segimovicus
+	Triguila
+}
+
+army_names = { 
+	 "Armada de $PROVINCE$" 
+}

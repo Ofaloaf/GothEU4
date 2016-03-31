@@ -1,0 +1,14 @@
+#1846 - Amasya
+
+owner = MTU
+controller = MTU
+culture = turkish
+religion = manichee
+capital = "Amasya"
+trade_goods = iron
+hre = no
+base_tax = 4 
+base_production = 4
+base_manpower = 3
+is_city = yes
+add_core = MTU

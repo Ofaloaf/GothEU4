@@ -1,0 +1,97 @@
+# Hohokam realm
+# "Sobaipuri"
+# Tohono O'odha+Pima+Yacqui
+
+graphical_culture = northamericagfx
+
+color = { 255 247 38 }
+
+historical_idea_groups = {
+	innovativeness_ideas
+	offensive_ideas
+	diplomatic_ideas
+	quality_ideas
+	economic_ideas
+	trade_ideas
+	defensive_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	native_indian_archer
+	native_indian_tribal_warfare
+	algonkin_tomahawk_charge
+	commanche_swarm
+	native_indian_mountain_warfare
+	sioux_dragoon
+	american_western_franchise_warfare
+}
+
+monarch_names = {
+	"Coro #0" = 20
+	"Pisin #0" = 20		# buffalo
+	"Tottai #0" = 20	# roadrunner (meep meep)
+	"Nahvahchoo #0" = 15
+	"Pahtahnkum #0" = 15
+	"Cheofhahvo #0" = 15	# long dipper
+	"Tcheutchickadahtai #0" = 15
+	"Ahahn'he'eat'toepahk #0" = 10
+	"Kaviu #0" = 10
+	"Ba'ag #0" = 10		# eagle
+	"Geeaduk #0" = 10
+	"Stcheuadack #0" = 10
+	"Tcheunasset #0" = 10
+	"Seeollstchewadack #0" = 5	# "Morning Green"???
+	"Ee-ee-toy #0" = 5
+	"Dthas #0" = 5	# Sun
+
+	"Hawawk #0" = -5
+	"Ponka-We #0" = -5
+	"Nawitch #0" = -5
+
+	"Babath #0" = 0		# Frog
+	"Hikovik #0" = 0	# Woodpecker
+	"Kumiwahk #0" = 0	# fog
+	"Quotaveech #0" = 0	# the "other" bird
+	"Vandaih #0" = 0
+	"Veepismahl #0" = 0	# Hummingbird
+	"Wamad #0" = 0		# snek
+	"Wawuk #0" = 0		# Raccoon
+	"Wayhohm #0" = 0	# Lightning
+}
+
+leader_names = {
+	Akimel Ak-Chin Anegam
+	Benem Bacum Bac
+	Chiago Chana Cukdo'ag Cocorit
+	Hiatadkumdam Hiaki Hu'upa
+	Imkah
+	Kuitatk
+	O'nk
+	Piipah Potam
+	Quipuri
+	Rsarsavina Rahum
+	Sehe Sikorhimat
+	Tohono Tekolodi Torim
+	Vicam Vahahkkee
+	Wawkihk Wepeghim
+	Yoeme
+}
+
+ship_names = {
+	Awawtam
+	Babawikoa
+	"Comalk Hawk-Kih"
+	Himdag Hiakim
+	"I'Itoi"
+	Juhwertamahkai
+	Keli "Koawtkee Oiyeeduk"
+	Luzi
+	Mossay
+	Nooee
+	Ob
+	Seeurhuh "Seevika Wayhohm"
+	Toehahvs "Tonedum Bahahk" Tahtkum
+	"Vahk-lohv Mahkai" Vahfkeewohltkih
+	"Waw Kiwulik" Wayhohmagaht
+}

@@ -1,0 +1,16 @@
+#326 - Ankara
+
+owner = MTU
+controller = MTU
+culture = turkish
+religion = manichee
+capital = "Ankara"
+trade_goods = copper
+hre = no
+base_tax = 4 
+base_production = 4
+base_manpower = 3
+is_city = yes
+fort_15th = yes
+estate = estate_nobles
+add_core = MTU

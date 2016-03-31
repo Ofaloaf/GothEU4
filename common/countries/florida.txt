@@ -1,0 +1,123 @@
+# Florida
+
+graphical_culture = westerngfx
+
+colonial_parent = AQI
+
+color = { 183 55 122 }
+
+historical_idea_groups = {
+	maritime_ideas
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	spy_ideas
+	economic_ideas
+	quantity_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	spanish_tercio
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Gilen #0" = 50
+	"Didacos #0" = 40
+	"Domigu #0" = 30
+	"Lope #0" = 10
+
+	"Maiora #0" = -5
+	"Maria #0" = -5
+	"Elisabet #0" = -5
+
+	"Adam #0" = 0
+	"Achilles #0" = 0
+	"Amordeus #0" = 0
+	"Apraze #0" = 0
+	"Augere #0" = 0
+	"Boecis #0" = 0
+	"Bon #0" = 0
+	"Bonetus #0" = 0
+	"Cison #0" = 0
+	"Cardiel #0" = 0 
+	"Charan #0" = 0
+	"Deusdedit #0" = 0
+	"Eblo #0" = 0
+	"Felix #0" = 0
+	"Gogorio #0" = 0
+	"Guarcia #0" = 0
+	"Haitz #0" = 0
+	"Herramel #0" = 0
+	"Isaias #0" = 0
+	"Julio #0" = 0
+	"Lucïen #0" = 0
+	"Manntio #0" = 0
+	"Marco #0" = 0
+	"Martin #0" = 0
+	"Niquolas #0" = 0
+	"Onesius #0" = 0
+	"Paulo #0" = 0
+	"Poncis #0" = 0
+	"Quodvultdeus #0" = 0
+	"Receptos #0" = 0
+	"Relictus #0" = 0
+	"Sembetten #0" = 0
+	"Sexto #0" = 0
+	"Teyllo #0" = 0
+	"Tomas #0" = 0
+	"Vicenti #0" = 0
+	"Zarraquinus #0" = 0
+	"Zigor #0" = 0
+}
+
+leader_names = {
+	Amaneus Arborius Argastes Algais Ausce "dels Armes" Aspiat Auscal Andolin Aperrit
+	Baluzius Bartas Bullialdus "de Baiona" Belastar Bitacoz
+	Camponal Cocosatus Consoral
+	Dalbos Datius Dolquiti
+	Elusatis Ellul Espaza Elusatal Ecte
+	Faber
+	Garro Goldaraz
+	Hoco
+	Lassal Latorlegui
+	"de Malleo"
+	Osonis Odanni
+	Serra
+	Texis "de Tholosa" "de Talencia" "de Tutela" Tarbal
+	Viquentize "de Vezis" Vivisc Venarnis Vasatal
+	Zuberoanal
+}
+
+ship_names = {
+	Alafia Alapaha Alapahoochee Amelia Apalachicola Aucilla Apalachee Acuera
+	Barron
+	Caloosahatchee Chassahowitzka Chattahoochee Cocohatchee
+	Econfina Econlockhatchee Escambia Estero Elysium
+	Fakahatchee
+	Honosassa
+	Ichetucknee Istokpoga
+	Kissimmee
+	Loxahatchee Landerra Lexeia Laureia
+	Manatee Myakkahatchee Myakka Mocama Maitele
+	Okeechobee Ochlockonee Ocklawaha Olata Ocala Osceola Okefenokee
+	Palatlakaha Pithlachascotee Potano
+	Redemptor
+	Sopchoppy Steinhatchee Suwannee Saturiwa
+	Tolomato Tomoka Telogia Tocobaga Tacatacuru
+	Utina
+	Wekiva Withlacoochee Waccasassa Weekiwachee Wacissa Wakulla
+	Yustaga
+}

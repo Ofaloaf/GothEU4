@@ -1,0 +1,18 @@
+#133 - Linz
+
+owner = RNT
+controller = RNT
+add_core = RNT
+culture = carantanian
+religion = orthodox
+base_tax = 5 
+base_production = 5
+trade_goods = grain
+base_manpower = 4
+capital = "Linz" 
+is_city = yes
+hre = no
+#discovered_by = western
+#discovered_by = eastern
+#discovered_by = muslim
+#discovered_by = ottoman

@@ -1,0 +1,5 @@
+government = feudal_monarchy
+technology_group = western
+primary_culture = hibernaidd
+religion = orthodox
+capital = 373	# Dublin

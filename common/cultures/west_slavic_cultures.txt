@@ -1,0 +1,41 @@
+west_slavic = {
+	graphical_culture = westerngfx
+
+	sorbian = {
+		primary = SRB
+		male_names = {
+			Awgust Arnošt
+			Berno Bjarnat Bohumir Boscij Budivoj Boleslaw Bohumil Branibor Batrolm Balcar
+			Cyril
+			Dervan Demjan Domaš Dominik
+			Fryco Filip
+			Grines
+			Handrij Hantuš Hawštyn Hórban Hrjehor
+			Jaromar Jurij
+			Kruto Kito Klimant Karol Krabat Krhescan
+			Lyshko
+			Macij Mercin Miklaws
+			Nishan
+			Ota
+			Pawol Peytr
+			Ratislaw Radomeyr
+			Sceypan Syman Stanij
+			Tuglo Tetzlav Teodryk Tonda
+			Vitzlav
+			Wylem
+		}
+		female_names = {
+			Borbora Bohumira Bernadet Bratislawa Briša
+			Dorota Dziwona
+			Hanzha Hanka Hilžbjeta Hapulona
+			Jewa 
+			Lejna Lubina
+			Madlena Marja Marhata Merana
+			Pawla Pawlina
+			Rejza Rozha Ruzalka
+			Trudla
+			Worsha Wurshula
+			Zusana
+		}
+	}
+}

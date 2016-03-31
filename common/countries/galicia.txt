@@ -1,0 +1,111 @@
+# gallaecia / Galicia
+
+graphical_culture = westerngfx
+
+color = { 240  167  130 }
+
+historical_idea_groups = {
+	religious_ideas
+	maritime_ideas
+	defensive_ideas
+	economic_ideas
+	innovativeness_ideas
+	spy_ideas
+	trade_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	spanish_tercio
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Vitus #1" = 25
+	"Benignus #1" = 20
+	"Varvarinus #1" = 20
+
+	"Jimena #1" = -5
+	"Rosalia #0" = -5
+
+	"Agustin #0" = 0
+	"Antón #0" = 0
+	"Aznaro #0" = 0
+	"Bento #0" = 0
+	"Dinis #0" = 0
+	"Feixoo #0" = 0
+	"Felip #0" = 0
+	"Fermín #0" = 0
+	"Flavi #0" = 0
+	"Gelmiro #0" = 0
+	"Lleandro #0" = 0
+	"Lope #0" = 0
+	"Martín #0" = 0
+	"Manuel #0" = 0
+	"Meducino #0" = 0
+	"Miguel #0" = 0
+	"Nicer #0" = 0
+	"Numito #0" = 0
+	"Paramus #0" = 0
+	"Pelayo #0" = 0
+	"Petro #0" = 0
+	"Píramo #0" = 0
+	"Pitinus #0" = 0
+	"Pruicello #0" = 0
+	"Ramón #0" = 0
+	"Recaredo #0" = 0
+	"Salvadór #0" = 0
+	"Silio #0" = 0
+	"Sisto #0" = 0
+	"Tantalus #0" = 0
+	"Teodorico #0" = 0
+	"Teudiselo #0" = 0
+	"Vaelico #0" = 0
+	"Velasco #0" = 0
+	"Xesaleico #0" = 0
+	"Xohán #0" = 0
+	"Xoséf #0" = 0
+}
+
+leader_names = {
+	"de l'Auxa"
+	Bouza
+	Cluniense "da Costa" Charinha Carelo Carvalho "de Caranico" Curros
+	"de Flaouha"
+	"de Glandimiru"
+	"de Lucus" "de Lambres" "de Lardosa" "de Luna"
+	Macio Mel "de Marirreguera" Murguía
+	"de Novoa"
+	Orxás Outeiro
+	Pondal "de Paiva" Pereiro
+	"de Rivanguxo"
+	Sarmiento Suare "de Sozello" Seivane
+	Tobío "de Talabriga" Tosar
+	"de Uviéu"
+	Valsverde "de Vixaio" Vixil Viejo
+}
+
+ship_names = {
+	Asturica Acutia Aunios Artabron "Aquae Quintinae" Assegonia "Aquae Callidae" "Artabron Limen"
+	Caetra "Conventus Lucensis" "Conventus Bracarensis" Callaicus "Castellum Aviliobris"
+	Durius
+	"Flavium Brigantium"
+	"Iria Flavia"
+	Muxica
+	Noouion
+	Philomathius "Phlaouia Lambris" Padreneusu
+	"Santa Maria" "Santa Olaya"
+	Trileukoi Timalinum "Turris Augusti"
+	Viriathus Vermundus
+}

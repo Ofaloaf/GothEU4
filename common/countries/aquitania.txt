@@ -1,0 +1,126 @@
+# Aquitania
+
+graphical_culture = westerngfx
+
+color = { 150 80 170 }
+
+preferred_religion = gnostic
+
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	exploration_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	offensive_ideas
+	spy_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	french_caracolle
+	anglofrench_line
+	french_dragoon
+	french_bluecoat
+	french_cuirassier
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Eufemïen #0" = 40
+	"Silvanus #0" = 40
+	"Hubaldus #0" = 20
+
+	"Aingeru #0" = 0
+	"Andres #0" = 0
+	"Antzo #0" = 0
+	"Atxular #0" = 0
+	"Baraxil #0" = 0
+	"Bartulon #0" = 0
+	"Caius #0" = 0
+	"Carbonel #0" = 0
+	"Celsus #0" = 0
+	"Cison #0" = 0
+	"Dat #0" = 0
+	"Denysis #0" = 0
+	"Didacos #0" = 0
+	"Domigu #0" = 0
+	"Emiri #0" = 0
+	"Esteuan #0" = 0
+	"Genial #0" = 0
+	"Gilen #0" = 0
+	"Guarcia #0" = 0
+	"Jacue #0" = 0
+	"Jeino #0" = 0
+	"Juango #0" = 0
+	"Lucas #0" = 0
+	"Lupes #0" = 0
+	"Michelco #0" = 0
+	"Niquolas #0" = 0
+	"Osocco #0" = 0
+	"Paulo #0" = 0
+	"Petrisco #0" = 0
+	"Pelaio #0" = 0
+	"Rusticus #0" = 0
+	"Samurco #0" = 0
+	"Sanxe #0" = 0
+	"Sauastian #0" = 0
+	"Seme #0" = 0
+	"Sexto #0" = 0
+	"Symmaches #0" = 0
+	"Teyllo #0" = 0
+	"Tomas #0" = 0
+	"Velascus #0" = 0
+}
+
+leader_names = {
+	Aspiat Auscal Andolin Acenare Aperrit Aitzol
+	Belastar "de Burgiala" "de Baiona" Bitacoz Barrenco
+	Consoral Camponal
+	Datius Dolquiti
+	Elural Elusatal Ecte Echeverri "de Elusa" Enecones Etxatxu Enneci
+	Fortungones Fruyto
+	Gatus Garro Goldaraz Garbisxi Garseanis Guenduliz Goyena
+	Hoco
+	"de Illuro"
+	Lassal Latorlegui "de Lapurdi" "de Lactura"
+	Monesius Munione Medulis
+	Nabar Nequege
+	Odanni Oggando
+	Polit Petrocoris
+	Sugabarra "de Segosa"
+	Tarbal Txomin "de Turba" Tauar
+	Uassoco Ulaquide Uliaris
+	Venarnis Vasatal Vellatus Vinquentize Viviscis
+	Xoanexco
+	Zuberoanal Zurie
+}
+
+ship_names = {
+	Atur Agesinale Autobroge
+	Burdigala Basabocate Bercorate
+	Elusa
+	Guasconia Garumna
+	Lapurdum Liger
+	Novempopulania Noviomagus Nitiobrige
+	Oscineium
+	Sediboniate
+	Tarbellia
+}
+
+army_names = {
+	"Armada de $PROVINCE$" 
+}
+
+fleet_names = {
+	"Classis de $PROVINCE$"
+}

@@ -1,0 +1,16 @@
+#135 - Sopron
+
+owner = RNT
+controller = RNT
+culture = carantanian
+religion = orthodox
+capital = "Sopron"
+trade_goods = grain
+hre = no
+base_tax = 5 
+base_production = 5
+base_manpower = 2
+is_city = yes
+estate = estate_church
+add_core = JZY
+add_core = RNT

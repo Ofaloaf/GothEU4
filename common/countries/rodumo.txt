@@ -1,0 +1,142 @@
+# Rotomagus
+
+graphical_culture = westerngfx
+
+color = { 120 132 94 }
+
+preferred_religion = reformed
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	plutocracy_ideas
+	spy_ideas
+	economic_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	french_caracolle
+	anglofrench_line
+	french_dragoon
+	french_bluecoat
+	french_carabinier
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Lissandre #0" = 30
+	"Albeis #3" = 20
+	"Duda #1" = 10
+	"Mundus #1" = 10
+	"Alaric #0" = 10
+
+	"Gisela #0" = -5
+	"Mascaròsa #0" = -5
+	"Tiborg #0" = -5
+
+	"Ainric #0" = 0
+	"Amaneus #0" = 0
+	"Andrai #0" = 0
+	"Audericho #0" = 0
+	"Audoacre #0" = 0
+	"Audoïn #0" = 0
+	"Bartoumiéu #0" = 0
+	"Baudoïn #0" = 0
+	"Belisari #0" = 0
+	"Caraules #0" = 0
+	"Centolh #0" = 0
+	"Cunstanci #0" = 0
+	"Cunstantin #0" = 0
+	"Dàvi #0" = 0
+	"Ebarico #0" = 0
+	"Estilicó #0" = 0
+	"Faluax #0" = 0
+	"Flaurènç #0" = 0
+	"Froila #0" = 0
+	"Gomé #0" = 0
+	"Gonçalo #0" = 0
+	"Guidéric #0" = 0
+	"Immanuèl #0" = 0
+	"Istève #0" = 0
+	"Jorge 30" = 0
+	"Juli #0" = 0
+	"Lozoïc #0" = 0
+	"Lucàs #0" = 0
+	"Magne #0" = 0
+	"Nicaulas #0" = 0
+	"Narseis #0" = 0
+	"Oveco #0" = 0
+	"Pèitre #0" = 0
+	"Pol #0" = 0
+	"Quintus #0" = 0
+	"Ranimiro #0" = 0
+	"Ricard #0" = 0
+	"Riculf #0" = 0
+	"Rodericho #0" = 0
+	"Sans #0" = 0
+	"Senarius #0" = 0
+	"Sidauni #0" = 0
+	"Suneario #0" = 0
+	"Tiudemir #0" = 0
+	"Tiuderic #0" = 0
+	"Tiudòsi #0" = 0
+	"Tumas 30" = 0
+	"Uc #0" = 0
+	"Ugne #0" = 0
+	"Úlfila #0" = 0
+	"Valaric #0" = 0
+	"Veremundo #0" = 0
+	"Vigitino #0" = 0
+	"Teio #0" = 0
+}
+
+leader_names = {
+	d'Albamargila d'Arcas d'Alencio d'Argentoni d'Abrincas d'Andiligo d'Auga
+	Boysonnada Bolas Bozesa Bournazels "de Baieus"
+	Calpelier "de Carcutina" Camboulas "del Cros" "de Chierisbaurg"
+	Drautine "de Dieppa" Diablintus "de Damfrontis"
+	d'Eburovicas d'Ebrieis
+	Floretas "de Forges" Fanci "de Feiscanno" Fonfrega Falgario
+	Gabriac Galvahn "de Gisortis" Guisardo
+	Hunilasunus "de Hunafluvia"
+	Jalenca
+	Lagomia "de Lonyiac" Lexovius
+	Mansaga Massabuou "de Moretulo" "de Monmato" Mercieyra
+	Natas
+	Palhargues "de Puntesia"
+	Romieu "de Rocaguionis" Randaynes Regandi Rossinhol
+	Spadics Solli Salustre
+	Triarius
+	d'Uggade
+	Veziac "del Verdier" "de Vernolio"
+}
+
+ship_names = {
+	Avellina Aulercoria Abrincatia Augustodurum Andelaum Auvae
+	"Briva Isaræ"
+	Cadomum Constantia Caracotinum
+	Drugocurtis
+	Eburiacum
+	Falesia Fiscannum
+	Gemeticum Gorniacum
+	"Justinus Hunilianus" Juliobona
+	"Kenan Comro"
+	Lexoviorum Longiniacum
+	Mauritanum Medanta
+	Novientum
+	Rotomagus
+	"Tractus Nervicanus"
+	"Vendumaglos Goeznovinus" Vagoritum Vernagilum Veliocassinus
+}

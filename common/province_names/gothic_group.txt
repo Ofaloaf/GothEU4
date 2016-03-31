@@ -1,0 +1,111 @@
+# Alleghania
+957 = "Lupésa"
+962 = "Linabucinsa"
+963 = "Scanentatia"
+964 = "Esopus"
+965 = "Naua Bordèu"
+2010 = "Quinitucas"
+2560 = "Nauaporta"
+
+# Appalachia
+931 = "Temerésa"
+950 = "Scigoa"
+952 = "Ricamont"
+2538 = "Nauabiojolés"
+2542 = "Nauvastinés"
+2550 = "Tiudrigobol"
+
+# Brazil
+753 = "Riu Grand"
+763 = "Sent Gener"
+
+# California
+868 = "Los Sents"
+2021 = "Sent Francés"
+
+# Canada
+982 = "Cap Naurdman"
+987 = "Nauapertica"
+992 = "Syaunés"
+994 = "Mont Reial"
+2584 = "Laup de Reprobus"
+
+# Caribbean
+484 = "Habana"
+489 = "Insula Turturis"
+
+# Colombia
+830 = "Antioquia"
+831 = "Nova Palmyra"
+
+# Equinoctialia
+2806 = "Istriola"
+
+# Floridia
+926 = "Surruque"
+927 = "Sent Agustin"
+928 = "Apalachicola"
+2533 = "Chactansa"
+2534 = "Còsta Dintra"
+2536 = "Biscaïne"
+
+# Mexico
+880 = "Senta Fe"
+2498 = "Nauasolyma"
+
+# Mississippi
+893 = "Naua Aureliansa"
+900 = "Sent Lozoïc"
+921 = "Auma"
+2014 = "Natchitusha"
+2516 = "Ataiza"
+
+# Ohio
+944 = "Listrech"
+945 = "Gran Talh"
+948 = "Nauacarcin"
+2522 = "Sent Josep"
+
+# Terranova
+980 = "Sent Jehan"
+981 = "Pòrt Roqòs"
+2573 = "Sent Peytre"
+
+# Gallia et Gothia
+87 = "Caleeis"
+88 = "Atrebatesa"
+89 = "Suessionha"
+90 = "Brujas"
+91 = "Fanomarésa"
+92 = "Brussèlas"
+93 = "Legia"
+167 = "Rodumo"
+168 = "Costanciensa"
+169 = "Redonia"
+170 = "Osismia"
+171 = "Veneda"
+177 = "Meduana"
+178 = "Andegavia"
+179 = "Burgis"
+180 = "Pictavia"
+182 = "Veromandésa"
+183 = "París"
+184 = "Aurliansa"
+185 = "Nemausus"
+186 = "Rems"
+187 = "Caturiges"
+189 = "Nancí"
+190 = "Borvonia"
+191 = "Nivèrns"
+192 = "Divio"
+193 = "Besontion"
+195 = "Lemovinsa"
+196 = "Tolosa"
+198 = "Roergue"
+199 = "Auvèrnhe"
+200 = "Cevenas"
+201 = "Provinça"
+202 = "Avinhon"
+203 = "Liyunés"
+204 = "Viennensa"
+1743 = "Camaraco"

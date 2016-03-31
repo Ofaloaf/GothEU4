@@ -1,0 +1,19 @@
+#237 - Oxfordshire
+
+owner = WHD
+controller = WHD
+culture = loegric
+religion = orthodox
+hre = no
+base_tax = 6 
+base_production = 5
+trade_goods = grain
+base_manpower = 3
+capital = "Aelia"
+is_city = yes # Includes Reading
+add_core = LOE
+add_core = WHD
+#discovered_by = western
+#discovered_by = muslim
+#discovered_by = ottoman
+#discovered_by = eastern

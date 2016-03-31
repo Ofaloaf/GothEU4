@@ -1,0 +1,5 @@
+government = constitutional_republic
+technology_group = western
+primary_culture = lat_venetian
+religion = reformed
+capital = 893 # New Orleans

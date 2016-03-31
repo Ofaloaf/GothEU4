@@ -1,0 +1,17 @@
+#405 - Al Jawf
+
+owner = KOJ
+controller = KOJ
+culture = al_suryah_arabic
+religion = orthodox
+capital = "Tadmuriyah"
+trade_goods = wool
+hre = no
+base_tax = 2 
+base_production = 2
+base_manpower = 2
+is_city = yes
+add_core = KOJ
+add_core = SYR
+
+

@@ -1,0 +1,18 @@
+# 1879 - Alençon
+
+owner = RDM
+controller = RDM
+capital = "Alencio"
+is_city = yes
+culture = armorican
+religion = orthodox
+hre = yes
+base_tax = 6 
+base_production = 6
+trade_goods = cloth
+base_manpower = 4
+add_core = RDM
+#discovered_by = eastern
+#discovered_by = western
+#discovered_by = muslim
+#discovered_by = ottoman

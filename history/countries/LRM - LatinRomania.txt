@@ -1,0 +1,6 @@
+government = feudal_monarchy
+government_rank = 2
+primary_culture = taurinjeis
+religion = orthodox
+technology_group = western
+capital = 104 # Milano

@@ -1,0 +1,5 @@
+government = constitutional_republic
+technology_group = western
+primary_culture = belgic
+religion = gnostic
+capital = 893 # New Orleans

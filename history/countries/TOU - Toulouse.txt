@@ -1,0 +1,8 @@
+government = imperial_city
+government_rank = 1
+mercantilism = 0.25
+primary_culture = septimanian
+religion = orthodox
+technology_group = western
+capital = 196	# Toulouse
+fixed_capital = 196 # Cannot move capital away from this province & no power cost to move to it

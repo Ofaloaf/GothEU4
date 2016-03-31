@@ -1,0 +1,6 @@
+government = feudal_monarchy
+technology_group = western
+primary_culture = cumbric
+religion = orthodox
+capital = 246 # Northumberland
+

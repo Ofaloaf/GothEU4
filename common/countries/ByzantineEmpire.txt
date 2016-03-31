@@ -1,0 +1,140 @@
+#Country Name: Please see filename.
+
+graphical_culture = easterngfx
+
+color = { 149 45 102 }
+
+historical_idea_groups = {
+	maritime_ideas
+	religious_ideas
+	defensive_ideas
+	administrative_ideas
+	trade_ideas
+	quality_ideas
+	innovativeness_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	ottoman_spahi
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
+
+monarch_names = {
+	"Tihomir #2" = 40
+	"Aleksandru #5" = 40
+	"Kazimeru #3" = 35
+	"Marko #3" = 30
+	"Tiberij #3" = 25
+	"Dobrogast #1" = 25
+	"Dmitrei #1" = 25
+	"Filip #2" = 25
+	"Zdislav #2" = 20
+	"Dragomeru #1" = 20
+	"Miroban #1" = 20
+	"Hariton #1" = 20
+	"Zdislav #1" = 15
+	"Kyrilu #1" = 10
+	"Valuk #1" = 10
+
+	"Anna #0" = -5
+
+	"Andrej #0" = 0
+	"Arsen #0" = 0
+	"Bazilisk #0" = 0
+	"Bozhidar #0" = 0
+	"Bratomil #0" = 0
+	"Celestin #0" = 0
+	"Ciril #0" = 0
+	"Dabrag #0" = 0
+	"Dalibor #0" = 0
+	"Dorotej #0" = 0
+	"Drazhan #0" = 0
+	"Eugenij #0" = 0
+	"Eumen #0" = 0
+	"Eutimije #0" = 0
+	"Gaja #0" = 0
+	"Godarz #0" = 0
+	"Hadrijan #1" = 0
+	"Heraklij #0" = 0
+	"Hipolit #0" = 0
+	"Idariz #0" = 0
+	"Inocent #0" = 0
+	"Justin #0" = 0
+	"Kaloker #0" = 0
+	"Kedron #0" = 0
+	"Mstislav #0" = 0
+	"Nearh #0" = 0
+	"Nebovlos #0" = 0
+	"Nikita #0" = 0
+	"Nil #0" = 0
+	"Novacijan #0" = 0
+	"Pridbor #0" = 0
+	"Prokopje #0" = 0
+	"Radoslav #0" = 0
+	"Serafim #0" = 0
+	"Sergej #0" = 0
+	"Stefan #0" = 0
+	"Svetopolk #0" = 0
+	"Teofil #0" = 0
+	"Teofilakt #0" = 0
+	"Ursin #0" = 0
+	"Vavila #0" = 0
+	"Yarognev #0" = 0
+	"Zbignev #0" = 0
+	"Zefirina #0" = 0
+	"Zosim #0" = 0
+}
+
+leader_names = {
+	Apsintvic Abantiy Arotras
+	Berzit Bebikij Bardan
+	Cypsellus
+	Daurentius Danteletayets Duka Diogen Dopin
+	Fragondij
+	Homatijan
+	Izaurijac Iasties
+	Komnen Krenyts Kavasila Katamir
+	Melanditiy Musocius Mezamerus Melingin Manijak Murzuful Moscopolyets Metohit Mogila
+	Novakis Nepot
+	Obulenziy
+	Pirogerij Panisos Poliorket Paflagonij Paitij Phalimer Proarhij Petraliphas
+	Ratimarus Rossos Rinotmet Rubljov Radonezhski
+	Stremanets Saepaij Spanes
+	Tilateij Tsoutsimirus
+}
+
+ship_names = {
+	Arkadije "Arhiepiskop Flavijan" Afrodita Ares
+	Carigrad
+	Demetra Diona
+	Ereb Eak Eos Ersa Elektra
+	Fton Filot
+	Geja Gera
+	Hipno Haron Hiperion Heru Hada Hestiju Hefest Heraklo
+	Irena
+	Jelisaveta
+	"Konstantin Veliki" Kron Kalista
+	Marcel Mor
+	"Novi Rim" Nikta
+	Orfej Olimp
+	Posejdona
+	"Sveti Polieukt" "Sveti Hipolit Rimski" "Sveti Ciril" "Sveti Anatolije" "Sveti Stjepan Prvomuchenik"
+	"Teodozije Veliki" Teodora Thekla
+	Uran
+	Zeus
+}

@@ -1,0 +1,17 @@
+#Blekinge
+
+add_core = GTR
+add_core = DAN
+owner = GTR
+controller = GTR
+culture = danish
+religion = orthodox
+hre = no
+base_tax = 2 
+base_production = 2
+trade_goods = fish
+base_manpower = 1
+capital = "Ronneby"
+is_city = yes
+
+

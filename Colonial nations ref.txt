@@ -1,0 +1,73 @@
+# General notes
+
+# A couple colonial regions have either been split altogether or replaced with a different colonial region, because I am sperging hard.
+# as follows:
+# Alleghania		Northern part of the Eastern America colonial region
+# Appalachia		Southern part of the Eastern America colonial region, except for
+# Florida		It's Florida
+# Ohio			Taken from part of Louisiana and the Eastern America regions. It's the US side of the Great Lakes region, more or less.
+# Mississippi		Replaces the Louisiana region. Why would Louisiana be called Louisiana in a scenario with no Frenchmen?
+# Equinoctialia		Replaces the Colombia region. Derived from 'equinoctialis', like Australia from 'australis'.
+# Terranova		Newfoundland, Labrador and Greenland. Look, historically that all operated separately from Canada proper up to 1949.
+# Platina		A rename of the La Plata region. 'La Plata' is such a Spanish-specific name, why would anybody else use the Spanish form?
+
+# 'Floating' colonial revolters can be established in any colonial region, and will gain a claim over whatever colonial region they're in once formed.
+# They're sort of meant as a stopgap for when I can't be bothered making special revolters for every culture for every region.
+
+
+# if no tag is provided, it's because I haven't gotten to that point yet.
+
+
+BY REGION	Culture			Name			TAG	Notes?
+
+Floating	Brythonic (group)	Avallonia		AVL	# from 'Avalon'
+Floating	Gallic (group)		Vergentorica		VGT	# Plutarch rendered 'Vercingetorix', a Gaulish king, as 'Vergentorix'
+Floating	Gothic (group)		Gauthaim		GHH	# 'Goth-home' in old Germanic Gothic. Now there can be a Gauthaim City.
+Floating	Carthagennan (group)	Eleutheria		ELT	# Ancient Greek term and personification of liberty
+Floating	Romano-African (group)	Hannonia		-	# named after Hanno the Navigator
+
+Alleghania	[Generic]		USA			USA	# GOD BLESS
+Alleghania	Dutch/Oostfranken	New Netherlannds	NND	# I considered 'New France' but surely that's too silly.
+
+Appalachia	[Generic]		Watauga			WTG	# riffing off the 'Watauga Association'
+Appalachia	Gothic (group)		Libertia		LBT	# playing off liberty/libertas. God bless.
+Appalachia	Carthagennan (group)	Aeneica			AEN	# Land of Aeneas
+
+Brazil		Gothic & Germanic	Papegania		PPG	# Papaga returns! 'Papaga' ('Parrot') itself is rendered 'papegân' in Old German.
+Brazil 		Carthagennan (group)	Sanctacrux		SCX	# 'Ilha/Terra de Santa Cruz' was an early name for Brazil
+
+California	Gothic (group)		Sentandray		GTA	# Occitan-Gothic version of 'San Andreas', slightly garbled.
+
+Canada		[generic]		Canada			CAN	# Vanilla
+Canada		Brythonic (group)	Albionoria		LNR	# 'Albion of the North'. Actual name considered for Canada, historically.
+
+* I want to take this opportunity to note that the raw name of the region in-game is colonial_the_carribean which isn't the right way to spell it
+Caribbean	[generic]		Haiti			HAT	# Only formable if the CN's capital is in Hispaniola.
+Caribbean (cuba)[generic]		Cuba			CUB	# Only formable if the CN's capital is in Cuba.
+Caribbean	Brythonic (group)	Lethowsow		LTW	# Cornish name for certain lost lands, conflated with Arthur's Lyonesse.
+Caribbean	Gothic (group)		Royllo			ROY	# Historical apocryphal island. https://en.wikipedia.org/wiki/Royllo
+
+Equinoctialia	[generic]		Equinoctia		-	# 'Land of the Equinox'
+
+Florida		[generic]		Florida			FLD	# It's Florida.
+Florida		Gothic (group)		Agustinha		AGN	# 'Augustinia', playing off St. Augustine being in Florida.
+
+Mexico		[generic]		Mexico			MEX	# Vanilla
+Mexico		Gothic (group)		Guastica		GST	# Attempting to derive an alt-name for Mexico from the Huastec people.
+
+Mississippi	[generic]		Mississippi		MSS	# It's Mississippi.
+Mississippi	[generic]		Missouri		MIS	# It's Missouri.
+Mississippi	Brythonic		Gwyddno			GWD	# Gwyddno Garanhir ruled a mythical kingdom which flooded 'cos of booze.
+Mississippi	Gothic (group)		Arheimaria		ARH	# 'Arheimar' was, by the Hervarar saga, a Gothic town on the Dneiper
+
+Ohio		[generic]		Michigan		UOM	# GO BLUE
+
+Peru		[generic]		Peru			PER	# Vanilla
+Peru		Gothic (group)		Içymha			ICY	# The area around Lima, Peru was once called 'Itychma', after the Ichma people nearby. From Itchyma, a more Latinized 'Itchimia' can be made, and garbling that into Occitan-Gothic can make something like 'Içymha'
+
+Platina		[generic]		Argentina		LAP	# Vanilla, relocalized La Plata
+Platina		[generic]		Chile			CHL	# Vanilla
+Platina		Gothic (group)		Goranica		-	# Derived from the name of the Guarani people.
+Platina		Carthagennan (group)	Quariana		-	# Paraguay and Uruguay are rendered Paraquaria and Uraquaria in Latin.
+
+Terranova	Scandinavian (group)	Vinland			VIN	# It's Vinland! Includes Canada in claims.

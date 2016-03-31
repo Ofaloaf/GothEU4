@@ -1,0 +1,86 @@
+country_decisions = {
+
+	gothic_nation = {
+		major = yes
+		potential = {
+			normal_or_historical_nations = yes
+			OR = {
+				ai = no
+				is_playing_custom_nation = no
+			}
+			NOT = { exists = GTH }
+			NOT = { tag = HLR }
+			NOT = { tag = PAP }
+			culture_group = gothic_group
+			is_colonial_nation = no
+			OR = {
+				is_former_colonial_nation = no
+				AND = {
+					is_former_colonial_nation = yes
+					ai = no
+				}
+			}
+		}
+		allow = {
+			is_at_war = no
+			owns_core_province = 203 	# Lyonnais / Liunés
+			owns_core_province = 193	# France-Comte / Besantio
+			owns_core_province = 1871	# Wallis / Valais
+			owns_core_province = 183	# Île-de-France
+			owns_core_province = 80		# Trier / Treveria / Trevèri
+			owns_core_province = 192	# Bourgogne / Divio
+			owns_core_province = 186	# Champagne		
+		}
+		effect = {
+			change_tag = GTH
+			if = {
+				limit = {
+					is_part_of_hre = yes
+					is_elector = no
+				}
+				every_owned_province = {
+					limit = {
+						is_part_of_hre = yes
+					}
+					set_in_empire = no
+				}
+			}
+			if = {
+				limit = {
+					NOT = { government_rank = 2 }
+				}
+				set_government_rank = 2
+			}
+			france_region = {
+				limit = {
+					NOT = { owned_by = ROOT }
+				}
+				add_claim = GTH
+			}
+			wallonia_area = {
+				limit = {
+					NOT = { owned_by = ROOT }
+				}
+				add_claim = GTH
+			}
+			flanders_area = {
+				limit = {
+					NOT = { owned_by = ROOT }
+				}
+				add_claim = GTH
+			}
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+			GTH = {
+				set_capital = 203
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+}

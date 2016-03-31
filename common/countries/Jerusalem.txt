@@ -1,0 +1,146 @@
+# Greco-Dacian Jerusalem
+
+graphical_culture = easterngfx
+
+color = { 211  230  211 }
+
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	spy_ideas
+	trade_ideas
+	innovativeness_ideas
+	economic_ideas
+	quantity_ideas
+}
+
+historical_units = {
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	ottoman_spahi
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
+
+monarch_names = {
+	"Franjo #1" = 30
+	"Gavril #0" = 25
+	"Moise #0" = 20
+	"Filip #0" = 20
+	"Vasile #0" = 15
+	"Alexandru #0" = 10
+	"Vlad #0" = 10
+
+	"Elena #0" = -5
+	"Sophia #0" = -5
+
+	"Adrian #0" = 0
+	"Amalric #0" = 0
+	"Anghel #0" = 0
+	"Anton #0" = 0
+	"Aristarh #0" = 0
+	"Aristotel #0" = 0
+	"Aron #0" = 0
+	"Balc #0" = 0
+	"Balduin #0" = 0
+	"Basarab #0" = 0
+	"Bogdan #0" = 0
+	"Carol #0" = 0
+	"Cassius #0" = 0
+	"Celsus #0" = 0
+	"Ciubar #0" = 0
+	"Claudiu #0" = 0
+	"Corneliu #0" = 0
+	"Diogene #0" = 0
+	"Dionisius #0" = 0
+	"Dracon #0" = 0
+	"Dumitru #0" = 0
+	"Florin #0" = 0
+	"Grigorie #0" = 0
+	"Heron #0" = 0
+	"Ilias #0" = 0
+	"Ioan #0" = 0
+	"Januarius #0" = 0
+	"Janus #0" = 0
+	"Lazarus #0" = 0
+	"Lisandru #0" = 0
+	"Menandru #0" = 0
+	"Militiades #0" = 0
+	"Milos #0" = 0
+	"Pericle #0" = 0
+	"Petre #0" = 0
+	"Pirvu #0" = 0
+	"Policarp #0" = 0
+	"Ptolemeu #0" = 0
+	"Radu #0" = 0
+	"Roman #0" = 0
+	"Sabbas #0" = 0
+	"Samuel #0" = 0
+	"Saul #0" = 0
+	"Solomon #0" = 0
+	"Stefan #0" = 0
+	"Teodor #0" = 0
+	"Valentin #0" = 0
+	"Victor #0" = 0
+	"Vilhelm #0" = 0
+	"Zenon #0" = 0
+	"Zephyrinus #0" = 0
+}
+
+leader_names = {
+	Azarias Aqueu Àtal Ateneu Ardis "de la Acra" "de la Ashkelon" Aldea "de la Arges" "de la Afrumati" Ardelean Albu
+	Balas Barlais Bogores Brus "de Bolonia" "de Béltek" "de Bethulia" Bencellinus Bubalus Boldù Bombalis Balan
+	Combabo "de Caearea" "de Canatha" Caragea Craiovescu Cervan Chomnus Cercel Craiovescu Cornea Ciobanul Cojocaru
+	Diognet "de Dion" Danescu "de Dolha" Dragfi Dumitrescu
+	Ertraneus Eraclid
+	Fulcheri "da Frixaturo"
+	Gorgias "de Gadara" "de Gerasa" Gradenigo Govins Gumbaldi Galinarion Gabras "de Gezer" Ghica Gabor Girgorescu
+	Hagopingus Haidaul
+	Iagaris Ilie Ionescu
+	Joldea "de Jamnia"
+	Lisímac Lísies Lograto Lacusta Lapusneanu Lungu Lupei
+	Milo Molo Minió Mocenigo Malduit Movila Musatin Mercatibus Muxe Movila
+	Nicarc "de Naples" Nestongus Negrescu Nicolescu
+	Oborzos Ologul
+	Passerellus "de Pella" Pascu "de Puscariu" Paisie Patrascu Potcoava Petran Petrescu Popescu
+	Ruset "de Raphana" Rares Razvan
+	Sagdodonacus Surianus Sechir Soursosin Sasescu Silaghi Sasul Schiopul Surdul Sala Serban
+	Taos Tepelus Tolmay "de Tyrus" Tortus Taiapetra Tornices Tiborescu "de Toeni" "de Torokfalva" Turkopol Tudorescu
+	Vacarius "da Vale" Voda Vintila Vladimirescu
+	Xenopol
+	Zariaques Zentil
+}
+
+ship_names = {
+	Alcimus Azotus Ammon Apama Antiochis Apollodorus Abraham "Archangelus Gabriel" "Archangelus Michael" Ananiel
+	"Archangelus Raphael" "Archangelus Uriel" Angelus Alexandrel
+	Berenice "Basileus Megas" Barachiel Badica
+	Coelesyria Capernum Caesarea Capitolias Calugarul
+	Decapolis Didymeia Diogenes Danielus Diospolis Dalca
+	Elasa Edom
+	Goliat Galileea
+	Heirax Hyspaosines Hanael
+	"Ionathan Apphus" Iudea Iordania Iacobus Izidkiel Iamnia Iopeia
+	Laodice
+	Mattathias Maccabeus Moam Menippus Metatron
+	"Nicomachus Secundus" Nysa Nazareth
+	Ptolemais Philadelphia Philodemus Palestina
+	"Quis ut Deus"
+	Raguel
+	"Simon Thassi" Samaria Scythopolis Seleucia Stratonice Sarathiel Suriel Seraphus
+	Tryphon Thalassia Timarchus Tereza Tiranul
+	Viteazul
+	Zeuxis Zadakiel
+}

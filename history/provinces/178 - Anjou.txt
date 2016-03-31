@@ -1,0 +1,19 @@
+# 178 Anjou - Principal cities: Angers
+
+owner = ANJ
+controller = ANJ
+capital = "Andgieus"
+is_city = yes
+culture = armorican
+religion = orthodox
+hre = yes
+base_tax = 7
+base_production = 7
+trade_goods = cloth
+base_manpower = 7
+add_core = ANJ
+fort_15th = yes
+#discovered_by = eastern
+#discovered_by = western
+#discovered_by = muslim
+#discovered_by = ottoman

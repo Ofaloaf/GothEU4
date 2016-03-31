@@ -1,0 +1,110 @@
+# Anjau
+
+graphical_culture = westerngfx
+
+color = { 162 116 225 }
+
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	religious_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	offensive_ideas
+	spy_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	french_caracolle
+	anglofrench_line
+	french_dragoon
+	french_bluecoat
+	french_carabinier
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+monarch_names = {
+	"Úlfila #3" = 50
+	"Juli #1" = 30
+	"Miles #2" = 30
+	"Riculf #1" = 20
+	"Osormeo #1" = 20
+	"Tumas #1" = 15
+	"Masuna #1" = 10
+
+	"Denysia #1" = -5
+
+	"Alaric #0" = 0
+	"Armagilus #0" = 0
+	"Dalmatz #0" = 0
+	"Evaric #0" = 0
+	"Ferrand #0" = 0
+	"Garçi #0" = 0
+	"Geli #0" = 0
+	"Godesteo #0" = 0
+	"Guntrodo #0" = 0
+	"Ibrahardus #1" = 0
+	"Jehan #0" = 0
+	"Laülf #0" = 0
+	"Lixandre #0" = 0
+	"Lodoycus #0" = 0
+	"Lucàs #0" = 0
+	"Miquel #0" = 0
+	"Ot #0" = 0
+	"Pèitre #0" = 0
+	"Pol #0" = 0
+	"Ricard #0" = 0
+	"Telo #0" = 0
+	"Tiuderic #0" = 0
+	"Uc #0" = 0
+	"Vicenç #0" = 0
+	"Vigitino #0" = 0
+	"Viteges #0" = 0
+	"Walia #0" = 0
+}
+
+leader_names = {
+	d'Angieus
+	Barchiere Beuf Belzea Boils "de Bricilonno"
+	"de Carnona" "de Conbaristo" "de Cracatonno" "de Celmanes" "de Castras" "de Caudeyran" Corat
+	Delat Degarcos Delalo Decorroal Diegue Debetloc Dethoailhe Defrictz Decaupena Dejossas Drics
+	Estene Estochait Ebard
+	Forbey "de Fines"
+	Gaulbert Galliach Gorio
+	Herisson
+	Langavsa "De Laucelergue" "De Lasset" Livin Largan
+	Maleta "del Mas" Moric Moscaillou Miqueu "de Mallelville"
+	Planque "de Planis" Pardo Picolet Parenchieres
+	Rody "de Robrica" "de Rebelh"
+	Seguine "de Segora" "de Saulmuves" Stoard Snard
+	"li Taro"
+	"de Valenssa" "Des Vignolles"
+}
+
+ship_names = {
+	Andegavia Alingavia "Amadeus Apicalingus"
+	Briotreidis Bidonne "Barbe de Ultramare" Bartonne
+	Conbaristum Conthor
+	Granda
+	Juliomagus Jehanne
+	Longabruna Lutz
+	Mandeta Morelsa
+	Nonela
+	Orgolhosa Ouagoriton
+	Petita Peirol Peitavina
+	Repentye Rostand
+	Soillarda Saissa
+	Vindinon
+	Yzabé
+}

@@ -1,0 +1,15 @@
+#324 - Karaman
+
+owner = MTU
+controller = MTU
+culture = turkish
+religion = manichee
+capital = "Karaman"
+trade_goods = wool
+hre = no
+base_tax = 6 
+base_production = 6
+base_manpower = 5
+is_city = yes
+add_core = MTU
+

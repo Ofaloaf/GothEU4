@@ -1,0 +1,118 @@
+# Ecumenical Patriarchy
+
+graphical_culture = westerngfx
+
+color={ 183 60 155 }
+
+historical_idea_groups = {
+	administrative_ideas
+	diplomatic_ideas
+	defensive_ideas
+	religious_ideas
+	trade_ideas
+	offensive_ideas
+	economic_ideas
+	maritime_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	italian_condotta
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Alexander #0" = 0
+	"Apelles #0" = 0
+	"Apollonius #0" = 0
+	"Artemidorus #0" = 0
+	"Atticus #0" = 0
+	"Bartholomaeus #0" = 0
+	"Basilius #0" = 0
+	"Belisarius #0" = 0
+	"Cyrillus #0" = 0
+	"Epiphanius #0" = 0
+	"Gennadius #0" = 0
+	"Hermippus #0" = 0
+	"Herodotus #0" = 0
+	"Hilarion #0" = 0
+	"Ignatius #0" = 0
+	"Ioannes #0" = 0
+	"Iosephus #0" = 0
+	"Irenaeus #0" = 0
+	"Iustus #0" = 0
+	"Laurentius #0" = 0
+	"Leontius #0" = 0
+	"Lucianus #0" = 0
+	"Marcus #0" = 0
+	"Nestor #0" = 0
+	"Nicetas #0" = 0
+	"Nicolaus #0" = 0
+	"Phocas #0" = 0
+	"Photius #0" = 0
+	"Romaeus #0" = 0
+	"Romanus #0" = 0
+	"Rufinus #0" = 0
+	"Sextus #0" = 0
+	"Sidonius #0" = 0
+	"Theodorus #0" = 0
+	"Theodosius #0" = 0
+	"Theophilus #0" = 0
+	"Theophylactus #0" = 0
+	"Timotheus #0" = 0
+	"Xenophon #0" = 0
+}
+
+leader_names = {
+	Apameus Antiochenus
+	Barcinonensis Barienensis Burdigalensis
+	Carthagenensis Condianus Constantinopolitanus Camaterus Caraliensis
+	Daldianus
+	Ephesius
+	Fortunatus
+	Grammaticus
+	Heracleotes Hierosolymitanus
+	Lampsacenus Lucares Larandensis
+	Mediolanensis Molon Muntanes Mallotes Milesius Milites
+	Narbonensis Nazianzenus
+	Pisanensis Panormensis
+	Romanensis Ravennanensis
+	Scholasticus Samosatensis Sardensis
+	Tolosanensis Tarraconensis Thessalonaicensis Theologus Tyaneus Theotocites Tarsensis
+	Urbinensis
+	Xilphilinus
+}
+
+ship_names = {
+	Angelus Antiocheia Alexandria "Andronicus Pannonicus" "Crispus Chalcedonensis"
+	Barnabas
+	Confessor Constantinopolis Carthago Constantinus
+	"Dionysius Areopagita"
+	Hierosolyma
+	"Iacobus Iustus" "Ioseph Barsabbas" "Ioannes Marcus"
+	"Lucius Cyrenaeus"
+	"Narcissus Atheniensis"
+	"Philippus Evangelus"
+	"Quadratus Atheniensis"
+	Roma "Rufus Thebanus"
+	"Sanctus Polycarpus" "Sanctus Lucas" "Sanctus Matthias" "Sanctus Marcus" "Sanctus Ioannes" "Sanctus Paulus"
+	"Sanctus Judas Thaddeus" "Sanctus Ioannes Chrysostomus" "Sanctus Leo" "Sanctus Hieronymus" "Sanctus Augustinus"
+	"Sanctus Theophilus" "Sanctus Caesarius" "Sanctus Georgius" "Sanctus Stephanus" "Sanctus Anacletus"
+	"Stachys Apostolus"
+	Toletum "Thaddaeus Edessensis"
+	"Urbanus Macedo"
+}
+
+army_names = {
+	"Exercitus $PROVINCE$"
+}

@@ -1,0 +1,131 @@
+# Albionoria
+# Brythonic Canada
+
+graphical_culture = westerngfx
+
+color = { 145 166 189 }
+
+colonial_parent = CMB
+
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	religious_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	spy_ideas
+	trade_ideas	
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	prussian_uhlan
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Cynan #0" = 50
+	"Tewdr #0" = 30
+	"Meurig #0" = 20
+	"Custennin #0" = 15
+
+	"Adiutor #0" = 0
+	"Belado #0" = 0
+	"Bleiddud #0" = 0
+	"Branwaladr #0" = 0
+	"Cadgyfarch #0" = 0
+	"Cincinnatus #0" = 0
+	"Cynwrig #0" = 0
+	"Degyman #0" = 0
+	"Deiniolen #0" = 0
+	"Derfyl #0" = 0
+	"Disideri #0" = 0
+	"Elias #0" = 0
+	"Enoch #0" = 0
+	"Garbonian #0" = 0
+	"Gurdilic #0" = 0
+	"Iona #0" = 0
+	"Iuda #0" = 0
+	"Iusti #0" = 0
+	"Iwl #0" = 0
+	"Maeldoi #0" = 0
+	"Malorius #0" = 0
+	"Nudd #0" = 0
+	"Pabo #0" = 0
+	"Peredur #0" = 0
+	"Perran #0" = 0
+	"Putrael #0" = 0
+	"Rhufon #0" = 0
+	"Riocus #0" = 0
+	"Salomon #0" = 0
+	"Selyfan #0" = 0
+	"Seiriol #0" = 0
+	"Solon #0" = 0
+	"Teodorig #0" = 0
+	"Thaddeus #0" = 0
+	"Tiberius #0" = 0
+	"Trillo #0" = 0
+	"Tudwal #0" = 0
+}
+
+leader_names = {
+	Argol Abrahall Arblasterio Abax Abegile Abeozen Argat
+	Bleddyn Bychan Bochanan Baladrddellt Bwr Breseloc Butgual Budhoiarn Buduoret Breselueu Branhucar Bitmonoc
+	Camshron Clodouan
+	Dindaethwy Deuroc Deurhoiarn Duenerth Dreuuallon Drihglur
+	Eumann Eglwysilan Elfereir Elys Eleclesast Elbraz
+	Farfog Framuual
+	Gosgorddfawr Greindour Gwyn Glanndour Guethen Guiuhomarch Gleuhedr
+	Hier Hovelius Hoiarnscoit Hoiarnscoet Hoeranviu Haernmael Haerueu
+	Iustibihan Iustikoz Ildorna Ilirigl Ilfaur Iarnanic Iungeneu Iscummarc
+	Kereonnec Kergoz Kerguelen Kergoat Kervren Keneu
+	Llwyd Ledewig Lawhir Llyngesoc Lannurien Laedti Loes Loiesbidoe Leuhemel
+	Meilirion Meirionydd Moilmut Meriadoc Marbinus Maengeneu Morliuuet Maelscuet Marcoc
+	Paladrhir Prydudd Penhoat Preselgar
+	Ricenus Rivoldus Rhys Rhydderch Rasconval Riuuallon Rualec
+	Seisyll Saer Serrigond
+	Trefmawr Turbervilla Tremadec Talhouarn Tanetuueten Tanetbidoe Tanalt Tanetbiu
+}
+
+ship_names = {
+	Audaciter "Aut Agere Aut Mori" "Abscissa Virescit" "Amo Probos" "Accendit Cantu" "Ab Obice Suavior"
+	Amphibalus "Acip Hoc" "At Spes Infracta" "Amor Patitur Moras" 
+	Confido "Consilio Non Petu" "Cause Causit" "Cruciata Cruce Junguntur" "Cursum Perficio" "Cave Adsum"
+	"Corda Serrata Pando"
+	"Decerptae Dabunt Odorum" "Dominus Providebit" "Dabit Otia Deus" "Diriget Deus" "Dulcius Ex Asperis"
+	"Durat Ditat Placet" "Dominus Dedit" "Dat Gloria Vires" "Deo Dono Sum Quod Sum" "Dulce Periculum"
+	Endelienta "Errantia Lumina Fallunt"
+	Fortiter "Fide Et Opera" "Fulget Virtus Intaminata" "Floreat Magestas" Fuimus "Fac Et Spera" "Feros Ferio"
+	"Fortiter Et Recte" "Fide Et Fortitudine" "Fides Sufficit" "Fortissima Veritas"
+	Gratianna
+	"Hoc Securior" "Hoc Majorum Virtus"
+	"Invictus Maneo" "In Promptu" "Instaurator Ruinae" "In Ardua Nitor" "In Te Domine Speravi"
+	Juliolus
+	"Lux In Tenebris"
+	Merito Metu "Marte Suo Tutus" "Magna In Parvo"
+	"Nec Cito Nec Tarde" "Non Inferiora Secutus" "Ne Obliviscaris" "Nunquam Non Paratus" "Non Degener"
+	"Ne Parcus Nec Spernas"
+	"Petit Alta" "Periissem Ni Periissem" "Pretiosum Quod Utile" "Pro Patria" Perseverando "Pax Aut Bellum"
+	"Promptus Et Fidelis" "Patientia Vincit" "Paratus Sum" "Per Ardua Ad Alta" "Per Varios Casus"
+	"Quid Clarius Astris" "Qui Conducit" "Quid Non Pro Patria"
+	Resurgam "Reupto Rore Nati"
+	Stabo "Sto Pro Veritate" "Serva Jugum" "Sola Virtus Nobilitat" "Spero Procedere" "Sub Sole Sub Umbra Virens"
+	Sextilius "Sero Sed Serio"
+	Teoda "Tutum Te Robore Reddam"
+	"Um Sim Paratior"
+	"Vincit Veritas" "Vive Deo Et Vives" "Virtutis Gloria Merces" "Virtutem Coronat Honos" "Vive Ut Vivas"
+	"Virtute Cresco"
+}

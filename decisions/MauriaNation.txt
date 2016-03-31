@@ -1,0 +1,40 @@
+country_decisions = {
+
+	mauria_nation = {
+		major = yes
+		potential = {
+			culture_group = new_world_african_group
+			OR = {
+				ai = no
+				AND = {
+					ai = yes
+					num_of_cities = 3	
+				}
+			}
+		}
+		allow = {
+			adm_tech = 10
+			is_subject = no
+			is_at_war = no
+			NOT = { exists = MRA }
+		}
+		effect = {
+			change_tag = MRA
+			#any_neighbor_province = {
+			#	limit = {
+			#		NOT = { owned_by = ROOT }
+			#		culture_group = new_world_african_group
+			#	}
+			#	add_claim = ROOT
+			#}
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}

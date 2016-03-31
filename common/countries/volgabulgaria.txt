@@ -1,0 +1,104 @@
+#Volga Bulgaria
+
+graphical_culture = easterngfx
+
+color = { 116  107  140 }
+
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	religious_ideas
+	spy_ideas
+	trade_ideas
+	diplomatic_ideas
+	economic_ideas
+	quality_ideas
+}
+
+historical_units = {
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
+
+monarch_names = {
+	"Toktu #2" = 30
+	"Sabin #1" = 20
+	"Kotrag #1" = 20
+	"Kuber #1" = 15
+	"Batbayan #1" = 15
+	"Kubrat #2" = 15
+	"Sevar #1" = 10
+
+	"Almish #0" = 0
+	"Andriyan #0" = 0
+	"Asparukh #0" = 0
+	"Atner #0" = 0
+	"Dergun #0" = 0
+	"Elteber #0" = 0
+	"Fargat #0" = 0
+	"Ghabdul #0" = 0
+	"Ille #0" = 0
+	"Keshtenttin #0" = 0	# Constantine?
+	"Kezhedey #2" = 0
+	"Krum #0" = 0
+	"Külerkin #0" = 0
+	"Malamir #0" = 0
+	"Nurutdin #0" = 0
+	"Omurtag #0" = 0
+	"Orunza #0" = 0
+	"Puresh #2" = 0
+	"Sespel #0" = 0
+	"Shilki #0" = 0
+	"Tutugek #0" = 0
+	"Vakrim #0" = 0
+}
+
+leader_names = {
+	Asagel Anatri Aygi Augal Altsikurs Amrak Apa Akhasir
+	Bezmer Burta Barsil Bilar Barskhan Beserman Bagrasik Bichurin Bersula Bagha Balanjar Bilar
+	Chelbir Celepi Cantak Chakarar
+	Dulo Djagfar Dirmar Duar Disuyuhan Doulun Dengshuzi Datans
+	Esegel Ermiyar
+	Husankaj Hutsze
+	Ishbara Issik Ishtemi Ilteber Illig
+	Kashgu Kupibulkar Küriyer Kangti Keluo Kozar Kidar Kazarig
+	Lir
+	Mishshi Mitta Mohotu Mumo Mangeti Muqan
+	Nigmatullin Nushibi Nagai
+	Olxontor
+	Pascatir Pilesh Pihouba Poluomen
+	Rangan
+	Serep Saragur Sundica Stasis Sampsi Shaz Shetu Suvar Sabir
+	Tawile Tekin Turi Tuktash Terbelis Teletzes Töremen Tardu Taspar Tunugui Tiefa Tatpar Tölis Tughruq
+	Ugain
+	Virjal Vitti Vokil Vestranna
+	Xwalis
+	Yiltabar Yardy
+	Zhenli
+}
+
+ship_names = {
+	Avitohol Atil
+	Bagatur "Biri Bagain" Boila "Ber Tengre" "Bumin Khan"
+	"Dokya Yugra" "Dergun Yugra"
+	Irnik
+	Khalga Kaban "Kardam Dulo"
+	Onoguria Organa
+	Qolovur
+	Subigi
+	"Thorbjorn Froni"
+	Uran
+}

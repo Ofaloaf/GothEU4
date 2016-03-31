@@ -1,0 +1,18 @@
+#213 - Barcelona
+
+owner = BRC
+controller = BRC
+add_core = BRC
+culture = hispanian
+religion = orthodox
+hre = yes
+base_tax = 6 
+base_production = 6
+trade_goods = wine 
+base_manpower = 3
+capital = "Barcino" 
+is_city = yes
+#discovered_by = western
+#discovered_by = eastern
+#discovered_by = muslim
+#discovered_by = ottoman

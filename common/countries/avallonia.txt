@@ -1,0 +1,126 @@
+# Avallonia
+
+graphical_culture = westerngfx
+
+color = { 81 145 107 }
+
+historical_idea_groups = {
+	trade_ideas
+	religious_ideas
+	maritime_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	spy_ideas
+	defensive_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	spanish_tercio
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Arthwr #0" = 70
+	"Costenhin #0" = 55
+	"Pedr #0" = 40
+	"Ieroni #0" = 35
+	"Iago #0" = 30
+	"Padrig #0" = 20
+	"Ysteffan #0" = 20
+	"Brutus #0" = 5
+
+	"Avitoria #0" = -5
+
+	"Aleisandr #0" = 0
+	"Bleddyn #0" = 0
+	"Cingen #0" = 0
+	"Cristian #0" = 0
+	"Donal #0" = 0
+	"Eirlan #0" = 0
+	"Emanuel #0" = 0
+	"Ephraim #0" = 0
+	"Eudaf #0" = 0
+	"Garmon #0" = 0
+	"Gelhig #0" = 0
+	"Gereint #0" = 0
+	"Gioffri #0" = 0
+	"Gion #0" = 0
+	"Gregor #0" = 0
+	"Hiram #0" = 0
+	"Icorig #0" = 0
+	"Iosep #0" = 0
+	"Isaac #0" = 0
+	"Ivor #0" = 0
+	"Kenan #0" = 0
+	"Luc #0" = 0
+	"Marc #0" = 0
+	"Migangel #0" = 0
+	"Nigol #0" = 0
+	"Pawl #0" = 0
+	"Senorig #0" = 0
+	"Serigi #0" = 0
+	"Tegid #0" = 0
+	"Teilo #0" = 0
+	"Tiberius #0" = 0
+	"Trallon #0" = 0
+	"Urien #0" = 0
+	"Ystin #0" = 0
+	"Yuil #0" = 0
+}
+
+leader_names = {
+	Arblasterio "de Alba Domo" Abbas Ajax Athoe Alban Anwyl Aydadar
+	"di Blethin" Burnel "di Bruerya" "di Bridtyr" Bebbe Bach Blaenau Bohun Bithell Bailidur Barfeir Bryne
+	Criu Cloyt Crutheur "di Cumhir" Cantor Cadwgan Carew Crythor Conwy Cwna Cron Cynwrig Cnaitho Canyd
+	Du Dafydd Dyfnallt Danielus Dilacharn
+	"ab Einws" Elysedd Elias Ednyfed
+	Fflam Freichfras Felix Follant Ffeirth
+	Goch Glaswen "di Goinet" Gadarn Gethin Gruffydd Gwalchmai Gwilt Gwynn
+	Hiruein Hen Heilyn Hier Hoel
+	Iefan
+	Kenig "ap Keuenerth" "di Keueilliauc" "di Karno"
+	"di Llineguestl" "di Lanternia" Landeg Llewelyn Lleision
+	"de Mar" "di Meyuod" "di Mungumeri" Mabe Madog Mathias Mendus Meilyr Milo Mostyn Meurig Muin
+	"di Novell" Nannau
+	"ap Owain"
+	Paruus "del Pech" Pigot Preco "di Pola" Pascall Peregrinus Prosser Pryderch Pengras
+	"ap Rhys" Ruffus
+	Seis Seithmarchog "di Stradfler"
+	Tyu "di Trefwern"
+	Uates
+}
+
+ship_names = {
+	"Artorius Magnus" Arthas Astolat Affant Aerell Agygl Amhossibl Annarfinal Annibenhal Arddent Astyd Atlenhidd Aydant
+	Boudicca Bagdemagus Beldad Briw Buddegheir
+	Caliburnus Camulodunum Corbenic Claudas Cancelleir Catafol Ciwil Cleidd Coffereint Comathadur Comisseir Costidydiwn
+	Dagonet Debeident Dawent Dewin Dewrad Diawl Dilyw Direithur "Don " Dughedeg
+	Eboracum Eliffan Enifal
+	Ffarug Ffedderediwn
+	Gorlois Gradalis Gaheris
+	Hoel
+	Josephus
+	Lucius
+	Nennius
+	Rhebidd Rhediwn Rheithur Rhicheid Rhis
+	Sadig Salfun Sar Sion Soch Siniffigadiw
+	Uthyr
+}
+
+army_names = {
+	"Ysserchid di %PROVINCE%"
+}
+
+# Lethowsow - Lyonesse

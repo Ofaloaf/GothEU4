@@ -1,0 +1,19 @@
+#246 - Northumberland
+
+owner = CMB
+controller = CMB
+culture = cumbric
+religion = orthodox
+hre = no
+base_tax = 5
+base_production = 5
+trade_goods = cloth
+base_manpower = 3
+capital = "Pons Aelius"
+#fort_15th = yes
+is_city = yes
+add_core = CMB
+#discovered_by = western
+#discovered_by = muslim
+#discovered_by = ottoman
+#discovered_by = eastern

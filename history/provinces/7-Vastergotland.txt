@@ -1,0 +1,19 @@
+#Västergötland, contains Göteborg, Skara, Skövde etc.
+
+add_core = GTR
+owner = GTR
+controller = GTR
+culture = geatish
+religion = orthodox
+hre = no
+base_tax = 3 
+base_production = 3
+trade_goods = grain
+base_manpower = 3
+ #Old Älvsborg Castle
+capital = "Skara"
+estate = estate_church #Skara, Brynolfsbo/Brunsbo
+is_city = yes
+ #"Domkyrkan i Skara"
+
+

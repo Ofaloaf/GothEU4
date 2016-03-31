@@ -1,0 +1,170 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+random_nation_chance = 0
+
+color = { 52 53 144 }
+
+colonial_parent = CTH
+
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	economic_ideas
+	religious_ideas
+	maritime_ideas
+	plutocracy_ideas
+	spy_ideas
+	offensive_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_longbow
+	gaelic_mercenary
+	gaelic_free_shooter
+	irish_charge
+	anglofrench_line
+	british_redcoat
+	british_hussar
+	british_square
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Constantinus #0" = 50
+	"Antonino #0" = 40
+	"Didago #0" = 30
+	"Gercorio #0" = 30
+	"Leo #0" = 20
+	"Romulus #0" = 10
+
+	"Avolina #0" = -5
+	"Iohanne #0" = -5
+	"Kellula #0" = -3
+	"Maria #0" = -5
+	"Marta #0" = -5
+	"Ostabia #0" = -3
+
+	"Abdias #0" = 0
+	"Amorolino #0" = 0
+	"Antenato #0" = 0
+	"Aurus #0" = 0
+	"Barva #0" = 0
+	"Belacco #0" = 0
+	"Besilio #0" = 0
+	"Blandu #0" = 0
+	"Bonimenzo #0" = 0
+	"Bitaco #0" = 0
+	"Caros #0" = 0
+	"Cardello #0" = 0
+	"Conparato #0" = 0
+	"Clodiano #0" = 0
+	"Dadeo #0" = 0
+	"Dedon #0" = 0
+	"Domno #0" = 0
+	"Eolalio #0" = 0
+	"Elyas #0" = 0
+	"Effronio #0" = 0
+	"Egenio #0" = 0
+	"Facundus #0" = 0
+	"Ferrocinto #0" = 0
+	"Felix #0" = 0
+	"Fulvidio #0" = 0
+	"Galiano #0" = 0
+	"Gaudenzo #0" = 0
+	"Ignatius #0" = 0
+	"Iacob #0" = 0
+	"Iaquinti #0" = 0
+	"Iose #0" = 0
+	"Ioab #0" = 0
+	"Lalan #0" = 0
+	"Ligo #0" = 0
+	"Luzo #0" = 0
+	"Mallaton #0" = 0
+	"Manuel #0" = 0
+	"Mariolus #0" = 0
+	"Moino #0" = 0
+	"Marcello #0" = 0
+	"Nigolago #0" = 0
+	"Nebucano #0" = 0
+	"Octavio #0" = 0
+	"Osevio #0" = 0
+	"Osormeo #0" = 0
+	"Patrino #0" = 0
+	"Paterno #0" = 0
+	"Pantaleon #0" = 0
+	"Paulo #0" = 0
+	"Penti #0" = 0
+	"Perello #0" = 0
+	"Placidio #0" = 0
+	"Quinto #0" = 0
+	"Quiriacus #0" = 0
+	"Reles #0" = 0
+	"Salomon #0" = 0
+	"Salvator #0" = 0
+	"Sancio #0" = 0
+	"Santon #0" = 0
+	"Sexto #0" = 0
+	"Simeon #0" = 0
+	"Severo #0" = 0
+	"Stevanus #0" = 0
+	"Symphonio #0" = 0
+	"Theofilo #0" = 0
+	"Tiyon #0" = 0
+	"Thomas #0" = 0
+	"Todosio #0" = 0
+	"Timotheus #0" = 0
+	"Valscus #0" = 0
+	"Venatori #0" = 0
+	"Viator #0" = 0
+	"Vivenzu #0" = 0
+	"Vitus #0" = 0
+	"Yspanni #0" = 0
+	"Zarraco #0" = 0
+	"Zacharias #0" = 0
+}
+
+leader_names = {
+	Aureliense Atacapus
+	Blasco Bidai
+	"de Cucalissa" "de Concordia" Caouaca Citimacus "de Cartagiola" Cosatta Chisca
+	Dedoso Dento
+	Fronto
+	Isaacius Iuccis
+	Lacopspel
+	Melancon
+	Novan Natsei
+	"d'Ouma" Opelosius Orcoquiza
+	Petaros Piscator "de Palisema"
+	"de Quigato"
+	"de Toletino" "de Tarrago" Teche Talis
+	Uspa
+	Viriaco Vasas Vilcan
+	Yalooba
+}
+
+ship_names = {
+	Atchafalaya Alexandria Angelina Anlico
+	"Bah'hatteno" Biloxi
+	Caput Copiah Colita Curaca Casqui Chawasha
+	Franciscus
+	Gichissippi
+	Hallus Homochitto
+	Kiamichi Katcosioc
+	Lilium Lotus Lattanash
+	Magnolia Memphis
+	Nymphaea
+	Offagoula
+	Palisema Pacaha Pascagoula "Pantch Pinankanc"
+	Quassarte Quigate
+	Tallahatchie Tonkawa Tyronza
+	Veritas Volsinchiki
+	Xylinum
+	Yazoo Yalobusha Yaganechito
+}

@@ -1,0 +1,21 @@
+#Gotland- Visby etc
+
+owner = GTR
+controller = GTR
+add_core = GOT
+add_core = GTR
+culture = geatish
+religion = orthodox
+hre = no
+base_tax = 4 
+base_production = 4
+trade_goods = wool
+base_manpower = 2
+ # Visborg Castle
+capital = "Visby"
+is_city = yes
+fort_15th = yes
+estate = estate_burghers
+
+
+

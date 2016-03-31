@@ -1,0 +1,89 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+colonial_parent = GTH
+random_nation_chance = 0
+
+color = { 48 83 224 }
+
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+	administrative_ideas
+	economic_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	spanish_tercio
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Julius #0" = 20
+	"Constantinus #0" = 20
+	"Cassius #0" = 10
+
+	"Abraham #0" = 0
+	"Benedictus #0" = 0
+	"David #0" = 0
+	"Ezra 30" = 0
+	"Hyrcanus #0" = 0
+	"Israel #0" = 0
+	"Jahaziel #0" = 0
+	"Joram #0" = 0
+	"Josaphat #0" = 0
+	"Omri #0" = 0
+	"Roboam #0" = 0
+	"Saul #0" = 0
+	"Solomon #0" = 0
+	"Thaddeus #0" = 0
+}
+
+leader_names = {
+	Albiol Amargós Argentat
+	Baldoví Bayarri Blanca
+	Carbonel Castelar Ciach Civilla Cols Comes Coscolano Corder
+	Elies Esbri Esapreguera Espardenyer
+	Fresquet Fabregat Ferriols Fita Forcadell Freixens Ferrer
+	Gonbaul Garsiet Giner Gisbertus Gonbarder
+	Lenno Lopis
+	Miralles Montoliu Mundo Mironino
+	Ninou Nicholau
+	Ortis
+	Palas Planella Pomar Puig
+	Raedor "del Rio" Reboleda
+	Serrat Samella Saura Segarra Serrada
+	Teixidor
+	Vals Vidiella
+}
+
+ship_names = {
+	Escanab
+	Gogebic
+	Hiawatha Huron
+	Ionia
+	Kalamazoo Kaliminik Killomick Keweenaw Keskkauko Kankakee
+	Lenawai
+	Michilimackinac Meskousing Ministigweya Mecosta Menominee Missaukee Muskegeon Milwaukee
+	Newaygo Nanaquiba
+	Ohio Ogimaw Ontonagon Owashtanong Omeena Odeon
+	Potawatomi Pontiac Peshibon
+	Saginaw Shabwegan Sanilac Shaiwassee
+	Wyandot
+}

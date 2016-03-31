@@ -1,0 +1,15 @@
+# Loon
+owner = TOX
+controller = TOX
+add_core = TOX
+is_city = yes
+capital = "Loon"
+culture = rhenish
+religion = orthodox
+hre = yes
+base_tax = 6
+base_production = 6
+trade_goods = cloth
+base_manpower = 2
+
+

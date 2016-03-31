@@ -1,0 +1,187 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 82 120 48 }
+
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	religious_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	offensive_ideas
+	spy_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	prussian_uhlan
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Tiuderic #0" = 50
+	"Alaric #0 " = 40
+	"Ainric #0" = 35
+	"Alexandre #0" = 35
+	"Atalaric #0" = 30
+	"Caraules #0" = 25
+	"Audon #0" = 25
+	"Cunstantin #0" = 20
+	"Liun #0" = 20
+	"Guillemó #0" = 20
+	
+	"Aleida #0" = -1
+	"Cordula #0" = -1
+	"Froiloba #0" = -1
+
+	"Agust #0" = 0
+	"Agilulf #0" = 0
+	"Alffonsus #0" = 0
+	"Aloito #0" = 0
+	"Andrai #0" = 0
+	"Antemi #0" = 0
+	"Antunin #0" = 0
+	"Aram #0" = 0
+	"Ardo #0" = 0
+	"Atila #0" = 0
+	"Audoacre #0" = 0
+	"Avit #0" = 0
+	"Aznar #0" = 0
+	"Barral #0" = 0
+	"Bartoumiéu #0" = 0
+	"Blasi #0" = 0
+	"Bruno #0" = 0
+	"Centolh #0" = 0
+	"Clamenç #0" = 0
+	"Claudi #0" = 0
+	"Cunstanci #0" = 0
+	"Dat #0" = 0
+	"Dàvi #0" = 0
+	"Diaco #0" = 0
+	"Dodon #0" = 0
+	"Eraric #0" = 0
+	"Ervige #0" = 0
+	"Estilicó #0" = 0
+	"Evaric #0" = 0
+	"Filip #0" = 0
+	"Frederi #0" = 0
+	"Froila #0" = 0
+	"Gauteric #0" = 0
+	"Gilbèrt #0" = 0
+	"Gonçalo #0" = 0
+	"Goar #0" = 0
+	"Gudafres #0" = 0
+	"Guitart #0" = 0
+	"Guttier #0" = 0
+	"Ildebad #0" = 0
+	"Immanuèl #0" = 0
+	"Istève #0" = 0
+	"Jacme #0" = 0
+	"Jaufret #0" = 0
+	"Jehanel #0" = 0
+	"Joan #0" = 0
+	"Jorge #0" = 0
+	"Juli #0" = 0
+	"Laurènç #0" = 0
+	"Lodoycus #0" = 0
+	"Lucàs #0" = 0
+	"Macias #0" = 0
+	"Magne #0" = 0
+	"Marçau #0" = 0
+	"Martin #0" = 0
+	"Matfrei #0" = 0
+	"Matias #0" = 0
+	"Maurici #0" = 0
+	"Melén #0" = 0
+	"Miquel #0" = 0
+	"Nicaulas #0" = 0
+	"Olban #0" = 0
+	"Ordonno #0" = 0
+	"Pèitre #0" = 0
+	"Pascalis #0" = 0
+	"Pol #0" = 0
+	"Pons #0" = 0
+	"Pradas #0" = 0
+	"Quintil #0" = 0
+	"Raimond #0" = 0
+	"Ramir #0" = 0
+	"Romà #0" = 0
+	"Sans #0" = 0
+	"Savarics #0" = 0
+	"Simaun #0" = 0
+	"Sidauni #0" = 0
+	"Suneario #0" = 0
+	"Sever #0" = 0
+	"Suer #0" = 0
+	"Symmachus #0" = 0
+	"Tiudòsi #0" = 0
+	"Telo #0" = 0
+	"Tiudor #0" = 0
+	"Tumas #0" = 0
+	"Tiudemir #0" = 0
+	"Turismau #0" = 0
+	"Urbanus #0" = 0
+	"Úlfila #0" = 0
+	"Vitimir #0" = 0
+	"Viteges #0" = 0
+	"Veremundo #0" = 0
+	"Walia #0" = 0
+}
+
+leader_names = {
+	"d'Avenas" "d'Ansa" "d'Ararajovis" "d'Azœlètes"
+	Bruyas "de Bron" "de Bagnols" "de Bibost" "de Bulyi" Badel "de Balbeu"
+	"de Carleu" "de Cenvenna" "de Cassanus" "de Clavesoli" "de Cominiaco"
+	Daza "de Daniceus" "de Diurnus"
+	"de Frontenas" "de Floriac"
+	Gaido "de Gaunus" "de Grandris" Galilei
+	"de Jocus" "de Juliacum"
+	"de Liun" "de Laniacus" "de Lentiniacum" "de Létra" "de Limans" "de Lozana"
+	Mera "de Matiscone" "de Milyeri" "de Madisus" "de Marennas" "de Monciocus" "de Massimiau" Merla Menendi
+	"d'Odenas"
+	Petri "de Pullenai" "de Pusiniau"
+	Rainal "de Ronno" "de Rantalona"
+	Spadiggs "de Savernas"
+	"de Theizé" "de Tusciaco" "de Taponas" "de Thel"
+	Ultrobon
+	Vidal "de Vallibus"
+	"d'Ycon"
+}
+
+ship_names = {
+	"Asa Paulini" Augustodunum Andeolus Alienòr
+	Bibracte Borvo
+	Cristina
+	Divitiacus
+	Gallicus Gotina
+	Janus
+	Lugdunum Lagnus
+	Mummadomna Mansuara
+	Rhodanus Rodelina Rosimunda
+	"Sant Liubald"
+	Turdine Tegridia
+	Vithericopolis
+}
+
+army_names = {
+	"Armada de $PROVINCE$" 
+}
+
+fleet_names = {
+	"Fluta de $PROVINCE$"
+}

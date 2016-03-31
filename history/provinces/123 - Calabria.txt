@@ -1,0 +1,18 @@
+#123 - Calabria
+
+owner = SMN
+controller = SMN
+culture = lat_sicilian 
+religion = orthodox
+hre = no 
+base_tax = 2 
+base_production = 2
+trade_goods = fish
+base_manpower = 2
+capital = "Rhegium"
+is_city = yes 
+add_core = SMN
+#discovered_by = western
+#discovered_by = eastern
+#discovered_by = muslim
+#discovered_by = ottoman

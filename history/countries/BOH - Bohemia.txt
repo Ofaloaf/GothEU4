@@ -1,0 +1,6 @@
+government = feudal_monarchy
+primary_culture = czech
+religion = catholic
+capital = 266 # Praha
+technology_group = western
+add_accepted_culture = saxon

@@ -1,0 +1,148 @@
+# Cuba
+
+graphical_culture = westerngfx
+
+color = { 38 102 38 }
+
+colonial_parent = CTH
+
+historical_idea_groups = {
+	trade_ideas
+	maritime_ideas
+	defensive_ideas
+	economic_ideas
+	spy_ideas
+	religious_ideas
+	offensive_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	italian_condotta
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Fulgensiu #0" = 50
+	"Costantinu #0" = 40
+	"Agustinu #0" = 35
+	"Andreu #0" = 30
+	"Basili #0" = 30
+	"Antzioghu #0" = 30
+	"Alexandru #0" = 20
+	"Donatu #0" = 20
+
+	"Constantza #0" = -5
+	"Clementza #0" = -5
+	"Bitoria #0" = -5
+
+	"Aderbalu #0" = 0
+	"Adrinu #0" = 0
+	"Alvu #0" = 0
+	"Amvrossu #0" = 0
+	"Antoni #0" = 0
+	"Arzoghu #0" = 0
+	"Barore #0" = 0
+	"Bassu #0" = 0
+	"Bincentze #0" = 0
+	"Binmelcar #0" = 0
+	"Capussa #0" = 0
+	"Ciprane #0" = 0
+	"Comita #0" = 0
+	"Cosamu #0" = 0
+	"Danel #0" = 0
+	"Domnigu #0" = 0
+	"Egidiu #0" = 0
+	"Evisu #0" = 0
+	"Firmu #0" = 0
+	"Floru #0" = 0
+	"Galazi #0" = 0
+	"Garmelu #0" = 0
+	"Gasparru #0" = 0
+	"Gavinu #0" = 0
+	"Gavrielu #0" = 0
+	"Gregoriu #0" = 0
+	"Habetdeus #0" = 0
+	"Ignatziu #0" = 0
+	"Irgennu #0" = 0
+	"Isalca #0" = 0
+	"Jagu #0" = 0
+	"Johannei #0" = 0
+	"Josto #0" = 0
+	"Juba #0" = 0
+	"Lattantzi #0" = 0
+	"Lorentzi #0" = 0
+	"Luca #0" = 0
+	"Luciu #0" = 0
+	"Magrovi #0" = 0
+	"Marcu #0" = 0
+	"Mazigh #0" = 0
+	"Metaxsu #0" = 0
+	"Micheli #0" = 0
+	"Migeli #0" = 0
+	"Nartzalu #0" = 0
+	"Nicola #0" = 0
+	"Nubelu #0" = 0
+	"Ospitone #0" = 0
+	"Pascale #0" = 0
+	"Paulu #0" = 0
+	"Petru #0" = 0
+	"Pompeju #0" = 0
+	"Porcellu #0" = 0
+	"Pretu #0" = 0
+	"Rafiele #0" = 0
+	"Romaeus #0" = 0
+	"Salomon #0" = 0
+	"Siminion #0" = 0
+	"Stefanu #0" = 0
+	"Stembanu #0" = 0
+	"Teodore #0" = 0
+	"Teofanu #0" = 0
+	"Tobias #0" = 0
+	"Tomassu #0" = 0
+	"Tulemeju #0" = 0
+	"Urse #0" = 0
+	"Zabarda #0" = 0
+}
+
+leader_names = {
+	Arru Alziator Araolla "de Arbarèe" Asàra
+	Broccu Bandinu Bodei Boffo
+	Cabras Cadeddu Calvia Cambosu Canalis Carta Casula Cau Cossu Cubeddu Cuccu Còntene Columbu
+	Dessì Deledda
+	Fara Farina Fresu
+	Ghessa Grauso
+	Loi "De Lunas" "dae Làconi" Loddo Ledda Lara Lussu
+	Mannu Marras Masu Melis Murgia Mossa
+	Niffoi "de Neoneli" Nivola
+	Ortu
+	Poddighe Pinna Paulis Pes Pinna Piras
+	Sini Sau Sari Salis Sanna Sassu Satta Schirru Sciola Siddi Soru
+	Vico
+	"de Torres"
+	Zatrilla Zola
+}
+
+ship_names = {
+	Amatashta Abdanita
+	Baguanao Brizuela
+	Cacicaná Caguax Canimao Caracamisa Casiguaya
+	Guamá Guacumao Guaicaba Guayacayex
+	Habaguanex Haübey
+	Jibacoa
+	Mabey Macaca Manatiguahuraguana Maniabón
+	Ornofay
+	Tínima
+	Yacagüex Yacahüey Yahíma
+}

@@ -1,0 +1,123 @@
+# Carantania
+
+graphical_culture = westerngfx
+
+color={ 178 163 143 }
+revolutionary_colors = { 0  14  0 }
+
+historical_idea_groups = {
+	economic_ideas
+	defensive_ideas
+	diplomatic_ideas
+	offensive_ideas
+	innovativeness_ideas
+	quantity_ideas
+	administrative_ideas
+	religious_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Ladislav #3" = 30
+	"Drzislav #1" = 20
+	"Borna #1" = 15
+	"Pribislav #1" = 15
+	"Gregur #2" = 15
+	"Kulin #1" = 10
+	"Etgar #1" = 10
+	"Ljedvit #1" = 10
+	"Cheitmar #1" = 10
+	"Boruth #1" = 5
+
+	"Kresimira #1" = -5
+	"Mirica #1" = -5
+	"Mutimira #1" = -5
+	"Borislava #1" = -5
+
+	"Addac #0" = 0
+	"Andrej #0" = 0
+	"Arsen #0" = 0
+	"Ashkatar #0" = 0
+	"Bogo #0" = 0
+	"Chrtomir #0" = 0
+	"Dragotin #0" = 0
+	"Franc #0" = 0
+	"Georgei #0" = 0
+	"Gorazd #0" = 0
+	"Hrvoje #0" = 0
+	"Juraj #0" = 0
+	"Kocelj #0" = 0
+	"Kristo #0" = 0
+	"Ljutomisl #0" = 0
+	"Matej #0" = 0
+	"Modest #0" = 0
+	"Moseguo #0" = 0
+	"Nicolaus #0" = 0
+	"Ninoslav #0" = 0
+	"Petar #0" = 0
+	"Primozh #0" = 0
+	"Ratimir #0" = 0
+	"Ruodo #0" = 0
+	"Sebastijan #0" = 0
+	"Svetopolk #0" = 0
+	"Tomislav #0" = 0
+	"Valtunk #0" = 0
+	"Viseslav #0" = 0
+	"Vran #0" = 0
+	"Zdeslav #0" = 0
+}
+
+leader_names = {
+	Boto Bibic Bohoric Bozhic Belca
+	Gamba Gerbic
+	Hocevar Hrovat Hribar Hervard
+	Jancar Janeshitsh Jansa Jurkovic
+	Kopitar Krelj Kuk Kappus Kokail Karpe Klemencic Kos Korosec Kotnik Kovacs Krajnc Kasaze
+	Mikolitsch Masek Modic Marusic
+	Nepomuk
+	Osovnikar
+	Pirogerij Pohlin Pilgram Pobodnik Potocnik Podjed Pavlin Podgornik
+	Ramovs Ruzzaevic
+	Strojan
+	Tsarazon Trubar Tschop
+	Vehovec Volcic
+	Zois Zajec
+}
+
+ship_names = {
+	Auspurk Anisus Aguntum
+	Biatec "Borislaua Fomina" Bojevnik Borka Brezmadezhno
+	Cacatius Celeia
+	Dunaj Dostojanstvo
+	"Flavia Solva"
+	"Gregorius Fominus" Gradec
+	Inomost
+	Jadrovnica
+	"Kralj Boruth" Krokar
+	Lovec Lisica Legionarske Lauriacum
+	"Marsilius Hieronides Leo" Matichek Morskivolk "Morski Pes"
+	Noricum Neodvisnost Neomadezevan Nepremagljiv Mroz Mecarica
+	Orel Ovilava
+	Postovka Prvak
+	Rhezno Rajhenpurk
+	Solnograd Stajerska Savaria Semika Samo Sokol
+	Teurnia
+	Vrabec Vindobona Vindelicia Virunum Velicasten Veleligenj
+	Znojmo Zelezna
+}

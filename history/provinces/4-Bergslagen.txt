@@ -1,0 +1,17 @@
+#Bergslagen, contains Falun, Västerås etc.
+
+add_core = GTR
+add_core = SWE
+owner = GTR
+controller = GTR
+culture = swedish
+religion = orthodox
+hre = no
+base_tax = 2 
+base_production = 2
+trade_goods = iron
+base_manpower = 2
+capital = "Västerås"
+is_city = yes
+
+

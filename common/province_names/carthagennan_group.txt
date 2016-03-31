@@ -1,0 +1,54 @@
+87 = "Calesium"
+88 = "Atrebatensis"
+89 = "Suessionensis"
+90 = "Brugga"
+93 = "Legia"
+167 = "Rotomagus"
+184 = "Aurelianum"
+187 = "Caturices"
+190 = "Borvonia"
+192 = "Divio"
+193 = "Vesantio"
+195 = "Lemovicia"
+196 = "Tolosa"
+197 = "Ruscino"
+199 = "Arvernia"
+201 = "Provincia"
+202 = "Avennio"
+203 = "Lugdunensis"
+204 = "Viennensis"
+211 = "Pyrenai"
+212 = "Gerunda"
+214 = "Caesaraugusta"
+220 = "Valentia"
+221 = "Carthago Nova"
+222 = "Bastetania"
+223 = "Granata"
+224 = "Hispalensis"
+225 = "Cordubensis"
+226 = "Mons Calpe"
+
+# Alleghania
+958 = "Calpiana"
+962 = "Rancocus"
+963 = "Esopus"
+964 = "Maunclinensis"
+965 = "Novum Eboracum"
+2555 = "Numancia"
+2558 = "Fluminanas"
+
+# Brazil
+763 = "Portus Januarius"
+2890 = "Interamnia"
+
+# Equinoctialia
+830 = "Cyneticum"
+2806 = "Histriola"
+2813 = "Novataga"
+
+# Floridia
+927 = "Sanctus Augustinus"
+
+# Louisiana
+893 = "Cartagiola"
+2014 = "Concordia"

@@ -1,0 +1,18 @@
+# 86 - Munster
+
+owner = FRK
+controller = FRK
+culture = oostfranken
+religion = orthodox
+trade_goods = cloth
+capital = "Münster"
+base_tax = 4
+base_production = 4
+base_manpower = 2
+is_city = yes
+hre = no
+add_core = FRK
+#discovered_by = eastern
+#discovered_by = western
+#discovered_by = muslim
+#discovered_by = ottoman

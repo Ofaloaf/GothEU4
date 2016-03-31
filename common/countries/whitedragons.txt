@@ -1,0 +1,149 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 193  26  14 }
+
+revolutionary_colors = { 5  13  0 }
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	exploration_ideas
+	offensive_ideas
+	innovativeness_ideas
+	economic_ideas
+	spy_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	prussian_frederickian
+	prussian_uhlan
+	prussian_drill
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Wiglaf #1" = 30
+
+	"Alcuin #0" = 0
+	"Ælfwald #0" = 0
+	"Æþelgar #0" = 0
+	"Aelbert #0" = 0
+	"Adelard #0" = 0
+	"Æthelberht #0" = 0
+	"Æthelwine #0" = 0
+	"Ælfwig #0" = 0
+	"Bæda #0" = 0
+	"Beornred #0" = 0
+	"Bartholomeus #0" = 0
+	"Byrnwold #0" = 0
+	"Burgred #0" = 0
+	"Byrnstan #0" = 0
+	"Brifard #0" = 0
+	"Blacwin #0" = 0
+	"Bertulf #0" = 0
+	"Calemund #0" = 0
+	"Cædmon #0" = 0
+	"Carl #0" = 0
+	"Cerdic #0" = 0
+	"Cenwulf #0" = 0
+	"Cenhelm #0" = 0
+	"Cenfus #0" = 0
+	"Ceadda #0" = 0
+	"Conrad #0" = 0
+	"Cornelius #0" = 0
+	"Constantinus #0" = 0
+	"Ceredig #0" = 0
+	"Clarembald #0" = 0
+	"Coengilsus #0" = 0
+	"Cuthbert #0" = 0
+	"Dunnere #0" = 0
+	"Dauid #0" = 0
+	"Digoth #0" = 0
+	"Drythelm #0" = 0
+	"Dunecan #0" = 0
+	"Eadda #0" = 0
+	"Eadger #0" = 0
+	"Eadward #0" = 0
+	"Elis #0" = 0
+	"Eadric #0" = 0
+	"Ealdwin #0" = 0
+	"Eadmund #0" = 0
+	"Ealdwold #0" = 0
+	"Dunstan #0" = 0
+	"Dryhthelm #0" = 0
+	"Ecgberht #0" = 0
+	"Eanflæd #0" = 0
+	"Gewis #0" = 0
+	"Godric #0" = 0
+	"Hædde #0" = 0
+	"Hacon #0" = 0
+	"Heanric #0" = 0
+	"Harold #0" = 0
+	"Honorius #0" = 0
+	"Iohannes #0" = 0
+	"Iwig #0" = 0
+	"Iacobus #0" = 0
+	"Magnus #0" = 0
+	"Osric #0" = 0
+	"Ohthere #0" = 0
+	"Swiþhun #0" = 0
+	"Sigeberht #0" = 0
+	"Thurstan #0" = 0
+	"Theonus #0" = 0
+	"Willibrord #0" = 0
+	"Wilfrid #0" = 0
+	"Wulfstan #0" = 0
+	"Wigelin #0" = 0
+	"Willelm #0" = 0
+}
+
+leader_names = {
+	Æscleah Adlam Alden Æcerman Æhteman Arewe Ægenworþ Arcwright Æsc Attwæter
+	Broc Beorhyrde Beorscealc Byrle Beocorl Bucleah Bacanhus Baggaleah Beancroft Barken Bœrnet Bassus Beccaham Blœc
+	Blac Bliþaworth Bloccsham Blythe Ban Bothman Brœser Brakenrigge Brunlowe Burne
+	Ceapman Cipemann Cræftiga Cerneu Carpentarius Cartwright Clerec Cliftun Colwudu Colastun Cori Cummingas Criu
+	Crawaford
+	Dene Deoringas Dicun Dicheman Duddaleah Dunn Dweorhus
+	Elmedsæte Ealdor Eating Ehtere Earþling Eadwulfing Ealdwinbergh Eir Eorl
+	Fulhtere Feormere Fearnburna Feare
+	Goldsmiþ Gafolgylda Gecoren Gebur
+	Horswealh Hasæta Härke Hardingas Hammett
+	Iceling Innes
+	Lang Lundenware
+	Mundbora
+	Portgeráfa
+	Rugge
+	Scefing Smiþ Stark Snotingas
+	Weall Wætling
+}
+
+ship_names = {
+	Aldormon Anaudat Anglia
+	Beowulf Brytenwalda Baiulus Bernicia
+	Cyning Cynehild Beornflæd Cantia Cantwareburh
+	Dryhtendom Draca Deira
+	Engel Eoforwic
+	Frumsceaft
+	Godiva Gildas
+	Hengist Horsa
+	Lindesege Lindum Lindisfarena
+	Morgenne Mægen Maria "Mons Badonicus"
+	Nennius Northumbria
+	"Scyld Scefing" "Sanct Augustinus" Signe "Sanct Georgius" "Sanct Paulinus" Streanæshalch
+	Uictoria
+	Valdrade
+	Westmynster
+}

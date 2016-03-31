@@ -1,0 +1,14 @@
+# - Arezzo
+
+owner = LRM
+controller = LRM
+culture = lat_roman
+religion = orthodox 
+hre = yes 
+base_tax = 6
+base_production = 6
+trade_goods = grain
+base_manpower = 2
+capital = "Arretium" 
+is_city = yes # Estimated 
+add_core = LRM

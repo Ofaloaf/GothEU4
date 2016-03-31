@@ -1,0 +1,152 @@
+# Divio
+
+graphical_culture = westerngfx
+
+color = { 218 224 228 }
+
+historical_idea_groups = {
+	administrative_ideas
+	defensive_ideas
+	trade_ideas
+	economic_ideas
+	offensive_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	expansion_ideas
+}
+
+historical_units = {
+	halberd_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	french_caracolle
+	anglofrench_line
+	french_dragoon
+	french_bluecoat
+	french_cuirassier
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Cunstantin #0" = 10
+
+	"Atalaric #0" = 0
+	"Avit #0" = 0
+	"Audoacre #0" = 0
+	"Aymericus #0" = 0
+	"Barral #0" = 0
+	"Bartoumiéu #0" = 0
+	"Belisari #0" = 0
+	"Blasi #0" = 0
+	"Caraules #0" = 0
+	"Centolh #0" = 0
+	"Clamenç #0" = 0
+	"Claudi #0" = 0
+	"Dàvi #0" = 0
+	"Diaco #0" = 0
+	"Doumenge #0" = 0
+	"Duran #0" = 0
+	"Ermengau #0" = 0
+	"Ervige #0" = 0
+	"Eraric #0" = 0
+	"Filip #0" = 0
+	"Fulc #0" = 0
+	"Froila #0" = 0
+	"Flaín #0" = 0
+	"Frodoí #0" = 0
+	"Gausbert #0" = 0
+	"Guillemó #0" = 0
+	"Gomé #0" = 0
+	"Guidéric #0" = 0
+	"Ives #0" = 0
+	"Istève #0" = 0
+	"Jacme #0" = 0
+	"Jorge #0" = 0
+	"Jehan #0" = 0
+	"Josèp #0" = 0
+	"Laurènç #0" = 0
+	"Lozoïc #0" = 0
+	"Lup #0" = 0
+	"Leuberic #0" = 0
+	"Lixandre #0" = 0
+	"Martin #0" = 0
+	"Matfrei #0" = 0
+	"Matias #0" = 0
+	"Miquel #0" = 0
+	"Marc #0" = 0
+	"Magne #0" = 0
+	"Narseis #0" = 0
+	"Nicaulas #0" = 0
+	"Nicodim #0" = 0
+	"Oia #0" = 0
+	"Oveco #0" = 0
+	"Ordonno #0" = 0
+	"Olban #0" = 0
+	"Pèitre #0" = 0
+	"Pascalis #0" = 0
+	"Pol #0" = 0
+	"Raimond #0" = 0
+	"Raugier #0" = 0
+	"Rodericho #0" = 0
+	"Riculf #0" = 0
+	"Ranimiro #0" = 0
+	"Sans #0" = 0
+	"Savarics #0" = 0
+	"Sidauni #0" = 0
+	"Tièrri #0" = 0
+	"Tiuderic #0" = 0
+	"Turismau #0" = 0
+	"Telo #0" = 0
+	"Tacite #0" = 0
+	"Ubald #0" = 0
+	"Uc #0" = 0
+	"Vézian #0" = 0
+	"Veremundo #0" = 0
+	"Vigitino #0" = 0
+	"Wifredo #0" = 0
+	"Zacharias #0" = 0
+}
+
+leader_names = {
+	d'Aballo d'Austduun d'Aussèrra "de Aura" "del Abatut" Athonis Aymes
+	Barra "de Belena" "de Bailijoc" "de Bairicaz" "de Bullecaz" Bares Bembelli Bonsom Boys Bruni
+	Camsoris "de Crebanna" "de Cluniaco" "de Curtinaz" "de Caudat" "de Clamisjac" "de Castaneto"
+	Cathena Costa
+	Davi "de Donezac"
+	Escolani Embrini
+	Fava "de Fulhonibus" Fabri Fontanas "de Falgario"
+	Garini Grandis Guidonis Gardas "de Galhaco" "de Grepiaco"
+	Jusep "de Jovincia"
+	Lauro "de Latona" "de Luinacaz" "de Labegia"
+	Mabres "de Mailli" "de Matisco" "de Masava" Mercerii Milhasserius Margalh Menestralh
+	"de Nivèrns"
+	Omellari
+	Payrolerius "de Ponteigni" "de Pinu"
+	"de Quadrigellae" "de Quato" "de lo Regne"
+	Romengiis "de Rominac" Raynes Riqueti "de Roaxio" "de Reselenquis" Retonditor Rulh
+	Simeonis "de Senemuro" "de Scalquemchis" "de Sangueda"
+	Textor Torena Tolsani "del Troc" "de Trageto"
+	Varest "de Vidubia" "de Vezeliacus" "de Villagautaz" "de Vindenoca" Vinhas
+}
+
+ship_names = {
+	Autessiodurum Aballo
+	"Bellum Jugum" Bertiacum Bulciacum Bibracte Bonushomo
+	Cluniacum Crebanna Cistercium Colonbus Cerninus
+	Divionensis Dominiacum
+	Guiionetus Galhardus
+	Luviniacum
+	Mediolanum Matiscone Massava Mailliacus
+	Nevernis
+	"Pons Ariola" Parodium Pontiniacum
+	Quadrigellanus
+	"Sanctus Sequanus" "Sanctus Salvator" "Sanctus Romanus" Sinemurum
+	Tornodurum
+	"Villa Gothi" Vincentiacum Vindenossa Vezeliacus
+}

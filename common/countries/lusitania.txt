@@ -1,0 +1,97 @@
+# Lusitania
+
+graphical_culture = westerngfx
+
+color = { 57 160 101 }
+
+historical_idea_groups = {
+	exploration_ideas
+	expansion_ideas
+	offensive_ideas
+	religious_ideas
+	economic_ideas
+	maritime_ideas
+	quality_ideas
+	defensive_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	spanish_tercio
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Toutellus #1" = 30
+	"Romaeus #1" = 30
+	"Iohannis #0" = 10
+
+	"Nabia #0" = -3
+
+	"Caio #0" = 0 
+	"Césarus #0" = 0
+	"Diocles #0" = 0
+	"Endovélico #0" = 0
+	"Iunas #0" = 0 
+	"Joanno #0" = 0
+	"Lupo #0" = 0 
+	"Lúcio #0" = 0 
+	"Luzo #0" = 0
+	"Malasco #0" = 0
+	"Marcho #0" = 0
+	"Osevio #0" = 0 
+	"Orbanus #0" = 0
+	"Octavio #0" = 0
+	"Postúmio #0" = 0
+	"Punicus #0" = 0
+	"Patrino #0" = 0
+	"Paterno #0" = 0
+	"Pantaleon #0" = 0
+	"Paulo #0" = 0
+	"Perello #0" = 0
+	"Saturnino #0" = 0
+	"Sexto #0" = 0
+	"Turiaco #0" = 0
+	"Viriato #0" = 0
+}
+
+leader_names = {
+	Apuleio
+	Bormanico
+	Carioceco Cempso
+	Estrabao
+	Ophiuso
+	Pésure
+	Runesocésio
+	Salqiu Sévio
+	Tongoenabiago Treborunnis Taporo
+	Varro
+}
+
+ship_names = {
+	Anas Aeminium Arabriga Augustobriga
+	Bacchus Balsa
+	Cesarus Caesarobriga Cetobriga Collippo Capara Caurium
+	Durius
+	"Emerita Augusta" Ebora Egitandiorum
+	"Gaius Marius" "Gaius Appuleius Diocles"
+	Lusitania Lacobriga
+	Metellinum "Myrtilis Iulia" Mirobriga
+	"Norba Caesarina"
+	Odysseus Ossonoba
+	"Portus Cale" Punicius "Pax Iulia"
+	Sertorius Scalabis Salacia Salamantica
+	Tagus Turgalium
+	Ulyssippo
+	Viriathus
+}

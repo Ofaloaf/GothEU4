@@ -1,0 +1,29 @@
+﻿##################################################################################################
+# scriptable and usable for event-system below.
+##################################################################################################
+new_world_slavery = {
+	global_tariffs = 0.1
+}
+
+slavery_restricted = {
+	local_unrest = 1 # slaveowners upset they can't do more
+}
+
+slavery_encouraged = {
+	stability_cost_modifier = 0.1
+	local_manpower_modifier = -0.5
+	local_tax_modifier = 0.1
+	local_production_efficiency = 0.25
+}
+
+slavery_dominant = {
+	culture_conversion_cost = 10.0
+	stability_cost_modifier = 0.5
+	local_manpower_modifier = -0.66
+	local_tax_modifier = 0.25
+	local_production_efficiency = 0.5
+}
+
+slavery_abolished = {
+	stability_cost_modifier = -0.1
+}

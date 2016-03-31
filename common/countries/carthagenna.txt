@@ -1,0 +1,154 @@
+# Carthagenna as simply part of the WRE
+
+graphical_culture = westerngfx
+
+color = { 200 30 0 }
+
+revolutionary_colors = { 5  8  5 }
+
+historical_idea_groups = {
+	exploration_ideas
+	religious_ideas
+	offensive_ideas
+	expansion_ideas
+	influence_ideas
+	maritime_ideas
+	quality_ideas
+	defensive_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	spanish_tercio
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Nigolago #2" = 40
+	"Augustinu #1" = 30
+	"Dedon #2" = 20
+
+	"Abraham #0" = 0
+	"Alici #0" = 0
+	"Amador #0" = 0
+	"Ascanio #0" = 0
+	"Atrianus #0" = 0
+	"Belacco #0" = 0
+	"Cebrián #0" = 0
+	"Celsino #0" = 0
+	"Cesáreo #0" = 0
+	"Dadeo #0" = 0
+	"Dalmazius #0" = 0
+	"Davi #0" = 0
+	"Decimanus #0" = 0
+	"Egenio #0" = 0
+	"Emiliano #0" = 0
+	"Eolalio #0" = 0
+	"Estafili #0" = 0
+	"Eusebio #0" = 0
+	"Exemeno #0" = 0
+	"Faluax #0" = 0
+	"Frontinyà #0" = 0
+	"Gaudenzo #0" = 0
+	"Gercorio #0" = 0
+	"Giberio #0" = 0
+	"Héctor #0" = 0
+	"Heródoto #0" = 0
+	"Hilario #0" = 0
+	"Iacob #0" = 0
+	"Iaquinti #0" = 0
+	"Iohannis #0" = 0
+	"Iose #0" = 0
+	"Isidoro #0" = 0
+	"Lalan #0" = 0
+	"Leo #0" = 0
+	"Liciniano #0" = 0
+	"Lopon #0" = 0
+	"Lucus #0" = 0
+	"Malasco #0" = 0
+	"Marchus #0" = 0
+	"Miles #0" = 0
+	"Múnulo #0" = 0
+	"Nonnit #0" = 0
+	"Octavio #0" = 0
+	"Offrasius #0" = 0
+	"Osormeo #0" = 0
+	"Paul #0" = 0
+	"Pelaius #0" = 0
+	"Próculo #0" = 0
+	"Próspero #0" = 0
+	"Quinzano #0" = 0
+	"Selva #0" = 0
+	"Sergi #0" = 0
+	"Servus #0" = 0
+	"Tardenatus #0" = 0
+	"Theoclezo #0" = 0
+	"Theodoro #0" = 0
+	"Theofilo #0" = 0
+	"Ticia #0" = 0
+	"Titus #0" = 0
+	"Tranquil #0" = 0
+	"Vigitino #0" = 0
+	"Vincencio #0" = 0
+	"Yspanni #0" = 0
+	"Zacarias #0" = 0
+	"Zarraquina #0" = 0
+	"Zarraco #0" = 0
+}
+
+leader_names = {
+	Ahala Aculeo Asellio
+	Barroso "de Begastro" "de Baria" "de Bigerra" Borrull Bucco Buteo "de Bellvís"
+	Coloma "de Carvajal" "de Celis" "de Creixell" Carbonell Climent "de Calcena" Caepio Capito Carbo Celer Cilo
+	Cethegus Calvinus Cornicen Cotta Costa
+	Daza Dento Dorsuo Dolabella
+	Fabra Fronto Figulo Flacco Fullo Ficariensis
+	Gumiel Guissall Galeo Glabrio Gurges
+	Helva
+	Iullus "de Ilouno"
+	Labeo "de Lordat" Laenas Libo Lurco "de Longuntica" "de Leones"
+	Miralles "de Morum" "de Mave" "de Montgrí" "de Mur" Mercader "de Malla" Macer Macula Maro Merula Magaz
+	Nosica Naso Natta Nepus Noloaquisino
+	Ocella
+	Potitus
+	Ruga "de Rivas" Rullus
+	Sura "de Segisa" Stolo Sacosta Sicinius Silíceo
+	"de Thiar" "de Turris" "de Tutanesio" Trejo Tubero Tuccius "de Torrella"
+	Varro "de Vilamarí" Vatia
+}
+
+ship_names = {
+	Asso "Ad Morum" "Ad Leones" "Ad Ello" "Ad Aras" "Ad Palem" "Ad Turres" Archena
+	Begastrum Barbatus Bastetanus
+	"Carthago Nova" Charidemus
+	Ellocroca Elotana
+	"Ficariensis Locus" Fortuna
+	"Gaius Laelius"
+	"Hannibal Barca" "Hispania Citerior"
+	Ilorci Ilici Ilounon Iaspis Illicitanus
+	Loguntica Lucentum
+	Murtia Mavitania
+	Pomponia
+	Segisa Scombraria Spartaria "Scipio Africanus"
+	Urci
+	Victrix
+}
+
+army_names = {
+	"Legio Carthaginiensis" "Armata de $PROVINCE$" "Exercitus de $PROVINCE$"
+}
+
+
+fleet_names = {
+	"Classis Bastetanica" "Classis de $PROVINCE$"
+}

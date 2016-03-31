@@ -1,0 +1,15 @@
+#320 - Rhodes
+
+owner = MTU
+controller = MTU
+culture = greek
+religion = orthodox
+capital = "Rhodes"
+trade_goods = fish
+hre = no
+base_tax = 4 
+base_production = 4
+base_manpower = 3
+is_city = yes
+fort_15th = yes
+add_core = MTU

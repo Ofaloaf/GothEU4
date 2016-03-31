@@ -1,0 +1,155 @@
+# Swabia
+
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 255 201 14 }
+
+historical_idea_groups = {
+	administrative_ideas
+	defensive_ideas
+	diplomatic_ideas
+	offensive_ideas
+	economic_ideas
+	trade_ideas
+	innovativeness_ideas
+	quantity_ideas
+}
+
+historical_units = {
+	halberd_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Hainrich #0" = 40
+	"Otto #0" = 30
+	"Fridericus #0" = 30
+	"Gausbold #1" = 30
+	"Lothar #1" = 30
+	"Emmerich #1" = 25
+	"Emund #1" = 25
+	"Kaspar #1" = 25
+	"Thiudimir #1" = 20
+	"Karl #0" = 20
+	"Philipp #0" = 20
+
+	"Berta #0" = -5
+	"Kriemhild #1" = -5
+
+	"Adoric #0" = 0
+	"Agimadus #0" = 0
+	"Albrecht #0" = 0
+	"Andreas #0" = 0
+	"Ansuar #0" = 0
+	"Anton #0" = 0
+	"Baltarius #0" = 0
+	"Baptist #0" = 0
+	"Benedikt #0" = 0
+	"Daniel #0" = 0
+	"Dieter #0" = 0
+	"Eberhard #0" = 0
+	"Emanuel #0" = 0
+	"Emil #0" = 0
+	"Engelbert #0" = 0
+	"Engomir #0" = 0
+	"Ernst #0" = 0
+	"Francolin #0" = 0
+	"Gabinus #0" = 0
+	"Georg #0" = 0
+	"Gregor #0" = 0
+	"Gresumarius #0" = 0
+	"Heironymus #0" = 0
+	"Heremigar #0" = 0
+	"Hesso #0" = 0
+	"Isidor #0" = 0
+	"Johann #0" = 0
+	"Joseph #0" = 0
+	"Jürgen #0" = 0
+	"Konrad #0" = 0
+	"Leovald #0" = 0
+	"Lodemir #0" = 0
+	"Ludwig #0" = 0
+	"Manfred #0" = 0
+	"Markus #0" = 0
+	"Matthäus #0" = 0
+	"Maximilian #0" = 0
+	"Mervigius #0" = 0
+	"Miro #0" = 0
+	"Neufila #0" = 0
+	"Nikolaus #0" = 0
+	"Odamirus #0" = 0
+	"Odilo #0" = 0
+	"Onemir #0" = 0
+	"Oskar #0" = 0
+	"Pankratius #0" = 0
+	"Paul #0" = 0
+	"Pennio #0" = 0
+	"Peter #0" = 0
+	"Quidericus #0" = 0
+	"Refulf #0" = 0
+	"Salomon #0" = 0
+	"Saxomir #0" = 0
+	"Sido #0" = 0
+	"Sigehard #0" = 0
+	"Teobald #0" = 0
+	"Theodemar #0" = 0
+	"Theodor #0" = 0
+	"Theophil #0" = 0
+	"Thomas #0" = 0
+	"Timotheus #0" = 0
+	"Ulrich #0" = 0
+	"Vangio #0" = 0
+	"Veremund #0" = 0
+	"Willibald #0" = 0
+	"Zamarius #0" = 0
+}
+
+leader_names = {
+	Andorfer Abt
+	"Bernhard-Karling" "vo Bade" Bodo Betzel Bilfinger Burgkmair Böblinger Böschenstein
+	Chlingensperg
+	"vo Dibenga"
+	Ensinger Eisengrein Egolph
+	Federmann Fressant Feuerlein  Ficker
+	Görich Günzler Gottlob "von Gutbrod" Glocker
+	Haile "vo Hailbrunn" Hutter Hoeneß Hoyoul Hafenbrädl Hoss
+	Idler Ihle
+	Koellin
+	Multscher "vo Messenga" "Maler zu Schwaz" Magirus Moser Maisch
+	"vo Olm"
+	Pachelbel Peuerl Pfaff Pütter "von Palm"
+	Ridinger "vo Rümelin"
+	Syrlin "vo Schduagert" Schüchlein Schwarz Susemihl Sigel Spittler Schäffle Sydler Stifel "von Steudel"
+	Wendling "von Wächter" Wilsenhütten Wagner
+	Zeitblom Zeller
+}
+
+ship_names = {
+	Diibenga Decumatia
+	"Germania Suebica" Gisela Gausbold
+	Hulma
+	Konradin
+	Leuehärz
+	Swabia "Sankt Munio"
+	Tassilo
+	Ursula
+	Vindelicia
+}
+
+army_names = {
+	"Armee von $PROVINCE$" 
+}

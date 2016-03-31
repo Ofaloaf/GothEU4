@@ -1,0 +1,19 @@
+# Narbonne - Principal cities: Narbonne
+
+owner = SPM
+controller = SPM
+capital = "Narbo"
+is_city = yes
+culture = septimanian
+religion = orthodox
+hre = yes
+base_tax = 5
+base_production = 5
+trade_goods = wine
+base_manpower = 3
+add_core = SPM
+fort_15th = yes
+#discovered_by = eastern
+#discovered_by = western
+#discovered_by = muslim
+#discovered_by = ottoman

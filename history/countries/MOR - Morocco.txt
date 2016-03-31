@@ -1,0 +1,5 @@
+government = feudal_monarchy
+primary_culture = mauru
+religion = orthodox
+technology_group = eastern
+capital = 344 # Marrakech

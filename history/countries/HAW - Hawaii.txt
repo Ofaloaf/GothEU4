@@ -1,0 +1,6 @@
+government = tribal_kingdom
+primary_culture = polynesian
+religion = animism
+technology_group = andean
+unit_type = south_american
+capital = 1240

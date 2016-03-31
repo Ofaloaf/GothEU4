@@ -1,0 +1,721 @@
+# REGION	COUNTRY
+# Alleghania	USA
+# Appalachia	Watauga
+# Area- Cuba	Cuba
+# Caribbean/HispHaiti
+# Florida	Florida
+# Mexico	Mexico
+# Mississippi	Mississippi
+# Mississippi	Missouri
+# Ohio		Michigan
+
+# IN SEPARATE FILES AND STILL ACTIVE:
+# Canada
+# Chile
+# Paraguay
+# Peru
+
+# DEACTIVATED:
+# Brazil
+# Colombia
+# La Plata
+# Louisiana
+# UPCA
+# Venezuela
+
+country_decisions = {
+
+	# GENERIC - USA
+	usa_nation = {
+		major = yes
+		potential = {
+			NOT = { has_country_flag = changed_from_colonial_nation }
+			OR = {
+				is_former_colonial_nation = yes
+				is_colonial_nation = yes
+			}
+			OR = {
+				colonial_alleghania = {
+					owned_by = ROOT
+				}
+				colonial_appalachia = {
+					owned_by = ROOT
+				}
+				colonial_ohio = {
+					owned_by = ROOT
+				}
+			}
+			OR = {
+				NOT = { 
+					OR = { 
+						culture = dutch 
+						culture = oostfranken 
+					} 
+				}
+				AND = {
+					OR = {
+						culture = dutch 
+						culture = oostfranken
+					}
+					exists = NND # A dutch CN should only be able to go for this if the New Netherlands is already taken
+				}
+			}
+			OR = {
+				ai = no
+				AND = {
+					ai = yes
+					num_of_cities = 3	
+				}
+			}
+		}
+		allow = {
+			adm_tech = 10
+			is_former_colonial_nation = yes
+			is_subject = no
+			is_at_war = no
+			OR = {
+				capital_scope = {
+					colonial_region = colonial_alleghania
+					is_core = ROOT
+				}
+				capital_scope = {
+					colonial_region = colonial_appalachia
+					is_core = ROOT
+				}
+				capital_scope = {
+					colonial_region = colonial_ohio
+					is_core = ROOT
+				}
+			}
+			NOT = { exists = USA }
+		}
+		effect = {
+			change_tag = USA
+			if = {
+				limit = {
+					is_part_of_hre = yes
+					is_elector = no
+				}
+				every_owned_province = {
+					limit = {
+						is_part_of_hre = yes
+					}
+					set_in_empire = no
+				}
+			}
+			if = {
+				limit = { NOT = { government_rank = 2 } }
+				set_government_rank = 2
+			}
+			swap_free_idea_group = yes
+			colonial_alleghania = {
+				limit = {
+					NOT = { owned_by = ROOT }
+				}
+				add_claim = ROOT
+			}
+			colonial_appalachia = {
+				limit = {
+					NOT = { owned_by = ROOT }
+				}
+				add_claim = ROOT
+			}
+			colonial_ohio = {
+				limit = {
+					NOT = { owned_by = ROOT }
+				}
+				add_claim = ROOT
+			}
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+			set_country_flag = changed_from_colonial_nation
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	# GENERIC APPALACHIA - WATAUGA
+	watauga_nation = {
+		major = yes
+		potential = {
+			NOT = { has_country_flag = changed_from_colonial_nation }
+			NOT = {
+				AND = {
+					culture_group = gothic_group
+					NOT = { exists = LBT }
+				}
+			}
+			OR = {
+				is_former_colonial_nation = yes
+				is_colonial_nation = yes
+			}
+			colonial_appalachia = {
+				owned_by = ROOT
+			}
+			OR = {
+				ai = no
+				AND = {
+					ai = yes
+					num_of_cities = 3	
+				}
+			}
+		}
+		allow = {
+			adm_tech = 10
+			is_former_colonial_nation = yes
+			is_subject = no
+			is_at_war = no
+			capital_scope = {
+				colonial_region = colonial_appalachia
+				is_core = ROOT
+			}
+			NOT = { exists = WTG }
+		}
+		effect = {
+			change_tag = WTG
+			if = {
+				limit = {
+					is_part_of_hre = yes
+					is_elector = no
+				}
+				every_owned_province = {
+					limit = {
+						is_part_of_hre = yes
+					}
+					set_in_empire = no
+				}
+			}
+			if = {
+				limit = { NOT = { government_rank = 2 } }
+				set_government_rank = 2
+			}
+			swap_free_idea_group = yes
+			colonial_appalachia = {
+				limit = {
+					NOT = { owned_by = ROOT }
+				}
+				add_claim = ROOT
+			}
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+			set_country_flag = changed_from_colonial_nation
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+
+	# GENERIC - CUBA
+	cuba_nation = {
+		major = yes
+		potential = {
+			NOT = { has_country_flag = changed_from_colonial_nation }
+			OR = {
+				is_former_colonial_nation = yes
+				is_colonial_nation = yes
+			}
+			colonial_the_carribean = {
+				owned_by = ROOT
+			}
+			OR = {
+				ai = no
+				AND = {
+					ai = yes
+					num_of_cities = 3	
+				}
+			}
+		}
+		allow = {
+			adm_tech = 10
+			is_former_colonial_nation = yes
+			is_subject = no
+			is_at_war = no
+			capital_scope = {
+				area = cuba_area
+				is_core = ROOT
+			}
+			NOT = { exists = CUB }
+		}
+		effect = {
+			change_tag = CUB
+			if = {
+				limit = {
+					is_part_of_hre = yes
+					is_elector = no
+				}
+				every_owned_province = {
+					limit = {
+						is_part_of_hre = yes
+					}
+					set_in_empire = no
+				}
+			}
+			if = {
+				limit = {
+					NOT = { government_rank = 2 }
+				}
+				set_government_rank = 2
+			}
+			cuba_area = {
+				limit = {
+					NOT = { owned_by = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+			set_country_flag = changed_from_colonial_nation
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	# GENERIC - HAITI
+	haiti_nation = {
+		major = yes
+		potential = {
+			NOT = { has_country_flag = changed_from_colonial_nation }
+			OR = {
+				is_former_colonial_nation = yes
+				is_colonial_nation = yes
+			}
+			colonial_the_carribean = {
+				owned_by = ROOT
+			}
+			OR = {
+				ai = no
+				AND = {
+					ai = yes
+					num_of_cities = 3	
+				}
+			}
+		}
+		allow = {
+			adm_tech = 10
+			is_former_colonial_nation = yes
+			is_subject = no
+			is_at_war = no
+			capital_scope = {
+				area = hispaniola_area
+				is_core = ROOT
+			}
+			NOT = { exists = HAT }
+		}
+		effect = {
+			change_tag = HAT
+			if = {
+				limit = {
+					is_part_of_hre = yes
+					is_elector = no
+				}
+				every_owned_province = {
+					limit = {
+						is_part_of_hre = yes
+					}
+					set_in_empire = no
+				}
+			}
+			if = {
+				limit = {
+					NOT = { government_rank = 2 }
+				}
+				set_government_rank = 2
+			}
+			hispaniola_area = {
+				limit = {
+					NOT = { owned_by = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+			set_country_flag = changed_from_colonial_nation
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	# GENERIC - FLORIDA
+	florida_nation = {
+		major = yes
+		potential = {
+			NOT = { has_country_flag = changed_from_colonial_nation }
+			OR = {
+				is_former_colonial_nation = yes
+				is_colonial_nation = yes
+			}
+			colonial_florida = {
+				owned_by = ROOT
+			}
+			OR = {
+				NOT = { culture_group = gothic_group }
+				AND = {
+					culture_group = gothic_group
+					exists = AGN # A Gothic CN should only go for this if Agustinha already is taken
+				}
+			}
+			OR = {
+				ai = no
+				AND = {
+					ai = yes
+					num_of_cities = 3	
+				}
+			}
+		}
+		allow = {
+			adm_tech = 10
+			is_former_colonial_nation = yes
+			is_subject = no
+			is_at_war = no
+			capital_scope = {
+				colonial_region = colonial_florida
+				is_core = ROOT
+			}
+			NOT = { exists = FLR }
+		}
+		effect = {
+			change_tag = FLR
+			if = {
+				limit = {
+					is_part_of_hre = yes
+					is_elector = no
+				}
+				every_owned_province = {
+					limit = {
+						is_part_of_hre = yes
+					}
+					set_in_empire = no
+				}
+			}
+			if = {
+				limit = {
+					NOT = { government_rank = 2 }
+				}
+				set_government_rank = 2
+			}
+			colonial_florida = {
+				limit = {
+					NOT = { owned_by = ROOT }
+				}
+				add_claim = ROOT
+			}
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+			swap_free_idea_group = yes		#keep progress
+			set_country_flag = changed_from_colonial_nation
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	# GENERIC - MEXICO
+	mexico_nation = {
+		major = yes
+		potential = {
+			NOT = { has_country_flag = changed_from_colonial_nation }
+			OR = {
+				is_former_colonial_nation = yes
+				is_colonial_nation = yes
+			}
+			colonial_mexico = {
+				owned_by = ROOT
+			}
+			OR = {
+				ai = no
+				AND = {
+					ai = yes
+					num_of_cities = 3	
+				}
+			}
+		}
+		allow = {
+			adm_tech = 10
+			is_former_colonial_nation = yes
+			is_subject = no
+			is_at_war = no
+			capital_scope = {
+				colonial_region = colonial_mexico
+				is_core = ROOT
+			}
+			NOT = { exists = MEX }
+		}
+		effect = {
+			change_tag = MEX
+			if = {
+				limit = {
+					is_part_of_hre = yes
+					is_elector = no
+				}
+				every_owned_province = {
+					limit = {
+						is_part_of_hre = yes
+					}
+					set_in_empire = no
+				}
+			}
+			if = {
+				limit = { NOT = { government_rank = 2 } }
+				set_government_rank = 2
+			}
+			colonial_mexico = {
+				limit = {
+					NOT = { owned_by = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+			swap_free_idea_group = yes		#keep progress
+			set_country_flag = changed_from_colonial_nation
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	# GENERIC - MISSISSIPPI
+	mississippi_nation = {
+		major = yes
+		potential = {
+			NOT = { has_country_flag = changed_from_colonial_nation }
+			OR = {
+				is_former_colonial_nation = yes
+				is_colonial_nation = yes
+			}
+			NOT = {
+				AND = {
+					culture_group = gothic_group
+					NOT = { exists = ARH }
+				}
+			}
+			colonial_mississippi = {
+				owned_by = ROOT
+			}
+			OR = {
+				ai = no
+				AND = {
+					ai = yes
+					num_of_cities = 3	
+				}
+			}
+		}
+		allow = {
+			adm_tech = 10
+			is_former_colonial_nation = yes
+			is_subject = no
+			is_at_war = no
+			capital_scope = {
+				colonial_region = colonial_mississippi
+				is_core = ROOT
+			}
+			NOT = { exists = MSS }
+		}
+		effect = {
+			change_tag = MSS
+			if = {
+				limit = {
+					is_part_of_hre = yes
+					is_elector = no
+				}
+				every_owned_province = {
+					limit = {
+						is_part_of_hre = yes
+					}
+					set_in_empire = no
+				}
+			}
+			if = {
+				limit = {
+					NOT = { government_rank = 2 }
+				}
+				set_government_rank = 2
+			}
+			colonial_mississippi = {
+				limit = {
+					NOT = { owned_by = ROOT }
+				}
+				add_claim = ROOT
+			}
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+			set_country_flag = changed_from_colonial_nation
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	# GENERIC - Missouri
+	missouri_nation = {
+		major = yes
+		potential = {
+			NOT = { has_country_flag = changed_from_colonial_nation }
+			OR = {
+				is_former_colonial_nation = yes
+				is_colonial_nation = yes
+			}
+			colonial_mississippi = {
+				owned_by = ROOT
+			}
+			OR = {
+				owns_core_province = 899
+				owns_core_province = 900
+				owns_core_province = 902
+				owns_core_province = 903
+				owns_core_province = 905
+				owns_core_province = 2514
+			}
+			OR = {
+				ai = no
+				AND = {
+					ai = yes
+					num_of_cities = 3	
+				}
+			}
+		}
+		allow = {
+			adm_tech = 10
+			is_former_colonial_nation = yes
+			is_subject = no
+			is_at_war = no
+			capital_scope = {
+				colonial_region = colonial_mississippi
+				is_core = ROOT
+			}
+			NOT = { exists = MIS }
+		}
+		effect = {
+			change_tag = MIS
+			if = {
+				limit = {
+					is_part_of_hre = yes
+					is_elector = no
+				}
+				every_owned_province = {
+					limit = {
+						is_part_of_hre = yes
+					}
+					set_in_empire = no
+				}
+			}
+			if = {
+				limit = { NOT = { government_rank = 2 } }
+				set_government_rank = 2
+			}
+			colonial_mississippi = {
+				limit = {
+					NOT = { owned_by = ROOT }
+				}
+				add_claim = ROOT
+			}
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+			swap_free_idea_group = yes		#keep progress
+			set_country_flag = changed_from_colonial_nation
+			if = {
+				limit = { owns_core_province = 900 }
+				MIS = { set_capital = 900 }
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	# GENERIC - MICHIGAN
+	michigan_nation = {
+		major = yes
+		potential = {
+			NOT = { has_country_flag = changed_from_colonial_nation }
+			OR = {
+				is_former_colonial_nation = yes
+				is_colonial_nation = yes
+			}
+			colonial_ohio = {
+				owned_by = ROOT
+			}
+			OR = {
+				ai = no
+				AND = {
+					ai = yes
+					num_of_cities = 3	
+				}
+			}
+		}
+		allow = {
+			adm_tech = 10
+			is_former_colonial_nation = yes
+			is_subject = no
+			is_at_war = no
+			capital_scope = {
+				is_core = ROOT
+			}
+			NOT = { exists = UOM }
+		}
+		effect = {
+			change_tag = UOM
+			if = {
+				limit = {
+					is_part_of_hre = yes
+					is_elector = no
+				}
+				every_owned_province = {
+					limit = {
+						is_part_of_hre = yes
+					}
+					set_in_empire = no
+				}
+			}
+			if = {
+				limit = {
+					NOT = { government_rank = 2 }
+				}
+				set_government_rank = 2
+			}
+			colonial_ohio = {
+				limit = {
+					NOT = { owned_by = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+			set_country_flag = changed_from_colonial_nation
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}

@@ -1,0 +1,18 @@
+# 1769 - Görz
+owner = LRM
+controller = LRM
+add_core = LRM
+add_core = AQU
+culture = lat_venetian
+religion = orthodox
+base_tax = 5 
+base_production = 5
+trade_goods = iron
+base_manpower = 2
+capital = "Goritium"
+is_city = yes
+hre = yes
+#discovered_by = western
+#discovered_by = eastern
+#discovered_by = muslim
+#discovered_by = ottoman

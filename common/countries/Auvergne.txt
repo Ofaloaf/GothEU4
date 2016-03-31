@@ -1,0 +1,161 @@
+# Arvernia
+
+graphical_culture = westerngfx
+
+color = { 248 207 70 }
+
+preferred_religion = gnostic
+
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	offensive_ideas
+	spy_ideas
+	trade_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	french_caracolle
+	anglofrench_line
+	french_dragoon
+	french_bluecoat
+	french_cuirassier
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Sidonis #0" = 50
+	"Apollinaris #0" = 40
+	"Pantagaces #0" = 35
+	"Victorines #0" = 30
+
+	"Apollonia #0" = -5
+	"Beata #0" = -1
+	"Galla #0" = -3
+
+	"Amabilis #0" = 0
+	"Antonis #0" = 0
+	"Aurel #0" = 0
+	"Baudilus #0" = 0
+	"Benedixes #0" = 0
+	"Boecis #0" = 0
+	"Caius #0" = 0
+	"Cassïen #0" = 0
+	"Castor #0" = 0
+	"Cesaris #0" = 0
+	"Danielus #0" = 0
+	"Daurel #0" = 0
+	"Denysis #0" = 0
+	"Deusdedit #0" = 0
+	"Egides #0" = 0
+	"Estefanes #0" = 0
+	"Eugenis #0" = 0
+	"Fabïen #0" = 0
+	"Felix #0" = 0
+	"Gatïen #0" = 0
+	"Georgis #0" = 0
+	"Gratus #0" = 0
+	"Gratïen #0" = 0
+	"Gregoris #0" = 0
+	"Hilaris #0" = 0
+	"Honoris #0" = 0
+	"Ignacis #0" = 0
+	"Illidis #0" = 0
+	"Irenaeus #0" = 0
+	"Julïen #0" = 0
+	"Joanes #0" = 0
+	"Latuinus #0" = 0
+	"Lazarus #0" = 0
+	"Leo #0" = 0
+	"Lucas #0" = 0
+	"Lupes #0" = 0
+	"Marcus #0" = 0
+	"Martines #0" = 0
+	"Maximes #0" = 0
+	"Michael #0" = 0
+	"Miles #0" = 0
+	"Nicolaus #0" = 0
+	"Orosis #0" = 0
+	"Patroclus #0" = 0
+	"Paule #0" = 0
+	"Pelagis #0" = 0
+	"Perpetuus #0" = 0
+	"Petres #0" = 0
+	"Philippes #0" = 0
+	"Poncius #0" = 0
+	"Remigis #0" = 0
+	"Romanes #0" = 0
+	"Rufines #0" = 0
+	"Rusticus #0" = 0
+	"Sanxe #0" = 0
+	"Savinïen #0" = 0
+	"Sebaste #0" = 0
+	"Syagris #0" = 0
+	"Symmaches #0" = 0
+	"Tiberis #0" = 0
+	"Theodores #0" = 0
+	"Theophiles #0" = 0
+	"Thomas #0" = 0
+	"Urso #0" = 0
+	"Victor #0" = 0
+	"Vincentis #0" = 0
+	"Viventiolis #0" = 0
+	"Zacharias #0" = 0
+	"Zefirines #0" = 0
+}
+
+leader_names = {
+	"de Arthona" "de Arvernis"
+	"de Brivas" "de Biliomagus"
+	Cadurges "de Corent" "de Cantillia" "de Cufiaco"
+	Eleutètis
+	"de Fines"
+	Gobannitine "de Gondole" "de Gimolliis"
+	Heduis
+	"de Ipduaco" "de Iborolaco"
+	"de Lovolautro"
+	"de Musciacas" "de Marsiaco"
+	"de Pusiaco"
+	"de Rouession" "de Randane" "de Ricomagus" "de Randano" "de Rodumna"
+	"de Sanacasa"
+	"de Vialosco" "de Vindiciaco"
+}
+
+ship_names = {
+	Alesia Arvernia Augustonemetum Avitacum Arthona Argenta Anicium
+	Bituitus
+	Celtillos Commius Critognatos Chrononum
+	Epasnactos Eborolacum Eugenia Eulalia
+	Flavius
+	"Gnaeus Ahenobarbus" Gergovia Gobannito Gallitas
+	Iciodorum Iciacum Icidmago
+	Justa
+	Luernios Lucterios Liciniacum Lovolautrum Lucretia
+	Manatum Marciacum Meroliacum Marcia
+	"Niger Mons"
+	Renata Rosmerta Rufina Rusticata
+	"Sanctus Quiriacus" Stephania "Sanctus Sidonius"
+	Thigernum
+	Uxellodunum
+	Vercingetorix Vercassivelaunos Vialoscum
+}
+
+army_names = {
+	"Exercitus de $PROVINCE$"
+}
+
+fleet_names = {
+	"Classis de $PROVINCE$"
+}

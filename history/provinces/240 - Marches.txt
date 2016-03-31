@@ -1,0 +1,20 @@
+#240 - Marches
+
+owner = WHD
+controller = WHD
+culture = anglo_saxon
+religion = orthodox
+hre = no
+base_tax = 4
+base_production = 4
+trade_goods = cloth
+base_manpower = 3
+capital = "Coventre"
+is_city = yes
+fort_15th = yes
+add_core = WLS
+add_core = WHD
+#discovered_by = western
+#discovered_by = muslim
+#discovered_by = ottoman
+#discovered_by = eastern

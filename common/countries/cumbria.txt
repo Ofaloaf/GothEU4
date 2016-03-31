@@ -1,0 +1,125 @@
+# Cumbria
+
+graphical_culture = westerngfx
+
+color = { 83 149 105 }
+
+preferred_religion = gnostic
+
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	exploration_ideas
+	maritime_ideas
+	innovativeness_ideas
+	diplomatic_ideas
+	economic_ideas
+	quality_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	spanish_tercio
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Berthgwyn #1" = 30
+	"Tewdos #1" = 20
+	"Sion #1" = 20
+	"Mawgan #1" = 20
+	"Clydog #1" = 15
+	"Gwrgeneu #1" = 15
+	"Elud #1" = 10
+	"Dwynwen #1" = 10
+	"Dyfnwal #1" = 10
+	"Arthws #1" = 5
+
+	"Ellyn #1" = -5
+
+	"Andreas #0" = 0
+	"Anian #0" = 0
+	"Bleddyn #0" = 0
+	"Caldwaladr #0" = 0
+	"Caradoc #0" = 0
+	"Catuor #0" = 0
+	"Craddox #0" = 0
+	"Cynwrig #0" = 0
+	"Daniel #0" = 0
+	"Dauid #0" = 0
+	"Deheweint #0" = 0
+	"Deodatus #0" = 0
+	"Dolphinus #0" = 0
+	"Edwyn #1" = 0
+	"Espus #0" = 0
+	"Eulin #0" = 0
+	"Gruffydd #0" = 0
+	"Helias #0" = 0
+	"Iago #0" = 0
+	"Ioab #0" = 0
+	"Ithellus #0" = 0
+	"Ithon #0" = 0
+	"Kediuor #0" = 0
+	"Laurentius #0" = 0
+	"Lles #1" = 0
+	"Llywelyn #1" = 0
+	"Meurig #0" = 0
+	"Morauc #0" = 0
+	"Nicholaus #0" = 0
+	"Nennius #0" = 0
+	"Rhydderch #0" = 0
+	"Rhys #0" = 0
+	"Sigerius #0" = 0
+	"Tollasius #0" = 0
+}
+
+leader_names = {
+	Artorius "de Albadomo" Amaethwyr
+	Blehtint Brogintun Baivenjar
+	Cadewallaunt Cryc "de Caerliwelydd" "de Caerpentaloch"
+	"de Dineidyn" "de Derwennydd"
+	Eynnio "de Efrog" "ab Eynavn" "de Eglwysfraid"
+	Fflam Filwyr
+	Gorronui Gorgonius Gurkenev Glaswen Goche "map Gorgeneu" "de Glasgau" Gwasmungo
+	Helfinus Hoidelou Huveluiu Hescerrin Hiruein
+	Kadwaladrus Kaduganus Karadauch Kaswallaun "ab Kenvelin" "ab Kadugavn"
+	Leulinus "de Llannerch"
+	Madocus Morithic Meilerus "de Mais"
+	Peruhanndir Possernin Preco Paruus Penkil Pigot Picotus "de Penygog" "de Penrhyd" "de Penguaul" "de Petrianis"
+	Ruffus Rieredus Resus Ruwatlanus
+	Sulianus Seis Seithmarchog Senascallus 
+	Tanwr
+	Wen Wachan Woru Worganus
+	Yoruard
+}
+
+ship_names = {
+	"Antoninus Pius" Aesica Aballava "Ad Fines" Alauna Arbeia Arddwyr Amddiffynnwr Amynedd
+	Banna Bremenium "Berthgwyn Uib"
+	Cilurnum Centurion Camboglanna Condercum Coggabata Coria Cesar "Clydog Arfon"
+	Dycnwch Dewrder Deifr
+	Eglwys Eugenius
+	"Fanum Cocidi"
+	Govan Gonestrwydd Glewder
+	"Hen Ogledd" Hunnum Habitancum
+	Luguvalium
+	Magnis Mais Milwr Morfil
+	Ngwrhydri
+	Octavia
+	Patricia Procolita
+	Rhyfelwr
+	Trimontium "Tewdos Uib"
+	Uxelodunum
+	"Vallum Antonini" "Vallum Aelium" Vindolanda Vindobala Vindomora
+	"Ystrad Clud" Ysglyfaethwr Ymosodwr
+}

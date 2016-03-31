@@ -1,0 +1,14 @@
+#322 - Küthaya
+
+owner = MTU
+controller = MTU
+culture = turkish
+religion = manichee
+capital = "Kütahya"
+trade_goods = cloth
+hre = no
+base_tax = 6
+base_production = 6
+base_manpower = 4
+is_city = yes
+add_core = MTU

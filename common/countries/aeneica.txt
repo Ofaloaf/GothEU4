@@ -1,0 +1,112 @@
+# Aeneica - the Land of Aeneas!
+
+graphical_culture = westerngfx
+
+colonial_parent = LUS
+random_nation_chance = 0
+
+color = { 75 160 88 }
+
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	spy_ideas
+	economic_ideas
+	innovativeness_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	spanish_tercio
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Julius #0" = 40
+	"Cornelius #0" = 30
+	"Tiberius #0" = 20
+	"Titus #0" = 15
+	"Junius #0" = 10
+	"Decimus #0" = 10
+
+	"Anastasia #0" = -5
+	"Zenobia #0" = -5
+
+	"Aeneas #0" = 0
+	"Andrias #0" = 0
+	"Andromachus #0" = 0
+	"Aulus #0" = 0
+	"Belacco #0" = 0
+	"Brutus #0" = 0
+	"Caio #0" = 0
+	"Cebrián #0" = 0
+	"Celsino #0" = 0
+	"Cesáreo #0" = 0
+	"Decimanus #0" = 0
+	"Egenio #0" = 0
+	"Eolalio #0" = 0
+	"Frontinyà #0" = 0
+	"Gercorio #0" = 0
+	"Georgius #0" = 0
+	"Iaquinti #0" = 0
+	"Iose #0" = 0
+	"Leo #0" = 0
+	"Malasco #0" = 0
+	"Marco #0" = 0
+	"Micael #0" = 0
+	"Nicomachus #0" = 0
+	"Nigolago #0" = 0
+	"Numerius #0" = 0
+	"Publicola #0" = 0
+	"Servius #0" = 0
+	"Spurius #0" = 0
+	"Tarquinus #0" = 0
+	"Zacarias #0" = 0
+}
+
+leader_names = {
+	Ahala Asellio
+	Baniense Barocci Bucco Buteo Bleso Buccolo
+	Cesarito Capella Ceco Cepio Calidulo
+	Elercavono Ebricos Euclio
+	Fusus Fullo Fronto
+	Helva
+	Iullus
+	Libo Lurco Larcio
+	Marcolo
+	Piscatori Pinello Purcellus
+	Sevius Salort
+	Traianito Thurrus Tarpeio
+	Vella Varro Vibio Verginio Vibsano
+	Zoelaeo
+}
+
+ship_names = {
+	"Aeneas Pius" Anchises Apollo Ascanius Achates Amata Albalonga Axatiana Aulularia
+	Brutus Baucis
+	Caieta Cruesa Cornucopia Compitalia Celer
+	Dido Deiphobus Dares Dictys
+	Euryalus
+	Hyginus
+	Iapyx
+	Latinus Lavinia Lares
+	Misenus Mercurius Mezentius
+	"Nova Roma" "Nova Troia" Nolichucky Nisus
+	Priamus Palinurus Parentalia
+	Sergestus Silvius
+	Turnus
+	Venus
+}

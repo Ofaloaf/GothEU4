@@ -1,0 +1,79 @@
+# Gwyddno
+# after Gwyddno Garanhir, https://en.wikipedia.org/wiki/Gwyddno_Garanhir
+# Brythonic Mississippi
+
+graphical_culture = westerngfx
+
+color = { 26  27  154 }
+
+colonial_parent = LOE
+random_nation_chance = 0
+
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+	administrative_ideas
+	religious_ideas
+	economic_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_longbow
+	gaelic_mercenary
+	gaelic_free_shooter
+	irish_charge
+	anglofrench_line
+	british_redcoat
+	british_hussar
+	british_square
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Elffin #0" = 30
+	"Awsitn #0" = 10
+
+	"Philippa #0" = -5
+
+	"Adda #0" = 0
+	"Asa #0" = 0
+	"Asser #0" = 0
+	"Hyfaidd #0" = 0
+	"Hywel #0" = 0
+	"Maximus #0" = 0
+	"Nobis #0" = 0
+	"Rhun #0" = 0
+	"Rhys #0" = 0
+	"Teliavus #0" = 0
+	"Tomas #0" = 0
+	"Tudno #0" = 0
+}
+
+leader_names = {
+	Auredeyrn
+	Carminow
+	"de Frynbuga"
+	Guinn
+	Hir
+	Setantius Segontiacus
+}
+
+ship_names = {
+	Atchafalaya 
+	"Fluvius Senex"
+	"Gwyddno Garanhir"
+	Itumbikbi
+	Kaskaskia Kicka
+	"Magnus Mississippius" "Magnum Turbidum"
+	Seithenyn
+	Taliesin Teche
+	Yazoo
+}

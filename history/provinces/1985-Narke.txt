@@ -1,0 +1,18 @@
+#Närke
+
+add_core = SWE
+add_core = GTR
+owner = GTR
+controller = GTR
+culture = swedish
+religion = orthodox
+hre = no
+base_tax = 2 
+base_production = 2
+trade_goods = iron
+base_manpower = 2
+capital = "Örebro"
+estate = estate_nobles
+is_city = yes
+
+

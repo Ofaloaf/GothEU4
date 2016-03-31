@@ -1,0 +1,131 @@
+# Manichee Turks
+
+graphical_culture = muslimgfx
+
+color = { 99 168 74 }
+
+revolutionary_colors = { 5  9  5 } #Ottoman Civil Ensign
+
+historical_idea_groups = {
+	humanist_ideas
+	trade_ideas
+	offensive_ideas
+	administrative_ideas
+	quantity_ideas
+	influence_ideas
+	quality_ideas
+	innovativeness_ideas
+}
+
+historical_units = {
+	ottoman_yaya
+	ottoman_musellem
+	ottoman_azab
+	ottoman_timariot
+	ottoman_janissary
+	ottoman_spahi
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
+
+monarch_names = {
+	"Süleyman #0" = 40
+	"Osman #2" = 30
+	"Inal #2" = 30
+	"Bayezid #0" = 20
+	"Orhan #1" = 10
+	"Alp Arslan #0" = 10
+	"Iskender #0" = 10
+
+	"Alaattin #0" = 1
+	"Cihangir #0" = 1
+	"Cem #0" = 1
+	"Isa #0" = 1
+	"Seyfettin #0" = 1
+	"Yakup #0" = 1
+	"Yusuf #0" = 1
+
+	"Mihrimah #0" = -1
+	"Nurbanu #0" = -1
+	"Zeynep #0" = -1
+
+	"Bahadir #0" = 0
+	"Behram #0" = 0
+	"Cemal #0" = 0
+	"Davut #0" = 0
+	"Dogukhan #0" = 0
+	"Ertugrul #0" = 0
+	"Ferhat #0" = 0
+	"Giyasettin #0" = 0
+	"Ibrahim #0" = 0
+	"Ismail #0" = 0
+	"Korkut #0" = 0
+	"Mager #0" = 0
+	"Numan #0" = 0
+	"Piali #0" = 0
+	"Sabuktigin #0" = 0
+	"Sinan #0" = 0
+	"Tughril #0" = 0
+}
+
+leader_names = {
+	Alemdar Ayas
+	Cezzar Çandarli Çelebi Cerrah Çerkes Civan Çuhadar Capanoglu
+	Damad Defterdar
+	Gedik Gazi Gümülcineli Gürcü
+	Hadim Hekimoglu Hersekli
+	Ishak Izzed
+	Jahan
+	Khilji Köprülü Kemal Küçük Koca Karamanli Köse Kara Kanijeli Kemankes Kaymak Kavalali 
+	Karaosmanoglu
+	Jalili
+	Lala Lefkeli
+	Malkoç Müezzinzade
+	Nevsehirli Nisanci
+	Oruç Uluç Osmancikli Ohrili Oflu
+	Pasaoglu Pasvanoglu
+	Piri Pargali Piyale Pehlivan
+	Salih Sokullu Sari Silahdar Semiz Serdar
+	Tekke Tusi Topal Tayyar Turgut Tarhuncu
+	Veli
+	Yemisçi
+}
+
+ship_names = {
+	Alparslan Atakum Adakli "Asar-i Tevfik" Alemdar
+	Bodrum "Beylerbayan Nilufer" Biga Bozüyük "Berk-i Satvet"
+	"Çaka Bey"
+	Dalaman
+	Ferdowsi
+	Gönen Göce Gelibolu Gürsu
+	Heybetnüma
+	Inegöl
+	Köngül Kausari Kangal Kuzlum Kepez Korkuteli Kumluca "Kapudan Pasha Rumi"
+	Mengü Malazgirt Manavgat
+	Nusret
+	Oeg "Ohrmazd Bay" Of
+	"Padishah Seljuk"
+	Qut
+	Rumeli
+	Saqinç Sabbat Saka Saruhan Sögüt Solhan Selman Seljuqiye
+	Tuimaq "Tanrisal Öz" "Turgut Reis"
+	Yunus
+	Zerdüsht
+}
+
+army_names = {
+	"Anadolu Ordusu" "Balkan Ordusu" "Kîrîm Ordusu" "$PROVINCE$ Ordusu"
+}
+
+fleet_names = {
+	"$PROVINCE$ Donanmasî"
+}

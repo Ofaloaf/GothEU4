@@ -1,0 +1,111 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 166 125 154 }
+
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	religious_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	offensive_ideas
+	quality_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	french_caracolle
+	anglofrench_line
+	french_dragoon
+	french_bluecoat
+	french_carabinier
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+monarch_names = {
+	"Acius #2" = 20
+	"Peregrinus #1" = 10
+	"Anna #1" = -5
+
+	"Adelelmus #0" = 0
+	"Alexius #0" = 0
+	"Anambad #0" = 0
+	"Aparic #0" = 0
+	"Arius #0" = 0
+	"Atalaric #0" = 0
+	"Atila #0" = 0
+	"Boecis #0" = 0
+	"Caisar #0" = 0
+	"Caraules #0" = 0
+	"Claudi #0" = 0
+	"Frederi #0" = 0
+	"Frodoí #0" = 0
+	"Froila #0" = 0
+	"Guidéric #0" = 0
+	"Leontius #0" = 0
+	"Leuberic #0" = 0
+	"Lissandre #0" = 0
+	"Lucàs #0" = 0
+	"Marc #0" = 0
+	"Matias #0" = 0
+	"Maximi #0" = 0
+	"Miquel #0" = 0
+	"Miró #0" = 0
+	"Rodericho #0" = 0
+	"Otz #0" = 0
+	"Oveco #0" = 0
+	"Pèitre #0" = 0
+	"Pol #0" = 0
+	"Pons #0" = 0
+	"Riculf #0" = 0
+	"Sans #0" = 0
+	"Saphrax #0" = 0
+	"Sergi #0" = 0
+	"Sisebut #0" = 0
+	"Suneario #0" = 0
+	"Telo #0" = 0
+	"Tiuderic #0" = 0
+	"Tumas #0" = 0
+	"Turismau #0" = 0
+	"Veduc #0" = 0
+}
+
+leader_names = {
+	Ablabius d'Aballo d'Aussèrra
+	"de Belena" "de Breonna"
+	Clodingi "de Crebanna" "de Cluniaco" "de Castelliono"
+	Dodoni
+	Edui d'Estampas
+	Lero
+	Marbudo "de Mailli" "de Melihun" "de Meldis"
+	Nicumaci
+	d'Otmensis
+	"de Ponteigni" "de Provinis" "de Perunna"
+	"de Rems"
+	Safraci Simaci "de Senemuro"
+	"de Tròias"
+}
+
+ship_names = {
+	Augustodunum Autessiodurum
+	Campania Caesar Cistercium Commercium Cluniacum Campanenses
+	Divio
+	Gloria
+	Mailliacus
+	Strabo "Sant Romanus" "Sant Salvator"
+	Tornodurum Tricassium
+	Utilitas
+	Victoria Vezeliacus
+}

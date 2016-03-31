@@ -1,0 +1,16 @@
+#316 - Izmit
+
+owner = MTU
+controller = MTU
+culture = turkish
+religion = manichee
+capital = "Izmit"
+trade_goods = cloth
+hre = no
+base_tax = 4 
+base_production = 4
+base_manpower = 3
+is_city = yes
+fort_15th = yes
+estate = estate_burghers
+add_core = MTU

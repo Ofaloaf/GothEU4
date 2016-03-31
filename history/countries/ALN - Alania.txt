@@ -1,0 +1,5 @@
+government = feudal_monarchy
+primary_culture = alan
+religion = orthodox
+technology_group = eastern
+capital = 262	# Krakow

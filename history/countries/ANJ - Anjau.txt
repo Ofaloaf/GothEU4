@@ -1,0 +1,8 @@
+government = feudal_monarchy
+government_rank = 1
+technology_group = western
+religion = orthodox
+primary_culture = armorican
+
+capital = 178
+

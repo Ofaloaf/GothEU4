@@ -1,0 +1,99 @@
+# Septimania
+
+graphical_culture = westerngfx
+
+color = { 173 48 80 }
+
+preferred_religion = gnostic
+
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	religious_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	offensive_ideas
+	spy_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	french_caracolle
+	anglofrench_line
+	french_dragoon
+	french_bluecoat
+	french_cuirassier
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Maximiien #3" = 50
+	"Aurelïen #3" = 30
+	"Thomas #2" = 30
+	"Romaeus #2" = 25
+	"Athanasis #2" = 25
+	"Eufemïen #0" = 20
+	"Lucas #1" = 20
+	"Didago #1" = 15
+
+	"Rosmerta #1" = -5
+	"Galeria #0" = -3
+	"Honorina #0" = -3
+
+	"Arvandes #0" = 0
+	"Bartholomeus #0" = 0
+	"Benedixes #0" = 0
+	"Bianus #1" = 0
+	"Cambaule #0" = 0
+	"Carbonel #0" = 0
+	"Danielus #0" = 0
+	"Gratus #1" = 0
+	"Gregoris #0" = 0
+	"Joanes #0" = 0
+	"Leo #0" = 0
+	"Marcus #0" = 0
+	"Martin #0" = 0
+	"Mercurius #1" = 0
+	"Peregrinus #0" = 0
+	"Petronis #0" = 0
+	"Poncis #0" = 0
+	"Timotheus #1" = 0
+}
+
+leader_names = {
+	Arecomice
+	Burela
+	Consoranes "de Carcaso" "de Ceasero" "de Consabura"
+	Druentane
+	"d'Ebromagus" "d'Elusio"
+	Graioceles
+	Layetanus "de Leucate" "de Liviana"
+	"de Magalona"
+	"de Narbo" "de Nemausus"
+	"de Ruscino"
+	"de Salsula" "de Sextantio"
+	Tectosage "de Tarasco"
+	Volca "de Vigesimum"
+}
+
+ship_names = {
+	Auriolus Ammianus Albigo Arausione Avennio
+	Cebenna Carpentorate
+	Ferreolus
+	"Gallia Narbonensis" "Gallia Septimania"
+	"Maximianus Druentanus" Molistomos "Marcus Junius Brutus" Melgorium Magalona
+	Nemausus
+	Rutenia
+	"Sanctes Martin" "Sidonius Apollinaris" Segualeriae
+	Tolosa
+	Vivarium Venicinus
+}

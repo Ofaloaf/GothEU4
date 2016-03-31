@@ -1,0 +1,48 @@
+# Do not change tags in here without changing every other reference to them.
+# Do not change tags in here without changing every other reference to them.
+# If adding new groups or ideas, make sure they are unique.
+
+
+
+### Nation specific idea groups
+
+gothic_culture_ideas = {
+	start = {
+		fort_maintenance_modifier = -0.1
+		heir_chance = 0.5
+	}
+
+	bonus = {
+		prestige = 2
+	}
+	
+	trigger = {
+		culture_group = gothic_group
+	}
+	free = yes		#wibe added at load.
+	
+	ulfilas_bible = {
+		global_missionary_strength = 0.02
+	}
+	alan_mercenaries_goth = { # Caucasian idea
+		mercenary_cost = -0.1
+		possible_mercenaries = 0.25
+	}
+	gothic_pikes = {
+		infantry_power = 0.10
+	}
+	gothicismus = {
+		culture_conversion_cost = -0.2
+		stability_cost_modifier = -0.1
+	}
+	gallic_heritage = {
+		land_morale = 0.20
+	}
+	gothic_metal = {
+		production_efficiency = 0.1
+	}
+	inheritors_of_rome = {
+		prestige = 2
+	}
+}
+

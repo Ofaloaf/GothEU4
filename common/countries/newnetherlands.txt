@@ -1,0 +1,137 @@
+# New Netherlands
+
+graphical_culture = westerngfx
+
+colonial_parent = FRK
+random_nation_chance = 0
+
+color = { 254 171 16 }
+
+historical_idea_groups = {
+	trade_ideas
+	plutocracy_ideas
+	administrative_ideas
+	maritime_ideas
+	innovativeness_ideas
+	defensive_ideas
+	economic_ideas
+	quality_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	chevauchee
+	western_longbow
+	gaelic_mercenary
+	gaelic_free_shooter
+	french_caracolle
+	irish_charge
+	anglofrench_line
+	french_dragoon
+	british_redcoat
+	british_hussar
+	british_square
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Cornelis #0" = 50
+	"Pieter #0" = 45
+	"Gerrit #0" = 45
+	"Adriaen #0" = 40
+	"Diederik #0" = 40
+	"Lodewijk #0" = 35
+	"Lambert #0" = 30
+	"Willem #0" = 30
+	"Andries #0" = 30
+
+	"Eleonora #0" = -5
+	"Hendrika #0" = -5
+	"Josephine #0" = -5
+	"Machteld #0" = -5
+
+	"Abraham #0" = 0
+	"Adam #0" = 0
+	"Antonius #0" = 0
+	"Abel #0" = 0
+	"Alexander #0" = 0
+	"Aloysius #0" = 0
+	"Bartholomeus #0" = 0
+	"David #0" = 0
+	"Egbertje #0" = 0
+	"Ferdinandus #0" = 0
+	"Gelain #0" = 0
+	"Harmtje #0" = 0
+	"Hendrik #0" = 0
+	"Ichabod #0" = 0
+	"Isaac #0" = 0
+	"Israel #0" = 0
+	"Jacob #0" = 0
+	"Job #0" = 0
+	"Johannes #0" = 0
+	"Joris #0" = 0
+	"Jurgen #0" = 0
+	"Justus #0" = 0
+	"Karel #0" = 0
+	"Laurens #0" = 0
+	"Leendert #0" = 0
+	"Leopold #0" = 0
+	"Ludger #0" = 0
+	"Luuk #0" = 0
+	"Marinus #0" = 0
+	"Maarten #0" = 0
+	"Mattheus #0" = 0
+	"Paulus #0" = 0
+	"Symon #0" = 0
+	"Salomon #0" = 0
+	"Theo #0" = 0
+	"Thijs #0" = 0
+	"Timotheus #0" = 0
+	"Wouer #0" = 0
+}
+
+leader_names = {
+	Ackerman Aartsen Aertsz Albertse Antonis Amelhofsen
+	Brouwer Blommaert Bestevaer Barents Barsimson Bartels Bastiaens Beyard Boer Bool Borrelingen Buys
+	Christiaensen "van Cleef" "de Coninck" Carstensen Cassier Claesen Cool Constapel Coenraet Crosevelt
+	Damen Davitsen "De Deckeve" Dircksen Demarest Drune Douwe Dyckmart
+	Eelckens Engsinck Enjart Evertsen 
+	Fransman Florissen Fockens Fokker Fonteyn Foppe
+	Gerritsen "de Groot" "de Gomsee" "van Gysel" Gerbrantsen Gerlossen Goeyer Govertsz Glissen
+	Hontom Heyes Honingh Huys Hardenbroeck "de Hulter" Hooglant
+	Jansen
+	Lengelgraast Labatie "de Lorie"
+	Michielsen "de Mar"
+	"de Noorman" "van Nes"
+	Rijser Rapalje "van Rosenbelt"
+	Schellinger Sandelijn Snoo Shermerhorn Staas Schuyler
+	Thienpont Teunesen "du Trieux" "van Tienhoven" Teunis
+	"De Vries" "van Vechten" "van Voorst" "van Valckenburgh"
+	Wijngaert "de Waetter" Walichsz
+	"van Ysselstein"
+}
+
+ship_names = {
+	"Angel Gabriel" Aker
+	Brndaris "Blauwen Haen" "Bonte Koe"
+	"Coninck David" "Calmer Sleutel"
+	"Drie Koningen" Draetvadt
+	Eendracht Eekhoorntje Eykenboom Elbinck
+	Fortuyn
+	"Goede Hoop" "Groote Gerrit" "Groote Christoffel" Godfrind
+	"Halve Maen" Harlem
+	"Jonge Tobias" Jennigje
+	"Koning David" Kath
+	Liefde
+	Mackreel Meeuwken Melckmeyt Moesman
+	"Nieu Nederlandt" Naerden Nautilus
+	Protea Pauwe Pijnappel
+	Ruyter Rensselaerswijck Rachel
+	Schaep Schildpad Sevenster Swol Soutberch "Schotsen Duytsman"
+	Trouw
+	Vosje Vogelgrijp Valckenier "Vogel Struys" Visscher
+	"Witte Duyf" Walvis Waterhond "Witte Valck" "Witte Doffer" "Witte Paert" Waegh
+}

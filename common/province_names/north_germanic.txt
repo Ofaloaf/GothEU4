@@ -1,0 +1,21 @@
+# Alleghania
+956 = "Nya Gothenborg"
+957 = "Trefaldigheten"
+962 = "Nya Elfsborg"
+
+# Canada et Terranova
+980 = "Furdustrandir"
+981 = "Kjalarnes"
+982 = "Hóp"
+996 = "Krossanes"
+997 = "Markland"
+2568 = "Skrelingaheim"
+2569 = "Einfœtingjaland"
+2573 = "Straumfjörd"
+2574 = "Helluland"
+2575 = "Bjarney"
+2578 = "Straumey"
+
+# Caribbean
+493 = "Taphus"
+1881 = "Gustavia"

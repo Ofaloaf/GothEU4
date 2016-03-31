@@ -1,0 +1,75 @@
+# Hispalis
+
+graphical_culture = westerngfx
+
+color = { 121 39 30 }
+
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	offensive_ideas
+	spy_ideas
+	religious_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	french_bluecoat
+	french_dragoon
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Maximianus #0" = 10
+
+	"Antonius #0" = 0
+	"Crispinus #0" = 0
+	"Epifanius #0" = 0
+	"Faustinus #0" = 0
+	"Felix #0" = 0
+	"Fugitivus #0" = 0
+	"Marchus #0" = 0
+	"Nigolago #0" = 0
+	"Oroncius #0" = 0
+	"Salvator #0" = 0
+	"Savinus #0" = 0
+}
+
+leader_names = {
+	Agulla
+	Barrosus
+	"de Deza"
+	Ephorus "de Exea"
+	"de Ilipa" "de Ispal"
+	Jovellanus
+	Losazus "de Luna"
+	Osorius
+	Quinonus
+	Riarius
+	Tello Tunon
+	Ulpiano Ullas
+}
+
+ship_names = {
+	Baetis
+	Conventus
+	Hispalis Heracles Honoratus
+	"Isidorus Hispalensis" Italica
+	"Julia Romula"
+	Marcellis
+	"Sancta Justa" "Sancta Rufina" Savinus Sallustius "Sanctus Leandrus" Stephanus
+	Tartessos
+	Zeno
+}

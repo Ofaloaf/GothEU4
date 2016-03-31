@@ -1,0 +1,15 @@
+#115 - Pisa
+
+owner = LRM
+controller = LRM
+culture = lat_roman 
+religion = orthodox 
+hre = yes 
+base_tax = 6 
+base_production = 6    
+trade_goods = wine
+base_manpower = 3    
+capital = "Pisanus" 
+is_city = yes	# Estimated 
+estate = estate_burghers
+add_core = LRM

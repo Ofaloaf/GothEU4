@@ -1,0 +1,130 @@
+# Romania
+
+graphical_culture = westerngfx
+
+color={ 176 187 215 }
+
+revolutionary_colors = { 10  0  5 }
+
+historical_idea_groups = {
+	administrative_ideas
+	defensive_ideas
+	trade_ideas
+	innovativeness_ideas
+	maritime_ideas
+	offensive_ideas
+	economic_ideas
+	quality_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	italian_condotta
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Teia #1" = 40
+	"Alarigh #0" = 30
+	"Tiuderigh #0" = 20
+	"Carl #0" = 10
+
+	"Amalaberga #0" = -5
+
+	"Ainrigh #0" = 0
+	"Ajmon #0" = 0
+	"Alessi #0" = 0
+	"Amaneus #0" = 0
+	"Ambreus #0" = 0
+	"Batista #0" = 0
+	"Buterigh #0" = 0
+	"Costantin #0" = 0
+	"Dagamerus #0" = 0
+	"Daniele #0" = 0
+	"Ësteo #0" = 0
+	"Eurigh #0" = 0
+	"Gajo #0" = 0
+	"Giacint #0" = 0
+	"Giaco #0" = 0
+	"Giouan #0" = 0
+	"Godifré #0" = 0
+	"Gregòri #0" = 0
+	"Guidin #0" = 0
+	"Gulielm #0" = 0
+	"Ignassi #0" = 0
+	"Manuel #0" = 0
+	"Margh #0" = 0
+	"Màssim #0" = 0
+	"Maté #0" = 0
+	"Medeo #0" = 0
+	"Michel #0" = 0
+	"Nicolet #0" = 0
+	"Odoacre #0" = 0
+	"Odoin #0" = 0
+	"Oton #0" = 0
+	"Pàol #0" = 0
+	"Pé #0" = 0
+	"Plinta #0" = 0
+	"Ranié #0" = 0
+	"Renà #0" = 0
+	"Roderigh #0" = 0
+	"Ròmol #0" = 0
+	"Safrax #0" = 0
+	"Sever #0" = 0
+	"Sigeric #0" = 0
+	"Tadé #0" = 0
+	"Tit #0" = 0
+	"Tomà #0" = 0
+	"Totila #0" = 0
+	"Turismau #0" = 0
+	"Ulfila #0" = 0
+	"Uraia #0" = 0
+	"Viliarigh #0" = 0
+	"Vitòrio #0" = 0
+}
+
+leader_names = {
+	"d'Asèj" "d'Acaja" Ancina
+	Bonomel "ëd Bredulo" "ëd Bricheras" "Brambilla" Borgèis
+	Cacheran Calcagn Crisòstom 
+	"de Faesulae" "ëd Firense"
+	Gadaricus "ëd Giaven" Gualberto "de Gorrevôd" "dël Giss"
+	Liunat "ëd Lissandria" "ëd Lòd" "ëd Luca" "ëd Leinì"
+	"ëd Milan" "dël Mondvì"
+	"d'Òstia"
+	"ëd Pisa" "de Prez" "dël Pesi"
+	Rava "dla Rol" "ëd Roma"
+	"de Setelsona" "ëd San Dalmass" "ëd San Ësteo"
+	Totoni "de Turrin"
+	"ëd Véres" "ëd Valèis" "dla Vermegnana"
+	Waldelenus Walchunus
+}
+
+ship_names = {
+	August Annonaria Antonin "Augusta Taurinorum"
+	Ciceron Costantin Calìgola Clàudi Censora Còmod Caracala Carinus "Costans Clòr"
+	Dioclessian Domissian Decio
+	Egilona Eròd Eliogàbal
+	Florentia
+	"Giulio Céser" "Glissio Agrìcola" "Giulia Dòmna" Galeri Galba
+	Italia
+	Liutberga Latinitas "Lissànder Sever" Liguria
+	Maddalena "March Aureli" Macrin Mediolanum
+	Neron
+	Orìgen Oton
+	Porphyrius Pisanus
+	Romanitas
+	Svetòni "Sétim Sever"
+	Tiberi
+	Vespasian Viteli
+}

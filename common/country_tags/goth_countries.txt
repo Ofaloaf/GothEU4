@@ -1,0 +1,113 @@
+# Special
+ECU = "countries/holypatrimony.txt"
+
+# Gothia
+AMC = "countries/armorica.txt"
+ANJ = "countries/anjau.txt"
+BLG = "countries/belgica.txt"
+BTC = "countries/bituric.txt"
+DVO = "countries/divio.txt"
+GTH = "countries/gautia.txt"
+GTY = "countries/gotunya.txt"
+LIU = "countries/liunesa.txt"
+RDM = "countries/rodumo.txt"
+SUE = "countries/suessionia.txt"
+THF = "countries/theifalia.txt"
+TOX = "countries/toxandria.txt"
+
+# a-gothic Gallia
+AQI = "countries/aquitania.txt"
+PRV = "countries/provencia.txt"
+SPM = "countries/septimania.txt"
+
+# Hispania
+BAE = "countries/betica.txt"
+BLR = "countries/ballearica.txt"
+BRC = "countries/barcino.txt"
+CNT = "countries/cantabria.txt"
+CTH = "countries/carthagenna.txt"
+GDS = "countries/gades.txt"
+HSP = "countries/hispalis.txt"
+LUS = "countries/lusitania.txt"
+PCN = "countries/pacensis.txt"
+TRR = "countries/tarraco.txt"
+
+# Romania or Italia
+AVR = "countries/avaria.txt"
+ILY = "countries/illyria.txt"
+LGI = "countries/liguria.txt"
+LRM = "countries/LatinRomania.txt"
+ROM = "countries/roma.txt"
+SMN = "countries/samnium.txt"
+TNJ = "countries/taurinja.txt"
+
+# Britannia
+CMB = "countries/cumbria.txt"
+CTN = "countries/corion.txt"
+IWD = "countries/iwerddon.txt"
+LBA = "countries/alba.txt"
+LOE = "countries/loegria.txt"
+WHD = "countries/whitedragons.txt"
+
+# Germania
+FRK = "countries/frankia.txt"
+RNT = "countries/carantania.txt"
+SRB = "countries/sorbia.txt"
+SWB = "countries/swabia.txt"
+
+# ANATOLIA, MESOPOTAMIA, ORIENS ET CETERA
+MTU = "countries/ManicheeTurk.txt"
+
+# Scandinavia
+GTR = "countries/gotarike.txt"
+
+# Scythia
+ALN = "countries/alania.txt"
+JZY = "countries/jazygia.txt"
+VBG = "countries/volgabulgaria.txt"
+
+# Africa
+AFR = "countries/africa.txt"
+# MOR - Morroco has been reworked into Mauretania
+
+# Native Americans
+CKI = "countries/cahokia.txt"
+HST = "countries/hisatsinom.txt"
+QUI = "countries/quigualtam.txt"
+SBP = "countries/sobaipuri.txt"
+TLU = "countries/tolu.txt"
+
+# Colonial
+AEN = "countries/aeneica.txt"
+AGN = "countries/agustinha.txt"
+ARH = "countries/armheimaria.txt"
+AVL = "countries/avallonia.txt"
+CUB = "countries/cuba.txt"
+ELT = "countries/eleutheria.txt"
+FLR = "countries/florida.txt"
+GHH = "countries/gauthaim.txt"
+GTA = "countries/sentandray.txt"
+GUS = "countries/guastica.txt"
+GWD = "countries/gwyddno.txt"
+ICY = "countries/icymha.txt"
+LBT = "countries/libairtya.txt"
+LNR = "countries/albionoria.txt"
+LTW = "countries/lethowsow.txt"
+MIS = "countries/missuria.txt"
+MSS = "countries/mississippi.txt"
+NND = "countries/newnetherlands.txt"
+PPG = "countries/papegania.txt"
+QRT = "countries/goranica.txt"
+ROY = "countries/royllo.txt"
+SCX = "countries/sanctacrux.txt"
+UOM = "countries/michigan.txt"
+VGT = "countries/vergentorica.txt"
+VIN = "countries/vinland.txt"
+WTG = "countries/watauga.txt"
+
+# New World African
+BKM = "countries/bukkemeale.txt"
+MRA = "countries/mauria.txt"
+
+#
+HAW = "countries/hawaii.txt"

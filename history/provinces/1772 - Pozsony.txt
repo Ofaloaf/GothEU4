@@ -1,0 +1,15 @@
+#1772 - Pozsony
+
+owner = JZY
+controller = JZY
+culture = jasi
+religion = orthodox
+capital = "Pressburg"
+trade_goods = grain
+hre = no
+estate = estate_burghers
+base_tax = 8 
+base_production = 8
+base_manpower = 4
+is_city = yes
+add_core = JZY

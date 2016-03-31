@@ -1,0 +1,19 @@
+#939 - Pennyrile
+
+owner = TLU
+controller = TLU
+add_core = CKI
+add_core = TLU
+culture = cahokian
+religion = nahuatl
+capital = "Pennyrile"
+is_city = yes
+trade_goods = grain
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+native_size = 5
+native_ferocity = 5
+native_hostileness = 1
+#discovered_by = north_american

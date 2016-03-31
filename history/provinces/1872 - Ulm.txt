@@ -1,0 +1,17 @@
+# 1872 - Ulm
+owner = SWB
+controller = SWB
+add_core = SWB
+culture = swabian
+religion = orthodox
+base_tax = 7 
+base_production = 7
+trade_goods = cloth	#fustians
+base_manpower = 4
+capital = "Ulm"
+is_city = yes
+hre = no
+#discovered_by = eastern
+#discovered_by = western
+#discovered_by = muslim
+#discovered_by = ottoman

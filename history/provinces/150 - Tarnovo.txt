@@ -1,0 +1,20 @@
+#150 - Bulgaria
+
+owner = BYZ
+controller = BYZ
+culture = traki
+religion = orthodox
+capital = "Tarnovo"
+trade_goods = iron
+hre = no
+base_tax = 6 
+base_production = 6
+base_manpower = 3
+estate = estate_nobles
+is_city = yes
+add_core = BYZ
+#discovered_by = western
+#discovered_by = eastern
+#discovered_by = muslim
+#discovered_by = ottoman
+#discovered_by = nomad_group

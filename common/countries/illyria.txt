@@ -1,0 +1,121 @@
+# Illyria
+
+graphical_culture = easterngfx
+
+color = { 174 227 95 }
+
+preferred_religion = gnostic
+
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	religious_ideas
+	quality_ideas
+}
+
+historical_units = {
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
+
+monarch_names = {
+	"Adam #2" = 20
+	"Tiotigino #1" = 20
+	"Blaz #1" = 15
+	"Modest #1" = 15
+	"Taumas #1" = 15
+	"Vait #1" = 15
+	"Ratimiro #2" = 10
+	"Caunstantin #1" = 10
+	"Priscu #1" = 10
+	"Generido #1" = 10
+	"Guntatus #2" = 10
+	"Suetopolc #1" = 5
+	"Gaizhardus #1" = 5
+	"Domislao #1" = 5
+
+	"Fortituda #1" = -5
+	"Antuonja #2" = -10
+
+	"Aliard #0" = 0
+	"Aliau #0" = 0
+	"Antuone #0" = 0
+	"Artebus #0" = 0
+	"Branimiro #0" = 0
+	"Cecilio #0" = 0
+	"Crastin #0" = 0
+	"Domienc #0" = 0
+	"Fiaurens #0" = 0
+	"Iaromir #0" = 0
+	"Iban #0" = 0
+	"Iogenio #0" = 0
+	"Jiolian #0" = 0
+	"Matei #0" = 0
+	"Nadual #0" = 0
+	"Olderico #0" = 0
+	"Paulo #0" = 0
+	"Petar #0" = 0
+	"Radovano #0" = 0
+	"Ruodo #0" = 0
+	"Tiofilus #0" = 0
+	"Valerio #0" = 0
+	"Witigisclus #0" = 0
+}
+
+leader_names = {
+	Alp
+	Biret Baton Boto
+	"de Curicta" "de Cattaro" "de Croja"
+	Diversi "de Daorson" Diastros
+	Elfecuat "de Enon"
+	"de Fualje"
+	"de Guzzei" Gregoras
+	Jualb
+	Kantura Kanaisa
+	Loncteint 
+	Mazaris
+	Nicer
+	Ruper "de Rab" "de Rhisan"
+	Suoldar "de Saurgo" "de Spalatro" "de Setovia" "de Scodra" "de Scupi"
+	"de Trau"
+	Udaina
+	Valb "de Vikla" Viart "de Vizache"
+	Zuola
+}
+
+ship_names = {
+	Autarieus Apeva Andetrium Albanus
+	Bato Bassania Bargulum Berginium
+	Cadmus Cleitus Chinna
+	Dardanus Dalmatia Daortho Dassaro Demetrius Damastion Delminium Doracium
+	Encheleus Epulon Eugenium Epicaria
+	Gentius
+	Harmonia Hyscana
+	Illyricum Illyrius Iuçiça
+	Liburnia
+	Maedus Medauras Meteon Miracula
+	Nesactium Nareste
+	Oneum
+	Partho Perrhaebus Pinnes Pannonia Pituntium Promona
+	Rhizon
+	Savus Saloniana Salvia Sesarethus
+	Tomen Taulas Teuta Tunca Thermidava Tilurium
+	Vozora Virginia
+}

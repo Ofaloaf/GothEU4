@@ -1,0 +1,5 @@
+government = enlightened_despotism
+technology_group = western
+religion = orthodox
+primary_culture = mauru
+capital = 484 # Havana
