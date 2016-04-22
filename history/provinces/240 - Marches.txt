@@ -1,7 +1,7 @@
 #240 - Marches
 
-owner = WHD
-controller = WHD
+owner = WLS
+controller = WLS
 culture = anglo_saxon
 religion = orthodox
 hre = no
@@ -14,7 +14,8 @@ is_city = yes
 fort_15th = yes
 add_core = WLS
 add_core = WHD
-#discovered_by = western
-#discovered_by = muslim
-#discovered_by = ottoman
-#discovered_by = eastern
+add_core = LOE
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern

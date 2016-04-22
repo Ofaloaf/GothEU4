@@ -11,6 +11,7 @@ gothic_group = {
 	graphical_culture = westerngfx
 
 	gothburgundian = {
+		primary = TOX
 	}
 	gautonian = {
 		primary = GTY
@@ -174,6 +175,7 @@ carthagennan_group = {
 	cantabrian = {
 	}
 	lusitanian = {
+		primary = LUS
 		male_names = {
 			Abbelino
 			Caio Césarus
@@ -287,8 +289,10 @@ gallic_group = {
 	graphical_culture = westerngfx
 
 	aquitanian = {
+		primary = AQI
 	}
 	arvernian = {
+		primary = AUV
 	}
 	septimanian = {
 		primary = SPM
@@ -1089,5 +1093,55 @@ volga = {
 	}
 	dynasty_names = {
 		Ashina Dulo Erdevelu Ugain Vokil Altsikur Sabir Ezgil Kashu Barskhan Suvar Barsil Bilar Balanjar
+	}
+}
+
+vlach_group = {
+	wallachian = { # Romanian proper.
+		primary = DCA
+	}
+	vlachika = { # Romanian for Thrace/Bulgaria and such ex-Byzantine lands south of the Danube. Tracia is the primary.
+		primary = THR
+	}
+	pestemari = { # Romanian 'Outremer' culture. (Kingdom of) Jerusalem is the primary.
+		primary = KOJ
+	}
+	dynasty_names = {
+		Basarab
+		Callimachi Ghica Cantacuzino Cantemiresti Caradja Cypsellus "de Cibinium" Conachi Craiovesti
+		Danesti Draculesti
+		Golescu 
+		Hâjdau
+		Kogalniceanu 
+		Movilesti Mavrocordatos
+		Racovita
+		Sturdza Soutzos
+		Vacarescu
+	}
+	male_names = {
+		Constantin Mihail Mircea Mihnea Nicolae Vladislav Mattia 
+		Ilias Scarlat Stefan Alexandru Ioan Leon Moise Neagoie Besarab 
+		Serban Simeon Teodosiu Vladut Corneliu Flaviu Iuliu Octavian
+		Valeriu Petru Petrascu 
+		Adrian Alexander Anghel Angel Aron Bajan Balc Barbat Basarab Bogdan Carol 
+		Ciprian Ciubar Claudiu
+		Cornelius Costin Damjan Dan Dragos Dumitru Emerik Florin Franjo Francis Gavril 
+		Gheorghe George Grigore Gregory Iacob Gabriel
+		Iancu Ieremia Ilie John Iorghu Iosif Iuga Janos Ladislau Latcu Laurentiu Laurence 
+		Litovoi Lucian Lucius Marin Marius
+		Mihai Milos Milosz Nicolaie Petre Pirvu Radovan Radu Roman Sas Seneslav 
+		Sergiu Simion Simon
+		Stephen Stelian Teodor Theodore Tepes Tibor Tihomir Timotei Tudor Thierry
+		Valentin Vasile Basil Veaceslav
+		Victor Vilhelm William Vintila Vlad
+	}
+	female_names = {
+		Adelina Adriana Afina Alexandra Alexia Ana Anna Anastasia Angela Arina
+		Christina Clara Dana Ecatarina Catherine
+		Elena Helen Elisabeta Elisabeth Emilia Emily Eufroysina Euphrosyne Felicia Floarea Flora 
+		Ioana Ionela Irina Iulia Juliana Maria Monica Iacoba
+		Natalia Olimpia Paraschiva Petra Roxana Ruxandra Smaranda Sophia Stana Stefana 
+		Stefania Stephania Teodora Rahela Flavia Cosmina
+		Tereza Teresa Vasilica Violeta Yolanda Voica Zina
 	}
 }

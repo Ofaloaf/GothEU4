@@ -2,7 +2,7 @@
 
 owner = DVO
 controller = DVO
-capital = "Divio"
+capital = "Digum"
 is_city = yes
 culture = gautonian
 religion = orthodox
@@ -13,9 +13,9 @@ trade_goods = wine
 base_manpower = 7
 add_core = DVO
 fort_15th = yes
-#discovered_by = eastern
-#discovered_by = western
-#discovered_by = muslim
-#discovered_by = ottoman
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
 
 1773.1.1 = { base_tax = 11 base_production = 11 } # Turgot & the Economical Reforms

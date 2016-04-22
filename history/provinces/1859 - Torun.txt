@@ -1,0 +1,23 @@
+#1859 - Torun
+
+owner = SRB
+controller = SRB
+capital = "Torun"
+is_city = yes
+estate = estate_burghers
+culture = sorbian
+religion = orthodox
+trade_goods = grain
+hre = no
+base_tax = 5
+base_production = 5
+base_manpower = 2
+add_core = SRB
+
+
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+

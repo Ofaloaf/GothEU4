@@ -109,7 +109,7 @@ leader_names = {
 }
 
 ship_names = {
-	Alingsås Anten Akilles Ansgar Ätran Adolphus Aspeland
+	Alingsås Anten Akilles Ansgar Ätran Adolphus Aspeland Agnafit
 	Beowulf "Bödvar Bjarki" Borås Birka Brömsebro Bohuslän
 	Carolus
 	Draken Dáinn Dvalinn Duneyrr Durathrór Dal

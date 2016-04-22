@@ -1,9 +1,9 @@
 # - Glogau 
 
-owner = SIL
-controller = SIL
-culture = schlesian
-religion = catholic
+owner = SRB
+controller = SRB
+culture = sorbian
+religion = orthodox
 capital = "Glogau"
 trade_goods = grain
 hre = no
@@ -11,8 +11,8 @@ base_tax = 4
 base_production = 4
 is_city = yes
 base_manpower = 1
-add_core = SIL
-#discovered_by = western
-#discovered_by = eastern
-#discovered_by = muslim
-#discovered_by = ottoman
+add_core = SRB
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman

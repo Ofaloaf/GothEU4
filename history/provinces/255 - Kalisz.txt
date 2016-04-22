@@ -1,0 +1,23 @@
+#255 - Kalisz
+
+owner = SRB
+controller = SRB
+culture = sorbian
+religion = orthodox
+capital = "Gniezno"
+estate = estate_church
+trade_goods = cloth
+hre = no
+base_tax = 6
+base_production = 6
+base_manpower = 3
+is_city = yes
+add_core = SRB
+
+
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+

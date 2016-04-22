@@ -1,0 +1,5 @@
+government = despotic_monarchy
+primary_culture = turkish
+religion = jewish
+technology_group = muslim
+capital = 429 # Esfahan

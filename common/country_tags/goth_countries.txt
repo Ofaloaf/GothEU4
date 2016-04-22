@@ -55,8 +55,13 @@ RNT = "countries/carantania.txt"
 SRB = "countries/sorbia.txt"
 SWB = "countries/swabia.txt"
 
+# Byzantium, Graecia, Macedonia et Thracia
+DCA = "countries/dacia.txt"
+THR = "countries/tracia.txt"
+
 # ANATOLIA, MESOPOTAMIA, ORIENS ET CETERA
 MTU = "countries/ManicheeTurk.txt"
+ITC = "countries/iudaturchia.txt"
 
 # Scandinavia
 GTR = "countries/gotarike.txt"
@@ -80,7 +85,7 @@ TLU = "countries/tolu.txt"
 # Colonial
 AEN = "countries/aeneica.txt"
 AGN = "countries/agustinha.txt"
-ARH = "countries/armheimaria.txt"
+ARH = "countries/arheimaria.txt"
 AVL = "countries/avallonia.txt"
 CUB = "countries/cuba.txt"
 ELT = "countries/eleutheria.txt"

@@ -1,7 +1,7 @@
 #1861 - Derby
 
-owner = WHD
-controller = WHD
+owner = LOE
+controller = LOE
 culture = cumbric
 religion = orthodox
 hre = no
@@ -13,8 +13,7 @@ capital = "Derventio"
 is_city = yes
 add_core = CTN
 add_core = LOE
-add_core = WHD
-#discovered_by = western
-#discovered_by = muslim
-#discovered_by = ottoman
-#discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern

@@ -2,5 +2,5 @@ government = feudal_monarchy
 government_rank = 1
 technology_group = western
 religion = orthodox
-primary_culture = rhenish
+primary_culture = gothburgundian
 capital = 92

@@ -1,0 +1,18 @@
+#1953 - Szabolcs
+
+owner = JZY
+controller = JZY 
+culture = jasi
+religion = orthodox
+capital = "Szolnok"
+trade_goods = grain
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 2
+is_city = yes
+add_core = JZY
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman

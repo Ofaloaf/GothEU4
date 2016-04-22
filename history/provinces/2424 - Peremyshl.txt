@@ -1,0 +1,23 @@
+#2424 - Przemysl
+
+owner = ALN
+controller = ALN
+culture = ALN
+culture = alan
+religion = orthodox
+hre = no
+base_tax = 3
+base_production = 3
+trade_goods = grain
+base_manpower = 1
+capital = "Premislia"
+is_city = yes
+estate = estate_nobles
+add_core = ALN
+
+
+
+discovered_by = eastern
+discovered_by = western
+discovered_by = ottoman
+discovered_by = muslim

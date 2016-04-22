@@ -13,3 +13,9 @@ capital = "Stornoway"
 is_city = yes
 estate = estate_nobles
 add_core = LBA
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+

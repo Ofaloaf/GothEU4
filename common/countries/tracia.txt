@@ -1,0 +1,104 @@
+# Romanian Thrace
+
+#Country Name: Please see filename.
+
+graphical_culture = easterngfx
+
+color = { 192 231 208 }
+
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	trade_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
+
+monarch_names = {
+	"Bogomeru #1" = 20
+	"Alexandru #0" = 20
+	"Constantin #0" = 10
+	"August #0" = 10
+	"Alcibiadi #0" = 10
+
+	"Antiochus #0" = 0
+	"Aron #0" = 0
+	"Atanasie #0" = 0
+	"Dimitrie #0" = 0
+	"Eudoxiu #0" = 0
+	"Grigore #0" = 0
+	"Ilias #0" = 0
+	"Ion #0" = 0
+	"Iuga #0" = 0
+	"Miron #0" = 0
+	"Nikolai #0" = 0
+	"Petru #0" = 0
+	"Pirvu #0" = 0
+	"Samuil #0" = 0
+	"Seneslav #0" = 0
+	"Stelian #0" = 0
+	"Teodor #0" = 0
+	"Vasile #0" = 0
+	"Vilhelm #0" = 0
+}
+
+leader_names = {
+	Anghel Apsintvic Araia
+	Brancoveanu Bibescu
+	Costist Caioni Cantemir Cercheza Costin Calmatsul Colceag
+	Dezsofi Dabura Diamandi
+	Ghica Greceanu
+	Hrisoverghi
+	Kantemir
+	Lemeni
+	Movila Mavrocordat Matussis
+	Nasturel Neculce Hibi
+	Olahus
+	Patachi Prodanic Papagheorghe
+	Rednic Racovitsa
+	Spathari Suciu Selimovic Surbi "de Samarina"
+	Tserban Tibai
+	Ureche
+	Vardai
+	Zach Zica Zuchi
+}
+
+ship_names = {
+	Amadocus Adaios Apollonia
+	Berisades Beithys "Bogumerus Cypsellus" Beroea
+	Constantinopol "Constantin cel Mare" Cotys Cersobleptes Cetriporis
+	"Gavril Apsintvic"
+	Hebrus Hebryzelmis Haemus
+	Metokos Mesembria
+	Oescus Odryssia
+	Peltast Pleuratus Paristrion Philippopolis
+	Roigos Raizdos Rhescuporis
+	Sitalces Strymon Seuthopolis Sparatocos Seuthes Sadalas Scythia Serdica
+	Thrax Teres Trimontium
+	Vulcan
+}
+
+army_names = {
+	"Oastea de $PROVINCE$" 
+}

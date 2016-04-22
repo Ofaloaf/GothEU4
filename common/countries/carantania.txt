@@ -110,7 +110,7 @@ ship_names = {
 	Inomost
 	Jadrovnica
 	"Kralj Boruth" Krokar
-	Lovec Lisica Legionarske Lauriacum
+	Lovec Lisica Legionarske Lauriacum "Ludovicus Vaesus"
 	"Marsilius Hieronides Leo" Matichek Morskivolk "Morski Pes"
 	Noricum Neodvisnost Neomadezevan Nepremagljiv Mroz Mecarica
 	Orel Ovilava

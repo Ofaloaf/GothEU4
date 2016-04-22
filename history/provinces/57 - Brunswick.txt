@@ -1,9 +1,9 @@
 #57 - Brunswick
 
-owner = BRU
-controller = BRU
-culture = hannoverian
-religion = catholic
+owner = FRK
+controller = FRK
+culture = oostfranken
+religion = orthodox
 capital = "Braunschweig"
 trade_goods = iron
 hre = no
@@ -12,8 +12,8 @@ base_production = 4
 base_manpower = 3
 is_city = yes
 fort_15th = yes #Strong City Fortifications
-add_core = BRU
-#discovered_by = eastern
-#discovered_by = western
-#discovered_by = muslim
-#discovered_by = ottoman
+add_core = FRK
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman

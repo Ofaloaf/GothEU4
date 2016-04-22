@@ -1,0 +1,23 @@
+# - Umbria
+
+owner = LRM
+controller = LRM
+culture = lat_roman 
+religion = catholic 
+hre = no
+base_tax = 6
+base_production = 6
+trade_goods = wine
+base_manpower = 1
+capital = "Perusia" 
+is_city = yes
+add_core = LRM
+
+
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+
+extra_cost = 10

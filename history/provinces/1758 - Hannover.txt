@@ -1,9 +1,9 @@
 #1758 - Hannover
 
-owner = BRU
-controller = BRU
-culture = hannoverian
-religion = catholic
+owner = FRK
+controller = FRK
+culture = oostfranken
+religion = orthodox
 capital = "Hannover"
 trade_goods = cloth
 hre = no
@@ -11,8 +11,8 @@ base_tax = 4
 base_production = 4
 base_manpower = 4
 is_city = yes
-add_core = BRU
-#discovered_by = eastern
-#discovered_by = western
-#discovered_by = muslim
-#discovered_by = ottoman
+add_core = FRK
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman

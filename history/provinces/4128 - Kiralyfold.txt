@@ -1,0 +1,21 @@
+#1951 - Hunyad
+
+owner = JZY
+controller = JZY
+culture = jasi
+religion = orthodox
+capital = "Cibinium"
+trade_goods = cloth
+estate = estate_burghers
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 2
+is_city = yes
+fort_15th = yes #Fortified Region
+add_core = JZY
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman

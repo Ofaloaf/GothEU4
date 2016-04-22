@@ -1,0 +1,19 @@
+# 4111 - Saintonge and Vendee
+
+owner = THF
+controller = THF
+capital = "Santonica"
+is_city = yes
+culture = theifal
+religion = orthodox 
+hre = yes
+base_tax = 5 
+base_production = 5
+trade_goods = salt
+base_manpower = 3
+add_core = THF
+estate = estate_burghers
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
