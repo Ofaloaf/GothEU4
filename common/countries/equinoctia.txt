@@ -1,0 +1,138 @@
+# Equinoctia
+
+graphical_culture = westerngfx
+
+colonial_parent = LUS
+random_nation_chance = 0
+
+color = { 213 109 82 }
+
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	spy_ideas
+	economic_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	spanish_tercio
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+monarch_names = {
+	"Cesarius #0" = 50
+	"Floridio #0" = 30
+	"Domnigo #0" = 20
+	"Gercorio #0" = 20
+
+	"Claudia #0" = -5
+	"Flavia #0" = -5
+	"Maria #0" = -5
+
+	"Aaron #0" = 0
+	"Abel #0" = 0
+	"Abbelino #0" = 0
+	"Absalon #0" = 0
+	"Adam #0" = 0
+	"Adiuvando #0" = 0
+	"Attius #0" = 0
+	"Baltasar #0" = 0
+	"Beatus #0" = 0
+	"Besilio #0" = 0
+	"Bitaco #0" = 0
+	"Blandu #0" = 0
+	"Cadenio #0" = 0
+	"Calcedonio #0" = 0
+	"Carito #0" = 0
+	"Conparato #0" = 0
+	"Corvus #0" = 0
+	"Daniel #0" = 0
+	"Dautu #0" = 0
+	"Davi #0" = 0
+	"Dedon #0" = 0
+	"Deiservo #0" = 0
+	"Donnello #0" = 0
+	"Domno #0" = 0
+	"Edronio #0" = 0
+	"Effronio #0" = 0
+	"Egenio #0" = 0
+	"Elyas #0" = 0
+	"Eliseus #0" = 0
+	"Emeterius #0" = 0
+	"Ennegus #0" = 0
+	"Envolatus #0" = 0
+	"Eolalio #0" = 0
+	"Felix #0" = 0
+	"Fenesteiro #0" = 0
+	"Ferrario #0" = 0
+	"Ferreniolus #0" = 0
+	"Fiel #0" = 0
+	"Flavius #0" = 0
+	"Fructux #0" = 0
+	"Gaudenzo #0" = 0
+	"Gaudioso #0" = 0
+	"Ismahel #0" = 0
+	"Nigolago #0" = 0
+	"Pontius #0" = 0
+	"Venator #0" = 0
+	"Viator #0" = 0
+	"Vigilius #0" = 0
+	"Vincemalus #0" = 0
+	"Vincentius #0" = 0
+	"Vitalis #0" = 0
+	"Zacarias #0" = 0
+	"Zarraquino #0" = 0
+}
+
+leader_names = {
+	Albogoro Arabrigo Addovo Azo Aita
+	Belitanio Bragaro Baleiro Barva Beida Belacco Benneinquili Bigion Bitto Bliviarco
+	Calurus Calontius Coerus Conius Cilenus Cibargo Cagildo Carratain Cegeri Centi Ciquilabe Cequei Comanco Cerracco
+	Dadeo Daqaron Dato Deiton Diado Diazel Depura Diga Dodado Donze Donnessamas Donumdei
+	Ebogos Equaesus Egas Eizon Elam Elio Elmoncio Enganisi Enni Egienado Evoti Exon Exta Eyvua Ezar
+	Facencortel Faccoi Fangalosi Fare Fasquido Fatalis Felelus Feles Felosite Ferriolo Ferronio Flaino Flamule Floyrano Fotes
+	Francolino Fromilio Fulvidio Furtunius
+	Galur Geldico Grovio Gotolino Gaella Galiano Galli Garsea Gatel Gavinio Gallecus Gemalo Getixilolo Glacto
+	Herus
+	Igeditanico Iermano
+	Louguo Luanquo "de Lancia" Limigo Lemavus
+	"de Ocelon"
+	"de Myrtilis"
+	Nerio
+	Palatius "de Pacajulia" Pomano
+	Querquerno
+	Serro
+	Tamusiensus Trangudano Talurus Tapolo
+	Vettono Vicco
+	Yspanni
+	Zumei Zili Zieri Zerno Zasio Zamarius Zallico Zalamma
+}
+
+ship_names = {
+	Artemidorus Atégina Aphelium Antolina
+	Bellarifonsus Bononome
+	Capricornus Cancer Canis Crescente Creusa
+	Dulce
+	Genesita Gercoria Goginus Gratiosa
+	Hydra
+	Istriola Interamnia
+	Liberator Libera Lynx Leo
+	"Maria de Oureana"
+	Prosperina
+	"Sanctus Georgius" "Sanctus Iacobus" Sol
+	Venetiola Virginia Vindemiola
+}

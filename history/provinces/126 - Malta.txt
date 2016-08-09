@@ -1,17 +1,20 @@
 #126 - Malta
 
-owner = SIC
-controller = SIC
-culture = maltese 
-religion = orthodox
+owner = VEN
+controller = VEN
+culture = lat_sicilian
+religion = catholic 
 hre = no 
 base_tax = 3 
 base_production = 3
 trade_goods = fish
 base_manpower = 2
-capital = "Mdina" 
+capital = "Meletinum" 
 is_city = yes
-add_core = SIC
+add_core = VEN
+
+
+
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

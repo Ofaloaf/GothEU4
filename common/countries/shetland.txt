@@ -1,0 +1,127 @@
+# Scottish Gaelic Shetland
+
+graphical_culture = westerngfx
+
+color={ 96 130 220 }
+
+historical_idea_groups = {
+	administrative_ideas
+	defensive_ideas
+	exploration_ideas
+	offensive_ideas
+	economic_ideas
+	maritime_ideas
+	trade_ideas
+	innovativeness_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	gaelic_galloglaigh
+	gaelic_mercenary
+	gaelic_free_shooter
+	irish_charge
+	scottish_highlander
+	british_redcoat
+	british_hussar
+	british_square
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Colin #1" = 30
+	"Giric #2" = 30
+	"Ithel #2" = 25
+	"Duncan #0" = 20
+	"Hamish #1" = 20
+	"Fingal #1" = 15
+	"Cyngar #1" = 10
+	"Walan #1" = 10
+
+	"Dervorgilla #1" = -5
+	"Mairi #0" = -5
+
+	"Absolon #0" = 0
+	"Ailpein #0" = 0
+	"Alasdair #0" = 0
+	"Bhaltair #0" = 0
+	"Cormac #0" = 0
+	"Cresdean #0" = 0
+	"Eideard #0" = 0
+	"Faolan #0" = 0
+	"Feaghas #0" = 0
+	"Frangan #0" = 0
+	"Greum #0" = 0
+	"Iain #0" = 0
+	"Ianatan #0" = 0
+	"Iosag #0" = 0
+	"Iosaph #0" = 0
+	"Iona #0" = 0
+	"Labhrainn #0" = 0
+	"Lucais #0" = 0
+	"Luthais #0" = 0
+	"Marcus #0" = 0
+	"Martain #0" = 0
+	"Mascual #0" = 0
+	"Mata #0" = 0
+	"Mecheil #0" = 0
+	"Morgan #0" = 0
+	"Mungan #0" = 0
+	"Murchadh #0" = 0
+	"Neacal #0" = 0
+	"Niall #0" = 0
+	"Oilbhreis #0" = 0
+	"Oisean #0" = 0
+	"Padruig #0" = 0
+	"Parlan #0" = 0
+	"Peadar #0" = 0
+	"Pol #0" = 0
+	"Raghnall #0" = 0
+	"Ruiseart #0" = 0
+	"Samuel #0" = 0
+	"Seoras #0" = 0
+	"Seumas #0" = 0
+	"Solamn #0" = 0
+	"Tadhg #0" = 0
+	"Thomais #0" = 0
+	"Torcall #0" = 0
+	"Tormod #0" = 0
+	"Uilleam #0" = 0
+}
+
+leader_names = {
+	Anrias Ambarsan Aonghais
+	Bach Blar Brun Buiseid Beitean
+	Caenogion Colquhoun Canowan Ceiteach Cearr Crobán Ciogach Cent
+	Daron Deoir Dalais Dughallach Dunchad
+	Fychan Fearghasdan Fingon Folais
+	Galbraith Guinne Gutraidh Geadais Gilios Glas
+	Kinloch Kinnaid Kinnear Kinninmont
+	Loganach Luthurna Lutair Liobhunn
+	Menteith MacRaild Mair Muir Mhjuirich Marr Munro MacNab Moffat MacTamhais
+	Norval Narann Napier Niocalsan
+	Og Oliphant
+	Parvus Patullo Preas Paorach Peucag
+	Revan Rattray Roid
+	Singlear Sutherlarach Scotach Sgian Strathaen Salmond
+	Tuairnear Tulach Talmhach
+}
+
+ship_names = {
+	Acmodae "Abscissa Virescit" "Amo Probos" Audaciter
+	"Ceredig Dyfed" Confido
+	Findanus
+	Haemodae "Hrane av Nordland"
+	"Inse Catt"
+	"Ne Obliviscaris"
+	Preseverando "Paratus Sum" "Petrus de Haga"
+	Reviresco
+	"Serva Jugum" "Salus Per Christum"
+	"Uipoig Cait"
+	"Vincit Veritas" "Vive Ut Vivas"
+	"Walan Dunbar"
+}

@@ -1,20 +1,20 @@
 #Skåne
 
 add_core = GTR
-add_core = DAN
 owner = GTR
 controller = GTR
-culture = danish
-religion = orthodox
+culture = geatish
+religion = catholic
 hre = no
 base_tax = 7
 base_production = 7
 trade_goods = grain
-base_manpower = 5
+base_manpower = 6
 capital = "Lund"
 is_city = yes
 estate = estate_nobles
 fort_15th = yes 
+
 
 
 discovered_by = eastern

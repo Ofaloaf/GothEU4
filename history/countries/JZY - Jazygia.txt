@@ -1,5 +1,30 @@
-government = feudal_monarchy
+government = elective_monarchy
 primary_culture = jasi
-religion = orthodox
+add_accepted_culture = boyustaniy
+add_accepted_culture = alan
+religion = catholic
 technology_group = eastern
 capital = 153 # Buda
+
+1401.9.27 = {
+	monarch = {
+		name = "Tamerlan II"
+		dynasty = "Merabid"
+		birth_date = 1364.2.5
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+	heir = {
+		name = "Kera"
+		monarch_name = "Kera I"
+		dynasty = "Merabid"
+		birth_date = 1382.9.2
+		death_date = 1450.1.1
+		female = yes
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}

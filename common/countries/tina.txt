@@ -1,0 +1,83 @@
+# Tina
+
+graphical_culture = westerngfx
+
+color = { 185 64 64 }
+
+historical_idea_groups = {
+	innovativeness_ideas
+	offensive_ideas
+	diplomatic_ideas
+	quality_ideas
+	economic_ideas
+	trade_ideas
+	defensive_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	prussian_frederickian
+	prussian_uhlan
+	prussian_drill
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Math #1" = 50
+	"Aleisandr #0" = 40
+	"Asa #1" = 35
+	"Owain #0" = 30
+	"Erb #0" = 20
+
+	"Oudolat #0" = -10
+	"Sarra #0" = -10
+	"Iseullt #0" = -5
+
+	"Brochmail #0" = 0
+	"Casnar #0" = 0
+	"Cassius #0" = 0
+	"Cedwyn #0" = 0
+	"Gleuissicg #0" = 0
+	"Llewfelen #0" = 0
+	"Llywelyn #0" = 0
+	"Mwyn #0" = 0
+	"Rheinallt #0" = 0
+	"Rhydderch #0" = 0
+	"Trahaearn #0" = 0
+}
+
+leader_names = {
+	Baivenjar "di Bori" Breatnach
+	Croude "di Caputcaprae" "di Caerliwelyedd" "di Calleva" Cruit
+	Glywysing Gladhoc Gillemachoi
+	"d'Iartref"
+	"di Leucomagus" "di Llannerch"
+	Mynydd Minnoc
+	Pluchan "de Pebyll"
+	"de Tamusiensi"
+}
+
+ship_names = {
+	Alauna
+	Bremenium Blatobulgium Bruddach
+	"Castra Exploratorum" Cleddyfwr
+	Dewrder Difrifol
+	Elazar
+	Ffraid "Fanum Cocidi" Ffenics Ffaglu
+	Gwroldeb
+	Habitancum "Hen Ogledd"
+	Marchogion Marchfilwr
+	Rhyfelwr
+	Tina
+	"Vallum Aelium" Vindolandia
+}

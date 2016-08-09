@@ -347,7 +347,7 @@ colonial_alleghania = {
 		481 953 954 955 956 957 958 962 963 965
 		966 967 968 970 971 959 960 961
 		964 969 2010 2013 2023
-		551 2553 2554 2555 2556
+		2553 2554 2555 2556
 		2557 2558 2559 2560 2561 2562 2563 2564 2565 2566 2567 2639
 	}
 	
@@ -1028,7 +1028,6 @@ colonial_equinoxialia = {
 		835 836 838 2660 2663 2664 2819 #Castilla del Oro
 		828 829 2806 #New Andalucia
 		741 742 830 831 834 2803 2805 2807 2808 2809 2810 2811 2813 2939 #Venezuela
-		2931 743 744 745 2937 2804 #Guyana
 	}
 
 	# Specific
@@ -1110,8 +1109,8 @@ colonial_peru = {
 	}
 }
 
-# Quariana
-colonial_quariana = {
+# Plattina
+colonial_plattina = {
 	color = { 101 102 163 }
 
 	# Random New World
@@ -1224,7 +1223,6 @@ colonial_brazil = {
 		750 751 753 754 755 2885 2912 2913 2915 2917 2918 2921 2922 #Pernambuco
 		749 752 2886 2923 2924 2925 2926 2927 #Maranhao
 		747 748 2890 2928 2929 2930 2933 2934 2935 #Grao-Para
-		746  2889   2938 #Guyana
 	}
 	
 	# Specific
@@ -1282,6 +1280,68 @@ colonial_brazil = {
 	}
 }
 
+colonial_guyana = {
+	color = { 31 136 10 }
+
+	# Random New World
+	tax_income = 1
+	native_size = 10
+	native_ferocity = 2
+	native_hostileness = 2
+	
+	trade_goods = {
+		sugar = 4
+		cocoa = 2
+	}
+	
+	culture = {
+		guajiro = 10
+	}
+	
+	religion = {
+		animism = 10
+	}
+
+	provinces = {
+		2931 743 744 745 2937 2804 #Guyana
+		746  2889   2938 #Guyana
+	}
+	
+	# Specific
+	names = {
+		trigger = {
+			OR = {
+				tag = NED
+				tag = HOL
+				primary_culture = dutch
+			}
+		}
+		name = "COLONIAL_GUYANA_Root_Culture_GetName_Guiana"
+	}
+	names = {
+		trigger = {
+			OR = {
+				tag = NED
+				tag = HOL
+				primary_culture = dutch
+			}
+		}
+		name = "COLONIAL_GUYANA_Suriname"
+	}
+	# Generic
+	names = {
+		name = "COLONIAL_GUYANA_Root_Culture_GetName_Guyana"
+	}
+	names = {
+		name = "COLONIAL_REGION_New_Root_GetName"
+	}
+	names = {
+		name = "COLONIAL_GUYANA_Guyana"
+	}
+	names = {
+		name = "COLONIAL_GUYANA_Suriname"
+	}
+}
 
 # Australia
 colonial_australia = {

@@ -1,0 +1,7 @@
+government = feudal_monarchy
+government_rank = 2
+primary_culture = armenian
+add_accepted_culture = circassian
+religion = catholic
+technology_group = eastern
+capital = 463 # Circassia

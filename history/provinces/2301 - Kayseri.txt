@@ -1,9 +1,9 @@
 #2301 - Kayseri
 
-owner = MTU
-controller = MTU
+owner = BYZ
+controller = BYZ
 culture = turkish
-religion = manichee
+religion = catholic
 capital = "Kayseri"
 trade_goods = iron
 hre = no
@@ -11,7 +11,9 @@ base_tax = 3
 base_production = 3
 base_manpower = 3
 is_city = yes
-add_core = MTU
+add_core = BYZ
+
+
 
 discovered_by = western
 discovered_by = eastern

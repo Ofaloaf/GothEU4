@@ -2,19 +2,21 @@
 
 owner = MOR
 controller = MOR
-culture = mauru
-religion = orthodox
+culture = berber
+religion = catholic
 capital = "Taroudant"
 trade_goods = sugar
-hre = no
+hre = yes
 base_tax = 5 
 base_production = 5
 base_manpower = 2
 is_city = yes
 estate = estate_nobles
 add_core = MOR
-add_core = SOS
 add_core = TFL
+
+
+
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman

@@ -1,0 +1,94 @@
+# Campania
+
+graphical_culture = westerngfx
+
+color = { 240 209 100 }
+revolutionary_colors = { 15  6  16 } #Parthenopean Republic
+
+historical_idea_groups = {
+	trade_ideas
+	quantity_ideas
+	economic_ideas
+	maritime_ideas
+	defensive_ideas
+	innovativeness_ideas
+	offensive_ideas
+	quality_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	italian_condotta
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Jorge #3" = 30
+	"Cassio #2" = 30
+	"Laurentio #1" = 20
+	"Leo #1" = 20
+	"Romaeo #1" = 20
+	"Fabiano #1" = 20
+	"Martino #1" = 15
+	"Regaliano #1" = 15
+	"Junio #1" = 10
+	"Urso #1" = 10
+
+	"Agata #0" = -5
+	"Ildaria #0" = -5
+	"Melisènda #0" = -5
+	"Sallustia #0" = -5
+	"Valeria #0" = -5
+
+	"Annio #0" = 0
+	"Anthemio #0" = 0
+	"Cassiano #0" = 0
+	"Diocletiano #0" = 0
+	"Frodoi #0" = 0
+	"Georgio #0" = 0
+	"Germano #0" = 0
+	"Josepho #0" = 0
+	"Marcello #0" = 0
+	"Pacatiano #0" = 0
+	"Sempronio #0" = 0
+	"Simon #0" = 0
+}
+
+leader_names = {
+	"de Bovino"
+	"de Capua" "de Cumae" "de Caiatia" "de Callicula" "de Capreae" "de Clorem"
+	"de Literno" "de Luceria"
+	"de Misenum"
+	Neapolites "de Nola" "de Nuceriola"
+	"de Pozzuoli" "de Pausylipo" "de Puteoli" "de Planisio"
+	"de Saticula" "de Suessula" "de Stabiae" "de Surrento" "de Sirenae" "de Sirpio" "de Sepino"
+	"de Telesia" "de Teglano" "de Taurasia"
+	"de Volturnum"
+}
+
+ship_names = {
+	Abellinum Abella Acerrae Atella "Ad Nonum" Allifae "Ad Teglanum" Aequana Apollo "Ad Quartum" "Aequum Tuticum"
+	Beneventum Bovinum
+	Capua Casilinum Caudium
+	"Forum Novum"
+	Herculaneum Hamae
+	Iovis
+	Liternum "Ligures Baebiani" "Lucus Aquilonensis"
+	Misenum "Marcianus Fundus"
+	Neapolis "Nuceria Alfaterna"
+	Pompeii "Pagus Capriculanus" Pithekoussai "Pagus Meflanus" "Praetorium Laverianum" Planisium
+	Surrentum Sirenae Saepinum
+	"Trebula Balliensium"
+	Urbana
+	Vesuvius "Vicus Feniculensis" Volturnum "Vicus Novaniensis" "Vicus Palatius" Vescellium
+}

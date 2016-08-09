@@ -3,15 +3,18 @@
 owner = LGI
 controller = LGI
 culture = taurinjeis
-religion = orthodox
+religion = catholic
 hre = yes
 base_tax = 5
 base_production = 5
 trade_goods = wine
 base_manpower = 2
-capital = Montferrat
+capital = "Monfra"
 is_city = yes
 add_core = LGI
+
+
+
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

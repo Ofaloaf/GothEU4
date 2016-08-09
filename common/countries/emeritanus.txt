@@ -1,0 +1,98 @@
+# Emeritanus
+
+graphical_culture = westerngfx
+
+color = { 138 243 51 }
+
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	spy_ideas
+	offensive_ideas
+	religious_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	italian_condotta
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Egenio #2" = 40
+	"Aurelius #2" = 30
+	"Benedictus #2" = 30
+	"Romaeus #1" = 15
+	"Abbelino #1" = 15
+	"Pereollo #1" = 15
+	"Fulc #1" = 15
+	"Miquel #1" = 10
+	"Zarraquina #1" = 10
+	"Wifredo #2" = 10
+	"Ranimirus #1" = 10
+
+	"Melisènda #1" = -10
+	"Eufrosina #1" = -10
+	"Crescente #0" = -5
+
+	"Avitus #0" = 0
+	"Caio #0" = 0
+	"Césarus #0" = 0
+	"Fiel #0" = 0
+	"Ioacino #0" = 0
+	"Lillo #0" = 0
+	"Lúcio #0" = 0
+	"Malasco #0" = 0
+	"Nicodemus #0" = 0
+	"Orbanus #0" = 0
+	"Pantaleon #0" = 0
+	"Paulo #0" = 0
+	"Salvadus #0" = 0
+	"Sexto #0" = 0
+	"Turiaco #0" = 0
+	"Viriato #0" = 0
+	"Yspanni #0" = 0
+	"Zarraco #0" = 0
+}
+
+leader_names = {
+	Apuleio "de Albiquercus"
+	Benveniste "de Blaidsa" "de Biclara" "de Brutobriga" "de Bletisama"
+	"de Caesarina" "de Consabura" "de Capera" Cassetano
+	Estrabao
+	"de Iscar"
+	"de Lacipea" "de Lama" "de Lippos"
+	"de Norba"
+	Osuna Ophiuso
+	"de Pairciane"
+	Runesocésio "de Rusticiana"
+	"de Sentice" "de Salamantica" "de Sibaris"
+	"de Turgalha" "de Tamusia" "de Tourmogon"
+}
+
+ship_names = {
+	Ambracia Anas Augusta "Ad Sorores" "Ad Lippos"
+	Bletisama Biclarum
+	Caurium Carisius Caesarina "Castra Caecilia" Capera Caelionicco
+	Deidona Donata
+	"Emerita Augusta" Evandriana
+	Lama
+	Maximus Metellinum
+	Ostabia
+	Rosmerta Rusticiana
+	Salamantica Speciosa "Sancta Clara" "Sancta Eulalia" "Sanctus Andreas" Sentice
+	Tiberius Toutellus Tourmogon Tongobriga
+}

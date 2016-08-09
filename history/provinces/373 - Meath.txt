@@ -1,16 +1,16 @@
 #373 - Meath
 
-owner = IWD
-controller = IWD
-add_core = IWD
+owner = IWR
+controller = IWR
+add_core = IWR
 culture = hibernaidd
-religion = orthodox
+religion = catholic
 hre = no
 base_tax = 4
 base_production = 4
 trade_goods = grain
 base_manpower = 3
-capital = "Dulyn"
+capital = "Dublin"
 is_city = yes
 fort_15th = yes
 

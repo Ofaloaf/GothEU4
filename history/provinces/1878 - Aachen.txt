@@ -1,15 +1,21 @@
-owner = BLG
-controller = BLG
-culture = rhenish
-religion = orthodox
+owner = TRI
+controller = TRI
+culture = old_gothic
+religion = catholic
 trade_goods = grain
 capital = "Aquisgran"
 base_tax = 5
 
 base_production = 5
 is_city = yes
-add_core = BLG
+add_core = TRI
 base_manpower = 2
 hre = yes
+
+
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
 
 

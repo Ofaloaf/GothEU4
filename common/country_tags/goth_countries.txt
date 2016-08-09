@@ -1,118 +1,187 @@
-# Special
-ECU = "countries/holypatrimony.txt"
+# Overwrites & tweaked stuff
+# PAP - Papal.txt
+# HLR - HolyRomanEmpire.txt		# Made more Roman and less Holy
+# AUV - Auvergne.txt			# reused for Gallo-Roman Arvernia
+# KOJ - Jerusalem.txt			# now Vlach-Romanian
+# PAR - Parma.txt
+# TRI - Trier.txt			# reused for Treveria
+# ORL - Orleans.txt			# reused for Gautes Aureliansa
+# FLA - Flanders.txt			# now Gautes
+# MOR - Morocco.txt			# reused for Mauretania because I am a bad lazy man
+# GAL - Galicia.txt			# now it's Hispano-Roman!
+# KUR - Kurland.txt			# now it's Dutch!
+# MAZ - Mazovia.txt			# only slightly tweaked so that it's Sorbian rather than Polish, but pretty much the same
+# SMO - Smolensk			# now it's Mordvin!
+# PSK - Pskov				# now it's Bolghar!
+# SYR - Syria				# now it's Pestemari/Crusader Vlach!
+# BAD - Baden				# now it's Gautes/Gautonian! Also it's 'Aquensa' in-game.
+# HES - Hessen				# now it's archaically Dutch!
+# MUG - Mughal				# now it's Chinese????
 
-# Gothia
+# Africa et Mauretania et cetera
+BYC = "countries/byzacena.txt"
+CRH = "countries/carthago.txt"
+CSE = "countries/caesarea.txt"
+CYR = "countries/cyrenaica.txt"
+NBT = "countries/nobatia.txt"
+NMD = "countries/numidia.txt"
+SLA = "countries/sala.txt"
+
+# Britannia
+ARG = "countries/argyll.txt"
+CMB = "countries/cumbria.txt"
+GBI = "countries/britannia.txt"		# Brithenig union
+GBP = "countries/prydain.txt"		# (British) Celtic union
+GOD = "countries/gododdin.txt"
+IWR = "countries/iwerddon.txt"		# Brythonic Ireland
+KMR = "countries/kemr.txt"
+LOE = "countries/loegria.txt"
+SHT = "countries/shetland.txt"		# It's Scottish Gaelic so it's British now
+TIN = "countries/tina.txt"		# independent Brythonic county in northern England. 'Tina' is the Latin name for the Tyne.
+
+# Byzantine lands
+A00 = "countries/anadolu.txt"
+AEG = "countries/AegeanIslands.txt"	# Vassal of Carantania
+ILY = "countries/illyria.txt"
+MKD = "countries/macedonia.txt"
+SKL = "countries/sklavinia.txt"		# cultural revolter for Slavs in Vlach Thrace
+THR = "countries/thrace.txt"
+
+# Cathay
+A01 = "countries/tianwan.txt"
+A02 = "countries/daxia.txt"
+A03 = "countries/manzi.txt"
+ATY = "countries/altay.txt"
+DHN = "countries/dahan.txt"
+DZH = "countries/dazhou.txt"
+KHN = "countries/khotan.txt"
+KSG = "countries/kashgar.txt"
+
+# Germania
+FRC = "countries/francia.txt"
+RNT = "countries/carantania.txt"
+RPA = "countries/ripuaria.txt"
+SWB = "countries/swabia.txt"
+
+# Gothia et Gallia
 AMC = "countries/armorica.txt"
 ANJ = "countries/anjau.txt"
-BLG = "countries/belgica.txt"
+AQI = "countries/aquitania.txt"
+ART = "countries/atrebatesa.txt"
 BTC = "countries/bituric.txt"
 DVO = "countries/divio.txt"
-GTH = "countries/gautia.txt"
+ELS = "countries/elusa.txt"
+GHI = "countries/ghisnae.txt"
+GTH = "countries/gothia.txt"
 GTY = "countries/gotunya.txt"
-LIU = "countries/liunesa.txt"
+GUT = "countries/gutthuida.txt"
+MEU = "countries/mosa.txt"
+MSL = "countries/mosela.txt"
+NIC = "countries/nicea.txt"
+PRV = "countries/provencia.txt"
 RDM = "countries/rodumo.txt"
-SUE = "countries/suessionia.txt"
-THF = "countries/theifalia.txt"
+SPM = "countries/septimania.txt"
+SVA = "countries/savauia.txt"
 TOX = "countries/toxandria.txt"
 
-# a-gothic Gallia
-AQI = "countries/aquitania.txt"
-PRV = "countries/provencia.txt"
-SPM = "countries/septimania.txt"
-
 # Hispania
-BAE = "countries/betica.txt"
-BLR = "countries/ballearica.txt"
+BAE = "countries/baetica.txt"
 BRC = "countries/barcino.txt"
-CNT = "countries/cantabria.txt"
+BRN = "countries/bracarensis.txt"
+CAG = "countries/caesaraugustanus.txt"
+CRP = "countries/carpetania.txt"
+CTG = "countries/carthaginensis.txt"
 CTH = "countries/carthagenna.txt"
-GDS = "countries/gades.txt"
-HSP = "countries/hispalis.txt"
+EMT = "countries/emeritanus.txt"
+ILB = "countries/iliberris.txt"
 LUS = "countries/lusitania.txt"
 PCN = "countries/pacensis.txt"
 TRR = "countries/tarraco.txt"
 
-# Romania or Italia
-AVR = "countries/avaria.txt"
-ILY = "countries/illyria.txt"
+# Italia
+ANC = "countries/ancona.txt"
+CPA = "countries/campania.txt"
 LGI = "countries/liguria.txt"
 LRM = "countries/LatinRomania.txt"
-ROM = "countries/roma.txt"
-SMN = "countries/samnium.txt"
-TNJ = "countries/taurinja.txt"
+QUA = "countries/quadia.txt"
+RMA = "countries/roma.txt"		# Rome proper
+VRO = "countries/verona.txt"
 
-# Britannia
-CMB = "countries/cumbria.txt"
-CTN = "countries/corion.txt"
-IWD = "countries/iwerddon.txt"
-LBA = "countries/alba.txt"
-LOE = "countries/loegria.txt"
-WHD = "countries/whitedragons.txt"
+# Oriens et Arabia
+AIG = "countries/aigyptos.txt"
+ALP = "countries/aleppo.txt"
+ASC = "countries/ascalon.txt"
+ATI = "countries/antioch.txt"		#
+DMM = "countries/damman.txt"
+HAS = "countries/HellenicAsir.txt"
+HLS = "countries/HolySepulchre.txt"
+NFD = "countries/nefoud.txt"
+OUL = "countries/oultrejourdain.txt"
+SNT = "countries/SassanidTurks.txt"
+VRB = "countries/VlachArabia.txt"
 
-# Germania
-FRK = "countries/frankia.txt"
-RNT = "countries/carantania.txt"
-SRB = "countries/sorbia.txt"
-SWB = "countries/swabia.txt"
-
-# Byzantium, Graecia, Macedonia et Thracia
-DCA = "countries/dacia.txt"
-THR = "countries/tracia.txt"
-
-# ANATOLIA, MESOPOTAMIA, ORIENS ET CETERA
-MTU = "countries/ManicheeTurk.txt"
-ITC = "countries/iudaturchia.txt"
+# Persia et Transoxiana
+BLK = "countries/balkh.txt"
+KHT = "countries/khuttal.txt"
+MMY = "countries/maymana.txt"
+NSP = "countries/NasanPersia.txt"
+QOC = "countries/qocharids.txt"
+SMK = "countries/samarkand.txt"
+TRK = "countries/turkestan.txt"
 
 # Scandinavia
 GTR = "countries/gotarike.txt"
+KNR = "countries/kola-nidaros.txt"	# just 'Nidaros' in-game
+LFL = "countries/lijfland.txt"		# Dutch/Francian Livland/Livonia
+OST = "countries/osterland.txt"		# Norse Finland
+SVO = "countries/savolax.txt"
+VST = "countries/vestlandet.txt"
 
 # Scythia
-ALN = "countries/alania.txt"
+ILM = "countries/ilmenia.txt"		# Mordvin northern Russia
 JZY = "countries/jazygia.txt"
-VBG = "countries/volgabulgaria.txt"
+MLD = "countries/mulda.txt"		# Sarmatian Moldova
+RTH = "countries/ruthenia.txt"
+SRB = "countries/sorbia.txt"
+TRC = "countries/taurica.txt"
+VBG = "countries/VolgaBulgaria.txt"
+VRA = "countries/vrastan.txt"		# Armenian Georgia
+VSD = "countries/varasdinum.txt"	# Easternmost part of the WRE-HRE
+ZYX = "countries/ArmenianCircassia.txt"	# Armenian Circassia
 
-# Africa
-AFR = "countries/africa.txt"
-# MOR - Morroco has been reworked into Mauretania
-
-# Native Americans
-CKI = "countries/cahokia.txt"
-HST = "countries/hisatsinom.txt"
-QUI = "countries/quigualtam.txt"
+# Novus Orbis
 SBP = "countries/sobaipuri.txt"
-TLU = "countries/tolu.txt"
+W00 = "countries/marajoara.txt"
+W01 = "countries/xingu.txt"
 
-# Colonial
-AEN = "countries/aeneica.txt"
-AGN = "countries/agustinha.txt"
-ARH = "countries/arheimaria.txt"
-AVL = "countries/avallonia.txt"
-CUB = "countries/cuba.txt"
-ELT = "countries/eleutheria.txt"
-FLR = "countries/florida.txt"
-GHH = "countries/gauthaim.txt"
-GTA = "countries/sentandray.txt"
-GUS = "countries/guastica.txt"
-GWD = "countries/gwyddno.txt"
-ICY = "countries/icymha.txt"
-LBT = "countries/libairtya.txt"
-LNR = "countries/albionoria.txt"
-LTW = "countries/lethowsow.txt"
-MIS = "countries/missuria.txt"
-MSS = "countries/mississippi.txt"
-NND = "countries/newnetherlands.txt"
-PPG = "countries/papegania.txt"
-QRT = "countries/goranica.txt"
-ROY = "countries/royllo.txt"
-SCX = "countries/sanctacrux.txt"
-UOM = "countries/michigan.txt"
-VGT = "countries/vergentorica.txt"
-VIN = "countries/vinland.txt"
-WTG = "countries/watauga.txt"
 
-# New World African
-BKM = "countries/bukkemeale.txt"
-MRA = "countries/mauria.txt"
+# NEW WORLD REVOLTERS
 
-#
-HAW = "countries/hawaii.txt"
+# Floating
+AVL = "countries/avallonia.txt"		# Brythonic
+
+# Appalachia
+WTG = "countries/watauga.txt"		# Generic
+
+# Canada
+LNR = "countries/albionoria.txt"	# Brythonic
+
+# Caribbean
+CUB = "countries/cuba.txt"		# Generic
+
+# Equinoctialia
+N00 = "countries/equinoctia.txt"
+
+# Florida
+FLR = "countries/florida.txt"		# Generic
+
+# Mississippi
+GWD = "countries/gwyddno.txt"		# Brythonic
+MIS = "countries/missouri.txt"		# Generic
+MSS = "countries/mississippi.txt"	# Generic
+
+# Ohio
+UOM = "countries/michigan.txt"		# Generic
+
+# Plattina
+N01 = "countries/argentina.txt"		# Generic

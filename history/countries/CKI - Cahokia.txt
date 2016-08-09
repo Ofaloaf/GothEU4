@@ -1,5 +1,0 @@
-government = despotic_monarchy
-primary_culture = cahokian
-religion = nahuatl
-technology_group = north_american
-capital = 917

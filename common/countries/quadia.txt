@@ -1,0 +1,99 @@
+# Quadia
+
+graphical_culture = westerngfx
+
+color = { 34 30 174 }
+
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	religious_ideas
+	quality_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	french_caracolle
+	anglofrench_line
+	french_dragoon
+	french_bluecoat
+	french_cuirassier
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Leon #3" = 50
+	"Ebal #1" = 35
+	"Chindavindo #2" = 30
+	"Liuva #1" = 20
+	"Aligerno #1" = 20
+	"Uraia #2" = 20
+	"Recaredo #1" = 15
+	"Tiudòr #1" = 15
+	"Teia #0" = 10
+
+	"Lavinia #1" = -10
+	"Sofia #1" = -10
+	"Lallina #1" = -5
+	"Gundiverga #1" = -5
+
+	"Alavivo #0" = 0
+	"Benedet #0" = 0
+	"Bonesindus #0" = 0
+	"Erchangar #1" = 0
+	"Eurigh #0" = 0
+	"Filibert #0" = 0
+	"Fredoaldus #0" = 0
+	"Fritigerno #0" = 0
+	"Gulfurn #0" = 0
+	"Liuvilo #1" = 0
+	"Odericus #1" = 0
+	"Odoacre #0" = 0
+	"Osdulfus #2" = 0
+	"Otwin #2" = 0
+	"Pero #0" = 0
+	"Quedesend #0" = 0
+	"Remismund #0" = 0
+	"Roderigh #0" = 0
+	"Zamarius #0" = 0
+	"Zenone #0" = 0
+}
+
+leader_names = {
+	Aturensis "d'Avesica"
+	Benveniste
+	"ëd Concordia" "ëd Cissa"
+	Greuthingius "de Gorrevod" "ëd Giaven"
+	"ëd Lissandria"
+	"ëd Motta" "ëd Malum"
+	"ëd Nemas"
+	"ëd Pola"
+	"d'Udin"
+	Waldelenus
+}
+
+ship_names = {
+	Aquileia Andefleda "Ad Fornulos" Agapitus
+	Beatriz Benedictus
+	Carniola Christina Cormones Chrysogonus
+	Fortunatianus "Forum Iulii" "Fluvio Frigido"
+	Histria "Hermagoras Protoepiscopus"
+	"Pons Sonti"
+	Rosamunda Ricciarda
+	Sifeca "Sant Hilarius" "Sant Chromatius"
+	Tenildi Tanquilli Tergeste Tatianus
+	"Uraias Alexandriensis"
+	Visterlo Valernianus
+}

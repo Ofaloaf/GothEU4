@@ -4,7 +4,7 @@ add_core = GTR
 owner = GTR
 controller = GTR
 culture = geatish
-religion = orthodox
+religion = catholic
 hre = no
 base_tax = 3 
 base_production = 3
@@ -15,7 +15,8 @@ estate = estate_nobles
 is_city = yes # Estimated
 
 
-discovered_by = eastern
+
 discovered_by = western
+discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman

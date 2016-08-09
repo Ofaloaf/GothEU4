@@ -1,0 +1,104 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 117  161  67 }
+
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	religious_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	offensive_ideas
+	spy_ideas
+}
+
+historical_units = {
+	halberd_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	prussian_uhlan
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Raugier #4" = 40
+	"Rainaut #2" = 30
+	"Miquel #1" = 25
+	"Agustinu #0" = 20
+	"Claudi #1" = 20
+	"Cassius #1" = 10
+	"Aloito #1" = 5
+	"Witigisclus #1" = 5
+	"Juli #1" = 5
+	
+	"Clara #1" = -10
+	"Lúcia #1" = -10
+	"Aurora #0" = -5
+	"Dorothea #0" = -5
+
+	"Acfred #0" = 0
+	"Alaric #0" = 0
+	"Bérard #0" = 0
+	"Bermond #0" = 0
+	"Jorge #0" = 0
+	"Lozoïc #0" = 0
+	"Marc #0" = 0
+	"Masuna #0" = 0
+	"Milau #0" = 0
+	"Miró #0" = 0
+	"Pèitre #0" = 0
+	"Pipinus #0" = 0
+	"Pol #0" = 0
+	"Pons #0" = 0
+	"Rubèrt #0" = 0
+	"Sans #0" = 0
+	"Sidauni #0" = 0
+	"Symmachus #0" = 0
+}
+
+leader_names = { 
+	"d'Acquae"
+	"de Brigobanni" "de Biyensi"
+	Cumosices "de Caleua"
+	Gabiningi "de Grinario" Gutblostre
+	Modags
+	Oscense
+	Pilleates "de Puarvilla"
+	Rampa
+	Sweritha "de Saletio" "de Salyabriga" Sareis Sballes
+	Triarius
+	"de Wimpina"
+}
+
+ship_names = {
+	"Aurelia Aquensis" "Arae Flaviae" "Agri Decumates" Argiovitus
+	"Buona Ocense"
+	"Cassius Iscarensis" "Claudius Triarius"
+	Dagadruida
+	"Esteuan Suburatus"
+	"Gabinus Gabingianus"
+	Lopodunum
+	Massilan
+	"Nandaricus Gurges"
+	"Saltus Sumelocennensis"
+	"Totilas Mundericsunus" Tarodunon
+	"Vicus Senotensis" "Vicus Bibiensium" Villisendo
+	"Wiligis Sweritha"
+}
+
+army_names = {
+	"Armada de $PROVINCE$" 
+}

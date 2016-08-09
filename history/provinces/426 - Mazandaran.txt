@@ -1,7 +1,7 @@
 #426 - Mazandaran
 
-owner = ITC
-controller = ITC
+owner = QOC
+controller = QOC
 culture = mazandarani
 religion = manichee
 capital = "Sari"
@@ -13,7 +13,8 @@ base_manpower = 4
 is_city = yes
 add_core = PER
 add_core = TAB
-add_core = ITC
+add_core = QOC
+
 
 
 discovered_by = eastern

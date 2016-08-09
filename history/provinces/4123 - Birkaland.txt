@@ -1,10 +1,11 @@
 #4123 - Birkaland
 
-owner = FIN
-controller = FIN
-add_core = FIN
-culture = finnish
-religion = orthodox
+owner = GTR
+controller = GTR
+add_core = GTR
+add_core = OST
+culture = osterlander
+religion = catholic
 hre = no
 base_tax = 1 
 base_production = 1

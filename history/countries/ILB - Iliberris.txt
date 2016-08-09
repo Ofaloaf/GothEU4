@@ -1,0 +1,16 @@
+government = feudal_monarchy
+primary_culture = baetic
+religion = catholic
+technology_group = western
+capital = 223	# Granada
+government_rank = 1
+
+1389.2.13 = {
+	monarch = {
+		name = "Stevanus I"
+		dynasty = "Coras"
+		adm = 1
+		dip = 2
+		mil = 3
+	}
+}

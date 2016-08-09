@@ -1,0 +1,79 @@
+graphical_culture = muslimgfx
+
+color = { 61 8 81 }
+
+historical_idea_groups = {
+	offensive_ideas
+	administrative_ideas
+	expansion_ideas
+	trade_ideas
+	economic_ideas
+	defensive_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+}
+
+historical_units = {
+	steppe_riders
+	steppe_lancers
+	steppe_mounted_raiders
+	steppe_cavalry
+	steppe_uhlans
+	steppe_raiders
+	steppe_footmen
+	steppe_musketeers
+	steppe_infantry
+	steppe_rifles
+	reformed_steppe_rifles
+}
+
+monarch_names = {
+	"Balambar #4" = 40
+	"Gurminig #2" = 30
+	"Merab #1" = 25
+	"Lyudvig #1" = 20
+	"Balsag #1" = 20
+	"Znaur #1" = 15
+	"Tamerlan #1" = 10
+
+	"Kosser #0" = -10
+
+	"Akhsar #0" = 0
+	"Ashot #0" = 0
+	"Davit #0" = 0
+	"Khaætag #0" = 0
+	"Sathis #0" = 0
+	"Soslan #0" = 0
+	"Taymuraz #0" = 0
+	"Tugan #0" = 0
+	"Urdure #0" = 0
+}
+
+leader_names = {
+	Aini Ardasentæ
+	Bebikij "ve Beresta" Barsili Bekkyzartæ Bialkaniy
+	Elbegatæ
+	Færniatæ
+	Gæzzaty Godjysatæ
+	Halani
+	Lekhitæ "ve Loniæ"
+	Mares Magkætæ
+	Ovseti
+	Pærræstatæ "ve Psoa"
+	Rukhas
+	Soslankati "ve Sagan" Senty Shoana
+	Tsarnæ Tuallægtæ Tsæykostæ
+	Zændjiatæ
+}
+
+ship_names = {
+	Borysthenes Bosporus
+	Chersonesos Charax Cherco
+	"Hippolaou Akra"
+	Kremnoi "Kalos Limin" Kerkinitis
+	Lela "Loviisa af Munso" Lev
+	Neapolis
+	Pacorus Panticapaeum
+	Scythia Sarmatia Symbola Soldaia
+	Taphros Tauris
+}

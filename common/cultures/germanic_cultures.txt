@@ -57,4 +57,69 @@ germanic = {
 			Ubiër Usipet
 		}
 	}
+	old_gothic = {
+		primary = GUT
+		male_names = {
+			Alarik Andraias Amadaius Agila Amalarik Ardo Athanagild Athalarik Achiulf Audovaker
+			Butherik Berik
+			Chindaswinth Chintila
+			Egika Erwig Eurik Erarik Eutharik
+			Farnobius Fritigern Filippus
+			Gesalek Gundemar
+			Hermenegild Hildebad
+			Iosef Isak Ibba Iohannes Iggilds Iakob
+			Jordanes
+			Leander Leovigild Liuva Lukas Luthawik
+			Markus Marivadus Mundus Murila Matthaius
+			Naudigais Nanduin
+			Odo Odomus
+			Paulus Paitrus Plintha
+			Radagaisus Rekkared Reikahard Rekkeswinth Roderik Radegast Ricimer
+			Sigerik Sisebut Sisenand Suinthila Sabas Seda Sigisvult Sigismund Sumaion
+			Thiuderik Thiudigisel Thiudis Thorismund Tulga Teja Thiudahad Thiudimir Totila
+			Viderik Valamir Valarik Vidimir
+			Wallia Wamba Witiza Witterik Witichis Wulfila Witigisclus
+			Xristianus
+		}
+		female_names = {
+			Amalasuntha Amalafrida Agnes Aggaila Amata Amarullis Amanda Anna Austraguto Athala
+			Brunhilda
+			Damiana Daniela
+			Erelieva Eirena
+			Filippa
+			Galla Goiswintha Gloria Godaliuba Gabriela
+			Hildiruna Hildigard Hildiwara
+			Ingunda Iohanna Iolantha Iosefa Iudeith
+			Juduka Juliana
+			Karla Kathareina
+			Liudiwina Lydia Liudigard
+			Mathesuntha Magdalena Maria Martha
+			Othalareika
+			Priska Paitra Pawla
+			Rakel
+			Salome Sara Seimona Susanna 
+			Thiudanantha Thiudora
+			Xristina
+		}
+		dynasty_names = {
+			Amaling Alavivus Aedotheus Apiscaling Asans Auhmisto Angantiring
+			Brano Beriging
+			Cannabaudius
+			Delius
+			Edekosing
+			Frigerider
+			Gildilasing Gadariking Gaiberiking
+			Hails Hardus Harpo Hairto Haurnja Hethining
+			Igils
+			Pitziasing
+			Quidilasing
+			Respa Rosomonus
+			Swers Soasing Sibiasing
+			Tyrfing Thervingus Tuluining Thuruar Taetel
+			Unhunslags
+			Vaiduking Vaisus
+			Wens
+			Zeutanus
+		}
+	}
 }

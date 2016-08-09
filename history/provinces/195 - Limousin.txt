@@ -1,19 +1,21 @@
 # 195 Limousin - Principal cities: Limoges
 
-owner = THF
-controller = THF
+owner = BTC
+controller = BTC
 capital = "Limòtges"
 is_city = yes
-culture = theifal
-religion = orthodox
+culture = arvernian
+religion = catholic
 hre = yes
 base_tax = 5 
 base_production = 5
 trade_goods = grain
 base_manpower = 2
-add_core = THF
+add_core = BTC
+
+
+
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-

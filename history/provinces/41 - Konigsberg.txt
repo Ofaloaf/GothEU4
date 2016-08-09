@@ -1,0 +1,22 @@
+#41 - Königsberg
+
+owner = LIT
+controller = LIT
+capital = "Twangste"
+culture = old_prussian
+religion = catholic
+trade_goods = naval_supplies
+hre = no
+base_tax = 7
+base_production = 7
+base_manpower = 3
+is_city = yes
+fort_15th = yes
+add_core = LIT
+
+
+
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman

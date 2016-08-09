@@ -4,6 +4,8 @@ graphical_culture = westerngfx
 
 color = { 43  141  172 }
 
+preferred_religion = reformed
+
 historical_idea_groups = {
 	trade_ideas
 	defensive_ideas
@@ -127,4 +129,8 @@ ship_names = {
 
 army_names = {
 	"Armata de $PROVINCE$"
+}
+
+fleet_names = {
+	"Flota de $PROVINCE$"
 }

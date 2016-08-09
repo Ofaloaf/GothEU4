@@ -1,0 +1,16 @@
+government = tribal_kingdom
+technology_group = muslim
+religion = jewish
+primary_culture = turkish
+add_accepted_culture = afghani
+capital = 450 # Balkh
+
+1400.1.1 = {
+	monarch = {
+		name = "Ibrahim"
+		dynasty = "Balid"
+		adm = 1
+		dip = 1
+		mil = 5
+	}
+}

@@ -1,19 +1,23 @@
 #243 - Lincoln
+#+ Northern Cambridgeshire
 
 owner = LOE
 controller = LOE
-culture = cumbric
-religion = orthodox
+culture = loegric
+religion = catholic
 hre = no
 base_tax = 4
 base_production = 4
 trade_goods = cloth
 base_manpower = 2
 capital = "Linnuis"
-is_city = yes # Includes Leicester
-add_core = CTN
+is_city = yes
 add_core = LOE
+
+
+
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
+

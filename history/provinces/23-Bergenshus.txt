@@ -3,8 +3,9 @@
 owner = NOR
 controller = NOR
 add_core = NOR
+add_core = VST
 culture = norwegian
-religion = orthodox
+religion = catholic
 hre = no
 base_tax = 4
 base_production = 4

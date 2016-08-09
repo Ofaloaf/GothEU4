@@ -2,16 +2,18 @@
 
 owner = AMC
 controller = AMC
-capital = "Redhonis"
+capital = "Rennes"
 is_city = yes
 culture = armorican
-religion = orthodox
+religion = catholic
 hre = yes
 base_tax = 5 
 base_production = 5
 trade_goods = cloth
 base_manpower = 5
+estate = estate_church
 add_core = AMC
+
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

@@ -1,7 +1,7 @@
 #323 - Konya
 
-owner = MTU
-controller = MTU
+owner = BYZ
+controller = BYZ
 culture = turkish
 religion = manichee
 capital = "Konya"
@@ -11,7 +11,9 @@ base_tax = 5
 base_production = 5
 base_manpower = 5
 is_city = yes
-add_core = MTU
+add_core = BYZ
+
+
 
 discovered_by = western
 discovered_by = eastern

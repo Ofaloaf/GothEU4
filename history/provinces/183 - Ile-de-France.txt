@@ -1,20 +1,23 @@
 # 183 Île-de-France - Principal cities: Paris
 
-owner = CHP
-controller = CHP
+owner = ORL
+controller = ORL
 capital = "Paris"
 is_city = yes
 culture = armorican
-religion = orthodox
+religion = catholic
 hre = yes
-base_tax = 10 
-base_production = 10
+base_tax = 5
+base_production = 5
 trade_goods = cloth
-base_manpower = 8
-add_core = AMC
-add_core = CHP
+base_manpower = 4
+add_core = ORL
+
+
+
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
+
 fort_15th = yes

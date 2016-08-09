@@ -1,0 +1,20 @@
+#1227 - Tigre
+
+owner = ETH
+controller = ETH
+add_core = ETH
+culture = tigray 
+religion = sunni
+capital = "Debarwa"
+is_city = yes
+base_manpower = 3
+trade_goods = grain
+hre = no
+base_tax = 2 
+base_production = 2
+estate = estate_church
+
+discovered_by = east_african
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = indian

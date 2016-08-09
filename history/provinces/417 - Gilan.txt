@@ -1,7 +1,7 @@
 #417 - Gilan
 
-owner = ITC
-controller = ITC
+owner = QOC
+controller = QOC
 culture = mazandarani
 religion = manichee
 capital = "Rasht"
@@ -13,7 +13,7 @@ base_manpower = 3
 is_city = yes
 add_core = PER
 add_core = TAB
-add_core = ITC
+add_core = QOC
 
 
 

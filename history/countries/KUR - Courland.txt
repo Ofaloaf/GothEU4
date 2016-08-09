@@ -1,0 +1,17 @@
+government = feudal_monarchy
+government_rank = 1
+technology_group = western
+primary_culture = dutch
+add_accepted_culture = latvian
+religion = catholic
+capital = 39
+
+1397.7.12 = {
+	monarch = {
+		name = "Diederick II"
+		dynasty = "Klakis"
+		adm = 1
+		dip = 3
+		mil = 4
+	}
+}

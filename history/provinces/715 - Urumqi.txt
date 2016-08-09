@@ -1,0 +1,19 @@
+#715 - Urumqi
+
+owner = ATY
+controller = ATY
+add_core = ATY
+culture = uyghur
+religion = vajrayana
+capital = "Urumqi"
+trade_goods = grain
+hre = no
+base_tax = 2 
+base_production = 2
+base_manpower = 3
+is_city = yes
+
+
+
+discovered_by = chinese
+discovered_by = nomad_group

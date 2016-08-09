@@ -1,0 +1,90 @@
+# Mosèla
+
+graphical_culture = westerngfx
+
+color = { 171 82 122 }
+
+historical_idea_groups = {
+	administrative_ideas
+	defensive_ideas
+	trade_ideas
+	economic_ideas
+	offensive_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	expansion_ideas
+}
+
+historical_units = {
+	halberd_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	french_caracolle
+	anglofrench_line
+	french_dragoon
+	french_bluecoat
+	french_cuirassier
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Ferrand #3" = 40
+	"Miles #2" = 30
+	"Audericho #2" = 25
+	"Marius #1" = 20
+	"Martin #1" = 20
+	"Pons #1" = 15
+	"Arnegisclus #1" = 15
+	"Rainaut #0" = 10
+	"Guilelmus #1" = 10
+
+	"Deidona #1" = -10
+	"Floridia #1" = -10
+	"Raimonda #1" = -10
+
+	"Adhémar #0" = 0
+	"Advocatus #0" = 0
+	"Alffonsus #0" = 0
+	"Amandus #1" = 0
+	"Apiscal #2" = 0
+	"Argiovitus #3" = 0
+	"Atanasius #1" = 0
+	"Envolatus #0" = 0
+	"Hunfridus #2" = 0
+	"Masuna #1" = 0
+	"Vitus #0" = 0
+	"Wiligis #1" = 0
+}
+
+leader_names = {
+	Aumisto Alavivus Aftournus d'Amyans
+	"de Beloyac"
+	"de Corbegia" "de Coll" Cabillaunense "de Crucinjac" "de Cambes"
+	"de Dubis" "de Decempagi"
+	Gelimiringi
+	Herodeis
+	Leuge Linguneis
+	Mascetis Mandbeis
+	Naulbadau
+	"de Perunna"
+	Sueritha Secauni Seiscians
+	Triarius Tanungeis
+	"de Vormatas" "de Vungus" "de Volsolvia" "de Vabrensa"
+	"de Warcia"
+}
+
+ship_names = {
+	Altiaia
+	Borbetomagus
+	Filomena
+	Grata
+	Lopodunum
+	Mosella Marcia
+	Rouphiniana Rhenus
+}

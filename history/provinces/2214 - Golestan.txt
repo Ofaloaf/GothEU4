@@ -1,9 +1,9 @@
 #2214 - Golestan
 
-owner = ITC
-controller = ITC
+owner = QOC
+controller = QOC
 culture = mazandarani
-religion = manichee
+religion = zoroastrian
 capital = "Asatarabad"
 trade_goods = tea
 hre = no
@@ -12,8 +12,9 @@ base_production = 2
 base_manpower = 3
 is_city = yes
 add_core = PER
-add_core = ITC
+add_core = QOC
 add_core = TAB
+
 
 
 discovered_by = muslim

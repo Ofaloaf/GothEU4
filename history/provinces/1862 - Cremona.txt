@@ -3,8 +3,8 @@
 owner = LRM
 controller = LRM
 culture = avarian
-religion = orthodox
-hre = no
+religion = catholic
+hre = yes
 base_tax = 8
 base_production = 8 
 trade_goods = grain
@@ -12,6 +12,9 @@ base_manpower = 4
 capital = "Cremona"
 is_city = yes	# Estimated
 add_core = LRM
+
+
+
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

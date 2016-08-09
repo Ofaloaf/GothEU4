@@ -1,10 +1,10 @@
 #Savolaks, incl. Nyslott(Olofsborg).
 
-owner = FIN
-controller = FIN
-add_core = FIN
-culture = finnish
-religion = orthodox
+owner = SVO
+controller = SVO
+add_core = SVO
+culture = osterlander
+religion = catholic
 hre = no
 base_tax = 1 
 base_production = 1
@@ -16,4 +16,5 @@ is_city = yes
 
 discovered_by = western
 discovered_by = eastern
+
 

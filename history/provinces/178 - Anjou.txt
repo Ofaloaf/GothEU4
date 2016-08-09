@@ -1,18 +1,23 @@
 # 178 Anjou - Principal cities: Angers
 
-owner = ANJ
-controller = ANJ
-capital = "Andgieus"
+owner = GTH
+controller = GTH 
+capital = "Angieus"
 is_city = yes
-culture = armorican
-religion = orthodox
+culture = theifal
+religion = catholic
 hre = yes
-base_tax = 7
-base_production = 7
+base_tax = 6
+base_production = 6
 trade_goods = cloth
-base_manpower = 7
+base_manpower = 4
+estate = estate_church #
+add_core = GTH
 add_core = ANJ
 fort_15th = yes
+
+
+
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

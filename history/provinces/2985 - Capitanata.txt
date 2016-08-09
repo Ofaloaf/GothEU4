@@ -1,17 +1,20 @@
 # - Capitanata
 
-owner = SMN
-controller = SMN
+owner = VEN
+controller = VEN
 culture = lat_neapolitan 
-religion = orthodox 
-hre = no 
+religion = catholic 
+hre = no
 base_tax = 4
 base_production = 4
 trade_goods = grain
 base_manpower = 2
 capital = "Fovea"
 is_city = yes # Estimated 
-add_core = SMN
+add_core = CPA
+add_core = VEN
+
+
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

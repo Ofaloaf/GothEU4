@@ -1,9 +1,9 @@
 #123 - Calabria
 
-owner = SMN
-controller = SMN
-culture = lat_sicilian 
-religion = orthodox
+owner = VEN
+controller = VEN
+culture = lat_neapolitan
+religion = catholic 
 hre = no 
 base_tax = 2 
 base_production = 2
@@ -11,7 +11,10 @@ trade_goods = fish
 base_manpower = 2
 capital = "Rhegium"
 is_city = yes 
-add_core = SMN
+add_core = VEN
+
+
+
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

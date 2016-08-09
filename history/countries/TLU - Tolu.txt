@@ -1,5 +1,0 @@
-government = native_council
-primary_culture = cahokian
-religion = nahuatl
-technology_group = north_american
-capital = 940

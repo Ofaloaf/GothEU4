@@ -1,20 +1,23 @@
 # 94 Luxembourg - Principal cities: Luxembourg
 
-owner = BTC
-controller = BTC 
-capital = "Luxemburg"
+owner = TRI
+controller = TRI
+capital = "Vitacum"
 is_city = yes
-culture = rhenish
-religion = orthodox
+culture = old_gothic
+religion = catholic 
 hre = yes
 base_tax = 6 
+
 base_production = 6
 trade_goods = iron
 base_manpower = 2
-add_core = GTY
+add_core = TRI
 fort_15th = yes
+
+
+
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-

@@ -1,18 +1,22 @@
 # 175 Armagnac - Principal cities: Auch
 
-owner = AQI
-controller = AQI
-capital = "Auch"
+owner = ELS
+controller = ELS
+capital = "Elusa"
 is_city = yes
 culture = aquitanian
-religion = orthodox
+religion = catholic
 hre = yes
 base_tax = 5 
 base_production = 5
 trade_goods = wool
 base_manpower = 5
 add_local_autonomy = 25
-add_core = AQI
+estate = estate_nobles
+add_core = ELS
+
+
+
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

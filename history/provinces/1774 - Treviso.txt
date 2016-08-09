@@ -1,18 +1,21 @@
 #1774 - Treviso
-owner = LRM
-controller = LRM
+owner = VRO
+controller = VRO
 add_core = VEN
-add_core = LRM
+add_core = VRO
 culture = lat_venetian 
-religion = orthodox 
-hre = no
-base_tax = 7 
-base_production = 7 
+religion = catholic 
+hre = yes
+base_tax = 5
+base_production = 5
 trade_goods = grain
-base_manpower = 4  
+base_manpower = 3
 capital = "Tarvisium" 
 is_city = yes	# Estimated 
 fort_15th = yes
+
+
+
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

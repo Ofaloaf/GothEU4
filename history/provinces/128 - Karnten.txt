@@ -3,9 +3,8 @@
 owner = RNT
 controller = RNT
 add_core = RNT
-add_core = ILY
 culture	= carantanian
-religion = orthodox
+religion = catholic
 base_tax = 6
 base_production = 6
 trade_goods = iron 
@@ -14,6 +13,8 @@ fort_15th = yes #Hochosterwitz Castle
 capital = "Klagenfurt" 
 is_city = yes
 hre = no
+
+
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

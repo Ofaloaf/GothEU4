@@ -1,10 +1,10 @@
 # - Tarnow
 
-owner = ALN 
-controller = ALN
+owner = MAZ
+controller = MAZ
 capital = "Tarnow"
-culture = alan
-religion = orthodox
+culture = sorbian
+religion = catholic
 trade_goods = grain
 hre = no
 base_tax = 3
@@ -12,7 +12,14 @@ base_production = 3
 base_manpower = 2
 is_city = yes
 estate = estate_nobles
-add_core = ALN
+add_core = MAZ
+
+
+discovered_by = KAZ
+discovered_by = CRI
+discovered_by = GOL
+discovered_by = AST
+discovered_by = QAS
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

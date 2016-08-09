@@ -1,0 +1,77 @@
+# vaguely Tupi, but I'm using names from tribes along the length of the Amazon
+
+graphical_culture = northamericagfx
+
+color = { 136 174 19 }
+
+historical_idea_groups = {
+	trade_ideas
+	plutocracy_ideas
+	administrative_ideas
+	maritime_ideas
+	innovativeness_ideas
+	defensive_ideas
+	economic_ideas
+	quality_ideas
+}
+
+historical_units = {
+	south_american_spearmen
+	south_american_warfare
+	inca_mountain_warfare
+	incan_slingshots
+	incan_axemen
+	south_american_gunpowder_warfare
+	south_american_reformed_gunpowder_warfare
+	south_american_arquebusier
+	westernized_incan
+	reformed_westernized_incan
+	incan_guerilla_warfare
+}
+
+monarch_names = {
+	"Ararigboya #0" = 30
+	"Caramuru #0" = 25
+	"Quonambec #0" = 20
+	"Pindobuçú #0" = 20
+	"Aimberê #0" = 15
+	"Koakira #0" = 10
+	"Araraí #0" = 10
+	"Toruí #0" = 10
+	"Yperoig #0" = 10
+
+	"Bartira #0" = -1
+	"Guaibimpará #0" = -1
+
+	"Abebé #0" = 0
+	"Iasy #0" = 0
+	"Ybyra-iara #0" = 0
+	"Ybyra-ata #0" = 0
+}
+
+leader_names = {
+	Aricobé
+	Bora
+	Caeté
+	Huitoto
+	Iaguara Itanhaga
+	Katuena Katuaba
+	Mundukuru Maytapu Mawayana Miri Mboia
+	Ocaina Obytatá
+	Piraba Porangaba Puera Piratininga
+	Tamuya "Taba-Abáim" "Tabaim-Abá" Tapy'yia Tabajara Temiminó Tamoio Tabajara
+}
+
+ship_names = {
+	Arasy Akangûera
+	Beraba Bartira
+	Cacique
+	Guaibimpará
+	Iaguaraiuna Itauna Italo
+	Marajo Morubixaba
+	Niterói
+	Putumayo Pariwat Piray iratininga Pirijá Potira Piquerobi
+	Toruí
+	Ubatuba Uruçumirim
+	Yguasu
+}

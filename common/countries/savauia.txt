@@ -1,0 +1,95 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 235  196 231 }
+
+revolutionary_colors = { 5  13  6 } #Republic of Alba
+
+historical_idea_groups = {
+	administrative_ideas
+	defensive_ideas
+	diplomatic_ideas
+	offensive_ideas
+	trade_ideas
+	economic_ideas
+	innovativeness_ideas
+	quality_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	italian_condotta
+	french_caracolle
+	anglofrench_line
+	french_dragoon
+	french_bluecoat
+	french_carabinier
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Ricard #2" = 40
+	"Claudi #1" = 30
+	"Audoacre #1" = 30
+	"Nicaulas #1" = 20
+	"Dat #1" = 20
+	"Aznar #1" = 20
+	"Esclua #1" = 15
+	"Cunstanci #1" = 15
+	"Nicodim #1" = 15
+	"Raugier #1" = 15
+	"Wifredo #1" = 10
+	"Archambalt #1" = 10
+	"Andrai #1" = 10
+
+	"Raniverta #0" = -3
+
+	"Arnaut #1" = 0
+	"Barral #0" = 0
+	"Girard #0" = 0
+	"Gudafridus #0" = 0
+	"Honorius #0" = 0
+	"Miquel #0" = 0
+	"Petronis #0" = 0
+	"Pol #0" = 0
+	"Pradas #0" = 0
+	"Sans #0" = 0
+	"Savarics #0" = 0
+	"Sindila #0" = 0
+	"Todegogias #0" = 0
+}
+
+leader_names = {
+	"d'Agusta" "d'Aleo" "d'Albona" Astruc
+	"de Briga"
+	Cabrol Calas Couderc Cazenave Cardenal
+	Faur
+	"de Grueria" Gasquet "de Genava"
+	"de Leminco"
+	"de Martignac"
+	"d'Oit"
+	Pitziasunus "de Plumbia" Prat
+	Raspail
+	Secuani "de Segusio" "de Susa" "de Sirro" "de Seduno" Sardou Sarnensis
+	"de Tarentasiae"
+	"d'Urba"
+	Vila "de Vallis" "de Vercellae" Vidal
+}
+
+ship_names = { 
+	"Aznarus Nigrus"
+	Faidida Filippa
+	Sapaudia
+	Ursula
+}
+
+army_names = {
+	"Armada de $PROVINCE$"
+}

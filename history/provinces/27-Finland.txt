@@ -3,9 +3,9 @@
 owner = GTR
 controller = GTR
 add_core = GTR
-add_core = FIN
-culture = geatish
-religion = orthodox
+add_core = OST
+culture = osterlander
+religion = catholic
 hre = no
 base_tax = 3 
 base_production = 3
@@ -19,4 +19,3 @@ is_city = yes
 
 discovered_by = western
 discovered_by = eastern
-

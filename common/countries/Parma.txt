@@ -1,0 +1,85 @@
+# Aemilia or Parma
+
+graphical_culture = westerngfx
+
+color = { 128  202  129 }
+
+preferred_religion = reformed
+
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	trade_ideas
+	economic_ideas
+	diplomatic_ideas
+	spy_ideas
+	quality_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	italian_condotta
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Cubrato #1" = 30
+	"Zarraquina #1" = 20
+	"Victorinus #1" = 10
+	"Palladius #1" = 10
+
+	"Genlo #1" = -10
+	"Laura #1" = -10
+
+	"Attilio #0" = 0
+	"Ciro #0" = 0
+	"Demetrio #0" = 0
+	"Flavio #0" = 0
+	"Pancrazio #0" = 0
+	"Samuele #0" = 0
+	"Settimi #0" = 0
+	"Sevar #1" = 0
+}
+
+leader_names = {
+	Araldi Antelami Anselmi Amoretti "d'Appiani d'Aragona" d'Asburgo Abari
+	Badalocchio Bedoli Bonzagni Bocchi Bertoia Bodoni Bajardi Barattieri Bernini Bertorella Bianconese "di Borbone" Borghese
+	Cadalo Cantelli "di Castagnola" Cavagnari Cavalcabò Cella Cerati Conaccia Confallonieri
+	Draghi
+	Fumagalli "di Fiorenzuola"
+	Giberti Gallese Gioia
+	Landi Lemignano Linati
+	Masguinus Moschino Mazzola Marmitta Manfredi Marazzani Marescalchi "Meli Lupi"
+	Paganini "di Parma" Paer Paletti Pallavicini Pallieri Piatti Pontremoli
+	Riva Rivalta "dalla Rosa" Rossi
+	Schedoni Salati Sanseverino Sanvitale Schizzati
+	Toscanini  Torelli Torrechiara
+	Veri Ventura Verdi "dal Verme"
+}
+
+ship_names = {
+	"Ad Fonteclo" "Ad Tarum" Alberi
+	Brixellum
+	Chrysopolis Clorinda Calestani Carignano Casaltone Casagnola Castalletto Cavanna Certosa
+	Eia
+	Fidentia "Forum Novum"
+	Gaione "Ghiaiata Nuova"
+	Montanara "Marcus Aemilius Lepidus" Molinetto
+	Panocchia "Pons Lapidis" Pedrignano Pilastrello Porporano
+	Quercioli
+	"Regium Lepidum" "Rolando Taverna" "Ronco Pascolo"
+	Susanna "Saltus Berusetis" "San Pietro Apostolo" "San Prospero" "San Ruffino" "Santa Coce" "San Pancrazio"
+	Tannetum
+	Vulturina "Via Aemilia" Valera Valserena Viazza Vigolante
+}

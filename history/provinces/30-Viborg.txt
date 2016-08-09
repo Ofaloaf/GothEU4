@@ -1,12 +1,15 @@
 #Viborgs län, incl. Viborg, Villmansstrand, and Kivinäbb.
 
-owner = FIN
-controller = FIN
-add_core = FIN
-culture = finnish
-religion = orthodox
+owner = LFL
+controller = LFL
+add_core = GTR
+add_core = OST
+add_core = LFL
+culture = osterlander
+religion = catholic
 hre = no
 base_tax = 2 
+
 base_production = 2
 trade_goods = fur
 base_manpower = 2

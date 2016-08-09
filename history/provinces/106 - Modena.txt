@@ -3,16 +3,18 @@
 owner = LRM
 controller = LRM
 culture = avarian 
-religion = orthodox 
-hre = no
+religion = catholic 
+hre = yes 
 base_tax = 5 
 base_production = 5  
 trade_goods = grain
 base_manpower = 2  
-capital = "Mutina" 
+capital = "Modena" 
 is_city = yes	# Estimated 
 add_core = LRM
-add_core = AVR
+
+
+
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

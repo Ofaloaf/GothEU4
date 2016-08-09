@@ -1,0 +1,142 @@
+# Macedonia
+
+graphical_culture = easterngfx
+
+color = { 64 30 80 }
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	spy_ideas
+	trade_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+}
+
+historical_units = {
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	ottoman_spahi
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
+
+monarch_names = {
+	"Stefan #2" = 40
+	"Dorotej #1" = 25
+	"Kyril #1" = 20
+	"Boguslav #1" = 20
+	"Ardagast #1" = 15
+	"Voitsekh #1" = 15
+	"Boris #1" = 10
+	"Bronislav #1" = 10
+	"Pir #1" = 10
+	"Konstantin #0" = 5
+
+	"Marijana #0" = -5
+	"Valentina #0" = -5
+	"Viktorija #0" = -5
+
+	"Adam #0" = 0
+	"Aleksandar #0" = 0
+	"Andrej #0" = 0
+	"Angel #0" = 0
+	"Apostol #0" = 0
+	"Blagun #0" = 0
+	"Damjan #0" = 0
+	"Diogen #0" = 0
+	"Dragan #0" = 0
+	"Emanuel #0" = 0
+	"Gjuro #0" = 0
+	"Hristijan #0" = 0
+	"Ilarion #0" = 0
+	"Ignatij #0" = 0
+	"Igor #0" = 0
+	"Inokentij #0" = 0
+	"Isidor #0" = 0
+	"Ivan #0" = 0
+	"Jakov #0" = 0
+	"Joakim #0" = 0
+	"Josif #0" = 0
+	"Kliment #0" = 0
+	"Krste #0" = 0
+	"Lavrentij #0" = 0
+	"Lazar #0" = 0
+	"Ljubomir #0" = 0
+	"Luka #0" = 0
+	"Nestor #0" = 0
+	"Nikanor #0" = 0
+	"Nikola #0" = 0
+	"Ognen #0" = 0
+	"Pavle #0" = 0
+	"Radomir #0" = 0
+	"Radoslav #0" = 0
+	"Samoil #0" = 0
+	"Serafim #0" = 0
+	"Sofronija #0" = 0
+	"Spiridon #0" = 0
+	"Svetislav #0" = 0
+	"Svetozar #0" = 0
+	"Teodor #0" = 0
+	"Teodosij #0" = 0
+	"Teodul #0" = 0
+	"Teofan #0" = 0
+	"Tihomir #0" = 0
+	"Vasil #0" = 0
+	"Vasko #0" = 0
+	"Vojdan #0" = 0
+	"Zlatan #0" = 0
+	"Zoran #0" = 0
+}
+
+leader_names = {
+	Boskov Bitovski
+	Chepreganov
+	Dolonkits Dinu Delchev
+	Golognov Guli Gogov Gerdzhikov
+	Homatijan
+	Iliev Ikonomov
+	Joanikij
+	Kodzoman Kuzmanov Kostadinov Kozma Karev Kavasila Ksilokaraf
+	Lazarov
+	Misirkov Mazev Milosev Mung Maksim Metohit Mesaps Madzharov
+	Ohridski
+	Petkov Proarhij Paleolog
+	Skopski Stojkovski Stojchev Sugarev Sarafov Skalov
+	Todorovski
+	Veljanovski Vraniskovski
+}
+
+ship_names = {
+	Atena Ahaja Arta Amphissa Alkmeon Arkadija Ambrakija Akarnanija Afrpdota
+	Ber "Boris Cypsellus" Beotija
+	Cemren
+	Durachi Denes Doris Demetra Dopma Diokle
+	Eubeja Epir Etolija Elektra Europa
+	Fokida Filomon Filoktet Filomela Fobos Ftiotida Fenik
+	Hlerin Helen Hipomen Hiron Hektor Hekaba
+	Ilinden
+	Kastrinitsi Kozani Kalisto Kentuar
+	Lidoriki Lagadin Leda Lakedemon
+	Metoni Makedonija Medeja Minotaur Megara
+	Narcis "Novo Sonce" Nausikaja Najade Nika 
+	Olimp Omfala Orhomen Otris Odisej Okeanide
+	Preobrazhenie Pindar Pira Pan Pandora Paris Pegaz Pelazg Penelopa Perijer Polidor Posejdon Prijam Prokma Prometej
+	Solun Servia Ser Sparta Selena Sarpedon Sirena
+	Tesalija Troja Telegon Tindarej Triton
+	Vodin Vasilevs
+	Zeus
+}

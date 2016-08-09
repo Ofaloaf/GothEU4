@@ -1,0 +1,5 @@
+government = constitutional_monarchy
+technology_group = western
+primary_culture = cambric
+religion = protestant
+capital = 242

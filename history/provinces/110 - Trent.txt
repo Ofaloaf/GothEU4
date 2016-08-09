@@ -1,17 +1,21 @@
 #110 - Trent
 
-owner = LRM
-controller = LRM
-add_core = LRM
-culture = lat_venetian
-religion = orthodox
-hre = no
+owner = VRO
+controller = VRO
+add_core = VRO
+culture = taurinjeis
+religion = catholic
+hre = yes
 base_tax = 4 
 base_production = 4
 trade_goods = iron 
 base_manpower = 1
-capital = "Tridentum"
+capital = "Trent"
+estate = estate_church
 is_city = yes
+
+
+
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

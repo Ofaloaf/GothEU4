@@ -1,9 +1,9 @@
 #1933 - Bari
 
-owner = SMN
-controller = SMN
+owner = VEN
+controller = VEN
 culture = lat_neapolitan 
-religion = orthodox 
+religion = catholic 
 hre = no 
 base_tax = 3 
 base_production = 3
@@ -11,7 +11,10 @@ trade_goods = wine
 base_manpower = 2
 capital = "Barium"
 is_city = yes # Estimated 
-add_core = SMN
+add_core = VEN
+
+
+
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

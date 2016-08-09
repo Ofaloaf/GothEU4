@@ -1,17 +1,21 @@
-# 191 Nevers - Principal cities: Nevers
+# 191 Nevers/Nivernis/Nivèrns
 
-owner = DVO
-controller = DVO
+owner = GTH
+controller = GTH
 capital = "Nivèrns"
 is_city = yes
-culture = gautonian
-religion = orthodox
+culture = gautes
+religion = catholic
 hre = yes
 base_tax = 6 
 base_production = 6
 trade_goods = grain
 base_manpower = 4
+add_core = GTH
 add_core = DVO
+
+
+
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

@@ -1,0 +1,98 @@
+#Country Name: Please see filename.
+
+graphical_culture = easterngfx
+
+color = { 125 110 225 }
+
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	economic_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	hungarian_hussar
+	polish_musketeer
+	polish_hussar
+	polish_tercio
+	polish_winged_hussar
+	russian_lancer
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+monarch_names = {
+	"Corneliu #2" = 50
+	"Adrian #2" = 30
+	"Stefan #1" = 30
+	"Aron #1" = 30
+	"Iosif #1" = 25
+	"Valentin #1" = 20
+	"Claudiu #1" = 20
+	"Bogdan #1" = 10
+	"Balc #1" = 10
+
+	"Roxana #1" = -10
+	"Afrina #0" = -5
+	"Alexandra #0" = -5
+
+	"Carol #0" = 0
+	"Ciprian #0" = 0
+	"Damjan #0" = 0
+	"Dumitru #0" = 0
+	"Gheorghe #0" = 0
+	"Lucian #0" = 0
+	"Marin #0" = 0
+	"Mihai #0" = 0
+	"Moise #0" = 0
+	"Nicolaie #0" = 0
+	"Pirvu #0" = 0
+	"Roman #0" = 0
+	"Sas #0" = 0
+	"Sergiu #0" = 0
+	"Stefan #0" = 0
+	"Teodor #0" = 0
+	"Timotei #0" = 0
+	"Vilhelm #0" = 0
+}
+
+leader_names = {
+	"de Adra"
+	"de Bostra" "de Busra" "de Bukamal"
+	Dragusin
+	"Guthi-Orszagh"
+	"de Jarba"
+	"de Kolossi"
+	Litovoi
+	"Micu-Klein"
+	Odescalchi Octavian
+	"de Paphos"
+	"de Raha"
+	Szapolyai Selimovic
+	Zach
+}
+
+ship_names = {
+	Arsinoe Alexia Antiochus Achilleus Augustus
+	Coelesyria Clara
+	Eufroysina Ecatarina Elena Elisabeta
+	Floarea
+	Monica Marcellinus
+	Palmyra
+	"Septimius Odaenathus" Samosata Sandarion "Septimius Apsaios" "Septimius Haddudan"
+	Tereza
+	Vaballathus
+	Zenobia
+}

@@ -1,0 +1,57 @@
+byzantine = {
+	aigyptian = {
+		male_names = {
+			Androus Agathonikos Abianos Abanoub Aaron Aghreppinos Archelaus Athenas Alexandros Areios
+			Biniamin
+			Cerdo
+			Daniel Davoud Diogenes
+			Ezra Eunos
+			Gharbi 
+			Hippolytos Helias Hieron
+			Ishaak
+			Kaies
+			Levi Leon
+			Mikhael Manuel Melyos Menas Mattheos
+			Nilos
+			Onouf
+			Pounos Pachnubis Pates Petros Ptolemaios
+			Shenute Sawiros Simeon Sabas Serapion
+			Thewonas Thewodros Tryfon Tewodorikos
+			Yosef Yoannis Yustos Yaroklas Yakovos
+			Zenon
+		}
+		female_names = {
+			Anna Anastasia Afaf Amunet Asmin Adriane Apollonia Alexandra Arsinoe
+			Barbara Bereniki
+			Chrysogone
+			Demiana Dorothea Dionysia Demetra
+			Elpis Eirena Evanthia Euphrosyne Eunike Elaiodora Evniki Evridiki
+			Fana
+			Georgia Gregoria Garyphallia Gabrielia
+			Kale
+			Leontia Lysandra
+			Miram Marta Monnia Margarita
+			Nefret Nonna Nahomsesis
+			Potamina Pernoufe Parthena Pelagia Phyllis Philippa
+			Raune Rhodanthe
+			Samia Sofia Sibylla
+			Talida Tawadora Thaesis Thomais Thekla Thaïs
+			Virina Valeria
+			Yohanna
+			Zoe
+		}
+		dynasty_names = {
+			Atta Ammonios Asklepiades
+			Dryton
+			Esthladas Ebnzara Ebnebsal 
+			Harpaesis
+			Kres
+			Mankarios
+			Nakady Nechoutes
+			Pelaias
+			Roufail
+			Spemminis
+		}
+	}
+}
+

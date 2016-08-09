@@ -1,17 +1,21 @@
 culture = swabian
-owner = SWB
-controller = SWB
+owner = GTY
+controller = GTY
 add_core = SWB
-capital = "Stuttgart"
-religion = orthodox
+add_core = GTY
+capital = "Schduagert"
+religion = catholic
 trade_goods = grain
 base_tax = 3
+
 base_production = 3
 base_manpower = 2
 is_city = yes
-hre = no
+hre = yes
+
+
+
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-

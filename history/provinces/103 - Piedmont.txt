@@ -3,7 +3,7 @@
 owner = LGI
 controller = LGI
 culture = taurinjeis
-religion = orthodox
+religion = catholic
 hre = yes
 base_tax = 7 
 base_production = 7
@@ -12,6 +12,9 @@ base_manpower = 3
 capital = "Turin"
 is_city = yes
 add_core = LGI
+
+
+
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

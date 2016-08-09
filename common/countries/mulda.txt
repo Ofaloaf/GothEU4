@@ -1,0 +1,91 @@
+# Mulda
+
+graphical_culture = easterngfx
+
+color = { 223 202 145 }
+
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	economic_ideas
+	diplomatic_ideas
+	religious_ideas
+	innovativeness_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	druzhina_cavalry
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+monarch_names = {
+	"Irambust #2" = 30
+	"Chanak #1" = 20
+	"Saugas #1" = 15
+	"Ouastobal #1" = 15
+	"Chodios #1" = 10
+	"Stelian #1" = 10
+	"Carol #1" = 10
+	"Insazag #1" = 10
+	"Khetagur #1" = 5
+
+	"Malosara #1" = -5
+	"Petra #1" = -5
+
+	"Adoes #0" = 0
+	"Bradak #0" = 0
+	"Chodek #0" = 0
+	"Istor #0" = 0
+	"Jodesmah #0" = 0
+	"Karsas #0" = 0
+	"Kopharn #0" = 0
+	"Mesak #0" = 0
+	"Parspanak #0" = 0
+	"Phidas #0" = 0
+	"Phoros #0" = 0
+	"Sarat #0" = 0
+}
+
+leader_names = {
+	Aorsen
+	Bagdo Batradz Buzala Britat
+	Dzaw
+	Edis
+	Iaxamat
+	Jauakid
+	Kuaisa Khwalis
+	Lemigant
+	Massaget Mares Metanast
+	Naezidzin
+	Ouastobalid Ostoja
+	Qola
+	Rudagy Roxolan Raro
+	Syrmat Saius
+	Tyriget Taifaliy
+	Zach Zeriuan
+}
+
+ship_names = {
+	Iasyx
+	"Lempi Savolainen"
+	Nevena
+	Olbia
+	Petrodava
+	Sarmatia "Shimon of Kromeriz" Smaranda
+}

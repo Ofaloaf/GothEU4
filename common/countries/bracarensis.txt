@@ -1,0 +1,117 @@
+# Bracarensis
+
+graphical_culture = westerngfx
+
+color = { 224 245 244 }
+
+historical_idea_groups = {
+	exploration_ideas
+	expansion_ideas
+	offensive_ideas
+	religious_ideas
+	economic_ideas
+	maritime_ideas
+	quality_ideas
+	defensive_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	spanish_tercio
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Lopon #0" = 40
+	"Verissimus #0" = 30
+	"Zacarias #0" = 20
+
+	"Angibono #0" = -5
+	"Ostabia #0" = -5
+
+	"Anderias #0" = 0
+	"Avolos #0" = 0
+	"Belacco #0" = 0
+	"Conantius #0" = 0
+	"Conparato #0" = 0
+	"Daniel #0" = 0
+	"Didago #0" = 0
+	"Dunnius #0" = 0
+	"Elyas #0" = 0
+	"Fiel #0" = 0
+	"Fructux #0" = 0
+	"Giorcio #0" = 0
+	"Gercorio #0" = 0
+	"Galiano #0" = 0
+	"Iacob #0" = 0
+	"Iaquinti #0" = 0
+	"Iohannis #0" = 0
+	"Iose #0" = 0
+	"Lucus #0" = 0
+	"Mertinus #0" = 0
+	"Manuel #0" = 0
+	"Marchus #0" = 0
+	"Moyses #0" = 0
+	"Micael #0" = 0
+	"Nigolago #0" = 0
+	"Osevio #0" = 0
+	"Osormeo #0" = 0
+	"Paulo #0" = 0
+	"Pero #0" = 0
+	"Quinzano #0" = 0
+	"Ramulus #0" = 0
+	"Salomon #0" = 0
+	"Salvator #0" = 0
+	"Stevanus #0" = 0
+	"Samuhel #0" = 0
+	"Simeon #0" = 0
+	"Titus #0" = 0
+	"Todosio #0" = 0
+	"Varvarinus #0" = 0
+}
+
+leader_names = {
+	Astrugui "de Arco" "de Avobriga" Agustini Arias
+	Bersiano "de Bracara" Burdunelo
+	Coras "de Caladunum" "de Compleutica" Caluela Caruallo Curral Cybraenes Columella
+	Fuoso "de Feques"
+	Gargallo
+	Idácio
+	Lenóncio "de Limia" Leodecísio
+	"de Magnetum"
+	Nobilior Naueas Numanto
+	Paniagua
+	Serfriano "de Salacia" "de Salaniana"
+	Torcato Teson
+	"de Uxama"
+}
+
+ship_names = {
+	Asclepius "Aquae Originae" "Aquae Flaviae" "Aquae Quarquernae" Athenonix Apollo Annona Augustus Aesculapius Agathopus
+	"Bracara Augusta"
+	Ceres "Civitas Zoelarum" Concordia Castor Caprus Cupidus Clementia Costantia
+	Diana Dacicus Dominica Delgada
+	Fortuna Fides Felicitas
+	Hercules
+	Iuppiter Iustitia Iacobus
+	Juno
+	Lucifer "Liberus Pater"
+	Mercurius Minerva Mars
+	Neptunus Nereis Nomendulce
+	Ops Olivus Oceanus
+	Pietas Perseus Particus Pollux Providentia Pax Pinnata "Portus Cale"
+	Salacia Satyra Spes Salus Salvia Silvanus "Sanctus Geraldus" "Sanctus Petrus" "Sanctus Basilius" "Sanctus Ovidius"
+	Triunphus Taurus Todora Tarasia
+	Victoria Vesta Virtus Velasquita Virginia
+	Yberia
+}

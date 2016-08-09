@@ -1,17 +1,20 @@
 #147 - Salonica
 
-owner = BYZ
-controller = BYZ
-culture = rimlyani
-religion = orthodox
-capital = "Larisa"
+owner = MKD
+controller = MKD
+culture = macedonian
+religion = catholic
+capital = "Larissa"
 trade_goods = grain
 hre = no
 base_tax = 6 
 base_production = 6
 base_manpower = 2
 is_city = yes
-add_core = BYZ
+add_core = MKD
+
+
+
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

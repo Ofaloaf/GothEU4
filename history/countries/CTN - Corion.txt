@@ -1,6 +1,0 @@
-government = feudal_monarchy
-government_rank = 1
-technology_group = western
-primary_culture = cumbric
-religion = orthodox
-capital = 243 # Lincoln

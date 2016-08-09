@@ -1,11 +1,10 @@
 #2754 - La Mancha
 
-owner = BAE
-controller = BAE
-add_core = CTH
-add_core = BAE
-culture = baetic
-religion = orthodox
+owner = CTG
+controller = CTG
+add_core = CTG
+culture = hispanian
+religion = catholic
 hre = yes
 base_tax = 3 
 base_production = 3
@@ -13,6 +12,9 @@ trade_goods = gold #Almadén
 base_manpower = 3
 capital = "Ciudad Real" 
 is_city = yes
+
+
+
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

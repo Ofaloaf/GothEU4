@@ -1,6 +1,8 @@
 government = feudal_monarchy
 government_rank = 1
-primary_culture = lusitanian
-religion = orthodox
 technology_group = western
-capital = 229
+religion = catholic
+primary_culture = lusitanian
+capital = 230
+
+elector = yes

@@ -7,8 +7,8 @@ color = { 131 138 116 }
 historical_idea_groups = {
 	naval_ideas
 	trade_ideas
-	religious_ideas
 	exploration_ideas
+	religious_ideas
 	diplomatic_ideas
 	economic_ideas
 	innovativeness_ideas
@@ -106,7 +106,7 @@ leader_names = {
 	Nidada "de Namntas" Navar
 	"D'Olitz"
 	Protasius "de Pontivia" Pannusius
-	Regaladus "de Rothono" "de Redhonis" Renovatus Respa "de Rabastencs" "de Roci"
+	Regaladus "de Rothono" "de Redhonis" Renovatus Respa "de Rabastencs" "de Roci" "de Reginca"
 	"de Sipia" "de Saissi" "de Seguret" "de Sent Just" "de Sent Prais"
 	Ticianus
 	"d'Uzest"
@@ -114,14 +114,21 @@ leader_names = {
 }
 
 ship_names = {
-	Andegavia Aremorica
-	Gualaravan 
-	Liger "Litus Saxonicum"
+	Andegavia Aremorica Andium Augustodurum Aregenoua
+	Cosedia "Condate Redonum" Coriallum
+	Darioritum Dolus
+	"Fanum Martis"
+	Gualaravan Grannona
+	Ingena
+	Korbilon
+	Liger "Litus Saxonicum" Lisia
+	Matriniaca
 	Namnetia
-	Osismia
+	Osismia "Ouidana Limen"
 	Parisius
-	Sequana "Sent Martin" "Sent Exuperi" "Sent Just"
-	Venetia Venellia Vorgium Vandalarius
+	Sequana "Sent Martin" "Sent Exuperi" "Sent Just" Sullis "Sikor Limen" Sipia Sena Siata Sesciacus
+	Uxantis
+	Venetia Venellia Vorgium Vandalarius Vorganium Vetraria Vindilis Veneticae Vindunitta
 }
 
 army_names = {

@@ -1,0 +1,20 @@
+government = feudal_monarchy
+government_rank = 1
+primary_culture = norwegian
+religion = catholic
+technology_group = western
+historical_rival = LOE
+capital = 23
+
+
+1380.5.4 = {
+	monarch = {
+		name = "Buddega II"
+		dynasty = "af Munsö"
+		birth_date = 1373.9.11
+		female = yes
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+}

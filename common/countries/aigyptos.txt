@@ -1,0 +1,125 @@
+# Aigyptos / Greek/Crusader Egypt
+
+graphical_culture = easterngfx
+
+color = { 143  141  128 }
+
+historical_idea_groups = {
+	innovativeness_ideas
+	offensive_ideas
+	diplomatic_ideas
+	quality_ideas
+	economic_ideas
+	trade_ideas
+	defensive_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	mamluk_archer
+	mamluk_cavalry_charge
+	mamluk_duel
+	mamluk_musket_charge
+	muslim_mass_infantry
+	muslim_dragoon
+	ali_bey_reformed_infantry
+}
+
+monarch_names = {
+	"Ptolemaios #0" = 60
+	"Alexandros #0" = 40
+	"Pavlos #0" = 40
+	"Herakleios #0" = 35
+	"Konstantinos #0" = 30
+	"Nikephoros #0" = 25
+	"Kaisarios #0" = 20
+
+	"Evridiki #0" = -10
+	"Bereniki #0" = -10
+	"Ester #0" = -5
+	"Kleopatra #0" = -1
+
+	"Androus #0" = 0
+	"Agathonikos #0" = 0
+	"Abianos #0" = 0
+	"Aghreppinos #0" = 0
+	"Areios #0" = 0
+	"Cerdo #0" = 0
+	"Diogenes #0" = 0
+	"Diodoros #0" = 0
+	"Emmanouél #0" = 0
+	"Gennadios #0" = 0
+	"Georgios #0" = 0
+	"Gregoras #0" = 0
+	"Helias #0" = 0
+	"Hieron #0" = 0
+	"Komitas #0" = 0
+	"Kyrillos #0" = 0
+	"Laurentios #0" = 0
+	"Leon #0" = 0
+	"Levi #0" = 0
+	"Markos #0" = 0
+	"Methodios #0" = 0
+	"Mikhael #0" = 0
+	"Menas #0" = 0
+	"Mattheos #0" = 0
+	"Nilos #0" = 0
+	"Onouf #0" = 0
+	"Pates #0" = 0
+	"Pounos #0" = 0
+	"Petros #0" = 0
+	"Philaretos #0" = 0
+	"Serapion #0" = 0
+	"Simeon #0" = 0
+	"Stefanos #0" = 0
+	"Thewodosios #0" = 0
+	"Thewodoros #0" = 0
+	"Thewodatos #0" = 0
+	"Thewophylaktos #0" = 0
+	"Thomas #0" = 0
+	"Yakovos #0" = 0
+	"Yaroklas #0" = 0
+	"Yoannis #0" = 0
+	"Zenon #0" = 0
+}
+
+leader_names = {
+	Antoniadis Archyriou Atta Atalla Angaelos Atiya Armanious
+	Boutros Benakis Batatzes Boumbalis Beshara Bakhoum
+	Charobim
+	Daloghlou Dryton
+	Ebnebsal Esthladas
+	Farag Fanous
+	Gautos Gabra Girgis
+	Horemis Horos
+	Kavaphes Kotsikas Kres Kellini Kaldas
+	Melachrinos Mankarios Mouzalon Metaxakis Mina
+	Nechuthes Nour
+	Paleoroutas Parthenis Psellos
+	Roufail Roussoglou Roussos Repapis Rodochanakis Rizk
+	Salvagos Sunadinos Stournaras Saber Sidhom Stino Sarofim Sonbol Sedarous
+	Tositsas Triarios
+	Vassanis Varvarinos Vasmoulos
+	Zerbinis Zervoudachis
+}
+
+ship_names = {
+	Agathoklis "Aghios Markos" "Aghios Maximos" "Aghios Menas" "Aghios Nikolaos" "Aghios Philippos" "Aghia Magdalene" Aetos
+	"Aghia Thekla" "Aghion Oros" "Aghios Athanasios" "Aghios Eusebios" "Aghios Ioannes" "Aghia Sophia" "Aghia Eirene" 
+	"Aghia Helene" "Aghios Sergios" "Aghios Stephanos" "Aghios Theodoros" Apokalipsis "Apostolos Andreas" "Apostolos Pavlos" 
+	"Apostolos Petros" "Archangelos Michael" "Archangelos Gabriel"
+	Charicleia "Christos Soter"
+	Despotes Drakon
+	Euergetes
+	Gorgona Gorgopleustos
+	Hamzaoui Hades Hektor Hephaistos Herakles Hermes Hyrda
+	Kleopatra Kaisarion Krokodilopolis
+	Lagos
+	Memphis "Megas Alexandros" "Megas Ptolemaios"
+	Naukratis
+	Philoraptor Philadelphos Pegasos Pelagos Poseidon Pathyris
+	Serapis Stratelates
+	Thebais Theochariste Theognosia Tzouonia Thaïs Triton Thebes
+	Virina
+	Xiphias Xiphomachos
+}

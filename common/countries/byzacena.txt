@@ -1,0 +1,131 @@
+# Byzacena
+
+graphical_culture = muslimgfx
+
+color = { 67 101 112 }
+
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	spy_ideas
+	religious_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	persian_footsoldier
+	persian_cavalry_charge
+	persian_shamshir
+	qizilbash_cavalry
+	tofongchis_musketeer
+	topchis_artillery
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_mass_infantry
+	muslim_dragoon
+	persian_rifle
+}
+
+monarch_names = {
+	"Presio #1" = 15
+	"Ferminus #1" = 15
+	"Benedittu #0" = 15
+	"Bonifaciu #0" = 15
+	"Inocentius #" = 10
+	"Santon #1" = 10
+	"Gudafres #1" = 10
+	"Aturpatus #2" = 10
+	"Farrucsadus #1" = 10
+	"Hedayat #1" = 5
+	"Jaurfret #1" = 5
+	"Jacme #1" = 5
+	"Audonus #1" = 5
+	"Quintil #1" = 5
+
+	"Caterina #0" = -2
+	"Magdalena #0" = -2
+	"Valeria #0" = -2
+
+	"Andreu #0" = 0
+	"Antalas #0" = 0
+	"Arzoghu #0" = 0
+	"Bartolomeu #0" = 0
+	"Basili #0" = 0
+	"Binmelcart #0" = 0
+	"Capussa #0" = 0
+	"Cipriane #0" = 0
+	"Celestinu #0" = 0
+	"Germelu #0" = 0
+	"Gregori #0" = 0
+	"Ignatzi #0" = 0
+	"Jirominu #0" = 0
+	"Johannei #0" = 0
+	"Josefu #0" = 0
+	"Luca #0" = 0
+	"Lattantzi #0" = 0
+	"Mariu #0" = 0
+	"Masceddelu #0" = 0
+	"Nubelu #0" = 0
+	"Nartzalu #0" = 0
+	"Nicola #0" = 0
+	"Pascale #0" = 0
+	"Paulu #0" = 0
+	"Pompeju #0" = 0
+	"Quodvultdeus #0" = 0
+	"Rafiele #0" = 0
+	"Revocatus #0" = 0
+	"Stefanu #0" = 0
+	"Sarafinu #0" = 0
+	"Simion #0" = 0
+	"Salomon #0" = 0
+	"Teodore #0" = 0
+	"Teofanu #0" = 0
+	"Tomas #0" = 0
+}
+
+leader_names = {
+	Aangaliu "d'Aquinu" "d'Adrumetu" "d'Aggersel" "d'Aurusuliana" "d'Auzegera"
+	Balistreri "di Bararu" "di Bennefa" Bixiu "di Buleliana"
+	"di Cabarasussi" "di Cenculiana" "di Cufruta" "di Cariana"
+	"di Drua" "di Dura" "di Dices" "di Dionysiana"
+	"d'Egnatia" "d'Edistiana"
+	"di Febiana" "di Filaca" "di Forontoniana" Fronto
+	"di Gaguari" "di Gubaliana" "di Gummi" "di Gurza"
+	"di Limisa" "di Leptiminu"
+	"di Macriana" "di Mactari" "di Maragui" "di Marazanae" "di Mididi" "di Mozotcori" Masguinus
+	"di Nara" "di Nationa" "di Nepte"
+	"d'Octaba"
+	Pes "di Precausa" "di Putia" Pisciu
+	"di Quaestoriana"
+	"di Ruspae" "di Rusticiana"
+	Siriti "di Sassura" "di Scebatiana" "di Septimunicia" "di Sufes" "di Sufetula" "di Suliana" "di Sullectu" Satta Schellou
+	"di Tucca" "di Tagaria" "di Tamata" "di Tetci" "di Turris" "di Tusuru" "di Tibulbaca"
+	"d'Usula" "d'Uzita"
+	"di Valentiniana" "di Vartana" "di Vassinassa" "di Vegesela" "di Victoriana" "di Vita"
+	"di Zella"
+}
+
+ship_names = {
+	Aquilo Abidda Acholla Aeliae Afufenia Ammaedara
+	Bararus Bassiana Bavagaliana Bahanna
+	Caladrius Clymene Chusira Cufruta Crepedula "Colonia Cillilana" Cenculiana Carcabia Cabarasussi
+	Dura Drua Decoriana Dices Dionysiana
+	Egnatia Edistiana
+	Faunus Forontoniana Foratiana Fissiana Filaca "Feradi Maius" "Feradi Minus" Febiana
+	Hadrumetum Hermiana Hierpiniana
+	Iunca Iubaltiana
+	Lamia Limisa Leptiminus
+	Mozotcori Munatiana Mutia Modica Menefessi Maximiana Materiana "Macriana Maior" "Macriana Minor"
+	Nara Nationa Nepte
+	Octaba
+	Praesidium Putia Precausa
+	Quaestoriana
+	Rufiniana Ruspae Rusticiana
+	"Sanctus Khudayar" "Sanctus Quintilus" "Sanctus Pontius" Severiana Septimunicia Selendeta Sassura
+	"Turris Tamalleni" Tyche Tethys "Thucca Terenbenthina" Trofimiana Tubulbaca Tagarbala
+	Unizibira Usula Uzita
+	Valentiniana Vartana Vassinassa Vegesela "Vicus Aterii" "Vicus Augusti"
+}

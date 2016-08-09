@@ -1,0 +1,17 @@
+government = feudal_monarchy
+government_rank = 1
+primary_culture = uyghur
+religion = tengri_pagan_reformed
+secondary_religion = jewish
+technology_group = chinese
+capital = 710 # Khotan
+
+1393.9.30 = {
+	monarch = {
+		name = "Jamugha"
+		dynasty = "Moenkhbat"
+		adm = 2
+		dip = 5
+		mil = 3
+	}
+}

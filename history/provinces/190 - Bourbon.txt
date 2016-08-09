@@ -4,15 +4,19 @@ owner = BTC
 controller = BTC
 capital = "Mulineia"
 is_city = yes
-culture = liunesan
-religion = orthodox
+culture = gautes
+religion = catholic
 hre = yes
 base_tax = 5 
 base_production = 5
 trade_goods = iron
 base_manpower = 4
 add_local_autonomy = 25
+estate = estate_nobles
 add_core = BTC
+
+
+
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

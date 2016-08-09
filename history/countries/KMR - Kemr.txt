@@ -1,0 +1,17 @@
+government = feudal_monarchy
+government_rank = 1
+technology_group = western
+primary_culture = cambric
+religion = catholic
+capital = 233 # Cornwall
+
+1395.6.4 = {
+	monarch = {
+		name = "Dyddgu II"
+		dynasty = "Ynys Mon"
+		female = yes
+		adm = 2
+		dip = 1
+		mil = 0
+	}
+}

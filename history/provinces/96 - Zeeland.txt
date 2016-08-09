@@ -2,17 +2,19 @@
 
 owner = FLA
 controller = FLA
-add_core = FRK
 add_core = FLA
 is_city = yes
-capital = "Middelburg"
-culture = dutch
-religion = orthodox
+capital = "Mediubaurga"
+culture = rhenish
+religion = catholic
 hre = yes
 base_tax = 8 
 base_production = 8
 trade_goods = salt
 base_manpower = 3
+
+
+
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

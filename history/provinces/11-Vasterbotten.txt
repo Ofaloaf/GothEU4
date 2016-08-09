@@ -4,7 +4,7 @@ owner = GTR
 controller = GTR
 add_core = GTR
 culture = geatish
-religion = orthodox
+religion = catholic
 hre = no
 base_tax = 1 
 base_production = 1
@@ -17,9 +17,3 @@ is_city = yes
 
 discovered_by = eastern
 discovered_by = western
-
-
-1527.6.1 = { religion = protestant}
-1650.1.1 = { trade_goods = naval_supplies }
-1809.3.24 = { controller = RUS } # Conquered by Barclay de Tolly
-1809.9.17 = { controller = SWE } # Treaty of Fredrikshamn

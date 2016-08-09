@@ -1,0 +1,102 @@
+# Antiochia
+
+graphical_culture = easterngfx
+
+color={ 142 63 129 }
+
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	religious_ideas
+	maritime_ideas
+	diplomatic_ideas
+	economic_ideas
+}
+
+historical_units = {
+	ottoman_yaya
+	ottoman_musellem
+	ottoman_azab
+	ottoman_timariot
+	ottoman_janissary
+	ottoman_spahi
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
+
+monarch_names = {
+	"Corneliu #1" = 30
+	"Pirvu #2" = 30
+	"Ciprian #1" = 20
+	"Dragos #1" = 10
+	"Tepes #1" = 5
+
+	"Felicia #1" = -5
+	"Vasilica #1" = -5
+	"Ruxandra #1" = -5
+	"Clara #1" = -5
+	"Ecatarina #0" = -5
+
+	"Basarab #0" = 0
+	"Claudiu #0" = 0
+	"Dumitru #0" = 0
+	"Florin #0" = 0
+	"Ilie #0" = 0
+	"Iuga #0" = 0
+	"Paganus #0" = 0
+	"Petre #0" = 0
+	"Sas #0" = 0
+	"Simion #0" = 0
+	"Tibor #0" = 0
+	"Tihomir #0" = 0
+	"Veaceslav #0" = 0
+	"Vlad #0" = 0
+}
+
+leader_names = {
+	Csaky "de Cava" "de Corbonio" Ciubotaru Codreanu
+	"de Basileia"
+	Dragustin "de Daphne" Deborus "de Darbasak"
+	"de Famia"
+	"de Hazart"
+	"de Kafroun"
+	Murvai "de Meleagrum" "de Meroe" Malmuz "de Margat"
+	"de Platanoi" "de Pagrae"
+	"de Rhosus"
+	Salimovic "de Saone" "de Strunino" "de Surdeval" Salvarici "de Sarmenia" Segarceanu
+	Tibai Tirel "de Taurus"
+	Ursu
+}
+
+ship_names = {
+	Alexandru Antiocheia "Alexandria ad Issum" Amanus "Ad Orontem" Apamea Asclepiades Ananius
+	Bytyllion Babylas Beroia
+	Cornelius "Clara Martella" Charandama
+	Demetrianus "Demetrius Deborensis" Domnus
+	Eros Evodius Eustathius Eudoxius
+	Fabius Flacilus
+	Gephyra Gindaros
+	Herakleia
+	Ignatius
+	Kaprobarada
+	Lamanaza Laodicea "Leokos Limen" Lysias Litaraba Leontius
+	Myriandros Minnica Mogiza "Maximus Primus" Meletius
+	Nymphaion Nicephorus
+	Omeros
+	Philetus "Pieria Mons" Posideion Philogonius Paulinus
+	Seleucia Sigon Sanpetru Serapion "Stephanus Primus"
+	Trapezon Tilokbarina Theophilus Timaeus Tyrannion Theodotus
+	Vitalius
+	Zebinnus
+}

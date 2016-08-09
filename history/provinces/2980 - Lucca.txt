@@ -3,15 +3,18 @@
 owner = LRM
 controller = LRM
 add_core = LRM
-culture = lat_ligurian
-religion = orthodox
-hre = no
+culture = romandeis
+religion = catholic
+hre = yes
 base_tax = 6
 base_production = 6
 trade_goods = cloth
 base_manpower = 2
-capital = "Lucca"
+capital = "Luca"
 is_city = yes # Estimated
+
+
+
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

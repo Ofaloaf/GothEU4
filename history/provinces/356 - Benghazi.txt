@@ -1,0 +1,21 @@
+#356 - Cyrenaica
+
+owner = CYR
+controller = CYR
+culture = cartagginu
+religion = catholic
+capital = "Benghazi"
+trade_goods = wool
+hre = yes
+base_tax = 3
+base_production = 3
+base_manpower = 2
+is_city = yes
+add_core = CYR
+
+
+
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern

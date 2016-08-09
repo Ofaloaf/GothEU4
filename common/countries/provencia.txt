@@ -4,7 +4,7 @@ graphical_culture = westerngfx
 
 color = { 98  165  168 }
 
-preferred_religion = gnostic
+preferred_religion = protestant
 
 historical_idea_groups = {
 	defensive_ideas

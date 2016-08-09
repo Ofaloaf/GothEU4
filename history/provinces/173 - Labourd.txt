@@ -4,15 +4,19 @@ owner = AQI
 controller = AQI
 capital = "Baiona"
 is_city = yes
-culture = basque
-religion = orthodox
+culture = aquitanian
+religion = catholic
 hre = yes
 base_tax = 3 
+
 base_production = 3
 trade_goods = wine
 base_manpower = 4
 add_core = AQI
 fort_15th = yes
+
+
+
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

@@ -2,7 +2,6 @@ west_slavic = {
 	graphical_culture = westerngfx
 
 	sorbian = {
-		primary = SRB
 		male_names = {
 			Awgust Arnošt
 			Berno Bjarnat Bohumir Boscij Budivoj Boleslaw Bohumil Branibor Batrolm Balcar
@@ -36,6 +35,50 @@ west_slavic = {
 			Trudla
 			Worsha Wurshula
 			Zusana
+		}
+	}
+	carantanian = {
+		primary = RNT
+		male_names = {
+			Andrija
+			Boruth Bogo Borna Branimir Bernardin Blaz
+			Cacatius Cheitmar Cedada Chrtomir
+			Domislav Dragomir Dabus Drzislav Domagoj Dmitar
+			Etgar Emerik
+			Fergil Franc
+			Gorazd Gregur
+			Hotimir Hrvoje
+			Iban
+			Juraj
+			Kresimir Kulin Kristo
+			Ladislav Ljedvit Ljutomisl Lovro
+			Modest Majmir Maligoj Mutimir Miroslav Mihajlo Matej Moseguo
+			Nicolaus Ninoslav
+			Pribislav Pribina Petar Pavao
+			Rudbert Radigoj Radus Radovan Ratimir Ruodo
+			Svatobor Semika Stojmir  Svetopolk Svobodin Stanko Stjepan
+			Tomislav
+			Ulfo
+			Valuk Valtunk Vran Vitomir Vitan Vojnomir Viseslav Valhun Valentin
+			Wezil Witogowo Zdeslav Zvonimir
+		}
+		female_names = {
+			Angelina Anna
+			Borislava Branimira Braslava Bogomila
+			Drzislava
+			Gojslava
+			Hicela
+			Jadviga Jelena
+			Kresimira
+			Ljuba Ladislava
+			Mirica Mojca Miroslava Mislava Mutimira Marija
+			Ninoslava
+			Petrissa
+			Ratimira
+			Slava Svetislava
+			Tunca Tomislava
+			Viseslava Vladislava Vojnomira
+			Zverica Zvonimira Zdeslava Ziva
 		}
 	}
 }

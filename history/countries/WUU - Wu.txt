@@ -1,0 +1,65 @@
+government = despotic_monarchy
+technology_group = chinese
+religion = confucianism
+primary_culture = wu
+capital = 1821 # Nanjing
+
+1368.1.1 = {
+	monarch = {
+		name = "Yuanzhang" # Hongwu Emperor
+		dynasty = "Zhu"
+		adm = 6
+		dip = 4
+		mil = 6
+	}
+}
+
+1398.6.24 = {
+	monarch = {
+		name = "Yunwen" # Jianwen Emperor
+		dynasty = "Zhu"
+		adm = 3
+		dip = 1
+		mil = 1
+	}
+}
+
+1398.6.24 = {
+	heir = {
+		name = "Di" #Yongle Emperor
+		monarch_name = "Di"
+		dynasty = "Zhu"
+		birth_date = 1360.5.2
+		death_date = 1424.8.12
+		claim = 95
+		adm = 5
+		dip = 6
+		mil = 6
+		leader = { name = "Di Zhu"	type = general	rank = 0	fire = 4	shock = 4	manuever = 4	siege = 0 }
+	}
+}
+
+1402.7.13 = {
+	monarch = {
+		name = "Di" #Yongle Emperor
+		dynasty = "Zhu"
+		adm = 5
+		dip = 6
+		mil = 6
+		leader = { name = "Di Zhu"	type = general	rank = 0	fire = 4	shock = 4	manuever = 4	siege = 0 }
+	}
+}
+
+1402.7.13 = {
+	heir = {
+		name = "Gaochi" #Hongxi Emperor
+		monarch_name = "Gaochi"
+		dynasty = "Zhu"
+		birth_date = 1378.8.16
+		death_date = 1425.5.29
+		claim = 95
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+}

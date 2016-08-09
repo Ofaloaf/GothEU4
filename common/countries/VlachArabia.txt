@@ -1,0 +1,98 @@
+# Arabia
+
+graphical_culture = easterngfx
+
+color = { 121 196 2 }
+
+historical_idea_groups = {
+	defensive_ideas
+	expansion_ideas
+	religious_ideas
+	offensive_ideas
+	naval_ideas
+	spy_ideas
+	economic_ideas
+	quality_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	druzhina_cavalry
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+monarch_names = {
+	"Tibor #2" = 30
+	"Vlad #1 " = 30
+	"Corneliu #1" = 20
+	"Iaboc #1" = 20
+
+	"Smaranda #0" = -10
+	"Adelina #1" = -10
+	"Ionela #1" = -5
+	"Petra #0" = -5
+	"Alexandra #0" = -5
+
+	"Alexandru #0" = 0
+	"Anghel #0" = 0
+	"Carol #0" = 0
+	"Dumitru #0" = 0
+	"Iancu #0" = 0
+	"Ilie #0" = 0
+	"Nicolae #0" = 0
+	"Octav #0" = 0
+	"Petre #0" = 0
+	"Pirvu #0" = 0
+	"Sas #0" = 0
+	"Stefan #0" = 0
+	"Teodor #0" = 0
+	"Tihomir #0" = 0
+	"Vasile #0" = 0
+}
+
+leader_names = {
+	Anastasiade Armashel
+	"de Bozrah" "de Bossia"
+	Cratunescu
+	Dragusin
+	Florian
+	Ghitulescu Girlesteanu
+	Luchide Lupu
+	"Micu-Klein" "de Mazraa"
+	Nedelcovici "de Negla"
+	Petenye "de Petra" "de Phaino" "de Praedisio" Plagino Platareanu
+	Roman
+	Strumanets Spathari Sfetescu
+	"de Tabuk" "de Thornia"
+	Vardala Volvoreanu Vatamanu Vartolomeu
+}
+
+ship_names = {
+	"Arabia Felix" Akgul Ankale Auara Aramaua Aretas Alexander Antigonis
+	"Ciprianus Selimovicus"
+	Elia
+	Hieronymus
+	Ieremia
+	Jannaeus
+	Kalonymos
+	Monica Malichus
+	Nabataea Natalia
+	Obodas
+	Petra Ptolemaeus
+	Rabbel
+	Sophia Stefana Scaurus
+	Zina
+}

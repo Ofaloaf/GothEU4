@@ -6,12 +6,15 @@ add_core = TOX
 is_city = yes
 capital = "Brosella"
 culture = gothburgundian
-religion = orthodox
+religion = catholic
 hre = yes
 base_tax = 8 
 base_production = 8
 trade_goods = cloth
 base_manpower = 4
+
+
+
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

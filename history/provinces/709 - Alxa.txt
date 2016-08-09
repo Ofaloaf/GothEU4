@@ -1,0 +1,20 @@
+#709 - Alxa
+
+owner = TIM
+controller = TIM
+add_core = TIM
+culture = mongol
+religion = jewish
+capital = "Alxa"
+trade_goods = wool
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 2
+is_city = yes
+
+
+
+discovered_by = chinese
+discovered_by = nomad_group
+

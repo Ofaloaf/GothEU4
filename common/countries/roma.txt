@@ -4,6 +4,8 @@ color = { 209 80 56 }
 
 revolutionary_colors = { 1  0  16 }
 
+preferred_religion = reformed
+
 historical_idea_groups = {
 	administrative_ideas
 	defensive_ideas
@@ -32,112 +34,63 @@ historical_units = {
 }
 
 monarch_names = {
-	"Cola #0" = 50
-	"Benedetto #0" = 40
-	"Carlo #0" = 35
-	"Teofilatto #0" = 30
-	"Sergio #0" = 30
-	"Ugo #0" = 25
-	"Gregorio #0" = 20
-	"Cesare #0" = 10
-	"Romolo #0" = 5
+	"Adrian #0" = 40
+	"Lissànder #0" = 20
+	"Céser #0" = 20
+	"Ròmol #0" = 10
+	"August #0" = 10
 
-	"Teodora #0" = -10
-	"Rosella #0" = -1
+	"Giulia #0" = -10
 
-	"Adriano #0" = 0
-	"Aurelio #0" = 0
-	"Andrea #0" = 0
-	"Alessandro #0" = 0
-	"Alessio #0" = 0
-	"Agostino #0" = 0
-	"Amato #0" = 0
-	"Albano #0" = 0
-	"Bonifacio #0" = 0
-	"Bruno #0" = 0
-	"Bernardino #0" = 0
-	"Crescenzio #0" = 0
-	"Corrado #0" = 0
-	"Claudio #0" = 0
-	"Camillo #0" = 0
-	"Daniele #0" = 0
-	"Ettore #0" = 0
-	"Ennio #0" = 0
-	"Enrico #0" = 0
-	"Francesco #0" = 0
-	"Franco #0" = 0
-	"Fiorello #0" = 0
-	"Federico #0" = 0
-	"Fabrizio #0" = 0
-	"Giovanni #0" = 0
-	"Giammario #0" = 0
-	"Gabriellino #0" = 0
-	"Giampiero #0" = 0
-	"Gioachino #0" = 0
-	"Gianluca #0" = 0
-	"Giorgio #0" = 0
-	"Giuseppe #0" = 0
-	"Graziano #0" = 0
-	"Lando #0" = 0
-	"Leonardo #0" = 0
-	"Lucio #0" = 0
-	"Matteo #0" = 0
-	"Michele #0" = 0
-	"Maurizio #0" = 0
-	"Marco #0" = 0
-	"Nicola #0" = 0
-	"Ottaviano #0" = 0
-	"Pietro #0" = 0
-	"Paolo #0" = 0
-	"Pompeo #0" = 0
-	"Roberto #0" = 0
-	"Rodolfo #0" = 0
-	"Raimondo #0" = 0
-	"Ricardo #0" = 0
-	"Silvio #0" = 0
-	"Stefano #0" = 0
-	"Tommaso #0" = 0
-	"Valerio #0" = 0
-	"Vincenzo #0" = 0
+	"Alrigh #0" = 0
+	"Antonin #0" = 0
+	"Augustin #0" = 0
+	"Clàudi #0" = 0
+	"Evasi #0" = 0
+	"Gajo #0" = 0
+	"March #0" = 0
+	"Massimin #0" = 0
+	"Publi #0" = 0
+	"Safrax #0" = 0
+	"Simon #0" = 0
+	"Tit #0" = 0
 }
 
 leader_names = {
-	Armellini Andreazzoli Angeloni Amendola Archibugi Arcalli Aureli Ammaniti Antoniano Alatri Albertini "D'Annunzio"
-	Bertolini "Di Bartolomei" Borriello Bertolacci Belli Brega Barboni Baldi Bianchini Bordini Buonaiuti
-	Crescenzi Conti Ciciretti Calabresi Califano "Di Canio" Cancellieri Capone Caressa Cassola Castellano Celletti
-	Dragosei
-	Evola
-	Frangipani Fediani Frascatore Febbrari Fiorini Ferilli Felici Frago Falcone Fulci
-	Galeazzi
-	Infascelli Infessura
-	Luzzatto "De Laurentiis"
-	Mazzini Mandredi Magnani Montesano "De Michelis" Moroni Morra Melchiori Mezzasoma Mongai Molinari Monicelli
-	Nanni Negroni Nasca
-	Orano Ortese Orsini
-	Pallotta Pruzzo Piscitella Politano Petrolini Proietti Pasolini Porta Pigliucci Pirri Pompucci Prosperi Ponzi
-	Romagnoli Rosato Rossini
-	Saffi Somma Scala Sordi Salustri Spada Sacchetti Sanzone Scaccia Scaramelli Scarpelli
-	Totti
-	Verdone Venturi Vergano Villoresi
-	Zapponi Zeri
+	Agrìcola Ancina "dl'Abatut" Athonis "d'Afilae"
+	Bozesa Boysonnada Bolas Belli Brega "ëd Baccanei"
+	Calsutras Clavellus Cathena "ëd Cabum" Califano "ëd Capena" "ëd Carisol" "ëd Collatia"
+	Falgario "ëd Ficulea"
+	Gessi Gaill Grefolieyra Guirlarda Garic "ëd Gordiani"
+	Insedus
+	Jalenca
+	Lépid Lagomia
+	Mercieyra Massonerius Manelani Milian "ëd Mugillas"
+	Natas "ëd Norba"
+	Panigarola Polettus
+	"ëd Quintanas"
+	Rossinhol
+	Sétim Seyrac Segualar "ëd Signja"
+	"de Trivultiis" Terissa "del Troc"
+	Vida
 }
 
 ship_names = {
-	Alberico Aventino "Alba Longa" Ascanio Amulio Aufidius Antaeus Apollo
-	Brutus Bacchus
-	Cannae Cicerone Campidoglio Celio Celso Coriolanus
-	Didone
-	Esquilino Enea Endimione
-	Faustulus
-	"Lupa Capitolina" Lavinium Livio Lavinia Latium Legatus
-	Marozia "Monte Porzio" Montenotte Mondovi Marte Metastasio Mercurius
-	Numitore Neptunus
-	Ostia Ovidio Oppio
-	Prataporci Palatino Plutarco Pegasus
-	Quirinale
-	Roma Romolo Remo "Rea Silvia"
-	"Santa Maria" Saturno Serapis
-	Tusculum Tolentino Traiano Troia Tribunus Trilussa 
-	Umbria
-	Virgilio Viminale Varrone Veturia Volumnia Vertumnus
+	Aventin Alsium Anagnia Aricia Ardea "Ad Decimum" Antium Algidus "Ad Duas Lauros" "Ad Nonum" "Ad Quintanas"
+	Bovillae "Beata Ludovica" Baebiana
+	Campideuj Colossé Cora Careiae "Castrum Inui" Caere Cola Collatia Crustumerium Cornelius
+	Domissian
+	Esquilin
+	Fidenae "Forum Appii"
+	Galba "Gajo Mario" "Giulio Céser" Gabii
+	"Italia Suburbicaria"
+	Lassio Lanuvium Lavinium "Lucus Feroniae" Labicum
+	Mugillae
+	Norba "Nòstr Mar" Nomentum
+	Oton Otavian Ostia
+	Palatin "Pompeo ël Grand" Plebe "Publi Quintili Var" Petrus Pio Praeneste Pometia
+	Quirinal
+	Sila "Set Còj" Senà Sutrium Sacriportus Satricum "Saxa Rubra" "Sacer Mons" Scipio
+	Tèver Tribun Trilussa Tusculum "Tres Tabernae"
+	Viminal Viteli Velitrae Veii
 }

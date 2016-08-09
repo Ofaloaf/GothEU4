@@ -1,18 +1,18 @@
 #268 - Moldavia
 
-owner = DCA
-controller = DCA
-culture = wallachian
-religion = orthodox
+owner = MLD
+controller = MLD
+culture = sarmatian
+religion = catholic
 hre = no
 base_tax = 6 
+
 base_production = 5
 capital = "Suceava"
 is_city = yes
 trade_goods = wool
 base_manpower = 2
-add_core = MOL
-add_core = DCA
+add_core = MLD
 
 
 

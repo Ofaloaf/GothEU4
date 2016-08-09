@@ -1,0 +1,133 @@
+# Knights of the Holy Sepulchre in Egypt
+
+#Country Name: Please see filename.
+
+graphical_culture = easterngfx
+
+color = { 120 0 145 }
+
+preferred_religion = protestant
+
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	maritime_ideas
+	innovativeness_ideas
+	spy_ideas
+	quality_ideas
+}
+
+historical_units = {
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	ottoman_spahi
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
+
+monarch_names = {
+	"Alexandros #0" = 25
+	"Pavlos #1" = 25
+	"Ioannes #0" = 20
+	"Manuel #0" = 20
+	"Antonios #1" = 20
+	"Zenon #0" = 15
+
+	"Tamar #0" = -1
+
+	"Anastasios #0" = 10
+	"Andreas #0" = 0
+	"Antiochos #0" = 0
+	"Apollonios #0" = 0
+	"Athanasios #0" = 0
+	"Boethios #0" = 0
+	"Cheitmar #1" = 5
+	"Chrysanthos #0" = 0
+	"Euphemios #0" = 0
+	"Evangelos #0" = 0
+	"Gabriel #0" = 0
+	"Gerolt #1" = 0
+	"Gregoras #0" = 0
+	"Ioannes #1" = 10
+	"Konstantinos #0" = 0
+	"Kyrillos #0" = 0
+	"Laurentios #0" = 0
+	"Lazaros #0" = 0
+	"Leon #0" = 0
+	"Lodovikos #1" = 10
+	"Luzo #1" = 5
+	"Manuel #1" = 10
+	"Maurikios #0" = 0
+	"Maximos #0" = 0
+	"Nikephoros #0" = 0
+	"Nikolaos #0" = 0
+	"Petros #0" = 0
+	"Philaretos #0" = 0
+	"Porphyrios #0" = 5
+	"Pyrros #0" = 0
+	"Romanos #0" = 0
+	"Sabas #0" = 0
+	"Samuel #0" = 0
+	"Stefanos #0" = 0
+	"Theoderikos #0" = 0
+	"Theodoros #0" = 0
+	"Theodosios #1" = 10
+	"Theophylaktos #0" = 0
+	"Thomas #1" = 5
+	"Timotheos #0" = 0
+	"Valerios #0" = 0
+	"Varvarinus #1" = 1
+	"Vrochanus #1" = 1
+	"Zacharias #0" = 0
+}
+
+leader_names = {
+	Amaling Apsintvic Alcense Aspinal
+	Boutros Bodekine Broa Bolas
+	Carolus "de Carthagenna"
+	"vu Dibenga"
+	Eiddin
+	Focwalding Formis
+	Gozzo Gabriac "De Genava" Guinn
+	Haspelmath
+	Isarn
+	Jalenca
+	Laquitani "de Liyun"
+	Marchog "de Matiscone" Malivel
+	Natas
+	Olahus Orvoën
+	Triarius
+	Vaese
+}
+
+ship_names = {
+	Alexandria Augustamnica Aphroditopolis
+	Bubastis
+	Cleopatra
+	Diospolis
+	Entos Erythra
+	Heron Heliopolis Hermoupolis Hibis "Hagia Maria" "Hagia Sophia" "Hagia Romana" "Hagios Athanasios" "Hagios Aulos"
+	"Hagios Agathos" "Hagia Zenobia" "Hagios Konstantinos" "Hagios Girardos" Helios "Hagios Theodoros"
+	"Hagios Evangelos" "Hagios Markos"
+	Koptos Klysma
+	Memphis
+	Nilos
+	Oxyrhynchos
+	Pelousion Paraitnion Plynos
+	Seleukos
+	Theodosiopolis Thebais
+	Vasmoulos
+}

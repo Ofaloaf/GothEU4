@@ -4,7 +4,7 @@ owner = GAL
 controller = GAL
 add_core = GAL
 culture = gallaecian
-religion = orthodox
+religion = catholic
 hre = yes
 base_tax = 3
 base_production = 3
@@ -12,7 +12,11 @@ trade_goods = fish
 base_manpower = 3
 capital = "Crunia" 
 is_city = yes
+estate = estate_church
  # Santiago de Compostela pilgrimage
+
+
+
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

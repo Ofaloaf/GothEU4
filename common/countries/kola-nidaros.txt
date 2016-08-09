@@ -1,0 +1,94 @@
+# Kola-Nidaros
+
+graphical_culture = westerngfx
+
+color = { 144 130 205 }
+
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	aristocracy_ideas
+	spy_ideas
+	religious_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	swedish_gallop
+	swedish_gustavian
+	swedish_caroline
+	swedish_arme_blanche
+	prussian_frederickian
+	prussian_uhlan
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Boudewijn #1" = 30
+	"Theodolf #1" = 20
+	"Robrecht #1" = 20
+	"Taisto #0" = 10
+
+	"Zoete #1" = -10
+	"Frida #1" = -10
+	"Badeloge #1" = -10
+
+	"Adam #0" = 0
+	"Adriaen #0" = 0
+	"Amadeus #0" = 0
+	"Balderik #0" = 0
+	"Chumbulat #0" = 0
+	"Ekbert #0" = 0
+	"Floris #0" = 0
+	"Gijsbrecht #0" = 0
+	"Godfried #0" = 0
+	"Gudleik #0" = 0
+	"Ijsbrecht #0" = 0
+	"Jacco #0" = 0
+	"Julius #0" = 0
+	"Ludewijn #0" = 0
+	"Pieter #0" = 0
+	"Paulus #0" = 0
+	"Steyn #0" = 0
+	"Voitto #0" = 0
+	"Willem #0" = 0
+}
+
+leader_names = {
+	Ainottine Auster
+	"van Breda"
+	Clitho Cauppin
+	Heinen Huickå Hintzikas
+	Ihantila
+	Jentze
+	Kolkko Kittuine Kurki
+	"van Maere"
+	"van Oosterzele"
+	"van Randerath"
+}
+
+ship_names = {
+	Agaete Aechte
+	Eland "Eeuwige Zon"
+	"Ingrid av Naumadal"
+	Jasminne
+	Leo
+	Nordia
+	"Onno Folcwalding" "Olav Kvaran" Ontdekking
+	Rendier
+	Sophia Saul Schemering Schildwacht
+	Taurus Theodosia
+	Verdediger Verweerder
+	Waltrud Wilhelmus "Witte Ridder"
+	Zwartadder
+}

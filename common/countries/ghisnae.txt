@@ -1,0 +1,88 @@
+# Ghisnae
+
+graphical_culture = westerngfx
+
+color = { 160 44 75 }
+
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	trade_ideas
+	economic_ideas
+	plutocracy_ideas
+	diplomatic_ideas
+	offensive_ideas
+	spy_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_longbow
+	gaelic_mercenary
+	gaelic_free_shooter
+	irish_charge
+	anglofrench_line
+	british_redcoat
+	british_hussar
+	british_square
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Raugier #4" = 30
+	"Rainaut #2" = 30
+	"Nicaulas #2" = 25
+	"Cassius #2" = 20
+	"Sidauni #0" = 10
+	"Guito #0" = 10
+
+	"Eufrosina #1" = -10
+	"Angelina #1" = -10
+	"Clara #1" = -10
+
+	"Aloito #1" = 0
+	"Amalric #0" = 0
+	"Audon #0" = 0
+	"Baltasar #1" = 0
+	"Celdoni #0" = 0
+	"Eucherius #0" = 0
+	"Gabriel #1" = 0
+	"Guillemó #0" = 0
+	"Poncius #0" = 0
+	"Romà #1" = 0
+	"Witigisclus #1" = 0
+}
+
+leader_names = {
+	Amigó d'Aucia
+	Boey "de Bolonia" Barberà
+	Costa "de Caleeis" "de Cubells" Colomer
+	Dardarich Domènech
+	Faberi Feyna Fisternola Feliu Fontamills
+	Goeznovinus Grech Grau Guiscart Goscemps Garriga
+	Lió "de Luna" "de Lombèrs" Lero
+	Monrós "de Marcis" Màrgens Morer Mateu Mortorell Massa
+	Obradors
+	Plana Pascas Par Pariquet Prat
+	Riera Roig Roca Rossolló Ramondet
+	Spadics Suerita Sallels Serra Sala "de Sostomagus"
+	Terrasona "de Tarvenna" Torens Torner
+	Vallfolor Vallongera Vilagrassa
+}
+
+ship_names = {
+	Aldinícia "Anastasja Amaling" "Amalricus Triarius" Angela
+	"Baltasar af Ghisnae" "Bagge Vaese"
+	Caterina Calvina
+	Gesoriacum "Guitarus Iscarensis" "Gundovald Espersen" "Gundobad Espersen"
+	Marcis
+	"Naudigais af Aucia"
+	"Portus Itius"
+	Rosa
+	Segimona Samuela "Santa Margarida" "Serigi Goeznovinus"
+	Tecla
+}

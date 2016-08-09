@@ -1,0 +1,16 @@
+government = despotic_monarchy
+primary_culture = bolghar
+religion = catholic
+technology_group = eastern
+capital = 1081
+
+1377.10.4 = {
+	monarch = {
+		name = "Drong II"
+		dynasty = "Froni"
+		birth_date = 1354.8.19
+		adm = 0
+		dip = 5
+		mil = 2
+	}
+}

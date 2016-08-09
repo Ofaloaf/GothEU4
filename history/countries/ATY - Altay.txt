@@ -1,0 +1,16 @@
+technology_group = nomad_group
+primary_culture = uzbehk
+religion = tengri_pagan_reformed
+secondary_religion = vajrayana
+government = steppe_horde
+capital = 715
+
+1401.4.23 = {
+	monarch = {
+		name = "Thuxra"
+		dynasty = "Afrighid"
+		adm = 2
+		dip = 5	
+		mil = 2
+	}
+}

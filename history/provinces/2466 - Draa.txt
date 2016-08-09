@@ -1,0 +1,24 @@
+# - Draa
+
+owner = MOR
+controller = MOR
+culture = berber
+religion = catholic
+capital = "Tagmadert"
+trade_goods = spices #Dates
+hre = yes
+base_tax = 4 
+base_production = 4
+base_manpower = 2
+is_city = yes
+add_core = MOR
+add_core = TFL
+estate = estate_nobles
+add_local_autonomy = 25
+
+
+
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = sub_saharan

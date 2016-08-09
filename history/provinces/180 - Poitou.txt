@@ -1,24 +1,24 @@
 # 180 Poitou - Principal cities: Poitiers
 
-owner = THF
-controller = THF
-capital = "Pictavis"
+owner = GTH
+controller = GTH
+capital = "Peitieus"
 is_city = yes
 culture = theifal
-religion = orthodox
+religion = catholic 
 hre = yes
-base_tax = 6 
-base_production = 6
-trade_goods = salt
-base_manpower = 5
-add_core = THF
+base_tax = 5
+base_production = 4
+trade_goods = grain
+base_manpower = 4
+add_core = GTH
 fort_15th = yes
+
+
+
+estate = estate_burghers
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 
-1583.1.1 = { fort_15th = no fort_16th = yes }
-1648.1.1 = { fort_16th = no fort_17th = yes }
-1715.1.1 = { fort_17th = no fort_18th = yes }
-1749.1.1 = { base_tax = 6 base_production = 6 } # Machault and the 5% tax

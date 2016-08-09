@@ -1,10 +1,10 @@
 #267 - Plsen
 
-owner = BOH
-controller = BOH
-add_core = BOH
+owner = JZY
+controller = JZY
+add_core = JZY
 capital = "Plzen"
-culture = czech
+culture = boyustaniy
 religion = catholic
 trade_goods = naval_supplies
 hre = no
@@ -12,6 +12,11 @@ base_tax = 5
 base_production = 5
 base_manpower = 1
 is_city = yes
+discovered_by = KAZ
+discovered_by = CRI
+discovered_by = GOL
+discovered_by = AST
+discovered_by = QAS
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

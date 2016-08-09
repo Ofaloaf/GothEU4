@@ -4,14 +4,18 @@ owner = BRC
 controller = BRC
 add_core = BRC
 culture = hispanian
-religion = orthodox
+religion = catholic
 hre = yes
 base_tax = 6 
 base_production = 6
 trade_goods = wine 
 base_manpower = 3
-capital = "Barcino" 
+capital = "Barcinona" 
 is_city = yes
+estate = estate_burghers
+
+
+
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

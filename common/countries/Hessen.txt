@@ -1,0 +1,122 @@
+# Hassia
+
+graphical_culture = westerngfx
+
+color = { 114  171  184 }
+
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	religious_ideas
+	economic_ideas
+	diplomatic_ideas
+	spy_ideas
+	offensive_ideas
+	innovativeness_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Henric #0" = 30
+	"Loduicus #0" = 25
+	"Conrart #0" = 20
+
+	"Ermingarde #0" = -15
+	"Lisebet #0" = -10
+	"Benedicta #0" = -5
+	"Blanceflore #0" = -5
+
+	"Abben #0" = 0
+	"Abraham #0" = 0
+	"Alexis #0" = 0
+	"Aloysius #0" = 0
+	"Andreas #0" = 0
+	"Bertoldus #0" = 0
+	"David #0" = 0
+	"Deghen #0" = 0
+	"Euerardus #0" = 0
+	"Eylwardo #0" = 0
+	"Franco #0" = 0
+	"Frethericus #0" = 0
+	"Gelmarus #0" = 0
+	"Gerart #0" = 0
+	"Geykonis #0" = 0
+	"Gherlach #0" = 0
+	"Gherolf #0" = 0
+	"Ghibo #0" = 0
+	"Ghodescalc #0" = 0
+	"Ghosuinus #0" = 0
+	"Gregorius #0" = 0
+	"Hacko #0" = 0
+	"Helpriko #0" = 0
+	"Herlewin #0" = 0
+	"Hesso #0" = 0
+	"Hetselo #0" = 0
+	"Hylonus #0" = 0
+	"Isbrandus #0" = 0
+	"Lutgeri #0" = 0
+	"Lutbrandus #0" = 0
+	"Ludolfus #0" = 0
+	"Meynolfus #0" = 0
+	"Martinus #0" = 0
+	"Mourin #0" = 0
+	"Otto #0" = 0
+	"Otger #0" = 0
+	"Pelegrim #0" = 0
+	"Poppo #0" = 0
+	"Raso #0" = 0
+	"Reynerus #0" = 0
+	"Thaddeus #0" = 0
+	"Zacharias #0" = 0
+}
+
+leader_names = {
+	Alebernus Alvericus Amelgeirsz
+	Best Blech Böckel Bollarde Bodekine Brandekijn
+	Camerarius Chlotijn
+	Dreyer
+	Ecksellon Eikenboom Eghenonis Egghebrecht
+	Fabricius Forkel Folcardingh
+	Gomarus Geel Gozzo Gobelsz
+	Hochstetler Haller Haspelmath Hessellisz Hornekinga Huecsyne
+	Keil Koechlin
+	Lohelius Loeb Loeffler
+	Nöldeke
+	Oytgier Oede
+	Pareus Pflimlin
+	Ruvenacht Rampe
+	Scultetus Schefferus Schongauer Speth Schwally
+	Ungerer
+	Valken Vastraid Vranke
+}
+
+ship_names = {
+	Chattus
+	Ekster
+	Fortuyn
+	Hercynia Hughelote
+	Kasse
+	Ivone
+	Lammekin Leonio Lubbertus Lahn
+	Mattium Mevkino
+	Nannekin
+	Rausinum Remdo Riuum
+	Schdeschmick
+	Werra Wasserkuppe Wetzlar
+}

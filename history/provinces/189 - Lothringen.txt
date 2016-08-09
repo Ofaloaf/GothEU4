@@ -1,17 +1,21 @@
 # 189 Lothringen - Principal cities: Nancy
 
-owner = GTY
-controller = GTY
-capital = "Nancí"
+owner = MEU
+controller = MEU
+capital = "Nancei"
 is_city = yes
-culture = gautonian
-religion = orthodox
+culture = gautes
+religion = catholic
 hre = yes
 base_tax = 6 
+
 base_production = 6
 trade_goods = iron
 base_manpower = 6
-add_core = GTY
+add_core = MEU
+
+
+
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

@@ -1,0 +1,122 @@
+# Gutthuida
+# Germanic-Gothic revolter
+
+graphical_culture = westerngfx
+
+color = { 97 163 138 }
+
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	religious_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	offensive_ideas
+	spy_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	french_caracolle
+	anglofrench_line
+	french_dragoon
+	french_bluecoat
+	french_carabinier
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Airmanarik #0" = 50
+	"Thiuderik #0" = 50
+	"Luthawik #0" = 0
+	"Walia #0" = 30
+	"Audovaker #0" = 30
+	"Totila #0" = 25
+	"Sarus #0" = 25
+
+	"Amalasuntha #0" = -10
+	"Goiswintha #0" = -5
+	"Sundila #0" = -3
+
+	"Amadaius #0" = 0
+	"Andraias #0" = 0
+	"Butherik #0" = 0
+	"Chintila #0" = 0
+	"Cniva #0" = 0
+	"Egika #0" = 0
+	"Erarik #0" = 0
+	"Fritigern #0" = 0
+	"Filippus #0" = 0
+	"Gundemar #0" = 0
+	"Hildebad #0" = 0
+	"Iosef #0" = 0
+	"Isak #0" = 0
+	"Iakob #0" = 0
+	"Ibba #0" = 0
+	"Iohannes #0" = 0
+	"Leovigild #0" = 0
+	"Leander #0" = 0
+	"Liuva #0" = 0
+	"Lukas #0" = 0
+	"Markus #0" = 0
+	"Mundus #0" = 0
+	"Murila #0" = 0
+	"Matthaius #0" = 0
+	"Odo #0" = 0
+	"Plintha #0" = 0
+	"Paulus #0" = 0
+	"Paitrus #0" = 0
+	"Rekkared #0" = 0
+	"Roderik #0" = 0
+	"Radegast #0" = 0
+	"Sigerik #0" = 0
+	"Sisenand #0" = 0
+	"Sabas #0" = 0
+	"Seda #0" = 0
+	"Sigisvult #0" = 0
+	"Sigismund #0" = 0
+	"Thiudairid #0" = 0
+	"Thiudis #0" = 0
+	"Tulga #0" = 0
+	"Teja #0" = 0
+	"Valamir #0" = 0
+	"Viderik #0" = 0
+	"Witigisclus #0" = 0
+	"Xristianus #0" = 0
+}
+
+leader_names = {
+	Alavivus Aedotheus Apicaling Auhmisto
+	Balthus Beriging Brano
+	Cannabas
+	Delius
+	Edeoksunus
+	Gebericing Gadaring Greuthung Gildilasing 
+	Heruler Hails Hardus Harpo Hairto
+	Ricimering
+	Sigericing Spadiggs
+	Terving
+}
+
+ship_names = {
+	Alatheus Ariaricus Aoricus Athanaricus Ammius Amal
+	Basilia Baltia Berig
+	Daimonereis
+	Glorja
+	Humli Hisarna
+	Lydja
+	Modaharius
+	Nidada
+	Odotheus Ostrogotha
+	Saphrax Sarus
+	Theodericus
+}

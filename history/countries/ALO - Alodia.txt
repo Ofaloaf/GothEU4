@@ -1,0 +1,16 @@
+government = tribal_kingdom
+primary_culture = nubian
+religion = sunni
+technology_group = east_african
+unit_type = sub_saharan
+capital = 2798	# Soba
+
+1400.1.1 = {
+	monarch = {
+		name = "Demissie"
+		dynasty = "Haeran"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}

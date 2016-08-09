@@ -1,0 +1,24 @@
+#2958 - Osterode
+
+owner = SRB
+controller = SRB
+capital = "Ostroda"
+culture = old_prussian
+religion = catholic
+trade_goods = naval_supplies
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 1
+is_city = yes
+fort_15th = yes
+add_core = FRC
+add_core = LIT
+add_core = SRB
+
+
+
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman

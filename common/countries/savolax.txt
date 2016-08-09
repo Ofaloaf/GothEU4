@@ -1,0 +1,115 @@
+# Savolax
+
+graphical_culture = westerngfx
+
+color = { 120 10 10 }
+
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	aristocracy_ideas
+	spy_ideas
+	religious_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	swedish_gallop
+	swedish_gustavian
+	swedish_caroline
+	swedish_arme_blanche
+	prussian_frederickian
+	prussian_uhlan
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Knut #2" = 40
+	"Eilif #2" = 40
+	"Geirr #2" = 35
+	"Hysing #2" = 30
+	"Tjudmund #1" = 30
+	"Davlat #1" = 5
+
+	"Elin #1" = -10
+	"Christina #0" = -5
+	"Anna #0" = -5
+
+	"Arvid #0" = 0
+	"Bero #0" = 0
+	"Birger #0" = 0
+	"Dag #0" = 0
+	"Elias #0" = 0
+	"Emil #0" = 0
+	"Ensio #0" = 0
+	"Ericus #0" = 0
+	"Folquinus #0" = 0
+	"Gissur #0" = 0
+	"Gregorius #0" = 0
+	"Gylfi #0" = 0
+	"Hemming #0" = 0
+	"Henrik #0" = 0
+	"Hinieldus #0" = 0
+	"Hroarr #0" = 0
+	"Immanuel #0" = 0
+	"Johan #0" = 0
+	"Josef #0" = 0
+	"Karl #0" = 0
+	"Kolbeinn #0" = 0
+	"Ludvig #0" = 0
+	"Magnus #0" = 0
+	"Mikkel #0" = 0
+	"Petrus #0" = 0
+	"Rodulff #0" = 0
+	"Sighvatr #0" = 0
+	"Snorri #0" = 0
+	"Steinn #0" = 0
+	"Zacharias #0" = 0
+}
+
+leader_names = {
+	Arnorsson "av Åbo" Agricola Aboicus
+	Budde
+	Chydenius Cygnaeus
+	Donner Dresselius
+	"av Esbo"
+	Favorinus Florinus
+	Guttormsson Groundstroem
+	"av Helsingfors"
+	Joensson Jussila
+	Kleppjárnsson Kurck
+	Leiviskä Liljeblad
+	Nyberg
+	Olavsson
+	Penger
+	Ryngen Renvall Ravius
+	Skytte Svenonius Sippo Sirelius
+	Tammelinus Topelius
+	Ulstadius
+	"av Vanda"
+	Widbom
+}
+
+ship_names = {
+	Adam Andskoti Akkeri Arngrímr
+	Bjorn Biæuær
+	"Elin af Munso"
+	Framganga Foreldra Fylking
+	Gnótt Gagn
+	"Hemming af Munso"
+	Illr
+	Kvikr
+	Metnaðargjarn
+	Savonia Spede "Sampo Savolainen" Skemtiligr Skirn Skeggjaðr
+	Vigr
+}

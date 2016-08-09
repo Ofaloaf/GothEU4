@@ -5,13 +5,16 @@ controller = SPM
 capital = "Magalona"
 is_city = yes
 culture = septimanian
-religion = orthodox
+religion = catholic
 hre = yes
 base_tax = 7
 base_production = 7
 trade_goods = cloth
 base_manpower = 6
 add_core = SPM
+
+
+
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

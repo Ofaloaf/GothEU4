@@ -3,7 +3,7 @@
 owner = ILY
 controller = ILY
 culture = dalmatian
-religion = orthodox
+religion = catholic
 capital = "Jajce"
 trade_goods = wool
 hre = no
@@ -12,7 +12,11 @@ base_production = 2
 base_manpower = 1
 is_city = yes
 add_core = ILY
-
+discovered_by = KAZ
+discovered_by = CRI
+discovered_by = GOL
+discovered_by = AST
+discovered_by = QAS
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

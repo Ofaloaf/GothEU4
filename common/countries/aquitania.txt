@@ -4,8 +4,6 @@ graphical_culture = westerngfx
 
 color = { 150 80 170 }
 
-preferred_religion = gnostic
-
 historical_idea_groups = {
 	defensive_ideas
 	trade_ideas
@@ -106,19 +104,23 @@ leader_names = {
 }
 
 ship_names = {
-	Atur Agesinale Autobroge
+	Atur Agesinale Autobroge Alingo
 	Burdigala Basabocate Bercorate
+	Coequosa Cossium Condatis
 	Elusa
 	Guasconia Garumna
 	Lapurdum Liger
+	Mosconnum Modogarnomum
 	Novempopulania Noviomagus Nitiobrige
 	Oscineium
-	Sediboniate
+	Reontio
+	Sediboniate Salomacus Segosa Sirio
 	Tarbellia
+	Vodollacum Varatedo
 }
 
 army_names = {
-	"Armada de $PROVINCE$" 
+	"Exercitus de $PROVINCE$" 
 }
 
 fleet_names = {

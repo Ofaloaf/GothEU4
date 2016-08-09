@@ -2,7 +2,7 @@
 
 culture = berber
 religion = animism
-capital = "Ninguaria"
+capital = "The Canarias"
 trade_goods = unknown
 hre = no
 base_tax = 3 
@@ -11,3 +11,19 @@ base_manpower = 1
 native_size = 5
 native_ferocity = 1
 native_hostileness = 0
+
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = MOR
+
+1402.1.1 = {
+	owner = MOR
+	controller = MOR
+	add_core = MOR
+	is_city = yes
+	religion = catholic
+	trade_goods = sugar
+	hre = yes
+	capital = "Nivaria"
+} # Castilian control

@@ -1,0 +1,20 @@
+# 2190 - Qaraqorum
+
+owner = KHA
+controller = KHA
+add_core = KHA
+culture = khalkha
+religion = jewish
+capital = "Qaraqorum"
+trade_goods = cloth
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 3
+is_city = yes
+
+
+
+discovered_by = chinese
+discovered_by = nomad_group
+

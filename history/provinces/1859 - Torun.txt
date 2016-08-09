@@ -1,17 +1,18 @@
 #1859 - Torun
 
-owner = SRB
-controller = SRB
+owner = LIT
+controller = LIT
 capital = "Torun"
 is_city = yes
 estate = estate_burghers
 culture = sorbian
-religion = orthodox
+religion = catholic
 trade_goods = grain
 hre = no
 base_tax = 5
 base_production = 5
 base_manpower = 2
+add_core = LIT
 add_core = SRB
 
 

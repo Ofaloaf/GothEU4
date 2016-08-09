@@ -1,0 +1,21 @@
+#664 - Lingyun
+
+owner = A03
+controller = A03
+add_core = A03
+culture = zhuang
+religion = confucianism
+capital = "Lingyun"
+trade_goods = tea
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+is_city = yes
+add_core = CGS
+
+
+
+discovered_by = chinese
+discovered_by = indian
+discovered_by = nomad_group

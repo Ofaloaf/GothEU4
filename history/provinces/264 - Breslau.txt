@@ -1,10 +1,10 @@
 #264 - Breslau
 
-owner = ALN
-controller = ALN
+owner = SRB
+controller = SRB
 add_core = SRB
-culture = alan
-religion = orthodox
+culture = schlesian
+religion = catholic
 capital = "Breslau"
 trade_goods = iron
 hre = no
@@ -12,7 +12,12 @@ base_tax = 6
 base_production = 6
 is_city = yes 
 base_manpower = 4
-add_core = ALN
+add_core = SIL
+discovered_by = KAZ
+discovered_by = CRI
+discovered_by = GOL
+discovered_by = AST
+discovered_by = QAS
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

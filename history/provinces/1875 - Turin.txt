@@ -3,16 +3,19 @@
 owner = LGI
 controller = LGI
 culture = taurinjeis
-religion = orthodox
+religion = catholic
 hre = yes
 base_tax = 5 
 base_production = 5
 trade_goods = grain
 base_manpower = 5
 fort_15th = yes #Cittadellla of Alessandria
-capital = "Cuneum"
+capital = "Cuneo"
 is_city = yes		# Estimated
 add_core = LGI
+
+
+
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

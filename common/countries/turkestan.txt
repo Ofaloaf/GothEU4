@@ -1,0 +1,97 @@
+#Country Name: Please see filename.
+
+graphical_culture = muslimgfx
+
+color = { 204 150 21 }
+
+historical_idea_groups = {
+	offensive_ideas
+	defensive_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+	economic_ideas
+	quality_ideas
+	religious_ideas
+}
+
+historical_units = {
+	steppe_riders
+	steppe_lancers
+	steppe_mounted_raiders
+	steppe_cavalry
+	steppe_uhlans
+	steppe_raiders
+	steppe_footmen
+	steppe_musketeers
+	steppe_infantry
+	steppe_rifles
+	reformed_steppe_rifles
+}
+
+monarch_names = {
+	"Bakhtiar #1" = 25
+	"Kambiz #1" = 20
+	"Ghobad #1" = 20
+	"Afshar #0" = 20
+	"Qaratay #0" = 20
+	"Shayan #1" = 15
+	"Reza #1" = 15
+	"Jangir #0" = 15
+	"Shoqan #0" = 10
+
+	"Arghavan #1" = -5
+	"Hayfa #0" = -1
+
+	"Abilmambet #0" = 0
+	"Ahmat #0" = 0
+	"Aram #0" = 0
+	"Ardeshir #0" = 0
+	"Ayshwak #0" = 0
+	"Arunghazi #0" = 0
+	"Barak #0" = 0
+	"Batir #0" = 0
+	"Bokey #0" = 0
+	"Bulat #0" = 0
+	"Burunduq #0" = 0
+	"Buydash #0" = 0
+	"Erali #0" = 0
+	"Esim #0" = 0
+	"Haqnazar #0" = 0
+	"Janibek #0" = 0
+	"Jantore #0" = 0
+	"Jarmuhambet #0" = 0
+	"Jolbaris #0" = 0
+	"Kenesari #0" = 0
+	"Kerey #0" = 0
+	"Mamash #0" = 0
+	"Nurali #0" = 0
+	"Qayip #0" = 0
+	"Salkam #0" = 0
+	"Sameke #0" = 0
+	"Sherghazi #0" = 0
+	"Shighay #0" = 0
+	"Tahir #0" = 0
+	"Tauke #0" = 0
+	"Tawekel #0" = 0
+	"Tugum #0" = 0
+}
+
+leader_names = {    
+	Burilgijin "Bora Unegen" "Batu Arslan" Batyr
+	Cherenqai "Chagan Chinua" Chokin
+	Jerbergen
+	Kokechar 
+	"Mongke Cheren"
+	Ojinbai
+	Qutughgge
+	"Suren Gal"
+	Temurgene Tele Tegus-tu Toluichu Tazhin Taskesken
+	Yekedai Tasavi Yankuz
+}
+
+ship_names = {
+	"Uli Jüz" "Orta Jüz" "Kisi Jüz" Töre
+	Qoja Tölengit Turgay Isim Emba Uil
+	Syrdarja Cu Ili Irtys Nura "Shahrokh Afrighid" Sogdiana
+}

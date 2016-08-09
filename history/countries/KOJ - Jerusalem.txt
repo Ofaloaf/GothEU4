@@ -1,6 +1,6 @@
 government = feudal_monarchy
 
 primary_culture = pestemari
-religion = orthodox
+religion = catholic
 technology_group = eastern
 capital = 379	# Jerusalem

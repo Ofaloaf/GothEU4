@@ -1,0 +1,19 @@
+government = feudal_monarchy
+government_rank = 1
+primary_culture = carantanian
+add_accepted_culture = macedonian
+religion = catholic
+technology_group = eastern
+capital = 320 # Rhodes
+historical_friend = RNT
+
+1389.11.21 = {
+	monarch = {
+		name = "Vojnomir I"
+		dynasty = "Kejzhar"
+		birth_date = 1368.11.17
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}

@@ -1,0 +1,99 @@
+# Nefoud
+
+graphical_culture = muslimgfx
+
+color = { 70 125 90 }
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	trade_ideas
+	administrative_ideas
+	offensive_ideas
+	diplomatic_ideas
+	economic_ideas
+	quality_ideas
+}
+
+historical_units = {
+	persian_footsoldier
+	persian_cavalry_charge
+	persian_shamshir
+	qizilbash_cavalry
+	tofongchis_musketeer
+	topchis_artillery
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_mass_infantry
+	muslim_dragoon
+	persian_rifle
+}
+
+monarch_names = {
+	"Sökmen #3" = 40
+	"Maziar #2" = 30
+	"Tolun #2" = 30
+	"Aydogdu #1" = 25
+	"Bulend #2" = 20
+	"Ibrahim #1" = 20
+	"Timurtas #2" = 15
+	"Ridvan #1" = 15
+	"Hizir #1" = 10
+	"Mozaffar #1" = 10
+	"Sönmez #1" = 5
+	"Melikshah #1" = 5
+
+	"Özgul #1" = -5
+	"Ipek #1" = -5
+	"Gulçiçek #1" = -5
+	"Gulfem #1" = -5
+
+	"Aghlab #1" = 0
+	"Alp Arslan #0" = 0
+	"Ardahan #1" = 0
+	"Balaban #0" = 0
+	"Baybars #0" = 0
+	"Çagri #0" = 0
+	"Çaka #0" = 0
+	"Demir #0" = 0
+	"Erdem #0" = 0
+	"Fadil #1" = 0
+	"Farhad #1" = 0
+	"Hayat #0" = 0
+	"Kaya #0" = 0
+	"Kilab #1" = 0
+	"Korkut #0" = 0
+	"Kurboga #0" = 0
+	"Mehrzad #1" = 0
+	"Qutham #1" = 0
+	"Rustem #0" = 0
+	"Selim #0" = 0
+	"Talib #1" = 0
+	"Tunga #0" = 0
+	"Tutus #0" = 0
+	"Yunus #0" = 0
+}
+
+leader_names = {
+	Afsin Alkan Alptiginoglu
+	Çorid
+	Dogukan Demiroglu
+	Gizhduvan Gencevi
+	Haleva
+	Kazanjian Korkutoglu
+	Najjar
+	Ozan
+	Selimoglu Savtekinoglu
+	Togtekinoglu
+}
+
+ship_names = {
+	Arabia
+	Banu
+	Dilber
+	Irge
+	Nafisa
+	Peksen
+	Terkhen Tanrivermis
+	Zehra
+}

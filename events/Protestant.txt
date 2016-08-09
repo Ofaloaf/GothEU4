@@ -9,7 +9,7 @@ country_event = {
 	
 	trigger = {
 		NOT = { is_religion_enabled = protestant }
-		religion = orthodox
+		religion = catholic
 		is_defender_of_faith = no	
 		NOT = { government = papal_government }
 		reform_desire = 0.95
@@ -19,6 +19,14 @@ country_event = {
 		}
 		
 	}
+
+	immediate = {
+		hidden_effect = {
+			capital_scope = {
+				set_province_flag = start_of_protestant_reformation
+			}
+		}
+	}
 	
 	mean_time_to_happen = {
 		months = 2500
@@ -26,10 +34,9 @@ country_event = {
 		modifier = {
 			factor = 0.4
 			OR = {
-				culture_group = germanic
-				culture_group = scandinavian
-				culture_group = british
 				culture_group = gothic_group
+				culture_group = germanic
+				culture_group = carthagennan_group
 			}
 		}
 				
@@ -78,15 +85,15 @@ country_event = {
 
 		modifier = {
 			factor = 0.95
-			NOT = { has_opinion = { who = ECU value = -50 } }
+			NOT = { has_opinion = { who = PAP value = -50 } }
 		}
 		modifier = {
 			factor = 0.85
-			NOT = { has_opinion = { who = ECU value = -100 } }
+			NOT = { has_opinion = { who = PAP value = -100 } }
 		}
 		modifier = {
 			factor = 0.75
-			NOT = { has_opinion = { who = ECU value = -150 } }
+			NOT = { has_opinion = { who = PAP value = -150 } }
 		}		
 		modifier = {
 			factor = 0.5
@@ -99,8 +106,9 @@ country_event = {
 		modifier = {
 			factor = 8.0
 			OR = {
-				culture_group = latine
-				culture_group = carthagennan_group
+				culture_group = vlach_group
+				culture_group = south_slavic
+				culture = turkish
 			}
 		}
 	}
@@ -116,7 +124,6 @@ country_event = {
 				duration = 9000
 			}
 		}
-		capital_scope = { change_religion = protestant }
 		set_country_flag = "protestant_reformation" 
 	}
 }

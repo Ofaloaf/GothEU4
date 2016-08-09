@@ -1,0 +1,7 @@
+government = despotic_monarchy
+technology_group = chinese
+religion = confucianism
+primary_culture = wu
+capital = 1822 # Suzhou
+fixed_capital = 1822 # Cannot move capital away from this province & no power cost to move to it
+

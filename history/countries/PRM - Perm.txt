@@ -1,0 +1,18 @@
+government = despotic_monarchy
+government_rank = 1
+primary_culture = samoyed
+add_accepted_culture = uralic
+religion = finnish_pagan_reformed
+technology_group = eastern
+capital = 1755
+
+
+1393.3.21 = {
+	monarch = {
+		name = "Päiviö I"
+		dynasty = "Savolainen"
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+}

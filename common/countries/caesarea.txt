@@ -1,0 +1,133 @@
+# Caesarea
+
+graphical_culture = muslimgfx
+
+color = { 119 155 221 }
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	spy_ideas
+	trade_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+}
+
+historical_units = {
+	ottoman_yaya
+	ottoman_musellem
+	ottoman_azab
+	ottoman_timariot
+	ottoman_janissary
+	ottoman_spahi
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
+
+monarch_names = {
+	"Apolinnaris #3" = 40
+	"Marceh #2" = 30
+	"Andreu #2" = 25
+	"Maxsimilla #1" = 15
+	"Adamantius #1" = 15
+	"Danel #0 " = 10
+	"Badis #5" = 10
+
+	"Magrovia #1" = -10
+	"Delgada #1" = -10
+	"Callista #1" = -10
+
+	"Abbmelcar #0" = 0
+	"Aegus #1" = 1
+	"Alvu #0" = 0
+	"Amvrossu #0" = 0
+	"Bartolomeu #0" = 0
+	"Bellaronius #1" = 1
+	"Benedittu #0" = 0
+	"Binmelcar #0" = 0
+	"Bonifaciu #0" = 0
+	"Capussa #0" = 0
+	"Cipare #0" = 0
+	"Costantzi #0" = 0
+	"Costantinu #0" = 0
+	"Diodoru #0" = 0
+	"Egidiu #0" = 0
+	"Galazi #0" = 0
+	"Garmelu #0" = 0
+	"Gavrielu #0" = 0
+	"Gildon #0" = 0
+	"Gratzianu #0" = 0
+	"Gregori #0" = 0
+	"Habetdeus #0" = 0
+	"Ignatzi #0" = 0
+	"Isalca #0" = 0
+	"Jacovu #0" = 0
+	"Jagu #0" = 0
+	"Joannei #0" = 0
+	"Luca #0" = 0
+	"Lorentzi #0" = 0
+	"Mazeu #0" = 0
+	"Micheli #0" = 0
+	"Masceddelu #0" = 0
+	"Nicola #0" = 0
+	"Pascale #0" = 0
+	"Paulu #0" = 0
+	"Petru #0" = 0
+	"Pompeju #0" = 0
+	"Revocatus #0" = 0
+	"Salomon #0" = 0
+	"Salvettor #0" = 0
+	"Samueli #0" = 0
+	"Stefanu #0" = 0
+	"Teodore #0" = 0
+	"Tulemeju #0" = 0
+	"Tomas #0" = 0
+	"Urse #0" = 0
+}
+
+leader_names = {
+	"di Auzia"
+	"di Bida" "di Bacanaria" "di Baliana" "di Benepota"
+	"di Cartennas" "di Caltadria" "di Capra" "di Catula" "di Cissi" "di Corniculana"
+	"di Fidoloma" "di Fallaba" "di Floriana" "di Flumenzer" "di Fronta"
+	"di Gilva" "di Gunugu" "di Gipsaria" "di Gunugus"
+	"di Lamdia" "di Lari"
+	"di Minus" "di Mexita" "di Masuccaba" "di Malliana"
+	"di Pomaria" "di Panatoria"
+	"di Rusucurru" "di Rusazu" "di Rusguniae"
+	"di Siga" "di Saldae" "di Satafi" "di Sereddeli"
+	"di Tubusuctu" "di Tipasa" "di Tatilti" "di Tamazuca" "di Tigava" "di Tubia"
+	"di Voncaria" "di Vulturia" "di Vissalsa" "di Vagal"
+	"di Zuccabar"
+}
+
+ship_names = {
+	Albulae "Ala Miliaria" "Aquae Calidae" "Aquae Sirenses" Adalasia Augustus Augustina
+	Balatta Batnoma
+	"Caput Cilla" "Castellum Ripae" "Castellum Tatroportus" "Castellum Tingitii" "Castellum Iabar" "Castellum Medianum" Corvus
+	Damia Donatus
+	Elisabetta Exemeno
+	Felicita Felicula
+	Gypsaria "Giru Mons" Gratianopolis Gavriella Generosa Gercoria
+	Icosium Iomnium Imashtarte Ippolita
+	Juba
+	"Lari Castellum"
+	Magrovia Magdalena Mariane Monica
+	Nivatora
+	Olimpia "Oppidum Novum"
+	Peregrina Petrenella Preziosa
+	"Quiza Xenitana"
+	Rapidum Rusubisir Regiae
+	Turris Tipasa Tuscamia Taborenta Tigamibena Tanaramusa
+}

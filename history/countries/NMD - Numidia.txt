@@ -1,0 +1,18 @@
+government = feudal_monarchy
+government_rank = 1
+primary_culture = numidian
+religion = catholic
+technology_group = western
+unit_type = muslim
+capital = 340
+
+1361.10.21 = {
+	monarch = {
+		name = "Juliu IV"
+		dynasty = "Avenniensis"
+		birth_date = 1337.11.10
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}

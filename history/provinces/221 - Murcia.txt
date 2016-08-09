@@ -3,15 +3,20 @@
 owner = CTH
 controller = CTH
 add_core = CTH
+add_core = CTG
 culture = hispanian
-religion = orthodox
+religion = catholic 
 hre = yes
-base_tax = 5 
-base_production = 4 
+base_tax = 7
+base_production = 7
 trade_goods = grain 
-base_manpower = 5
+base_manpower = 6
 capital = "Carthago Nova" 
+estate = estate_burghers
 is_city = yes
+
+
+
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

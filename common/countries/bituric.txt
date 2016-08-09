@@ -40,6 +40,7 @@ monarch_names = {
 	"Atila #0" = 25
 	"Ibrahardus #1" = 20
 	"Pocinus #1" = 20
+	"Odomus #1" = 20
 	"Tiuderic #0" = 15
 
 	"Acius #0" = 0
@@ -102,7 +103,7 @@ monarch_names = {
 leader_names = {
 	d'Albuconis Angantiringi d'Arpin Amutingi Ambaur Ayceli Aribert
 	Boqrei "de Burgis" "de Belaco" "de Bocac" "de Burginova" "de Borvo"
-	Cabillate "de Caisaris" "de Crosus" Cabillaunense Calsutras Camboulas "del Cros" Clavellus
+	Cabillate "de Caisaris" "de Crosus" Cabillaunense Calsutras Camboulas "del Cros" Clavellus "de Coll"
 	Dursini "de Dolis" Drautine
 	Floretas Formis Faber Fonfrega Falgario
 	Gilus "de Guaract" Gailmareis Gaill "de Gortona" Galvahn

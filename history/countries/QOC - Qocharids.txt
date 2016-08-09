@@ -1,0 +1,6 @@
+government = tribal_despotism
+government_rank = 3
+primary_culture = turkish
+religion = jewish
+technology_group = muslim
+capital = 413

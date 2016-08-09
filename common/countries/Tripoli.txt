@@ -1,0 +1,90 @@
+#Country Name: Please see filename.
+
+graphical_culture = muslimgfx
+
+color = { 25  105  90 } 
+
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	religious_ideas
+	maritime_ideas	
+	administrative_ideas
+	offensive_ideas
+	economic_ideas
+	expansion_ideas
+}
+
+historical_units = {
+	mamluk_archer
+	mamluk_cavalry_charge
+	mamluk_duel
+	mamluk_musket_charge
+	muslim_mass_infantry
+	muslim_dragoon
+	ali_bey_reformed_infantry
+}
+
+monarch_names = {
+	"Mirus #3" = 30
+	"Gildon #1" = 30
+	"Firmu #1" = 25
+	"Tulemeju #0" = 15
+	"Iohanninus #1" = 10
+
+	"Esemena #1" = -10
+	"Filip #1" = -10
+	"Elena #0" = -10
+	"Marisa #0" = -10
+
+	"Alexsandry #0" = 0
+	"Andrea #0" = 0
+	"Aram #2" = 0
+	"Bardas #1" = 0
+	"Ceciliu #0" = 0
+	"Danel #0" = 0
+	"Donatu #0" = 0
+	"Galazi #0" = 0
+	"Garmelu #0" = 0
+	"Gildon #0" = 0
+	"Ignatzi #0" = 0
+	"Jagu #0" = 0
+	"Julianu #0" = 0
+	"Kussil #1" = 0
+	"Marcellu #0" = 0
+	"Marceh #0" = 0
+	"Mariu #0" = 0
+	"Maxsimilla #0" = 0
+	"Mazeu #0" = 0
+	"Micheli #0" = 0
+	"Teodericu #0" = 0
+}
+
+leader_names = {
+	Aangaliu "d'Amarea" "d'Assaria"
+	Cabras "di Casas"
+	"di Getullu" "di Gypsaria" "di Gigthis" "di Gidafta" "di Gergis"
+	Kussilinu
+	"di Locri"
+	"di Minna" "di Mesphe" "di Meninge"
+	"d'Oea"
+	Pisciu "di Palmam" "di Pontu" "di Pisidia"
+	"di Quintillana"
+	"di Sugolin" "di Subututtu" "di Sabratha"
+	"di Turris" "di Taricheiai" "di Tipasa"
+	"di Vacxs"
+	"di Zouchis" "di Zitha"
+}
+
+ship_names = {
+	Aretaphila "Africum Pelagus" "Ad Palmam" Assaria "Ad Ammonem"
+	Generosa Gerba "Gypsaria Taberna" Gidaphta Gigthis Gloria
+	"Leptis Magna"
+	Mininge Meninx Minerva
+	Neptunus
+	Raptor
+	"Syrtis Maior" Sabratha
+	Tipasa "Templum Veneris"
+	"Villa Aniciorum" Vax Victoria
+	Zitha
+}

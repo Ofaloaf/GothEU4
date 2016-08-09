@@ -2,17 +2,20 @@
 
 owner = GTY
 controller = GTY
-capital = "Besantio"
+capital = "Vesontio"
 is_city = yes
+estate = estate_burghers
 culture = gautonian
-religion = orthodox
+religion = catholic
 hre = yes
 base_tax = 5 
 base_production = 5
 trade_goods = salt
 base_manpower = 4
 add_core = GTY
-add_core = LIU
+
+
+
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

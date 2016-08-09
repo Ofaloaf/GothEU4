@@ -1,18 +1,23 @@
-# 185 Nemours
+# 185 Nemausus
 
-owner = DVO
-controller = DVO
+owner = GTH
+controller = GTH
 capital = "Nemausus"
 is_city = yes
-culture = gautonian
-religion = orthodox
+culture = gautes
+religion = catholic
 hre = yes
 base_tax = 6
 base_production = 6
 trade_goods = grain
 base_manpower = 6
-add_core = CHP
+estate = estate_church
+add_local_autonomy = 25
+add_core = GTH
 add_core = DVO
+
+
+
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

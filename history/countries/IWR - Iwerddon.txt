@@ -1,0 +1,16 @@
+government = feudal_monarchy
+technology_group = western
+primary_culture = hibernaidd
+religion = catholic
+capital = 373	# Dublin
+
+1381.12.15 = {
+	monarch = {
+		name = "Mali I"
+		dynasty = "Dyfed"
+		female = yes
+		adm = 1
+		dip = 5
+		mil = 2
+	}
+}

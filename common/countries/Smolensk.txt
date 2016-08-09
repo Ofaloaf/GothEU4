@@ -1,0 +1,99 @@
+#Smolensk
+
+graphical_culture = easterngfx
+
+color = { 226 241 182 }
+
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	diplomatic_ideas
+	economic_ideas
+	quality_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+monarch_names = {
+	"Matti #2" = 30
+	"Susi #2" = 30
+	"Otso #1" = 20
+	"Erkki #1" = 20
+	"Sampo #1" = 20
+	"Seppo #1" = 15
+	"Taymuraz #1" = 10
+
+	"Alyona #0" = -5
+
+	"Abraham #0" = 0
+	"Adam #0" = 0
+	"Akus #0" = 0
+	"Andyamo #0" = 0
+	"Chipaz #0" = 0
+	"Dergun #0" = 0
+	"Deryab #0" = 0
+	"Dobrinya #0" = 0
+	"Gregorius #0" = 0
+	"Hinric #0" = 0
+	"Mitran #0" = 0
+	"Mordvinko #0" = 0
+	"Nuyaksha #0" = 0
+	"Olcko #0" = 0
+	"Pivtsay #0" = 0
+	"Pokshayka #0" = 0
+	"Puresh #0" = 0
+	"Saksa #0" = 0
+	"Shkay #0" = 0
+	"Surt #0" = 0
+	"Tul #0" = 0
+	"Tyueukezhut #0" = 0
+	"Tyushten #0" = 0
+	"Tyushtya #0" = 0
+	"Uzahara #0" = 0
+	"Velmayka #0" = 0
+	"Virdyan #0" = 0
+}
+
+leader_names = { 
+	Ahikainen Ahonen Ainoinen Artinen
+	Caijpon Calcke
+	Eronen Erkkinen
+	Haapalainen Hakulinen Halffuardin Hannun Hatzon Heijnon Hiironen Hintzan Hyppöinen Hottar Haljanen Hoykka
+	Innain Innonpoika Issonen Itkonen 
+	Jaatinen Jackim Janoton Jussinen Jumppanen Julkkunen Järveläinen
+	Kardin Kaijcknon Kamalan Karhu Karskas Karvone Kappalainen Kaukapeiue
+	Punainen
+	Suninpoica Savolainen
+	Warg Whenapha
+}
+
+ship_names = {
+	Ablunia Adelitsa Agneta
+	"Dudar Ashtigor"
+	Miliniska
+	Pichemorga
+	"Seppo Savolainen"
+	Tustat Terizmorga Testelim
+	"Ulinniks Klakis"
+	"Vseslav Tversky" "Volodar Adreievich"
+}

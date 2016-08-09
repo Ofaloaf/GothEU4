@@ -1,19 +1,23 @@
 # 176 Béarn - Principal cities: Pau
 
-owner = AQI
-controller = AQI
+owner = SPM
+controller = SPM
 capital = "Pau"
 is_city = yes
 culture = aquitanian
-religion = orthodox
+religion = catholic
 hre = yes
 base_tax = 4 
 base_production = 4
 trade_goods = wool
 base_manpower = 4
-add_core = AQI
+add_core = SPM
 add_local_autonomy = 25
+estate = estate_nobles
 fort_15th = yes
+
+
+
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

@@ -1,0 +1,6 @@
+government = tribal_kingdom
+primary_culture = turkish
+add_accepted_culture = persian
+religion = jewish
+technology_group = muslim
+capital = 429

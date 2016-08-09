@@ -43,6 +43,8 @@ monarch_names = {
 
 	"Julia #0" = -5
 	"Antonia #0" = -5
+	"Gisela #0" = -10
+	"Maria #0" = -10
 	"Theodora #0" = -5
 
 	"Alexius #0" = 0
@@ -52,7 +54,7 @@ monarch_names = {
 	"Gratiosus #0" = 0
 	"Gregorius #0" = 0
 	"Honestus #0" = 0
-	"Julius #0" = 0
+	"Indus #0" = 0
 	"Justus #0" = 0
 	"Laurentius #0" = 0
 	"Lucas #0" = 0
@@ -62,6 +64,7 @@ monarch_names = {
 	"Maximus #0" = 0
 	"Michael #0" = 0
 	"Modestus #0" = 0
+	"Odotheus #0" = 0
 	"Paulus #0" = 0
 	"Petrus #0" = 0
 	"Porphyrius #0" = 0
@@ -77,46 +80,51 @@ monarch_names = {
 }
 
 leader_names = {
-	Anicius "de Arelate"
-	"de Barcino" Burdigalensis Barbarus
-	"de Corduba" "de Carteia" "de Condate"
-	Dento
-	Fronto
-	Grammaticus "de Gesoscribate" "de Genua"
-	Lepidosus "de Lugdunum" "de Lapurdum" "de Luca" Laus
-	"de Massilia" "de Maiorica" Militon "de Motta"
-	"de Narbo" "de Noviomagus"
-	"de Pallantia"
-	"de Ravenna" "de Rotomagus"
-	Salinator Scholasticus "de Scalabis" "de Saetabis"
-	"de Tolosa" "de Toletum" "de Tarraco" "de Tulupe"
+	Anicius "de Arelate" Apostolius Aristippus Allatius Alberus Apianus Aventinus Acontius Acidalius Apollinaris
+	Bertoldus "de Barcino" Burdigalensis Barbarus Butiglarius Boemus Brassicanus Blussius
+	Cusanus "de Corduba" "de Carteia" "de Condate" Cancellarius Conarius Cochlaeus Clapmarius Corycius Chennus Cydones Crastonis
+	Dento Decaris
+	Fronto Frabricius Feselius Fincelius
+	Grammaticus "de Gesoscribate" "de Genua" Goltzius Gratius Grotius
+	Irenicus
+	Lepidosus "de Lugdunum" "de Lapurdum" "de Luca" Laus Lullius
+	Musalus "de Massilia" "de Maiorica" Militon "de Motta" Musurus Mosellanus Menius Micyllus Mutianus
+	Nauclerus "de Narbo" "de Noviomagus" Nabodus
+	Pletho "de Pallantia" Praetorius
+	"de Ravenna" "de Rotomagus" Rhenanus
+	Salinator Scholasticus "de Scalabis" "de Saetabis" Strabo Susenbrotus Salvius
+	Trithemius "de Tolosa" "de Toletum" "de Tarraco" "de Tulupe" 
+	Vesalius "de Valentia" "de Vesontio" Vlastus Velius
 	Wato
-	"de Valentia" "de Vesontio"
 }
 
 ship_names = {
-	Armorica Arvernia Avaricum Aquitania Arar Augustus Argentoratum Asturica Aquileia Anas Africa Aemilia 
-	Ancona "Amalricus Magnus"
-	Brigantia Belgica Baetica Byzacena Baptista
-	Cordubensis Callaecia Caesar Cantabria Corsica "Colonia Agrippina" Cisalpina Celebritas Corvus
-	Duriorigum Durias
-	Etruria
-	Flaminia Florentia
-	Gothia Gallia Germania Galba Garumna Gloria Gladius
-	Hispania Helvetia
-	"Imperium Lugdunum" Italia Interamnia Iberus Insubria Imperium Imperator
-	Juliolus Jordanes
-	Lugdunensis Legio Liguria Lutetia "Lucus Asturum" "Lucus Augusti" Liger Lictor Latium
-	"Maxima Sequanorum" Mediolanum Maria Mutina Mauretania
-	Narbonensis Numantia Nicaea Noricum Nobilitas
-	Ostia
-	Provincia "Portus Namnetum" Peregrinus Praetor Patavium "Pelagius Magnus"
+	Armorica Arvernia Avaricum Aquitania Arar Augustulus Argentoratum Asturica Aquileia Anas Africa Aemilia Agricola Aemilianus
+	Ancona "Amalricus Magnus" Aeneas Allectus Aquilinus Abundantia Aequitas Apollo "Ancus Marcius" Apuleius
+	Brigantia Belgica Baetica Byzacena Baptista "Bona Spes" "Bona Dea"
+	Cordubensis Callaecia Cantabria Corsica "Colonia Agrippina" Cisalpina Celebritas Corvus "Caesar Augustus" Carausius Ceres
+	Concordia Castor Cupido
+	Duriorigum Durias Diana "Dis Pater"
+	Etruria Eutropius Eolus
+	Flaminia Florentia Fides Fortuna Faunus Flora
+	Gothia Gallia Germania Galba Garumna Gloria Gladius Genius
+	Hispania Helvetia Hercules
+	Italia Interamnia Iberus Insubria Imperium Imperator
+	Juliolus Jordanes Jupiter Juno Janus
+	Lugdunensis Legio Liguria Lutetia "Lucus Asturum" "Lucus Augusti" Liger Lictor Latium "Litus Saxonicum" Lares Liber Libertas
+	"Maxima Sequanorum" Mediolanum Maria Mutina Mauretania Mars Mercurius Minerva
+	Narbonensis Numantia Nicaea Noricum Nobilitas Neptunus "Numa Pompilius"
+	Ostia Ops Orcus
+	Provincia "Portus Namnetum" Peregrinus Praetor Patavium "Pelagius Magnus" Pluto Pietas Pollux Penates Pomona Priarpus
+	Proserpina
 	Quirinus Quaesator
-	Remus Rhodanus Romulus Romania Romanitas Ravenna Rhegium Rhaetia Regalitias Renovation Revixit Raptor
-	Sicilia Sardinia Sequana Saldae "Sanctius Stephanus"
-	Tarraconensis Tolosa Turris Tarsatica Tagus Tiber "Theodericus Magnus" Tarvisium Transalpina Theodora
+	Remus Rhodanus Romulus Romania Romanitas Ravenna Rhegium Rhaetia Regalitias Renovation Revixit Raptor Roma
+	Sicilia Sardinia Sequana Saldae "Sanctius Stephanus" Sisyphus Salacia Saturnus Salus Securitas Silvanus Sol "Servius Tullius"
+	"Sextus Propertius"
+	Tarraconensis Tolosa Turris Tarsatica Tagus Tiber "Theodericus Magnus" Tarvisium Transalpina Theodora Terra
 	Umbria
-	Vasconia Venetia Vindelicia Vulcan
+	Vasconia Venetia Vindelicia Vulcan Vesta Victoria Vergilius Varro
+	"Waltharius Magnus"
 	Zeugitana
 }
 

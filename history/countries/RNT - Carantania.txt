@@ -1,6 +1,16 @@
 government = feudal_monarchy
-government_rank = 2
-technology_group = western
 primary_culture = carantanian
-religion = orthodox
-capital = 65	# München!
+religion = catholic
+technology_group = western
+capital = 1868
+
+1401.9.25 = {
+	monarch = {
+		name = "Matej I"
+		dynasty = "Väse"
+		birth_date = 1387.5.26
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}

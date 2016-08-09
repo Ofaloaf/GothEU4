@@ -1,0 +1,25 @@
+#42 - Warmia
+
+owner = SRB
+controller = SRB
+capital = "Allenstein"
+culture = old_prussian
+religion = catholic
+trade_goods = naval_supplies
+hre = no
+base_tax = 5
+base_production = 5
+base_manpower = 2
+is_city = yes
+add_core = FRC
+add_core = SRB
+add_core = LIT
+estate = estate_church
+
+
+
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+

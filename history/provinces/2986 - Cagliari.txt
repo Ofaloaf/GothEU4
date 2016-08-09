@@ -1,17 +1,20 @@
 # - Cagliari
 
-owner = CTH
-controller = CTH
-culture = sardinian 
-religion = orthodox
-hre = yes 
+owner = SAR
+controller = SAR
+culture = romandeis 
+religion = catholic 
+hre = yes
 base_tax = 4
 base_production = 4
 trade_goods = copper
-base_manpower = 1
-capital = "Cagliari" 
+base_manpower = 3
+capital = "Calaris" 
 is_city = yes # Estimated 
-add_core = CTH
+add_core = SAR
+
+
+
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

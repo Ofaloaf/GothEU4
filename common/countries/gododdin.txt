@@ -1,0 +1,110 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 16 62 157 }
+
+preferred_religion = reformed
+
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	religious_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	offensive_ideas
+	spy_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	french_caracolle
+	anglofrench_line
+	french_dragoon
+	french_bluecoat
+	french_cuirassier
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Arthen #2" = 30
+	"Edern #2" = 30
+	"Anarawd #1" = 25
+	"Branwaladr #1" = 20
+	"Tewdos #2" = 20
+	"Aeddan #1" = 15
+	"Tudur #1" = 15
+	"Bride #1" = 10
+	"Elystan #1" = 10
+	"Dumnugal #1" = 10
+	"Godwyn #2" = 5
+	"Rhobert #1" = 5
+	"Cain #1" = 5
+
+	"Myfanwy #1" = -10
+	"Elen #0" = -5
+	"Newlyna #1" = -5
+	"Tegla #0" = -5
+
+	"Algwyn #1" = 1
+	"Andreas #0" = 0
+	"Aneurin #1" = 1
+	"Bleidudd #1" = 1
+	"Casnar #1" = 1
+	"Caswallon #0" = 0
+	"Ceneu #1" = 1
+	"Ceredig #1" = 1
+	"Cneppyn #0" = 0
+	"Cwrig #1" = 1
+	"Dwyfan #1" = 1
+	"Dyfnwal #1" = 1
+	"Elidyr #1" = 1
+	"Fyrsil #1" = 1
+	"Gronw #0" = 0
+	"Llywarch #1" = 1
+	"Madog #1" = 1
+	"Owain #1" = 1
+	"Pawl #0" = 0
+	"Rhydog #1" = 1
+	"Seisyll #0" = 0
+	"Tudwallon #1" = 1
+}
+
+leader_names = {
+	Beisrudd Bangor Brydydd "de Braose" Bychan Benfras Beli
+	Clwyd
+	Ddu
+	Ergyng
+	Fychan Fardd Foel
+	Gwerthrynion Gwr Goch Gryg
+	Mynydd Manceinion Map "de Munchensi"
+	Offeiriad
+	"de Pulesdon" "de Pennbaedd"
+	Rhosyr
+	Sais
+	Wan
+}
+
+ship_names = {
+	Aelwyd
+	Cuniovenda
+	"Din Baer" "Dyfnwal Frych"
+	Ffelis
+	Dogfael Danhadlwen
+	Ednywain
+	Guotodin "Gwrgant Uib"
+	Laudonia
+	"Peredur Coelan"
+	Rhonwen
+	"Siwan Folcwalding"
+	Vrocata
+}

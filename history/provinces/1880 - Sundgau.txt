@@ -3,16 +3,21 @@
 owner = GTY
 controller = GTY
 add_core = GTY
-capital = "Altkirch"
+capital = "Rubjac"
 is_city = yes
-culture = swabian
-religion = orthodox
+culture = gautonian
+religion = catholic
 hre = yes
 base_tax = 4 
+
 base_production = 6
 trade_goods = iron
 base_manpower = 4
+
+
+
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
+

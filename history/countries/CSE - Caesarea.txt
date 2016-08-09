@@ -1,0 +1,17 @@
+government = feudal_monarchy
+government_rank = 1
+primary_culture = numidian
+religion = catholic
+technology_group = western
+unit_type = muslim
+capital = 2461
+
+1387.2.25 = {
+	monarch = {
+		name = "Apollinaris III"
+		dynasty = "de Viviers"
+		adm = 2
+		dip = 5
+		mil = 3
+	}
+}

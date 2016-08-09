@@ -1,18 +1,20 @@
 #338 - Al-Djazair
 
-owner = TUN
-controller = TUN 
-culture = mauru
-religion = orthodox
-capital = "Al-Djazair"
+owner = NMD
+controller = NMD
+culture = numidian
+religion = catholic
+capital = "Icosium"
 trade_goods = grain
-hre = no
+hre = yes
 base_tax = 5 
 base_production = 5
 base_manpower = 3
 is_city = yes
-add_core = TUN
-add_core = ALG
+add_core = NMD
+
+
+
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman

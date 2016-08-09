@@ -1,5 +1,18 @@
 government = feudal_monarchy
 primary_culture = mauru
-religion = orthodox
-technology_group = eastern
+religion = catholic
+technology_group = western
+unit_type = muslim
 capital = 344 # Marrakech
+add_accepted_culture = berber
+
+1309.11.17 = {
+	monarch = {
+		name = "Diodoru I"
+		dynasty = "Alcense"
+		birth_date = 1369.1.25
+		adm = 0
+		dip = 5
+		mil = 2
+	}
+}

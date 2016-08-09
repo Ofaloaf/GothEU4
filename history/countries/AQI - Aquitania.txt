@@ -1,6 +1,17 @@
 government = feudal_monarchy
 government_rank = 2
 technology_group = western
+religion = catholic
 primary_culture = aquitanian
-religion = orthodox
-capital = 174 	# Bordeaux
+capital = 174
+
+1389.2.1 = {
+	monarch = {
+		name = "Piliolus I"
+		dynasty = "Coras"
+		birth_date = 1341.8.25
+		adm = 0
+		dip = 5
+		mil = 2
+	}
+}

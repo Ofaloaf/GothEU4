@@ -1,0 +1,103 @@
+#Country Name: Please see filename.
+
+graphical_culture = muslimgfx
+
+color = { 237 234 90 }
+
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	economic_ideas
+	diplomatic_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	persian_footsoldier
+	persian_cavalry_charge
+	persian_shamshir
+	qizilbash_cavalry
+	tofongchis_musketeer
+	topchis_artillery
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_mass_infantry
+	muslim_dragoon
+	persian_rifle
+}
+
+monarch_names = {
+	"Hürmüz #0" = 40
+	"Porsuk #1" = 30
+	"Danismend #1" = 30
+	"Firuz #0" = 25
+	"Shahram #0" = 20
+	"Kavad #0" = 15
+	"Shapur #0" = 10
+	"Shahrbaraz #0" = 10
+	"Ardesir #0" = 5
+	"Yezdigirt #0" = 5
+
+	"Ceylan #0" = -10
+
+	"Asher #0" = 0
+	"Balash #0" = 0
+	"Behram #0" = 0
+	"Elazar #0" = 0
+	"Haim #0" = 0
+	"Hüsrev #0" = 0
+	"Ibrahim #0" = 0	# Abraham
+	"Imram #0" = 0		# Amram
+	"Ishak #0" = 0		# Ishak
+	"Ismail #0" = 0		# Ishmael
+	"Iskender #0" = 0
+	"Jamaspa #0" = 0
+	"Keykavus #0" = 0
+	"Keykubad #0" = 0
+	"Lazar #0" = 0
+	"Musa #0" = 0
+	"Ömer #0" = 0
+	"Rüstem #0" = 0
+	"Selim #0" = 0
+	"Yahuda #0" = 0		# Judah
+	"Yahya #0" = 0		# John
+	"Yakup #0" = 0		# Jacob
+	"Yusuf #0" = 0		# Joseph
+}
+
+leader_names = {
+	Aksonqoroglu
+	Benavaraham
+	Darasoglu
+	Elyashar
+	Farrokhzah Frizis
+	Hayyim
+	Ilhan Inaloglu
+	Kavadoglu Kovo Kalantar
+	Mehmedoglu Mitrani Mizrachi
+	Nehourai
+	Panigel
+	Qamhi
+	Rahnavard
+	Saban Salur Shirazi Siyavushoglu Senceroglu Senbahar Sevi Shofet
+	Taitazak Turhanoglu Tusi
+	Vahriz Veli
+	Zavzani
+}
+
+ship_names = {
+	Avesta Asuristan Azarmidokht
+	Esin
+	Isra Ishakbeg
+	Ktesifon
+	Lea
+	Miryam
+	Nisibis
+	Papag Purandokht Peygamber Purim
+	Ronikanes Resul
+	Vologases
+	Zazan
+}

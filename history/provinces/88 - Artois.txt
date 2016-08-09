@@ -1,17 +1,21 @@
 # 88 Artois - Principal cities: Arras, Saint-Omer & Lille
 
-owner = SUE
-controller = SUE
-add_core = SUE
-capital = "Arras"
+owner = ART
+controller = ART
+add_core = ART
+capital = "Athrebate"
 is_city = yes
 culture = rhenish
-religion = orthodox
+religion = catholic
 hre = yes
 base_tax = 6 
+
 base_production = 6
 trade_goods = cloth
 base_manpower = 3
+
+
+
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

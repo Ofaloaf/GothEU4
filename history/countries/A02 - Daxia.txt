@@ -1,0 +1,8 @@
+government = tribal_kingdom
+primary_culture = uyghur
+add_accepted_culture = bai
+religion = jewish
+technology_group = chinese
+capital = 662 # Yunnan
+
+historical_friend = A03

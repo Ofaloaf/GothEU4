@@ -1,18 +1,22 @@
 #215 - Valladolid
 
-owner = TRR
-controller = TRR
-add_core = TRR
-culture = hispanian
-religion = orthodox
+owner = GAL
+controller = GAL
+add_core = GAL
+culture = cantabrian
+religion = catholic
 hre = yes
 base_tax = 5
 base_production = 3
 trade_goods = wool 
 base_manpower = 2
 fort_15th = yes
-capital = "Valladolid"
+capital = "Vallisoletum"
+estate = estate_burghers
 is_city = yes
+
+
+
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

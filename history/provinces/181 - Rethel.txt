@@ -1,18 +1,21 @@
 # 181 Rethel
 
-owner = CHP
-controller = CHP
-capital = "Rethel"
+owner = MSL
+controller = MSL
+capital = "Verodunum"
 is_city = yes
-culture = rhenish
-religion = orthodox
+culture = gautes
+religion = catholic
 hre = yes
 base_tax = 6 
 base_production = 6
 trade_goods = cloth
 base_manpower = 2
-add_core = CHP
+add_core = MSL
 fort_15th = yes
+
+
+
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

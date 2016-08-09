@@ -1,9 +1,9 @@
 #279 - Rowne
 
-owner = ALN
-controller = ALN
-culture = alan
-religion = orthodox
+owner = RTH
+controller = RTH
+culture = ruthenian
+religion = catholic
 hre = no
 base_tax = 2
 base_production = 2
@@ -12,7 +12,7 @@ base_manpower = 1
 capital = "Rowne"
 estate = estate_nobles
 is_city = yes
-add_core = ALN
+add_core = RTH
 
 
 

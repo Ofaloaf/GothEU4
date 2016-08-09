@@ -1,0 +1,20 @@
+#1966 - Chelyaba
+
+owner = TRK
+controller = TRK
+capital = "Chelyaba"
+culture = bashkir
+religion = manichee
+trade_goods = fur
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 3
+is_city = yes
+add_core = TRK
+add_core = SIB
+add_core = BSH
+
+
+discovered_by = nomad_group
+discovered_by = muslim

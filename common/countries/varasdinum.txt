@@ -1,0 +1,66 @@
+# Varasdinum
+
+graphical_culture = westerngfx
+
+color = { 59  126  59 }
+
+historical_idea_groups = {	
+	diplomatic_ideas
+	economic_ideas
+	defensive_ideas
+	influence_ideas
+	offensive_ideas
+	trade_ideas
+	administrative_ideas
+	quality_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Tiuderic #0" = 50
+
+	"Ademarius #0" = 0
+	"Alffonsus #0" = 0
+	"Istève #0" = 0
+	"Miquel #0" = 0
+	"Ordonno #0" = 0
+}
+
+leader_names = {
+	"de Ayres" Aycardi Amely
+	Bonini Boquini Bonsom Boerii Bembelli Barravi Barra Bares
+	Cabra "de Curta" Clavellus Camsoris
+	Fabri "de Fulhonibus" Framage
+	Garcias "de Gargatz"
+	Milhasserius Margalh "de Messalo" Marchi
+	Nagoti
+	Plura "de Populi" Peyriola Pinsonis
+	Radulphus "de Roaxio" Retonditor
+	Simeonis
+	Torena Textor Tolsani "del Troc"
+	Yspani
+}
+
+ship_names = {
+	"Aquae Iasae" "Aqua Viva"
+	Dravus
+	Imperator
+	"Mons Claudius"
+	Savus
+}

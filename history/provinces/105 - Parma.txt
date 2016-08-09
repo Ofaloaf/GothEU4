@@ -1,10 +1,10 @@
 #105 - Parma
 
-owner = LRM
-controller = LRM
+owner = PAR
+controller = PAR
 culture = avarian
-religion = orthodox
-hre = no
+religion = catholic 
+hre = yes 
 base_tax = 6 
 base_production = 6 
 trade_goods = grain
@@ -12,8 +12,10 @@ base_manpower = 4
 capital = "Parma" 
 estate = estate_nobles
 is_city = yes	# Estimated 
-add_core = LRM
-add_core = AVR
+add_core = PAR
+
+
+
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

@@ -1,25 +1,17 @@
 #Lapland, the far north wastelands.
 
+owner = GTR
+controller = GTR
+add_core = GTR
 capital = "Jokkmokk"
 culture = sapmi
-religion = orthodox
+religion = catholic
 hre = no
 base_tax = 1 
 base_production = 1
-trade_goods = unknown
+trade_goods = fur
 base_manpower = 1
-native_hostileness = 1
-native_size = 3
-native_ferocity = 2
+is_city = yes
+
 discovered_by = eastern
 discovered_by = western
-
-1440.1.1 = {
-	owner = GTR
-	controller = GTR
-	add_core = GTR
-	is_city = yes
-	add_local_autonomy = 50
-	trade_goods = fur
-}
-

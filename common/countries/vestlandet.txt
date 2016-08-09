@@ -1,0 +1,105 @@
+# Vestlandet
+
+graphical_culture = westerngfx
+
+color = { 120 160 245 }
+
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	diplomatic_ideas
+	economic_ideas
+	spy_ideas
+	quality_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	swedish_gallop
+	swedish_gustavian
+	swedish_caroline
+	swedish_arme_blanche
+	prussian_frederickian
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Motius #1" = 20
+	"Frederik #0" = 15
+	"Haldor #1" = 15
+	"Ølver #1" = 15
+	"Bellicus #1" = 10
+	"Magnus #0" = 10
+	"Halfdan #0" = 10
+
+	"Ingeborg #0" = -1
+	"Buddega #2" = -1
+
+	"Alexander #0" = 0
+	"Andreas #0" = 0
+	"Arnoldus #0" = 0
+	"August #0" = 0
+	"Edvard #0" = 0
+	"Erik #0" = 0
+	"Gyrd #0" = 0
+	"Hans #0" = 0
+	"Henrik #0" = 0
+	"Ivar #0" = 0
+	"Jens #0" = 0
+	"Julius #0" = 0
+	"Kjotve #0" = 0
+	"Knut #0" = 0
+	"Lars #0" = 0
+	"Leif #0" = 0
+	"Marcus #0" = 0
+	"Nils #0" = 0
+	"Ole #0" = 0
+	"Peder #0" = 0
+	"Rasmus #0" = 0
+	"Torger #0" = 0
+	"Ulrik #0" = 0
+}
+
+leader_names = {
+	Arntzen Angell
+	Bjørnson Bech Berg Bryn Bjølset
+	Dahl Diriks
+	Eysteinsson
+	Hansen
+	Grenske Garborg Grindheim Gotaas Gram
+	Heltzen Haagenstad Hertzberg Holter Hagerup
+	Jonsson
+	Kragh Kielland Kløve Krohg Krefting
+	Lundegaard Lange
+	Müller Martinius Mehlum Motzfeldt Møglestue
+	Norgaard Næss
+	Ræder
+	Sigurdsson Sibbern Sommerfeldt Sandvig Steenstrup Sartz Solvason
+	Tidemand Tonnig
+	Weidemann "Wedel-Jarlsberg" Wieland
+}
+
+ship_names = {
+	Agder Arg
+	Bjæring Bømlo Beist
+	"Dale-Gudbrand"
+	Fjordane Flammende Fryktelig
+	Geirstad "Glad Gut" Grener
+	"Harald Granraude" Hordaland
+	Kissa
+	Lynrask
+	Monstrøse
+	Rogaland
+	Sunnmøre Skremmende
+	Teler
+	Víkar Voldsom
+}

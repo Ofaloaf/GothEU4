@@ -1,17 +1,21 @@
 #216 - Salamanca
 
-owner = LUS
-controller = LUS
-add_core = LUS
+owner = EMT
+controller = EMT
+add_core = EMT
 culture = lusitanian
-religion = orthodox
+religion = catholic
 hre = yes
 base_tax = 6 
 base_production = 6
 trade_goods = grain
 base_manpower = 7
 capital = "Salamantica"
+estate = estate_church #or Burghers
 is_city = yes
+
+
+
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

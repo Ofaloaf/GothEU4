@@ -1,0 +1,10 @@
+government = merchant_republic
+mercantilism = 25
+primary_culture = romandeis
+religion = catholic
+add_accepted_culture = lat_neapolitan
+technology_group = western
+capital = 119 # Ancona
+fixed_capital = 119 # Cannot move capital away from this province & no power cost to move to it
+
+national_focus = DIP

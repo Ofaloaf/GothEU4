@@ -1,18 +1,22 @@
 #1873 - Chur
 
-owner = SWI
-controller = SWI
-culture = swiss
+owner = SVA
+controller = SVA
+culture = taurinjeis
 religion = catholic
-capital = "Chur"
+capital = "Curia"
 trade_goods = wool
-hre = no
+hre = yes
 base_tax = 3 
 base_production = 3
 base_manpower = 1
 is_city = yes
+estate = estate_church
 fort_15th = yes
-add_core = SWI
+add_core = SVA
+
+
+
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

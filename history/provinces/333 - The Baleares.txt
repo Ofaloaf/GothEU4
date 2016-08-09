@@ -1,10 +1,10 @@
 #333 - The Baleares
 
-owner = BLR
-controller = BLR
-add_core = BLR
+owner = SAR
+controller = SAR
+add_core = SAR
 culture = hispanian
-religion = orthodox
+religion = catholic
 hre = yes
 base_tax = 2 
 base_production = 2 
@@ -12,6 +12,9 @@ trade_goods = fish
 base_manpower = 1 
 capital = "Palma" 
 is_city = yes
+
+
+
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

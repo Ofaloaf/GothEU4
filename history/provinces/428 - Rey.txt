@@ -1,9 +1,9 @@
 #428 - Rey
 
-owner = ITC
-controller = ITC
+owner = QOC
+controller = QOC
 culture = persian
-religion = jewish
+religion = manichee
 capital = "Teheran"
 trade_goods = silk
 hre = no
@@ -12,7 +12,8 @@ base_production = 5
 base_manpower = 4
 is_city = yes
 add_core = PER
-add_core = ITC
+add_core = QOC
+
 
 
 discovered_by = muslim

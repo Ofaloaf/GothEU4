@@ -1,0 +1,7 @@
+government = feudal_monarchy
+government_rank = 1
+primary_culture = cartagginu
+religion = catholic
+technology_group = eastern
+unit_type = muslim
+capital = 356

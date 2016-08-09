@@ -1,0 +1,104 @@
+#Country Name: Please see filename.
+
+graphical_culture = muslimgfx
+
+color = {  31 49 138 }
+
+historical_idea_groups = {
+	expansion_ideas
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	administrative_ideas
+	defensive_ideas
+	diplomatic_ideas
+	economic_ideas
+}
+
+historical_units = {
+	mamluk_archer
+	mamluk_cavalry_charge
+	mamluk_duel
+	mamluk_musket_charge
+	muslim_mass_infantry
+	muslim_dragoon
+	ali_bey_reformed_infantry
+}
+
+monarch_names = {
+	"Juliu #2" = 30
+	"Lazarus #1" = 25
+	"Centullus #2" = 25
+	"Domnu #0" = 15
+	"Firmu #0" = 15
+	"Bardas #1" = 5
+
+	"Berta #1" = -10
+	"Caterina #1" = -10
+
+	"Abbmelcar #0" = 0
+	"Apulei #0" = 0
+	"Agustinu #0" = 0
+	"Amvrossu #0" = 0
+	"Binmelcar #0" = 0
+	"Bartolomeu #0" = 0
+	"Benedittu #0" = 0
+	"Capussa #0" = 0
+	"Cosamu #0" = 0
+	"Domnigu #0" = 0
+	"Donatu #0" = 0
+	"Emiliu #0" = 0
+	"Fakundu #0" = 0
+	"Gildon #0" = 0
+	"Gavinu #0" = 0
+	"Galazi #0" = 0
+	"Habetdeus #0" = 0
+	"Ignatzi #0" = 0
+	"Irgennu #0" = 0
+	"Jaroah #0" = 0
+	"Johannei #0" = 0
+	"Lorentzi #0" = 0
+	"Luciu #0" = 0
+	"Massuna #0" = 0
+	"Mugedi #0" = 0
+	"Nartzalu #0" = 0
+	"Pascale #0" = 0
+	"Revocatus #0" = 0
+	"Stefanu #0" = 0
+	"Stembanu #0" = 0
+	"Tobias #0" = 0
+	"Tulemeju #0" = 0
+	"Urse #0" = 0
+	"Vocciu #0" = 0
+}
+
+leader_names = {
+	"d'Agabis" "d'Aziris"
+	Barduchus "di Batrachu" Broccu
+	Casula "di Chersis" "di Curubis"
+	"di Darnus" "di Dionysu"
+	"di Fala"
+	Ghessa "di Gonia"
+	"di Hippon" "di Hydraxs"
+	Machliu "di Miceris"
+	Phaedimianus "di Paliouru" "di Plateia" "di Petras" Pinna Poddighe Pisciu
+	Triarius Tafuranu
+	"di Veresvi"
+	Zamanu Zaba Zauecu
+}
+
+ship_names = {
+	"Aretaphila Phaedimiana" Antipyrgos "Aristoteles Battus" Ammonium Aristippus Alexander "Apostolus Marcus"
+	Belisarius
+	Cyrenaica Callimachus
+	Eratosthenes Evangelista
+	"Libya Sicca"
+	Marmarica Magas
+	Olympia
+	Pentapolis Paraetonium Passio
+	Quodvultdeus
+	Rufus
+	Silphium "Simon Cyrenaius" Synesius
+	Theodorus Theophilus
+	Zopyrus Zenobius
+}

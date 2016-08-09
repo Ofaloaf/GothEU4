@@ -3,16 +3,19 @@
 owner = THR
 controller = THR
 culture = traki
-religion = orthodox
+religion = catholic
 capital = "Sofia"
 trade_goods = copper
 hre = no
-base_tax = 4 
-base_production = 3
+base_tax = 5 
+base_production = 4
 base_manpower = 2
 is_city = yes
 estate = estate_nobles
 add_core = THR
+
+
+
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

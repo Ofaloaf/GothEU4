@@ -1,0 +1,22 @@
+#1761 - Pfalz
+
+capital = "Worms"
+culture = rhenish
+religion = catholic
+trade_goods = wine
+owner = MSL
+base_tax = 6 
+base_production = 6
+base_manpower = 3
+is_city = yes
+controller = MSL
+add_core = MSL
+hre = yes
+
+
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+
+

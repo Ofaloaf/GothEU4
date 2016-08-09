@@ -4,7 +4,7 @@ graphical_culture = westerngfx
 
 color = { 112 165 197 }
 
-preferred_religion = gnostic
+preferred_religion = protestant
 
 historical_idea_groups = {
 	defensive_ideas
@@ -139,7 +139,7 @@ ship_names = {
 	"Maxima Sequanorum" Magetobria
 	Nordgovia
 	"Pons Dubis" 
-	Segobudium "La Sòna" Segodunum Sundgovia
+	Segobudium "La Sòna" Segodunum Sundgovia Sequanica
 	Transjurania
 	Vosegus
 	Wasgovia

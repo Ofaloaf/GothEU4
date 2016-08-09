@@ -1,0 +1,5 @@
+government = administrative_republic
+primary_culture = old_gothic
+religion = catholic
+technology_group = western
+capital = 94	# Luxembourg

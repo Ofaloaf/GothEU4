@@ -1,18 +1,23 @@
 #1746 - Burgos
 
-owner = CNT
-controller = CNT
-add_core = CNT
+owner = GAL
+controller = GAL
+add_core = GAL
 culture = cantabrian
-religion = orthodox
+religion = catholic
 hre = yes
 base_tax = 5 
 base_production = 5
 trade_goods = wool 
 base_manpower = 2
 capital = "Burgos"
+estate = estate_burghers
 is_city = yes
+
+
+
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
+

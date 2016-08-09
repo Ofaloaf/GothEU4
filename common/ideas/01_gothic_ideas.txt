@@ -35,8 +35,8 @@ gothic_culture_ideas = {
 		culture_conversion_cost = -0.2
 		stability_cost_modifier = -0.1
 	}
-	gallic_heritage = {
-		land_morale = 0.20
+	gothic_legalism = {
+		global_autonomy = -0.05
 	}
 	gothic_metal = {
 		production_efficiency = 0.1

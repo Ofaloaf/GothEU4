@@ -1,10 +1,10 @@
 #121 - Napoli
 
-owner = SMN
-controller = SMN
+owner = CPA
+controller = CPA
 culture = lat_neapolitan 
-religion = orthodox 
-hre = no 
+religion = catholic 
+hre = yes
 base_tax = 9 
 base_production = 9 
 trade_goods = grain 
@@ -12,7 +12,10 @@ base_manpower = 7
 capital = "Neapolis" 
 is_city = yes	# Estimated
 fort_15th = yes
-add_core = SMN
+add_core = CPA
+
+
+
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

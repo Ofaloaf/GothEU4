@@ -1,0 +1,17 @@
+government = feudal_monarchy
+government_rank = 1
+primary_culture = osterlander
+religion = catholic
+technology_group = western
+capital = 31
+
+1351.8.17 = {
+	monarch = {
+		name = "Davlat I"
+		dynasty = "Aini"
+		birth_date = 1334.1.9
+		adm = 1
+		dip = 0
+		mil = 4
+	}
+}

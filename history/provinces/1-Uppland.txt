@@ -1,11 +1,10 @@
 #Uppland, contains Stockholm, Uppsala & Nyköping.
 
-add_core = SWE
-add_core = GTR
 owner = GTR
 controller = GTR
+add_core = GTR
 culture = swedish
-religion = orthodox
+religion = catholic
 hre = no
 base_tax = 5 
 base_production = 5

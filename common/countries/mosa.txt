@@ -1,0 +1,78 @@
+# Mosa
+
+graphical_culture = westerngfx
+
+color = { 180 224 200 }
+
+historical_idea_groups = {
+	administrative_ideas
+	defensive_ideas
+	diplomatic_ideas
+	offensive_ideas
+	economic_ideas
+	trade_ideas
+	innovativeness_ideas
+	quantity_ideas
+}
+
+historical_units = {
+	halberd_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Gautier #4" = 50
+	"Tiudosi #1" = 25
+	"Wulfila #2" = 20
+	"Arnegisclus #1" = 15
+	"Argiovitus #1" = 15
+	"Gabriel #1" = 10
+	"Orosius #0" = 10
+
+	"Flavia #0" = -5
+	"Liudiuina #1" = -10
+
+	"Alaric #0" = 0
+	"Alias #0" = 0
+	"Dumerit #1" = 0
+	"Gudafres #0" = 0
+	"Hunifridus #2" = 0
+	"Iggilds #0" = 0
+	"Leidrat #0" = 0
+	"Lodoycus #0" = 0
+	"Sidauni #0" = 0
+	"Theophilus #0" = 0
+	"Zacharias #0" = 0
+}
+
+leader_names = {
+	Bleda "de Bodat"
+	"de Commercium"
+	"de Desdrei" "de Duadessi" "de Divodrèi"
+	Gaill Gricleis
+	Lero "de Lineavilla" "de Lunivilla" Limaiseis
+	"de Pontesarvix"
+	Respa
+	"de Spinalium" "de Scarponna" "de Solimariaca"
+	Taetel "de Tullium"
+	Veducus "de Valliscolore"
+	Ybreis
+}
+
+ship_names = {
+	Marta
+	Nanciacum Navar
+	"Quinta Lera"
+}

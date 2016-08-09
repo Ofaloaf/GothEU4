@@ -1,0 +1,110 @@
+# Mordvin Ilmen realm
+
+graphical_culture = easterngfx
+
+color = { 128 205 186 }
+
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	economic_ideas
+	quality_ideas
+	diplomatic_ideas
+	religious_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	druzhina_cavalry
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+monarch_names = {
+	"Murunza #0" = 40
+	"Kubrat #0" = 40
+	"Kezhevat #0" = 30
+	"Mordvinko #1" = 30
+	"Kezhapa #0" = 20
+	"Malyaka #0" = 20
+	"Tul #0" = 20
+	"Uzahara #0" = 15
+	"Saksa #0" = 10
+
+	"Alyona #0" = -5
+	"Anna #0" = -5
+	"Shonzhava #0" = -5
+
+	"Andyamo #0" = 0
+	"Chipaz #0" = 0
+	"Dergun #0" = 0
+	"Deryab #0" = 0
+	"Dobrinya #0" = 0
+	"Mitran #0" = 0
+	"Nuyaksha #0" = 0
+	"Pivtsay #0" = 0
+	"Pokshayka #0" = 0
+	"Puresh #0" = 0
+	"Shkay #0" = 0
+	"Surt #0" = 0
+	"Tyueukezhut #0" = 0
+	"Tyushten #0" = 0
+	"Tyushtya #0" = 0
+	"Velmayka #0" = 0
+	"Virdyan #0" = 0
+}
+
+leader_names = {
+	Atan
+	Chavajn
+	Deryabinen
+	Erzya
+	Illapi Izmapijan Ine
+	Jevmapijan
+	Kardazinen Kolumb Katpi Kechenbije Kulasbije Kev
+	Luki
+	Mescheravinen Mordvinko Mitranpi
+	Nal
+	Ohremenbuje Ordanbuje Oroznije Orzhanbuje
+	Pronskinen Palantai Piche Pando
+	Rahkonen
+	Suensaari Shketan Shoksho Salman Sirezbuje Sija Shäj
+	Tyushtyinen Tarasbuje
+	Ur
+	Viryasinen Varmanpazen Vire
+}
+
+ship_names = {
+	Aamu "Aksha Loksti" "Aksha Kal" Amorda At'ma Al'za Armej Andrel'e
+	Borazh Bukalej
+	Chechama Chashel'ma Chuvarlej
+	Hyperborea
+	Idemevs "Ine Narmon" "Ine Shufta" Ignat Isa Inelej Ishlej
+	Juzga Javas
+	Kukka "Kezhapa Pronskinen" Kanyava Kelu Kuldim Kardavil' Kurah Kochkur Kolas Konaj Kara Kavlej Kudlej Kargalej Kuzho
+	Losma Luhma L'ast'ma Lunga Lipelej Läjkura L'äj
+	Meshavane "Machelt Folcwalding" Mastoratia Marez Mochal'ejka
+	Nulzyava Norat Nosak
+	Ozharga Ozhga Od Oshläj
+	Potekay Parava Pirma Polaj Pokush Poksh Pichemorga
+	Raina
+	Sernyava Shadim Sudos Sabanchi Shuger Sire Shukstelim
+	Tsofks "Terhi Kardazinen" Tustat Terizmorga Testelim
+	Usiya Url'ed'im Urlejka
+	Vazhga "Värden Shkai" Varvel Vad Vertelim
+	Yaksarga
+}

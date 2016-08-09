@@ -3,8 +3,8 @@
 owner = ILY
 controller = ILY
 culture = dalmatian
-religion = orthodox
-capital = "Mostar"
+religion = catholic
+capital = "Mostar"	# Unofficial capital of Herzegovina
 trade_goods = wool
 hre = no
 base_tax = 3 
@@ -13,8 +13,13 @@ base_manpower = 2
 is_city = yes
 estate = estate_nobles
 add_core = ILY
-
+discovered_by = KAZ
+discovered_by = CRI
+discovered_by = GOL
+discovered_by = AST
+discovered_by = QAS
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
+

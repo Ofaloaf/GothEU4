@@ -1,6 +1,6 @@
 government = merchant_republic
-mercantilism = 0.25
-primary_culture = rhenish
-religion = orthodox
+government_rank = 1
 technology_group = western
-capital = 90 # Brujas
+religion = catholic
+primary_culture = rhenish
+capital = 90	# Brugge

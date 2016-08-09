@@ -1,6 +1,0 @@
-government = feudal_monarchy
-government_rank = 1
-technology_group = western
-religion = orthodox
-primary_culture = liunesan
-capital = 179 # Burgis

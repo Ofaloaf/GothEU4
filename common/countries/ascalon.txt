@@ -1,0 +1,117 @@
+# Ascalon
+
+graphical_culture = easterngfx
+
+color = { 160 160 200 }
+
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	religious_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	spy_ideas
+	quantity_ideas
+}
+
+historical_units = {
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
+
+monarch_names ={
+	"Adrian #2" = 40
+	"Iancu #1" = 30
+	"Iacob #1" = 20
+	"Sas #0" = 15
+	"Gabriel #1" = 15
+	"Basarab #0" = 10
+	"Solomon #0" = 5
+
+	"Maria #3" = -20
+	"Ionela #1" = -5
+	"Adelina #1" = -5
+	"Clara #1" = -5
+	"Adriana #0" = -5
+
+	"Adam #0" = 0
+	"Balianus #0" = 0
+	"Baltazar #0" = 0
+	"Beniamin #0" = 0
+	"Efraim #0" = 0
+	"Folcus #0" = 0
+	"Ilie #0" = 0
+	"Ioan #0" = 0
+	"Iosif #0" = 0
+	"Iosua #0" = 0
+	"Iuda #0" = 0
+	"Janus #0" = 0
+	"Lucian #0" = 0
+	"Manase #0" = 0
+	"Marin #0" = 0
+	"Melchior #0" = 0
+	"Mircea #0" = 0
+	"Neftali #0" = 0
+	"Peleg #0" = 0
+	"Ruben #0" = 0
+	"Samson #0" = 0
+	"Seneslav #0" = 0
+	"Simeon #0" = 0
+	"Vlad #0" = 0
+	"Zabulon #0" = 0
+	"Zaharia #0" = 0
+}
+
+leader_names = {
+	Albescu
+	Barbu "de Bethelea" Bucur
+	Csaky "de Caphar" "de Caesarea" Cazacu Ciubotaru Codreanu
+	Farrou
+	"de Gaza" "de Gerar" "de Gedros" "de Gazara" "de Gamzo"
+	"de Ibelin"
+	"de Hadid" "de Halabja"
+	"de Lydda"
+	Negreanu
+	Petenye
+	"de Raphia" "de Ramla"
+	Selimovic "de Sobila" "de Sapharea" "de Selebi"
+	Tibai "de Thabatha" "de Tudela"
+	Ursu
+	Vulpe
+	Zugravescu
+}
+
+ship_names = {
+	Ascalonia Ashdod Aser Arimathea Aialon Antipatris "Aphekou Pyrgos" Apollonia
+	"Bene Beraq" "Beth Dagon" "Bethoron Katotera" Bethther
+	Cruciadelor
+	Diospolis
+	Esau Ezechiel Enoh Emmaus Ekron
+	Floarea
+	"Gabrielus Selimovicus"
+	Iamneia
+	Kapparetaia Kapharsaba
+	Lilith Laban
+	Mehuiael Mahalaleel Modiin "Maria Aranea" Monica
+	Nimrod
+	Orda Ono
+	Ramathaim Rebeca
+	Sykomazon
+	Tamar Thamna
+	Vasilica
+	Zophim
+}

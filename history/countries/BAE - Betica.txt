@@ -1,6 +1,0 @@
-government = feudal_monarchy
-government_rank = 2
-primary_culture = baetic
-religion = orthodox
-technology_group = western
-capital = 224

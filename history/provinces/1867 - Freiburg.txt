@@ -3,7 +3,7 @@
 owner = GTY
 controller = GTY
 culture = gautonian
-religion = orthodox
+religion = catholic
 capital = "Lausanne"
 trade_goods = wool
 hre = yes
@@ -11,7 +11,12 @@ base_tax = 4
 base_production = 4
 base_manpower = 3
 is_city = yes
+add_core = SVA
 add_core = GTY
+estate = estate_burghers
+
+
+
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

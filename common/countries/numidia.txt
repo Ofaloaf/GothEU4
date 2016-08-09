@@ -1,0 +1,82 @@
+# Numidia
+
+graphical_culture = muslimgfx
+
+color = { 164 247 131 }
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	trade_ideas
+	offensive_ideas
+	spy_ideas
+	diplomatic_ideas
+	quantity_ideas
+	economic_ideas
+}
+
+historical_units = {
+	mamluk_archer
+	mamluk_cavalry_charge
+	mamluk_duel
+	mamluk_musket_charge
+	muslim_mass_infantry
+	muslim_dragoon
+	ali_bey_reformed_infantry
+}
+
+monarch_names = {
+	"Juliu #4" = 50
+	"Costantinu #1" = 30
+	"Masties #2" = 30
+	"Artau #1" = 10
+	"Rafiele #0" = 10
+
+	"Anna #1" = -10
+	"Bitoria #1" = -10
+	"Lucia #0" = -10
+	"Pompeja #0" = -5
+
+	"Aderbalu #0" = 0
+	"Donatu #0" = 0
+	"Felixs #0" = 0
+	"Jacovu #0" = 0
+	"Justinu #0" = 0
+	"Lattantzi #0" = 0
+	"Magrovi #0" = 0
+	"Metaxsu #0" = 0
+	"Pontzi #0" = 0
+	"Reza #0" = 0
+	"Tobias #0" = 0
+}
+
+leader_names = {
+	Avenniensis Aleicoune Awras
+	"di Baia" "di Bagai" "di Barica" "di Belesasa" "di Buffada"
+	Calv "di Cirta" "di Calama" "di Capsu" "di Castragalaba" "di Celerina" "di Centuria" Canalis
+	Druentane "di Dusa" "di Diana"
+	"di Forma" "di Fata" "di Fussala"
+	"di Guelma" "di Gilba" "di Giru" "di Guzabeta" "di Gibba" "di Gaudiaba"
+	"di Lambesi" "di Leges" "di Lamiggiga" "di Lamzella"
+	"di Nigizubi" "di Moxori" "di Mulia" "di Meta" "di Madauru" "di Novasinna"
+	"di Naratcata" "di Nasai"
+	"di Silli" "di Sinitis" "di Suava"
+	"di Tébessa"
+	"di Vadesi" "di Vegesela" "di Velefi" "di Verrona"
+}
+
+ship_names = {
+	Araneole Adherbal
+	Cirta
+	Ermenberga
+	Gala "Gaius Memmius" "Gaius Marius" Girus
+	Hiempsal
+	Joanna Jugurtha
+	Lambaesis
+	Magrovia Masinissa Micipsa "Mons Aurasius"
+	Numidia Neta
+	Petrenella
+	Russicada
+	Sitifis Syphax
+	Vestia
+}

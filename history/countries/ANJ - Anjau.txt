@@ -1,8 +1,19 @@
 government = feudal_monarchy
 government_rank = 1
 technology_group = western
-religion = orthodox
+religion = catholic
 primary_culture = armorican
 
-capital = 178
+capital = 177 # Maine
 
+
+1392.9.3 = {
+	monarch = {
+		name = "Sebastianos I"
+		dynasty = "Alcense"
+		birth_date = 1356.7.10
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}

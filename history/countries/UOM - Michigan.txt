@@ -1,5 +1,5 @@
 government = administrative_republic
 technology_group = western
 religion = orthodox
-primary_culture = liunesan
+primary_culture = gautes
 capital = 945	# Fox

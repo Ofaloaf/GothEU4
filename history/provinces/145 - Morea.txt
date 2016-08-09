@@ -1,9 +1,9 @@
 #145 - Morea
 
-owner = BYZ
-controller = BYZ
-culture = rimlyani
-religion = orthodox
+owner = MKD
+controller = MKD
+culture = macedonian
+religion = catholic
 capital = "Mystras"
 trade_goods = wine
 hre = no
@@ -13,8 +13,10 @@ base_manpower = 3
 is_city = yes
 estate = estate_nobles
 fort_15th = yes #Castles of the Morea, Monemvasia, etc.
-add_core = MOE
-add_core = BYZ
+add_core = MKD
+
+
+
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern

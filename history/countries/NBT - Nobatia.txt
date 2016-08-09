@@ -1,0 +1,17 @@
+government = tribal_despotism
+primary_culture = turkish
+religion = jewish
+technology_group = muslim
+unit_type = muslim
+capital = 1234 # Qasr Ibrim
+historical_friend = NFD
+
+1399.1.1 = {
+	monarch = {
+		name = "Tunga I"
+		dynasty = "Togayid"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}

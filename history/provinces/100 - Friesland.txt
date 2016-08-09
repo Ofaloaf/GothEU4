@@ -1,18 +1,21 @@
 # 100 Friesland - Principal cities: Groningen & Leeuwarden
 
-owner = FRK
-controller = FRK
+owner = GTR
+controller = GTR
+add_core = GTR
 capital = "Groningen"
 is_city = yes
 culture = dutch
-religion = orthodox
+religion = catholic
 hre = no
-base_tax = 6 
-base_production = 6
+base_tax = 2
+base_production = 2
 trade_goods = fish 
-base_manpower = 4
-add_core = FRI
-add_core = FRK
+base_manpower = 1
+add_core = FRC
+
+
+
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

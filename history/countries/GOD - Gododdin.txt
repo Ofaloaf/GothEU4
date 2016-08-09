@@ -1,0 +1,16 @@
+government = feudal_monarchy
+primary_culture = albann
+religion = catholic
+technology_group = western
+capital = 248 # Edinburgh
+
+
+1401.10.2 = {
+	monarch = {
+		name = "Arthen II"
+		dynasty = "af Munsö"
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}

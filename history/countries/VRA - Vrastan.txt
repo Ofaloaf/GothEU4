@@ -1,0 +1,6 @@
+government = despotic_monarchy
+primary_culture = armenian
+religion = catholic
+technology_group = eastern
+capital = 423 # T'bilisi
+

@@ -1,17 +1,17 @@
 # 4112 - Cahors
 
-owner = AUV
-controller = AUV
-capital = "Caortz"
+owner = SPM
+controller = SPM
+capital = "Cadurcum"
 is_city = yes
-culture = arvernian
-religion = orthodox
+culture = septimanian
+religion = catholic
 hre = yes
 base_tax = 4
 base_production = 4
 trade_goods = wine
 base_manpower = 3
-add_core = AUV
+add_core = SPM
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

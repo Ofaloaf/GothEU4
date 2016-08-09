@@ -1,0 +1,8 @@
+government = imperial_city
+government_rank = 1
+mercantilism = 0.25
+technology_group = western
+religion = catholic
+primary_culture = mauru
+capital = 342 # 
+fixed_capital = 342

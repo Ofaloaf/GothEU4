@@ -1,0 +1,102 @@
+#Country Name: Please see filename.
+
+graphical_culture = muslimgfx
+
+color = { 59 100 44 }
+
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	economic_ideas
+	diplomatic_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	persian_footsoldier
+	persian_cavalry_charge
+	persian_shamshir
+	qizilbash_cavalry
+	tofongchis_musketeer
+	topchis_artillery
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_mass_infantry
+	muslim_dragoon
+	persian_rifle
+}
+
+monarch_names = {
+	"Inal #3" = 35
+	"Orhan #2" = 30
+	"Kurboga #1" = 25
+	"Dukak #1" = 20
+	"Baybars #2" = 20
+	"Kaiqobad #1" = 15
+	"Sökmen #2" = 15
+	"Yinal #1" = 10
+	"Saltuk #1" = 10
+	"Mengucek #1" = 10
+	"Böru #1" = 10
+
+	"Akgul #0" = -5
+	"Banu #0" = -5
+	"Gulçiçek #0" = -5
+	"Huriye #0" = -5
+	"Leyla #0" = -5
+
+	"Bahadir #0" = 0
+	"Belek #0" = 0
+	"Çagri #0" = 0
+	"Haim #0" = 0
+	"Kaikhusraw #0" = 0
+	"Kutalmis #0" = 0
+	"Murad #0" = 0
+	"Pinhas #0" = 0
+	"Selçuk #0" = 0
+	"Sencer #0" = 0
+	"Sönmez #0" = 0
+	"Tanrivermis #0" = 0
+	"Togay #0" = 0
+	"Umur #0" = 0
+	"Yunus #0" = 0
+	"Yusuf #0" = 0
+	"Zekeriya #0" = 0
+}
+
+leader_names = {
+	Alaton Alfandari Avigdor Ariel Abulafia Ata Arsalani Afshar
+	Batuhan Bali Bassan Bakas Barabba Barsabba
+	"Guahar Ayin"
+	Hazardinari Haleva
+	Ishaki Inaloglu
+	Kanik Kovo Köpek
+	Mizrachi Mitrani Mikali
+	Nasan Nigar Nasi Nahum Naphtali
+	Palombo Panigel Pervane
+	Qamhi
+	Rosanes Rey Rukinoglu
+	Sarfati Sevi Senbahar Saki Saban Senceroglu Siyavushoglu Shirazi Salur
+	Taitazak Turhanoglu Tusi
+	Veli
+	Zavzani
+}
+
+ship_names = {
+	Asitane Arudi Adil Azimli Asker Atmaca
+	Bunsuz Bakire
+	Cimri Celebi Canlanma Cengaver Canavan
+	Dilber Derakubiye Dersaadet
+	"Etz ha-Hayyim"
+	Faith Fatma
+	"Gürcü Hatun" "Gevher Nesibe" Göksu Gayretli
+	Iran
+	Merve Miryam
+	Pers Payitaht Peygamber
+	Resul
+	Sumru
+	Yasar
+}

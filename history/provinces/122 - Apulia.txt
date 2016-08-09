@@ -1,9 +1,9 @@
 #122 - Apulia
 
-owner = SMN
-controller = SMN
-culture = lat_neapolitan 
-religion = orthodox 
+owner = MKD
+controller = MKD
+culture = macedonian
+religion = catholic 
 hre = no 
 base_tax = 3 
 base_production = 3
@@ -12,7 +12,11 @@ base_manpower = 2
 capital = "Tarentum"
 estate = estate_nobles
 is_city = yes 
-add_core = SMN
+add_core = VEN
+add_core = MKD
+
+
+
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

@@ -1,9 +1,9 @@
 #160 - Oltenia
 
-owner = DCA
-controller = DCA
+owner = WAL
+controller = WAL
 culture = wallachian
-religion = orthodox
+religion = catholic
 capital = "Craiova"
 trade_goods = wool
 hre = no
@@ -12,10 +12,13 @@ base_production = 4
 base_manpower = 2
 estate = estate_nobles
 is_city = yes
-add_core = DCA
+add_core = WAL
 
-
-
+discovered_by = KAZ
+discovered_by = CRI
+discovered_by = GOL
+discovered_by = AST
+discovered_by = QAS
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

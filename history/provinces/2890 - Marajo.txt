@@ -1,0 +1,15 @@
+# - Marajo
+
+owner = W00
+controller = W00
+add_core = W00
+culture = tupinamba
+discovered_by = south_american
+religion = animism
+capital = "Marajo"
+trade_goods = sugar
+hre = no
+is_city = yes
+base_tax = 4
+base_production = 4
+base_manpower = 3

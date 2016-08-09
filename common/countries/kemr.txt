@@ -1,0 +1,139 @@
+# Kemr, or Cambria
+
+graphical_culture = westerngfx
+
+color = { 135 25 3 }
+
+historical_idea_groups = {
+	maritime_ideas
+	aristocracy_ideas
+	exploration_ideas
+	trade_ideas
+	economic_ideas
+	religious_ideas
+	innovativeness_ideas
+	defensive_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_longbow
+	gaelic_mercenary
+	gaelic_free_shooter
+	irish_charge
+	anglofrench_line
+	british_redcoat
+	british_hussar
+	british_square
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Marc #0" = 20
+	"Arthmail #1" = 10
+	"Tegonwy #1" = 10
+	"Gwidyr #2" = 5
+
+	"Alis #1" = -5
+	"Betrys #1" = -5
+
+	"Aleisandr #0" = 0
+	"Andreas #0" = 0
+	"Antoin #0" = 0
+	"Awstin #0" = 0
+	"Budic #0" = 0
+	"Cristian #0" = 0
+	"Cassius #0" = 0
+	"Costenhin #0" = 0
+	"Dunat #0" = 0
+	"Drystin #0" = 0
+	"Dewidd #0" = 0
+	"Donal #0" = 0
+	"Dumnovall #0" = 0
+	"Erbin #0" = 0
+	"Eirlan #0" = 0
+	"Erchyl #0" = 0
+	"Eudaf #0" = 0
+	"Gereint #0" = 0
+	"Gion #0" = 0
+	"Gelhig #0" = 0
+	"Glywys #0" = 0
+	"Gregor #0" = 0
+	"Gioffri #0" = 0
+	"Hewel #0" = 0
+	"Iewan #0" = 0
+	"Iago #0" = 0
+	"Iosep #0" = 0
+	"Kenan #0" = 0
+	"Luc #0" = 0
+	"Llawreint #0" = 0
+	"Mathew #0" = 0
+	"Mewrig #0" = 0
+	"Migangel #0" = 0
+	"Manuel #0" = 0
+	"Nigol #0" = 0
+	"Owain #0" = 0
+	"Pedr #0" = 0
+	"Pawl #0" = 0
+	"Padrig #0" = 0
+	"Philip #0" = 0
+	"Pelagius #0" = 0
+	"Pascen #0" = 0
+	"Quenuendan #0" = 0
+	"Rhyssin #0" = 0
+	"Rhoberth #0" = 0
+	"Senorig #0" = 0
+	"Stinian #0" = 0
+	"Serigi #0" = 0
+	"Sandde #0" = 0
+	"Tomos #0" = 0
+	"Timothew #0" = 0
+	"Tewdos #0" = 0
+	"Teilo #0" = 0
+	"Tegid #0" = 0
+	"Theonus #0" = 0
+	"Urien #0" = 0
+	"Ysteffan #0" = 0
+	"Ystin #0" = 0
+	"Yuil #0" = 0
+}
+
+leader_names = {
+	Artran "d'Aricon" "d'Acquesoules"
+	Boibont Beisrudd "de Blestium" "di Bosvena" "di Buffestra"
+	Cefeliog "di Colunwy" "di Castrwent" "di Casventa" "di Castreleon" "di Cridia"
+	"di Darant" "di Dourovaria" Didun
+	"di Guiragon" "di Govan"
+	"di Llangollen" "di Llandinam" "di Levobrinta" "di Llanllieni" "di Lannstevan" "di Lannales" "di Lannvihal"
+	Manaw "di Medlione" "di Moridunon"
+	"di Piscadoma" "di Palladour"
+	"di Rostorrmel"
+	"di Truru"
+	"di Vindocladia"
+}
+
+ship_names = {
+	Aberddui "Album Monasterium" Avitoria Arienrhod Avellina Artoria
+	Branovium Branogenium Blestium Buffestra Badonicus
+	Castreleon "Cair Grauth" "Cair Guiragon" Clotarius Casventa "Castra Legio" "Cair Palladour" "Cair Pensa" Cambria
+	Durnovaria "Dux Bellorum" Dinsorbio Defed Dûnein Docillina Diseta Delyth
+	Esca "Eirlan Emreis" Ercic
+	Fontanetum Fugatius
+	Gwent Glastenning Gobannium Gianeth Guinevere Gwen Gladus
+	Heracleus Hellenis
+	Iseullt Iogos Isabel "Ill Paes" Isaca
+	Kemr
+	Llangollen Lindinis
+	Medrad Mediolanum Moridunum
+	Nemetostatio
+	Purocoronavis "Pontzi Alcense"
+	Rutunium
+	Siluria Sincerflumina "Sanctus Deruvianus" "Sanctus Phaganus" Seniciana Satiada Suagrius Solinus Senicianus
+	Tegla Triverium
+	Uxacona Uxella
+	Verbeia Vaga Vertis "Venta Silurum" Vimutium Valentia Voteporig Vendumaglos Veracius
+}

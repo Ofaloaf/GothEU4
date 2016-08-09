@@ -1,0 +1,22 @@
+#300 - Tula
+
+owner = VBG
+controller = VBG
+culture = mordvin
+religion = catholic
+hre = no
+base_tax = 5 
+base_production = 5
+trade_goods = iron 
+base_manpower = 3
+capital = "Tula"
+is_city = yes
+add_core = VBG
+
+
+
+discovered_by = eastern
+discovered_by = western
+discovered_by = GOL
+discovered_by = KAZ
+discovered_by = nomad_group

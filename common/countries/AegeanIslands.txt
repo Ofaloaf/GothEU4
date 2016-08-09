@@ -1,0 +1,99 @@
+# Aegean Islands
+
+graphical_culture = easterngfx
+
+color = { 24 50 123 }
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	spy_ideas
+	trade_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+}
+
+historical_units = {
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	ottoman_spahi
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
+
+monarch_names = {
+	"Stjepan #1" = 40
+	"Vojnomir #1" = 30
+	"Domislav #0" = 20
+	"Franc #0" = 15
+	"Valhun #0" = 10
+
+	"Zdeslava #0" = -5
+	"Ziva #0" = -5
+
+	"Andrej #0" = 0
+	"Blaz #0" = 0
+	"Branimir #0" = 0
+	"Cedada #0" = 0
+	"Chedomir #0" = 0
+	"Cheitmar #0" = 0
+	"Gorazd #0" = 0
+	"Juraj #0" = 0
+	"Kresimir #0" = 0
+	"Kristo #0" = 0
+	"Ljutomisl #0" = 0
+	"Modest #0" = 0
+	"Pavao #0" = 0
+	"Petar #0" = 0
+	"Pribislav #0" = 0
+	"Tomislav #0" = 0
+	"Viseslav #0" = 0
+	"Vran #0" = 0
+	"Wezil #0" = 0
+}
+
+leader_names = {
+	Adlesic
+	Boto Buchar Brezigar Brilej
+	Erjavec
+	Ferfolja
+	Gradnik
+	Janchar
+	Kejzhar Kopitar
+	Lapajne
+	Natlachen
+	Podjed Presheren
+	Tsarazon Tsigalas Trubar
+	Zidanshek
+}
+
+ship_names = {
+	Aegea Amazonia Aigeus Andros
+	Bogomila Briareus
+	Dabus
+	Galissas
+	Hermoupolis
+	Kos Kresimira Kastelorizo Kykladi
+	Loka
+	Marija
+	Naxos
+	Poseidonia
+	Ratimira
+	Siros Samos Santorini
+	Tunca Tezej Tini
+	Vojnomira Vladislava
+	Zvonimira Ziva
+}

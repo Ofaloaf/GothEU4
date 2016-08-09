@@ -1,0 +1,20 @@
+#701 - Ordos
+
+owner = TIM
+controller = TIM
+add_core = TIM
+culture = mongol
+religion = manichee
+capital = "Ordos"
+trade_goods = wool
+hre = no
+base_tax = 2 
+base_production = 2
+base_manpower = 4
+is_city = yes
+add_core = KHA
+
+
+
+discovered_by = chinese
+discovered_by = nomad_group

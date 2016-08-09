@@ -1,0 +1,20 @@
+#2428 - Yugan
+
+owner = TRK
+controller = TRK
+add_core = SIB
+add_core = TRK
+culture = ostyaki
+religion = manichee
+capital = "Yugan"
+trade_goods = fur
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+is_city = yes
+
+add_local_autonomy = 75
+
+discovered_by = nomad_group
+discovered_by = muslim

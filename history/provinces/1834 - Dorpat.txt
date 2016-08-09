@@ -1,0 +1,24 @@
+#Dorpat
+
+owner = LFL
+controller = LFL
+add_core = LFL
+add_core = LVA
+culture = latvian
+religion = catholic
+hre = no
+base_tax = 3 
+base_production = 3
+trade_goods = grain
+base_manpower = 2
+capital = "Dorpat"
+is_city = yes
+estate = estate_nobles
+discovered_by = KAZ
+discovered_by = CRI
+discovered_by = GOL
+discovered_by = AST
+discovered_by = QAS
+discovered_by = western
+discovered_by = eastern
+

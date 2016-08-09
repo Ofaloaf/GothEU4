@@ -1,0 +1,16 @@
+government = tribal_federation
+primary_culture = carib
+add_accepted_culture = ge
+religion = animism
+technology_group = south_american
+capital = 2905
+
+1400.1.1 = {
+	monarch = {
+		name = "Native Council"
+		adm = 3
+		dip = 3
+		mil = 3
+		regent = yes
+	}
+}

@@ -1,16 +1,18 @@
 # 69 - Oberschwaben (incl. Lindau, Biberach, Überlingen, Ravensberg, and many of the other Free cities of Schwaben)
 culture = swabian
-owner = SWB
-controller = SWB
+owner = GTY
+controller = GTY
 add_core = SWB
-capital = "Ravensburg"
-religion = orthodox
+add_core = GTY
+capital = "Raveschburg"
+religion = catholic
 trade_goods = cloth
-base_tax = 5
-base_production = 5
+base_tax = 3
+base_production = 2
 base_manpower = 1
 is_city = yes
-hre = no
+hre = yes
+
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

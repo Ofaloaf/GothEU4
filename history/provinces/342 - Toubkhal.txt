@@ -1,17 +1,21 @@
 # - Rabat
 
-owner = MOR
-controller = MOR 
+owner = SLA
+controller = SLA 
 culture = mauru
-religion = orthodox
-capital = "Rabat"
+religion = catholic
+capital = "Sala Colonia"
 trade_goods = grain
-hre = no
-base_tax = 4 
+hre = yes
+base_tax = 4
+ 
 base_production = 4
 base_manpower = 2
 is_city = yes
-add_core = MOR
+add_core = SLA
+
+
+
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

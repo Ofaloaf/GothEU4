@@ -84,18 +84,20 @@ leader_names = {
 	Palhio "de Patulo" "de Praesidium"
 	Quaresmus
 	"de Rubras" Rochus
-	"de Serpa"
+	"de Serpa" "de Sines"
 	"de Turobriga"
 	Valentinus
 }
 
 ship_names = {
-	"Ad Rubras"
+	Arandis "Ad Rubras"
+	Balsa Baesuris
 	Cilpes Cuneus
 	"Flumen Anas"
 	"Iulia Myrtilis"
 	Kortikata
+	Mirobriga "Metallum Vipascense"
 	Ossonoba
 	Preziosa "Pax Iulia" "Portus Hannibalis" "Patulus Portus"
-	Sacrum
+	Sacrum Sines Serpa
 }

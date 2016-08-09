@@ -1,19 +1,23 @@
 # - Ouarsenis
 
-owner = TLC
-controller = TLC
-culture = mauru
-religion = orthodox
+owner = CSE
+controller = CSE
+culture = berber
+religion = catholic
 capital = "Ouarsenis"
 estate = estate_nobles
 trade_goods = grain
-hre = no
+hre = yes
 base_tax = 2 
 base_production = 2
 base_manpower = 1
 is_city = yes
-add_core = TLC
-add_core = ALG
+add_core = CSE
+
+
+
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = western
+discovered_by = eastern
+

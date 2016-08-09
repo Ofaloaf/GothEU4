@@ -1,0 +1,20 @@
+government = feudal_monarchy
+government_rank = 1
+technology_group = muslim
+primary_culture = turkish
+religion = jewish
+capital = 2335 # Tamara
+historical_friend = NBT
+
+
+#Amirs of ad-Dar'iya
+
+1399.1.1 = {
+	monarch = {
+		name = "Sökmen III"
+		dynasty = "Togayid"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}

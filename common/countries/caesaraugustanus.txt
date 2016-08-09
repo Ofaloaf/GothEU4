@@ -1,0 +1,97 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 160 90 20 }
+
+historical_idea_groups = {
+	maritime_ideas
+	quantity_ideas
+	religious_ideas
+	trade_ideas
+	naval_ideas
+	economic_ideas
+	innovativeness_ideas
+	offensive_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	spanish_tercio
+	french_caracolle
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Varvarinus #5" = 50
+	"Aecius #2" = 40
+	"Fulvidio #2" = 30
+	"Albanus #1" = 15
+	"Acerrimus #1" = 15
+	"Iose #1" = 15
+	"Patrino #1" = 10
+	"Flaino #1" = 10
+	"Sexto #2" = 10
+	"Vitus #2" = 5
+
+	"Tabita #1" = -10
+	"Dulcina #1" = -5
+	"Vigilia #1" = -5
+
+	"Adiuvando #1" = 1
+	"Boninus #0" = 0
+	"Clementius #1" = 1
+	"Demetrius #0" = 0
+	"Didago #1" = 1
+	"Flaianus #0" = 0
+	"Florenzo #0" = 0
+	"Giorcio #0" = 0
+	"Iohanninus #1" = 1
+	"Mariolus #0" = 0
+	"Nebucano #1" = 1
+	"Orbanus #0" = 0
+	"Sarracinus #0" = 0
+	"Timotheus #1" = 1
+}
+
+leader_names = {
+	Alcense
+	"de Bilbilis" "de Belaisca" "de Bursada" "de Bergiduna" "de Barcinona" "de Belsinon" "de Bourtina" "de Beligio"
+	Casula "de Caspiacum" Coras "de Caravis" "de Caum" "de Clsa"
+	"de Gallicum"
+	"de Jaca"
+	"de Lobetum" "de Lobarra"
+	"de Nertobriga"
+	"de Pertusa"
+	"de Segontia" "de Segia" "de Sermonae"
+	"de Toletum"
+	"de Virula"
+}
+
+ship_names = {
+	Ars Allobo Aratikos
+	Bilbilis Bilbilitanorum Burdunelus
+	Caesaraugusta "Castra Aelia" "Contrebia Belaisca" Carduae Claudius
+	Demeter Drusus Domitianus
+	Gallicum
+	Iber
+	Lobetum
+	"Manlianus Saltus"
+	Nertobriga Nero
+	Osca
+	Platea "Pagus Gallorum"
+	Rictus
+	Segontia Segardinenssium Segeda Sedetania Salduba
+	Tertakom 
+	Utrillas
+}

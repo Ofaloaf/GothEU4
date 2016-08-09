@@ -1,17 +1,18 @@
 #217 - Madrid
 
-owner = TRR
-controller = TRR
-add_core = TRR
+owner = CRP
+controller = CRP
+add_core = CRP
 culture = hispanian
-religion = orthodox
+religion = catholic
 hre = yes
 base_tax = 6
 base_production = 6
 trade_goods = cloth 
 base_manpower = 5
-capital = "Matritum" 
+capital = "Madritum" 
 is_city = yes # Includes the population of Alcalá de Henares and Guadalajara, that at times were bigger than Madrid itself 
+
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

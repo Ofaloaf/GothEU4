@@ -1,9 +1,9 @@
 #427 - Qumis
 
-owner = ITC
-controller = ITC
+owner = QOC
+controller = QOC
 culture = khorasani
-religion = manichee
+religion = zoroastrian
 capital = "Damghan"
 trade_goods = dyes
 hre = no
@@ -12,8 +12,9 @@ base_production = 3
 base_manpower = 3
 is_city = yes
 add_core = PER
-add_core = ITC
+add_core = QOC
 add_core = KHO
+
 
 
 discovered_by = muslim

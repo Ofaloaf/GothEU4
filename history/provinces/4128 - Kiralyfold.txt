@@ -2,9 +2,9 @@
 
 owner = JZY
 controller = JZY
-culture = jasi
-religion = orthodox
-capital = "Cibinium"
+culture = wallachian
+religion = catholic
+capital = "Sibiu"
 trade_goods = cloth
 estate = estate_burghers
 hre = no
@@ -14,7 +14,11 @@ base_manpower = 2
 is_city = yes
 fort_15th = yes #Fortified Region
 add_core = JZY
-
+discovered_by = KAZ
+discovered_by = CRI
+discovered_by = GOL
+discovered_by = AST
+discovered_by = QAS
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

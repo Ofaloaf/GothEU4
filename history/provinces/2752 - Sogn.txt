@@ -3,8 +3,9 @@
 owner = NOR
 controller = NOR
 add_core = NOR
+add_core = VST
 culture = norwegian
-religion = orthodox
+religion = catholic
 hre = no
 base_tax = 1 
 base_production = 1
@@ -17,3 +18,4 @@ capital = "Sogndal"
 
 discovered_by = western
 discovered_by = eastern
+

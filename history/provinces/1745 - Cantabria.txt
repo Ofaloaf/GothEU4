@@ -1,17 +1,20 @@
 #1745 - Cantabria
 
-owner = CNT
-controller = CNT
-add_core = CNT
+owner = GAL
+controller = GAL
+add_core = GAL
 culture = cantabrian
-religion = orthodox
+religion = catholic
 hre = yes
 base_tax = 4
 base_production = 4
 trade_goods = naval_supplies 
 base_manpower = 3
-capital = "Sanct Endere" 
+capital = "Sanctus Andreas" 
 is_city = yes
+
+
+
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

@@ -1,20 +1,22 @@
 #249 - Ayrshire
 
-owner = CMB
-controller = CMB
-culture = cumbric
-religion = orthodox
+owner = ARG
+controller = ARG
+culture = albann
+religion = catholic
 hre = no
-base_tax = 4 
-base_production = 4
+base_tax = 5
+
+base_production = 5
 trade_goods = iron
-base_manpower = 2
+base_manpower = 4
 capital = "Ayr"
 is_city = yes
-add_core = LBA
-add_core = CMB
+add_core = ARG
+
+
+
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
-

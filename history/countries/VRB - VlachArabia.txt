@@ -1,0 +1,17 @@
+government = feudal_monarchy
+government_rank = 1
+primary_culture = pestemari
+religion = catholic
+technology_group = eastern
+capital = 2327
+
+1401.12.6 = {
+	monarch = {
+		name = "Tibor II"
+		dynasty = "Dragusin"
+		birth_date = 1366.5.10
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}

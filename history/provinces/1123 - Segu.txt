@@ -1,0 +1,24 @@
+#1123 - Segu
+
+owner = MAL
+controller = MAL
+add_core = MAL
+culture = bambara
+is_city = yes
+base_manpower = 2
+religion = shamanism #Fetishism
+capital = "Kirina"
+trade_goods = grain
+hre = no
+base_tax = 5 
+base_production = 5
+native_ferocity = 4
+native_hostileness = 9
+add_core = ZAF
+
+
+
+discovered_by = sub_saharan
+discovered_by = western
+discovered_by = ottoman
+discovered_by = muslim

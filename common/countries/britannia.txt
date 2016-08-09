@@ -1,0 +1,154 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 135 63 87 }
+
+revolutionary_colors = { 5  13  0 }
+
+preferred_religion = reformed
+
+historical_idea_groups = {
+	administrative_ideas
+	exploration_ideas
+	quality_ideas
+	maritime_ideas
+	economic_ideas
+	expansion_ideas
+	trade_ideas
+	naval_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	chevauchee
+	western_longbow
+	gaelic_mercenary
+	gaelic_free_shooter
+	french_caracolle
+	irish_charge
+	anglofrench_line
+	french_dragoon
+	british_redcoat
+	british_hussar
+	british_square
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Iago #0" = 40
+	"Gion #0" = 30
+	"Ysteffan #0" = 25
+	"Aleisandr #0" = 20
+	"Costenhin #0" = 20
+	"Stinian #0" = 15
+	"Eirlan #0" = 15
+	"Artorius #0" = 10
+	"Owain #0" = 10
+
+	"Buddega #0" = -10
+	"Gian #0" = -5
+	"Isabel #0" = -10
+	"Sibyl #0" = -10
+
+	"Adda #0" = 0
+	"Antoin #0" = 0
+	"Argad #0" = 0
+	"Arthen #0" = 0
+	"Awstin #0" = 0
+	"Beliatus #0" = 0
+	"Caratauc #0" = 0
+	"Dewidd #0" = 0
+	"Dionysius #0" = 0
+	"Donal #0" = 0
+	"Erbin #0" = 0
+	"Erchyl #0" = 0
+	"Eudaf #0" = 0
+	"Gioffri #0" = 0
+	"Glywys #0" = 0
+	"Gouarren #0" = 0
+	"Guidgen #0" = 0
+	"Gwilim #0" = 0
+	"Hewel #0" = 0
+	"Honorius #0" = 0
+	"Ieroni #0" = 0
+	"Ioruert #0" = 0
+	"Iosep #0" = 0
+	"Kynbelin #0" = 0
+	"Llawreint #0" = 0
+	"Luc #0" = 0
+	"Manuel #0" = 0
+	"Marc #0" = 0
+	"Mathew #0" = 0
+	"Mawr #0" = 0
+	"Morgan #0" = 0
+	"Nennius #0" = 0
+	"Padrig #0" = 0
+	"Pawl #0" = 0
+	"Pedr #0" = 0
+	"Pelagius #0" = 0
+	"Philip #0" = 0
+	"Rhoberth #0" = 0
+	"Rhyssin #0" = 0
+	"Sandde #0" = 0
+	"Senicianus #0" = 0
+	"Serigi #0" = 0
+	"Teuhant #0" = 0
+	"Tewdos #0" = 0
+	"Urien #0" = 0
+	"Voteporig #0" = 0
+	"Ystin #0" = 0
+	"Yuil #0" = 0
+}
+
+leader_names = {
+	Addedmarol Artran Androgus Aldus
+	Breichnir Boibont Bailbiret Berdicguent "di Bannatia" Barbtruc Bledudo
+	Corw Clentsin Coelan Comro Cybidd Clig "di Calleva" Cornovius Cantiag Casiguellan Custenhinan Coilus Capoir
+	Dunantu Dysbellur "di Durnovaris" "di Dincamol" "di Deva"
+	"di Ebriog" "di Eblaid"
+	Ffereir Ffeirth Ffuneir
+	Gwirdd Glasobrin Gryffid Glythun Gwenadur Gwefer Gabrantovig Guotadin "di Gloui" "di Guenta" Goronwy Gorviniaw Gurguiricius
+	Iewen Iguret Imanguentan
+	Jaygo
+	Llewan "di Loidis" "di Lunguvall" Llydwig Llineir "di Lindinis" "di Lerion" Llefelys
+	Martius "di Mancastrel" Moelmut Meddig Mandubragan Magmeil Mabascan
+	Nepus Noguant
+	Ordofig
+	Pab Protictoris Penrhys Prefder Pereirin Paddedo
+	Quidgerey
+	Rhedun Rhoch Rhiu
+	Serw Silwri Seisyll
+	Trammelpila Tegdouerd "de Tuesis" "di Tamia" Tudorig Trahaearn Tennancius
+	"di Uxella"
+	Yniwr
+}
+
+ship_names = {
+	Albanactus "Ambrosius Aurelianus" "Aeneas Silvius" Archgallo Arvirargus Allectus Asclepiodotus "Aurelius Conanus" Artorius
+	Brutus Brennius Belinus Bledudo Britannica
+	Caligula "Claudius Constantinus" Carausius Corineus Cunedagius Cordelia Catellus Cledaucus Clotenus Cassibelanus Coilus
+	"Coelus Magnus" Constantius
+	Digueillus "Dunvallo Molmutius"
+	Eboracum Ebraucus Elidurus Enniaunus Edadus
+	Fulgenius
+	Gorbonianus "Gracianus Municepts" Gurgintius Guiderius Geta
+	Ingenius Idvallo
+	Kimbelinus
+	Londinium Lindum Lemanis Locrinus "Lucius Imperator"
+	Millus "Maxima Caesariensis" "Magnus Maximus" Mempricius Marganus Morvidus Merianus Marius "Mons Badonicus"
+	Oenus Octavius
+	Peredurus "Portus Dubris" Porrex
+	Rutupiae Regulbium Rivallo Redechius
+	Seniciana "Sanctus Augustinus" "Sanctus Pelagius" Sisillius "Sanctus Vortimerus" "Sanctus Dubricius"
+	Theonus Tenvantius Tancogeistla
+	Urianus Urbanus
+	Verlamium Valentia "Venta Icenorum" Volusenus Vortiporius
+}
+
+army_names = {
+	"Yysserchid di $PROVINCE$"
+}

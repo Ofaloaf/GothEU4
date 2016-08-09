@@ -1,0 +1,18 @@
+#1228 - Dongola
+
+culture = nubian 
+religion = coptic
+capital = "Dunqula"
+owner = MAK
+controller = MAK
+add_core = MAK
+is_city = yes
+trade_goods = grain
+base_manpower = 1
+hre = no
+base_tax = 1 
+base_production = 1
+
+discovered_by = east_african
+discovered_by = muslim
+discovered_by = ottoman

@@ -1,0 +1,19 @@
+government = feudal_monarchy
+government_rank = 1 #Emirate
+technology_group = muslim
+religion = jewish
+primary_culture = turkish
+capital = 394	# Al Hasa
+
+
+#Rulers of Qatif
+1365.2.9 = {
+	monarch = {
+		name = "Gulbahar"
+		dynasty = "Qocharid"
+		female = yes
+		dip = 5
+		mil = 2
+		adm = 2
+	}
+}

@@ -1,7 +1,0 @@
-government = feudal_monarchy
-government_rank = 3
-primary_culture = hispanian
-religion = orthodox
-technology_group = western
-capital = 221 # Murcia
-fixed_capital = 221 # murcia

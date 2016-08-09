@@ -35,66 +35,89 @@ historical_units = {
 }
 
 monarch_names = {
-	"Przybyslaw #1" = 30
-	"Czimislav #0" = 30
-	"Czestibor #0" = 20
+	"Przybyslaw #2" = 30
+	"Grzegorz #2" = 25
+	"Bezpryzym #1" = 25
 	"Bartosz #1" = 20
 	"Jindrich #1" = 20
+	"Oldrich #1" = 15
 	"Dervan #0" = 10
 
+	"Hanna #1" = -10
+	"Urszula #0" = -10
+	"Wojslawa #0" = -10
+	"Markéta #1" = -5
+	"Izabela #0" = -5
+
 	"Albinus #0" = 0
+	"Aleksander #0" = 0
+	"Amadeusz #0" = 0
 	"Augustin #0" = 0
 	"Bedrijch #0" = 0
 	"Bogumil #0" = 0
+	"Czimislav #0" = 0
+	"Czestibor #0" = 0
 	"Gero #0" = 0
 	"Handrij #0" = 0
 	"Jakob #0" = 0
 	"Jan #0" = 0
 	"Jurij #0" = 0
 	"Karol #0" = 0
+	"Krzysztof #0" = 0
 	"Mato #0" = 0
+	"Melcior #0" = 0
 	"Merczin #0" = 0
 	"Michal #0" = 0
 	"Mikolaj #0" = 0
 	"Mikulasz #0" = 0
 	"Miliduch #0" = 0
+	"Nikodem #0" = 0
 	"Nussito #0" = 0
+	"Obragim #0" = 0
 	"Pawol #0" = 0
+	"Sandziwogius #0" = 0
 	"Stanislav #0" = 0
 	"Teodoryk #0" = 0
 	"Tunglo #0" = 0
 	"Vratislaw #0" = 0
 	"Wojciech #0" = 0
+	"Wrolicus #0" = 0
 }
 
 leader_names = {
-	Besunzané Buk Brezan Boguslawski
-	Ciszinski Cyzh Colodicus
-	Diduné Dolomice
+	Besunzané Buk Brezan Boguslawski Boyko Bubak
+	Ciszinski Cyzh Colodicus Citko
+	Diduné Dolomice Dmochowski
 	Fryco Frencel Fabricius
 	Glomacze
 	Hornik
-	Jakubica Juriszic
-	Kosyk Kocor Koczka
-	Lugiow 
-	Milczané Muka Matyniak
+	Jakubica Juriszic Jurek
+	Kosyk Kocor Koczka Kozyczy Kniaziewicz Karwowski
+	Lugiow Lawnik
+	Milczané Muka Matyniak Matherzuganiczi
 	Omané
-	Sitice Skala Szwjela Smoler Seik Satow Slonski
+	Poniatowski
+	Rymut Rymkiewicz
+	Sitice Skala Szwjela Smoler Seik Satow Slonski "ze Slupska"
+	Taszyckiego
 	Voseczek
-	Witkojc Wuszcanski Wielezynsji
+	Witkojc Wuszcanski Wielezynsji Wybicki Wielhorski
+	Zajaczek
 }
 
 ship_names = {
-	Arokona
+	Arokona Agencja
 	Budziszyn
 	Cimusclus
-	Dervanus
+	Dervanus Dragomira Deputacja
+	Hanna
 	Janszojcach
 	Karentia
 	Lusatia
 	Milsko Miliduoch Maik Misnia
-	"Prisibislavus Dux" Polabia Porevit Porenut
+	"Prisibislavus Dux" Polabia Porevit Porenut "Prusas de Vindomis"
 	Rugievit Rethra
-	"Sankt Barralus" "Sankt Gausbertus" Svantevit
+	"Sankt Barralus" "Sankt Gausbertus" Svantevit Smok
 	Tjarnaglofi
+	Vistulus
 }

@@ -35,22 +35,33 @@ historical_units = {
 
 monarch_names = {
 	"Toktu #2" = 30
-	"Sabin #1" = 20
+	"Drong #2" = 30
+	"Sabin #2" = 20
 	"Kotrag #1" = 20
 	"Kuber #1" = 15
 	"Batbayan #1" = 15
 	"Kubrat #2" = 15
+	"Bozchin #1" = 15
+	"Telec #1" = 10
 	"Sevar #1" = 10
+	"Telerig #1" = 10
+	"Yerneslu #1" = 10
+
+	"Mala #0" = -5
+	"Ipek #0" = -5
+	"Sarantay #0" = -5
 
 	"Almish #0" = 0
 	"Andriyan #0" = 0
-	"Asparukh #0" = 0
+	"Asparukh #0" = 1
 	"Atner #0" = 0
 	"Dergun #0" = 0
 	"Elteber #0" = 0
 	"Fargat #0" = 0
 	"Ghabdul #0" = 0
+	"Guar #1" = 1
 	"Ille #0" = 0
+	"Karaton #1" = 1
 	"Keshtenttin #0" = 0	# Constantine?
 	"Kezhedey #2" = 0
 	"Krum #0" = 0
@@ -93,12 +104,15 @@ leader_names = {
 ship_names = {
 	Avitohol Atil
 	Bagatur "Biri Bagain" Boila "Ber Tengre" "Bumin Khan"
-	"Dokya Yugra" "Dergun Yugra"
+	"Dokya Yugra" "Dergun Yugra" "Dobrinya Tikshaykid"
 	Irnik
-	Khalga Kaban "Kardam Dulo"
+	Khalga Kaban "Kardam Dulo" Karacik "Karan Tiradin" "Karaton Koshelid"
+	"Mala Froni" "Mastorava Luki"
 	Onoguria Organa
 	Qolovur
-	Subigi
-	"Thorbjorn Froni"
+	Ravzhava
+	Subigi "Sandilkh Gorodezid"
+	"Thorbjorn Froni" Tekche
 	Uran
+	"Yenchepi Yenchepi" "Yani Yani" Yildiz
 }

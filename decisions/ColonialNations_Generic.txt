@@ -3,11 +3,13 @@
 # Appalachia	Watauga
 # Area- Cuba	Cuba
 # Caribbean/HispHaiti
+# Equinoctialia Equinoctia
 # Florida	Florida
 # Mexico	Mexico
 # Mississippi	Mississippi
 # Mississippi	Missouri
 # Ohio		Michigan
+# Plattina	Argentina
 
 # IN SEPARATE FILES AND STILL ACTIVE:
 # Canada
@@ -338,6 +340,74 @@ country_decisions = {
 					NOT = { owned_by = ROOT }
 				}
 				add_permanent_claim = ROOT
+			}
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+			set_country_flag = changed_from_colonial_nation
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	# GENERIC EQUINOXIALIA - EQUINOCTIA
+	equinoctia_nation = {
+		major = yes
+		potential = {
+			NOT = { has_country_flag = changed_from_colonial_nation }
+			OR = {
+				is_former_colonial_nation = yes
+				is_colonial_nation = yes
+			}
+			colonial_equinoxialia = {
+				owned_by = ROOT
+			}
+			OR = {
+				ai = no
+				AND = {
+					ai = yes
+					num_of_cities = 3	
+				}
+			}
+		}
+		allow = {
+			adm_tech = 10
+			is_former_colonial_nation = yes
+			is_subject = no
+			is_at_war = no
+			capital_scope = {
+				colonial_region = colonial_equinoxialia
+				is_core = ROOT
+			}
+			NOT = { exists = N00 }
+		}
+		effect = {
+			change_tag = N00
+			if = {
+				limit = {
+					is_part_of_hre = yes
+					is_elector = no
+				}
+				every_owned_province = {
+					limit = {
+						is_part_of_hre = yes
+					}
+					set_in_empire = no
+				}
+			}
+			if = {
+				limit = { NOT = { government_rank = 2 } }
+				set_government_rank = 2
+			}
+			swap_free_idea_group = yes
+			colonial_equinoxialia = {
+				limit = {
+					NOT = { owned_by = ROOT }
+				}
+				add_claim = ROOT
 			}
 			add_country_modifier = {
 				name = "centralization_modifier"
@@ -706,6 +776,76 @@ country_decisions = {
 					NOT = { owned_by = ROOT }
 				}
 				add_permanent_claim = ROOT
+			}
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+			set_country_flag = changed_from_colonial_nation
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	argentina_nation = {
+		major = yes
+		potential = {
+			NOT = { has_country_flag = changed_from_colonial_nation }
+			is_nomad = no
+			is_random_new_world = no			
+			OR = {
+				is_former_colonial_nation = yes
+				is_colonial_nation = yes
+			}
+			colonial_plattina = {
+				owned_by = ROOT
+			}
+			OR = {
+				ai = no
+				AND = {
+					ai = yes
+					num_of_cities = 3	
+				}
+			}
+		}
+		allow = {
+			adm_tech = 10
+			is_former_colonial_nation = yes
+			is_subject = no
+			is_at_war = no
+			capital_scope = {
+				colonial_region = colonial_plattina
+				is_core = ROOT
+			}
+			NOT = { exists = N01 }
+		}
+		effect = {
+			change_tag = N01
+			if = {
+				limit = {
+					is_part_of_hre = yes
+					is_elector = no
+					is_emperor = no
+				}
+				every_owned_province = {
+					limit = {
+						is_part_of_hre = yes
+					}
+					set_in_empire = no
+				}
+			}
+			if = {
+				limit = {
+					NOT = { government_rank = 2 }
+				}
+				set_government_rank = 2
+			}
+			colonial_plattina = {
+				limit = {
+					NOT = { owned_by = ROOT }
+				}
+				add_permanent_claim = N01
 			}
 			add_country_modifier = {
 				name = "centralization_modifier"

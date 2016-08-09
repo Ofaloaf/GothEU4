@@ -1,0 +1,91 @@
+# Ancona
+
+graphical_culture = westerngfx
+
+color = { 230 227 180 }
+
+preferred_religion = reformed
+
+historical_idea_groups = {
+	maritime_ideas
+	plutocracy_ideas
+	humanist_ideas
+	trade_ideas	
+	defensive_ideas
+	economic_ideas
+	quality_ideas
+	innovativeness_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	italian_condotta
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Giouan #1" = 20
+	"Oreste #1" = 20
+	"Egica #0" = 20
+	"Eracle #0" = 20
+
+	"Agatha #0" = -10
+	"Euphemia #0" = -10
+	"Giulia #0" = -10
+	"Isabella #0" = -10
+
+	"Apollodoro #0" = 0
+	"Arborio #0" = 0
+	"Atanarigh #0" = 0
+	"Ataulfo #0" = 0
+	"Filibert #0" = 0
+	"Gezo #0" = 0
+	"Justiniano #0" = 0
+	"Liberio #0" = 0
+	"Lorens #0" = 0
+	"Magno #0" = 0
+	"Manfrèid #0" = 0
+	"Oton #0" = 0
+	"Teodulfo #0" = 0
+	"Valentiniano #0" = 0
+}
+
+leader_names = {
+	"d'Aesim"
+	Borgèis Bartolin
+	Condulmer Caloyir Campiglahn
+	Ferrus "ëd Falerio"
+	"dël Giss"
+	Mess "dël Mondvi"
+	"de Numana"
+	Podestus "de Potentia" "dël Pesi" "ëd Pisaur" "de Picenicollibus"
+	"ëd Rimin"
+	Sassus "de Senagallica"
+	Tamburus Trubbian "ëd Tolentin"
+	"d'Urbsalh"
+}
+
+ship_names = {
+	Auximum "Ad Aesim" Aesis Ankon Aphrodite "Apollodorus Damascenus" Ariminum Archangelus Attidium
+	Cunerum "Cyriacus Anconitanus" Cyrus Cluana Cingulum "Cupra Montana" "Castellum Firmanorum" "Cingulus Mons"
+	Exarchus
+	Falerio "Fanum Fortunae" "Firmum Picenum"
+	Gambara
+	"Helvia Ricina"
+	Mataurum "Maiorus Orestes"
+	Ostra
+	Pausulae Planina
+	Senator "Sena Gallica" Suasa Septempeda
+	Teodolina Trea Tolentinum Tuficum
+	"Urbs Salvia"
+}

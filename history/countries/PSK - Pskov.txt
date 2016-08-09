@@ -1,0 +1,18 @@
+government = feudal_monarchy
+government_rank = 1
+primary_culture = bolghar
+add_accepted_culture = mordvin
+religion = catholic
+technology_group = eastern
+capital = 274	# Pskov
+fixed_capital = 274 # Cannot move capital away from this province & no power cost to move to it
+
+1390.3.18 = {
+	monarch = {
+		name = "Yani I"
+		dynasty = "Yani"
+		adm = 4
+		dip = 1
+		mil = 4
+	}
+}

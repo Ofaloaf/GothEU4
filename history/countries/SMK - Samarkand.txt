@@ -1,0 +1,18 @@
+#######################################
+# Samarkand
+#######################################
+technology_group = muslim
+unit_type = nomad_group
+primary_culture = uzbehk
+religion = jewish
+government = merchant_republic
+capital = 454 # Samarkand
+
+1400.1.1 = {
+	monarch = {
+		name = "Chulgetei"
+		adm = 3	
+		dip = 3	
+		mil = 3
+	}
+}

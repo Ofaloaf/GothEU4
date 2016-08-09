@@ -1,0 +1,130 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 182 134 100 }
+
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	offensive_ideas
+	spy_ideas
+	trade_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	italian_condotta
+	spanish_tercio
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Ramir #2" = 30
+	"Istève #3" = 30
+	"Exuperius #2" = 20
+	"Regin #1" = 20
+	"Raugier #1" = 15
+	"Pons #1" = 15
+	"Lupus #2" = 15
+	"Alexius #1" = 10
+	"Andraias #1" = 10
+	"Gundovaldus #0" = 10
+
+	"Agatha #0" = -5
+	"Beata #0" = -5
+	"Donna #1" = -10
+
+	"Aldebert #0" = 0
+	"Aymeric #0" = 0
+	"Faluax #0" = 0
+	"Ferrand #0" = 0
+	"Froila #0" = 0
+	"Ibrahardus #1" = 0
+	"Ilians #0" = 0
+	"Lixandre #0" = 0
+	"Lozoïc #0" = 0
+	"Martin #0" = 0
+	"Nicodim #0" = 0
+	"Ordonno #0" = 0
+	"Pèitre #0" = 0
+	"Pol #0" = 0
+	"Quintil #0" = 0
+	"Raimond #0" = 0
+	"Ranimiro #0" = 0
+	"Rodericho #0" = 0
+	"Sans #0" = 0
+	"Sergi #0" = 0
+	"Suneario #0" = 0
+	"Telo #0" = 0
+	"Tiudat #0" = 0
+	"Tiuderic #0" = 0
+	"Tiudòsi #0" = 0
+	"Thiuda #0" = 0
+	"Tumas #0" = 0
+	"Valaric #0" = 0
+	"Vézian #0" = 0
+	"Vicenç #0" = 0
+	"Vitalianus #0" = 0
+}
+
+leader_names = {
+	Amutingi d'Athrebate 
+	Balthe "de Brujas" "de Betuna"
+	Candacingi Cadraut Curral "de Caleeis" "de Cubells" Carbó "de Cumenge"
+	Drautine
+	Faberi
+	Goscemps "de Gualcra"
+	"de Hesdin"
+	d'Insulano d'Iscar
+	Lió "de Liyun" "de Lennacas"
+	Moreu "de Monstruliya" "de Menapiyura" "de Mediubaurga"
+	"de Nauvaporta"
+	Obradors Oueitei
+	Pariquet Paguer Palau Parés
+	Queralt
+	Rampa "de Rodumanus" Roca Reguera Rossolló
+	Sala "de Setelsona" "de Sluis"
+	Tornes "de Tholen" Torner "de Tarvenna"
+	"de Veere"
+}
+
+ship_names = {
+	"Amalricus Augustus" Athalaruna Andrieva Atrebatensis
+	Brujas Bononome Boloniensis
+	Cortoriacum
+	Fleuvus
+	"Gundobad Espersen" Ghisnae Ganda Gesoriacum
+	Helinius
+	Ildaria
+	Lintomagus
+	Menapiorum Minariacum
+	Nerva Neptú
+	"Rainaut de Liyun"
+	"Svorcer Corvus"
+	Tarvenna
+	Viroviacum Vascalis
+	"Wilia Gastigodis" Walacra
+	Ypra
+}
+
+army_names = {
+	"Armata de $PROVINCE$"
+}
+
+fleet_names = {
+	"Flota de $PROVINCE$"
+}

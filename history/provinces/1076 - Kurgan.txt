@@ -1,0 +1,19 @@
+#1076 - Kurgan
+
+owner = TRK
+controller = TRK
+capital = "Kurgan"
+culture = siberian
+religion = manichee
+trade_goods = fur
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 3
+is_city = yes
+add_core = SIB
+add_core = SHY
+discovered_by = nomad_group
+discovered_by = muslim
+revolt_risk = 15
+add_local_autonomy = 75

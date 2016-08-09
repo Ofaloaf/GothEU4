@@ -1,17 +1,18 @@
 #332 - Marash
 
-owner = MTU
-controller = MTU
+owner = BYZ
+controller = BYZ
 culture = turkish
-religion = manichee
-capital = "Maras"
+religion = catholic
+capital = "Germanicia"
 trade_goods = cotton
 hre = no
 base_tax = 5 
 base_production = 5
 base_manpower = 4
 is_city = yes
-add_core = MTU
+add_core = ALP
+add_core = BYZ
 
 
 

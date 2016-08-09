@@ -1,5 +1,0 @@
-government = constitutional_republic
-technology_group = western
-primary_culture = lusitanian
-religion = orthodox
-capital = 950

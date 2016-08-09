@@ -1,0 +1,15 @@
+government = despotic_monarchy
+primary_culture = mordvin
+religion = catholic
+technology_group = eastern
+capital = 1959
+
+1391.12.7 = {
+	monarch = {
+		name = "Mordvinko I"
+		dynasty = "Pronskid"
+		adm = 3
+		dip = 5
+		mil = 4
+	}
+}

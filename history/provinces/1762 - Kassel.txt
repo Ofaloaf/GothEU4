@@ -1,16 +1,19 @@
-owner = FRK
-controller = FRK
+owner = FRC
+controller = FRC
 add_core = HES
-add_core = FRK
+add_core = FRC
 capital = "Kassel"
 trade_goods = grain
 culture = hessian
-religion = orthodox
+religion = catholic
 base_tax = 2 
 base_production = 2
 base_manpower = 2
 is_city = yes
 hre = no
+
+
+
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

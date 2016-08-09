@@ -1,6 +1,7 @@
 scandinavian = {
 	geatish = {
 		primary = GTR
+
 		male_names = {
 			Christian Christoph Oskar Adolf August Göran Sigismund Alfred Axel Edvard Gottfrid 
 			Jakob Ludvig Mikael Olof Patrik Rangvald Rettil Sigvard Simon Sture Svante 
@@ -37,6 +38,58 @@ scandinavian = {
 			"Bese" "Gädda" "Hatt" "Marsvin" "Oxhufvud" "Stake" "Tre Rutor" "Hästesko"
 			"Ulfsax" "Tre Sjöblad" "Bratt" "Munk" "Eketrä" "Gera"
 			"Gylta" "Lillie" "Puke" "Slatte"  "Stiernkors" "Fincke" "Dufva" "Cronstedt"
+		}
+	}
+	osterlander = {
+		primary = OST
+
+		male_names = {
+			Adolf August Arvid
+			Elmer Emil Erik
+			Folquinus
+			Gustaf
+			Hugo
+			Johan Janus
+			Kurt Karl
+			Linus Lars
+			Marcus Mathias
+			Niklas
+			Petrus Paulus
+			Ragnar
+			Stanislaus
+			Zacharias
+		}
+		female_names = {
+			Anna Amanda
+			Christina
+			Emma Elin
+			Irene
+			Linda
+			Olga
+			Pernilla
+			Rosina
+			Sofia
+			Tarja
+			Ulrika
+		}
+		dynasty_names = {
+			Ahlström
+			"von Becker"
+			Castrén Cygnaeus Chydenius
+			Diktonius Donner
+			Etholén
+			Fagerholm
+			Gezelius Gallen Granit Gyldén
+			Horn Himanen Heikel Halonen
+			Järnefelt
+			Kajanus Kallio
+			Lampenius Lillmåns Lönnrot
+			Nordenskiöld
+			"von Qvanten"
+			Sibelius Siegfrids Snellman
+			Topelius Tigerstedt
+			Virtanen
+			Wåhlberg "von Wright" Wegelius Walden
 		}
 	}
 }

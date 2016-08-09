@@ -1,17 +1,18 @@
 # 95 Breda - Principal cities: 's Hertogenbosch & Breda
 
-owner = FLA
-controller = FLA
-add_core = FLA
+owner = RPA
+controller = RPA
+add_core = RPA
 is_city = yes
-capital = "'s Hertogenbosch"
-culture = gothburgundian
-religion = orthodox
+capital = "Breda"
+culture = old_gothic
+religion = catholic
 hre = yes
-base_tax = 5
-base_production = 5
+base_tax = 7 
+base_production = 7
 trade_goods = cloth
-base_manpower = 2
+base_manpower = 4
+
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

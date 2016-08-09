@@ -1,0 +1,33 @@
+government = tribal_despotism
+primary_culture = mali
+religion = catholic
+technology_group = sub_saharan
+capital = 1124	# Niani
+
+
+#Kings of Mali
+1385.11.27 = {
+	monarch = {
+		name = "Koïzé"
+		dynasty = "Musulamen"
+		dip = 1
+		adm = 1
+		mil = 3
+	}
+}
+
+1400.1.1 = {
+	heir = {
+		name = "Soumaba"
+		monarch_name = "Soumaba II"
+		dynasty = "Musulamen"
+		birth_date = 1379.10.5
+		death_date = 1450.1.1
+		claim = 95
+		adm = 1
+		dip = 0
+		mil = 0
+	}
+}
+
+

@@ -1,0 +1,32 @@
+government = feudal_monarchy
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = rhenish
+capital = 88
+
+
+1395.9.29 = {
+	monarch = {
+		name = "Alexius I"
+		dynasty = "de Cumenge"
+		birth_date = 1359.9.14
+		adm = 4
+		dip = 0
+		mil = 1
+	}
+}
+
+1400.9.3 = {
+	heir = {
+		name = "Alexius"
+		monarch_name = "Alexius II"
+		dynasty = "de Cumenge"
+		birth_date = 1400.9.3
+		death_date = 1450.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}

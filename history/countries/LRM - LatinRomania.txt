@@ -1,6 +1,18 @@
 government = feudal_monarchy
 government_rank = 2
 primary_culture = taurinjeis
-religion = orthodox
+add_accepted_culture = romandeis
+religion = catholic
 technology_group = western
-capital = 104 # Milano
+capital = 2979 # Novara/Pavia
+
+1398.1.26 = {
+	monarch = {
+		name = "Teodemiro II"
+		dynasty = "Benveniste"
+		birth_date = 1355.8.3
+		adm = 2
+		dip = 1
+		mil = 4
+	}
+}

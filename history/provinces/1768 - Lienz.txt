@@ -4,14 +4,18 @@ owner = RNT
 controller = RNT
 add_core = RNT
 culture = carantanian
-religion = orthodox
+religion = catholic
 base_tax = 4 
 base_production = 4
 trade_goods = iron
 base_manpower = 2
 capital = "Lienz" 
-is_city = yes	
+is_city = yes
+estate = estate_church
 hre = no
+
+
+
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

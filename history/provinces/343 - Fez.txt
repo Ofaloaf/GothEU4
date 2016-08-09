@@ -3,17 +3,19 @@
 owner = MOR
 controller = MOR 
 culture = mauru
-religion = orthodox
+religion = catholic
 capital = "Fez"
 trade_goods = cloth
-hre = no
-base_tax = 4 
-base_production = 4
-base_manpower = 2
+hre = yes
+base_tax = 5
+base_production = 5
+base_manpower = 3
 is_city = yes
 fort_15th = yes
 add_core = MOR
-add_core = FEZ
+
+
+
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

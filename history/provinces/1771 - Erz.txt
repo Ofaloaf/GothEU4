@@ -1,10 +1,10 @@
 #1771 - Erz
 
-owner = BOH
-controller = BOH
-add_core = BOH
+owner = SRB
+controller = SRB
+add_core = SRB
 capital = "Litomerice"
-culture = czech
+culture = boyustaniy
 religion = catholic
 trade_goods = iron 
 hre = no
@@ -12,6 +12,11 @@ base_tax = 5
 base_production = 5
 base_manpower = 3
 is_city = yes
+discovered_by = KAZ
+discovered_by = CRI
+discovered_by = GOL
+discovered_by = AST
+discovered_by = QAS
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

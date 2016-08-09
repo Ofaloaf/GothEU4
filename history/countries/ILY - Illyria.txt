@@ -1,5 +1,16 @@
-government = feudal_monarchy
+government = elective_monarchy
 primary_culture = dalmatian
-religion = orthodox
-technology_group = eastern
+religion = catholic
+technology_group = western
 capital = 131	# Zagreb
+
+1371.4.28 = {
+	monarch = {
+		name = "Arelio"
+		dynasty = "Hariggs"
+		birth_date = 1330.12.17
+		adm = 3
+		dip = 5
+		mil = 4
+	}
+}

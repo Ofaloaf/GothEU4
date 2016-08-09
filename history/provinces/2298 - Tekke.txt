@@ -1,9 +1,9 @@
 #2298 - Tekke
 
-owner = MTU
-controller = MTU
+owner = AEG
+controller = AEG
 culture = turkish
-religion = manichee
+religion = catholic
 capital = "Adalia"
 trade_goods = cotton
 hre = no
@@ -11,10 +11,13 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
-add_core = MTU
+add_core = AEG
+add_core = BYZ
+
+
 
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
-discovered_by = ottoman
 discovered_by = nomad_group
+discovered_by = ottoman

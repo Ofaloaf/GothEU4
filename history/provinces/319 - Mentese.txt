@@ -1,9 +1,9 @@
 #319 - Mentese
 
-owner = MTU
-controller = MTU
-culture = turkish
-religion = manichee
+owner = THR
+controller = THR
+culture = macedonian
+religion = catholic
 capital = "Mughla"
 trade_goods = cloth
 hre = no
@@ -12,10 +12,13 @@ base_production = 3
 base_manpower = 3
 is_city = yes
 estate = estate_nobles
-add_core = MTU
+add_core = THR
+add_core = BYZ
+
+
 
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
-discovered_by = ottoman
 discovered_by = nomad_group
+discovered_by = ottoman

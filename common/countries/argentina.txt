@@ -1,0 +1,139 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+colonial_parent = MOR
+random_nation_chance = 0
+
+color = { 101 102 163 }
+
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	administrative_ideas
+	spy_ideas
+	quality_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	spanish_tercio
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Exemeno #2" = 30
+	"Petru #2" = 25
+	"Augustinu #2" = 20
+	"Pontzi #1" = 20
+	"Abbmelcar #1" = 15
+	"Mauru #1" = 10
+	"Todosio #1" = 10
+
+	"Murtina #1" = -5
+
+	"Ambrosu #0" = 0
+	"Andrìa #0" = 0
+	"Antiogu #0" = 0
+	"Athanasiu #0" = 0
+	"Bàrtolu #0" = 0
+	"Basiliu #0" = 0
+	"Beneittu #0" = 0
+	"Callistu #0" = 0
+	"Camillu #0" = 0
+	"Damasu #0" = 0
+	"Damianu #0" = 0
+	"Diocletzianu #0" = 0
+	"Dionisi #0" = 0
+	"Donatu #0" = 0
+	"Efis #0" = 0
+	"Eusebiu #0" = 0
+	"Filippu #0" = 0
+	"Fulgentziu #0" = 0
+	"Gaetanu #0" = 0
+	"Gimignanu #0" = 0
+	"Gòsamu #0" = 0
+	"Gregoriu #0" = 0
+	"Ignatzi #0" = 0
+	"Irgennu #0" = 0
+	"Istèvene #0" = 0
+	"Jagu #0" = 0
+	"Joannei #0" = 0
+	"Justinu #0" = 0
+	"Lattantzi #0" = 0
+	"Laurentzi #0" = 0
+	"Leone #0" = 0
+	"Lucas #0" = 0
+	"Luciu #0" = 0
+	"Lussulzu #0" = 0
+	"Marceh #0" = 0
+	"Marinu #0" = 0
+	"Mariu #0" = 0
+	"Mastigas #0" = 0
+	"Masuna #0" = 0
+	"Patrìtziu #0" = 0
+	"Paulu #0" = 0
+	"Pelagiu #0" = 0
+	"Peregrinu #0" = 0
+	"Pompeju #0" = 0
+	"Quintus #0" = 0
+	"Quodvultdeus #0" = 0
+	"Rafiele #0" = 0
+	"Renatu #0" = 0
+	"Revocatus #0" = 0
+	"Sarafinu #0" = 0
+	"Sebustanu #0" = 0
+	"Stembanu #1" = 0
+	"Teodore #0" = 0
+	"Teofanu #0" = 0
+	"Tommasu #0" = 0
+	"Tulumeju #0" = 0
+	"Zefirinu #0" = 0
+	"Zennaru #0" = 0
+	"Ziròminu #0" = 0
+}
+
+leader_names = {
+	Aangaliu D'Aquinu Anedda Atzeni Amilcari D'Ardrumetu Awras Aderbali Ampeliu
+	Balistreri Barce Bandinu Bodei Broccu Brachodanu Bomilcaru
+	Cappai Cubeddu Casula Castrabarèns "di Cedamusa" Chilo Cezeus
+	"di Duga"
+	"di Frigla" Fara
+	Ghessa "di Gegi"
+	Herasius
+	Jugurta "di Jovis"
+	Lussu "di Lesvi" Longinu
+	Melis Murgia "di Maxila" Machliu Musulamen
+	Nasamonu
+	Pinna "di Pacatigna" Paulis Petris Poddighe Pisciu
+	"de Ruspe"
+	Siccanu Siagulanu "di Sala" "di Sèptu" Satta Secche "di Silvani" Schellou Schoviah Siriti Sallustiu
+	"di Tamuco" "de Tabernas" "di Tuburbo" Thalassius
+	Viridiu "di Veresvi"
+	Zauecu Zaba
+}
+
+ship_names = {
+	Araucania Argenta Augustinus Aemilianus Absasalla Aquila Apollo
+	Bocchus
+	Caritas
+	Dido Dionysia
+	Eolus
+	Massinissa Minerva Mars
+	Patagonia Punica Proconsul
+	Thaddeus Thysdrus
+	"Zama Nova"
+}

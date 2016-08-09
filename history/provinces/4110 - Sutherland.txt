@@ -1,9 +1,9 @@
 #4110 - Sutherland
 
-owner = LBA
-controller = LBA
+owner = ARG
+controller = ARG
 culture = highland_scottish
-religion = orthodox
+religion = catholic
 hre = no
 base_tax = 2
 base_production = 2
@@ -12,7 +12,7 @@ base_manpower = 2
 capital = "Dornoch"
 is_city = yes
 estate = estate_nobles
-add_core = LBA
+add_core = ARG
 add_core = HSC
 discovered_by = western
 discovered_by = muslim

@@ -1,0 +1,18 @@
+government = feudal_monarchy
+technology_group = western
+unit_type = muslim
+religion = catholic
+primary_culture = cartagginu
+government_rank = 1
+capital = 354	# Tripoli
+
+1374.2.9 = {
+	monarch = {
+		name = "Esemena I"
+		dynasty = "de Sankt Blasien"
+		female = yes
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}

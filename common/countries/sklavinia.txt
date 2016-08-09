@@ -1,0 +1,95 @@
+# Sklavinia
+
+graphical_culture = easterngfx
+
+color = { 215 178 49 }
+
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	trade_ideas
+	diplomatic_ideas
+	religious_ideas
+	economic_ideas
+	quantity_ideas
+}
+
+historical_units = {
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
+
+monarch_names = {
+	"Ardagast #0" = 40
+	"Viktor #0" = 35
+	"Pirogast #0" = 30
+	"Stefan #0" = 30
+	"Mezamir #0" = 20
+	"Tiberij #0" = 20
+
+	"Andronikosa #0" = -5
+	"Bogdana #0" = -5
+	"Evdokia #0" = -5
+	"Veronika #0" = 0
+
+	"Akamir #0" = 0
+	"Andrija #0" = 0
+	"Apsich #0" = 0
+	"Boz #0" = 0
+	"Dmitar #0" = 0
+	"Domagoj #0" = 0
+	"Idariz #0" = 0
+	"Kelagast #0" = 0
+	"Kulin #0" = 0
+	"Lobel #0" = 0
+	"Muzok #0" = 0
+	"Ninoslav #0" = 0
+	"Omeljan #0" = 0
+	"Petar #0" = 0
+	"Ratimir #0" = 0
+	"Seculus #0" = 0
+	"Sergeis #0" = 0
+	"Teodor #0" = 0
+	"Toma #0" = 0
+	"Ulfo #0" = 0
+	"Valerij #0" = 0
+	"Vasiliis #0" = 0
+	"Yaropolk #0" = 0
+}
+
+leader_names = {
+	Apsintvic
+	Cypsellus
+	Draguvit
+	Pastrovic
+	Rynchin Rusavic
+	Sedov Smolyan
+	Timocan Tominus
+	Vajun Vucic
+	Zagorit Zanovic Zupcic
+}
+
+ship_names = {
+	Anticus Akameros
+	Bos
+	Chilbudius Chatzon
+	Dabragezas Daurentius
+	Musokios
+	Perbundus
+	Turris
+	Vagenetia
+}

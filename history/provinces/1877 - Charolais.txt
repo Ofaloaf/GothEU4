@@ -1,15 +1,19 @@
-owner = LIU
-controller = LIU
-capital = "Quadrigellae"
+owner = GTH
+controller = GTH 
+capital = "Cadrela"
 is_city = yes
-culture = gautonian
-religion = orthodox
+estate = estate_nobles
+culture = gautes
+religion = catholic
 hre = yes
-base_tax = 3 
-base_production = 3
+base_tax = 4
+base_production = 4
 trade_goods = salt
-base_manpower = 2
-add_core = LIU
+base_manpower = 3
+add_core = GTH
+
+
+
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

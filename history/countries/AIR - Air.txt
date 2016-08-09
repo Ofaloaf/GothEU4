@@ -1,0 +1,5 @@
+government = tribal_federation
+primary_culture = tuareg
+religion = catholic
+technology_group = sub_saharan
+capital = 2274	# Agades

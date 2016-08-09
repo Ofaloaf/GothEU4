@@ -11,22 +11,19 @@ gothic_group = {
 	graphical_culture = westerngfx
 
 	gothburgundian = {
-		primary = TOX
 	}
 	gautonian = {
 		primary = GTY
 	}
 	armorican = {
-		primary = AMC
+		primary = RDM
 	}
 	rhenish = {
-		primary = BLG
 	}
-	liunesan = {
-		primary = LIU
+	gautes = {
+		primary = GTH
 	}
 	theifal = {
-		primary = THF
 		male_names = {
 			Austrapius Alsti Arnegisel Adelelm Andron Alphonsus Andraias Amadaius Audo Alias Atila Anagaste
 			Borral Bleda
@@ -175,7 +172,6 @@ carthagennan_group = {
 	cantabrian = {
 	}
 	lusitanian = {
-		primary = LUS
 		male_names = {
 			Abbelino
 			Caio Césarus
@@ -212,6 +208,8 @@ carthagennan_group = {
 	baetic = {
 	}
 	gallaecian = {
+	}
+	vasconian = {
 	}
 	male_names = {
 		Abbelino Abdias Abraham Abrentius Acerrimus Adam Adamantius Adiuvando Atrianus Advocatus Aecius
@@ -289,7 +287,6 @@ gallic_group = {
 	graphical_culture = westerngfx
 
 	aquitanian = {
-		primary = AQI
 	}
 	arvernian = {
 		primary = AUV
@@ -361,7 +358,6 @@ new_world_african_group = {
 	male_names = { Osman Mohomet }
 
 	new_world_african = {
-		primary = MRA
 		male_names = {
 			Abbas Abdel Amadou Ayuba
 			Bello
@@ -483,8 +479,6 @@ latine = {
 	graphical_culture = westerngfx
 
 	avarian = {
-		primary = AVR
-
 		male_names = {
 			Aba Adrian Alp Andrea Antoni Anzi Arogis Arslanio Atenolfo Àtila Avit
 			Baian Bars Buoso Bonvesin Benedétt Baitza Balambero Bagatoro
@@ -539,21 +533,70 @@ latine = {
 			Zerbis
 		}
 	}
-	lat_ligurian = {
-	}
 	lat_neapolitan = {
+		primary = CPA
 	}
 	lat_sicilian = {
 	}
 	lat_venetian = {
 	}
+	soab = {
+		male_names = {
+			Albert Ainrigh Alarigh Alamir Ariamir Arosind
+			Bennàit Batista Badamund Baltarius
+			Carl Çesare Costans
+			Emanuel Emilian Evarigh Elperigh Ensald Evosind
+			Felis Fagild Felmir Francolin Froatingus Fromild
+			Giouan Gliçeio Gomulf Gresumar Gudesteus Guntato
+			Hermerigh Hildemir Hunisco Hilderigh
+			Lançerotto Lissànder Lugh Leodulf Leodegast Lodemir
+			Majoran Medeo Manfrèid Margh Magistus Malaredus Malarigh Maldras Massilan Merigius Miro
+			Nicolet Nandarigh Nantild Neufilas Nitigis
+			Olderigh Oton Odamir Odemundus Oderigh Onemir Osorigh Otuald
+			Pastor Pero Pennio Pabregild Pantinus Pappinus Pederafild Provared
+			Quedesendo Quedulfus Quidemiro Quidericus
+			Remigirus Ragolfus Raqerigh Randinus Rodomir Roelind
+			Scipion Sido Sagatus Saxomer Segomir Sescut Sisulf Spoderigh Sunila
+			Tiuderigh Tudrus Tiubald Tumtuld
+			Vitòrio Vannius Vibilius Vangio Venedar Veremund Vidrald Vistremir
+			Zamarius
+		}
+		female_names = {
+			Alessia Adelàide Aosilia Ada Ailo Ansetrudia Astriberga Alatrudia
+			Bagina Berina
+			Cenabrida Cisilo
+			Dadilo Dagadruida Drusilla
+			Ebragundia Eldegundia Emilo Entruda Ermendrudia Ermilda Espallo
+			Felicita Faquilo Fradegundia Frogilda Frolio
+			Gelvira Godoigia Goldrerona Gundiverga Guntedrudia
+			Laura Lea Lallina Liuvilo
+			Maura Marina Manuara Mirosinda
+			Narcissa
+			Penefreda Penetrudia
+			RagesendaRaniverta Recerona Recesenda RecesuindaRezevera Riquilo
+			Sabegoto Stephania Senuita Sindiverga Sisverta Sitividis Sparuilda Suevisco 
+			Tederona Teodevirga Teodiverta Teodoriga Teudileova Texilla Trasavara Trasmira Trastivigia
+			Vergina Viscaverga Visterlo Vistravara Vistrilda
+			Zanina			
+		}
+		dynasty_names = {
+			Anxionnaz 
+			Burigh
+			Coadus Cadualdin
+			"vu Dibenga"
+			Marsignh
+			Osus
+			Santamans
+			Tudrigh
+		}
+	}
 	taurinjeis = {
-		primary = TNJ
 		male_names = {
 			Albert Ainrigh Alarigh 
 			Bennàit Batista
 			Carl Çesare Costans
 			Emanuel Emilian Evarigh
+			Felis
 			Giouan Gliçeio
 			Lançerotto Lissànder Lugh
 			Majoran Medeo Manfrèid Margh
@@ -568,23 +611,81 @@ latine = {
 		female_names = {
 			Alessia Adelàide Aosilia Ada
 			Felicita
+			Laura Lea
 			Maura Marina
+			Narcissa
 		}
 		dynasty_names = {
-			"d'Àich" "d'Alba"
-			Biancaman Borgèis Becut
-			Calcahn Calcagn
+			Anxionnaz "d'Àich" "d'Alba" "d'Aquablanca" Ainardi Ayres
+			Biancaman Borgèis Becut Bagnyun Bisilliat Brossa Brambilla Brocardus Bertea
+			Calcahn Calcagn Costerg Canaveris Cardis Colombaris Cusa "ëd Challant"
+			Déprimoz
+			Gerdil "de Grandson" Gex Germonius
 			"ëd Lissandria"
-			"dël Mondvì"
-			"ëd Salusse"
-			Vergano
+			Mardiyun "dël Mondvì" Minjoz
+			Oggeri
+			Priora Prina Pollonera Pittara Pochintesta Pastoris
+			Quadrone
+			Ricca Reycend
+			Salesius "ëd Salusse" Santamans Spalla Seras Stratta Serra Sacerdote
+			Tovo "ëd Tarantasia"
+			Vergano Valfrè Vighi Verdura "ëd Vapeleunna"
 		}
 	}
-	lat_roman = {
-		primary = ROM
+	romandeis = {
+		primary = RMA
+		male_names = {
+			Albert Ainrigh Alarigh Ajmon Antòni
+			Bennàit Batista Bonaventura
+			Carl Çesare Costans
+			Emanuel Emilian Evarigh
+			Felis
+			Giouan Gliçeio Galfridus Gesù
+			Lançerotto Lissànder Lugh
+			Majoran Medeo Manfrèid Margh Maté
+			Nicolet
+			Olderigh Oton
+			Pastor Pero Paul
+			Remigirus Romaeus Romulus
+			Scipion
+			Tiuderigh Timotheus
+			Vitòrio
+		}
+		female_names = {
+			Alessia Adelàide Aosilia Ada
+			Claudia Constancia Constantina
+			Donata
+			Felicita
+			Galla Georgina Georgia
+			Honoria Horatia
+			Julia Justa Justina
+			Laura Lea
+			Maura Marina
+			Narcissa
+			Renata Romula Ricarda
+			Theodora
+			Zenobia
+		}
+		dynasty_names = {
+			Anxionnaz "d'Aquablanca" Ainardi Ayres Anigh
+			Biancaman Borgèis Becut Bagnyun Bisilliat Brossa Brambilla Brocardus Bertea
+			Calcahn Calcagn Costerg Canaveris Cardis Colombaris Cusa
+			Déprimoz
+			Ferrandin Fois
+			Gerdil "de Grandson" Gex Germonius
+			Imbamba
+			"ëd Lissandria"
+			Mardiyun "dël Mondvì" Minjoz Massaja Melis
+			Oggeri
+			Priora Prina Pollonera Pittara Pochintesta Pastoris
+			Quadrone
+			Ricca Reycend
+			Salesius "ëd Salusse" Santamans Spalla Seras Stratta Serra Sacerdote
+			Tovo 
+			Vergano Valfrè Vighi Verdura "ëd Vapeleunna"
+		}
 	}
 	dalmatian = {
-		primary = ILY
 
 		male_names = {
 			Adam Aguastin Alecuandur Aliau Aliard Andre Antuone Apricanu Artebus Arelio
@@ -685,24 +786,22 @@ latine = {
 	dynasty_names = {
 		Anicio
 		"de Fiorentia"
-		Senatore
+		Lepido
+		Maleventio
+		Neapolites
+		"de Patavium"
+		Senatore Senio
 		Tatulano "de Tibur"
 	}
 }
 
-brythonic = {
+brythonic = { # 'Brithenig' in-game
 	graphical_culture = westerngfx
 
 	cumbric = {
-		primary = CMB	# Cumbria
-	}
-	cambric = {
 	}
 	loegric = {
-		primary = LOE	# Loegria
-	}
-	hibernaidd = {
-		primary = IWR # Iwerddon
+		primary = LOE
 	}
 	male_names = {
 		Artorius Aleisandr Arthamil Adda Arthwr Antoin Awstin Alan Arthen Argad Andreas
@@ -812,14 +911,16 @@ scythic = {
 	graphical_culture = easterngfx
 
 	alan = {
-		primary = ALN
+	}
+	sarmatian = {
+		tag = MUL
 	}
 	venediy = {
 	}
 	boyustaniy = {
 	}
 	jasi = {
-		primary = JZY
+		tag = JZY
 	}
 	male_names = {
 		Ælbeg Æmbalan Aghsartan Alatey Akhsar Anbal Anbazuk Aravat Arsen Askhkadar Ashot Aslan Aspar Athom
@@ -857,121 +958,6 @@ scythic = {
 	}
 	dynasty_names = {
 		Halani Vistüliy Viadriy Circipaniy
-	}
-}
-
-sclavenian = {
-	graphical_culture = easterngfx
-
-	male_names = {
-		Aleksiis Anastaziis Andronik Avidij Avit Antemij Antonin Avrelij Arkadij Avgust Anton Aleksandr Arsen
-		Balines Beralanas Borilo Bozidaro Braslavis Bazilisk Boris Bratomil Bogdanos Bozh Blazh
-		Danos Dionisiis Dominikos Dragomanas Drzislavas Dobritas Dragos Domicijan Dorotei Decij Dmitrei Dalibor
-		Dobrogast Dobromil Drazhan Dragutin Dervan Daniel
-		Eugeniis Evstratij Emilijan Evtimiis
-		Filip Foka Frujines 
-		Gaito Gorgur Gordijan Gavril Georgeis Gastislav Gaja
-		Hranimor Hariton Honorij Heraklij Hadrijan
-		Ioakim Ivanes Ierolim Idariz Izak
-		Kelagast Khetagur Kosta Kelamir Klaudij Kir Konstantin Konstans
-		Leo
-		Mezamir Musok Miroban Merugast Mechislav Milodrag Milogast Milosh Mirche Miroslav Mislav Mitrofan Marko
-		Mstislav Macro Makrin Maksimin Momchiles Milos Mariis Mihajl Manuel
-		Nikolas Nil Neron
-		Ognen Olibrije
-		Petar Priezdas Paveles
-		Radus Roman Romul Ratimir
-		Savas Sermon Slavacos Stracimiros Svetislav Sever Semptimij Sofronij Sergeis Stefan
-		Tomoslav Teodor Toma Tit Tacit Teodozij Tiberij
-		Vasiliis Viseslav Voinomiros Vitelij Valerijan Viktor Valerij
-		Yaropolk Yaromil Yargonev
-		Zdeslav Zahariis
-	}
-	female_names = {
-		Alda Aleksija Andronikosa Anatstazija Anna Antonija Agata Angija Atanasija Aleksandra Aleksandrina
-		Biliana Bisera Bogdana Bogna Borislavsa Boiana Bozhena Branislava Bojana Biserka
-		Cvijeta 
-		Dana Desislavsa Donka Danica Davorka Darija Doroteja Damjana 
-		Elisaveta Emilia Evdokia Elena Eudokija Ekaterina Elimija
-		Filipa Fasilca Fioleta
-		Goranka Gordijana Gergana
-		Irena Ivana Ilinka Isidora Iskra Ifana Iordanca
-		Jagoda Jasmina Julijana
-		Kornelika Kristina
-		Lalia Lidia Liliana Ludmila Ljubica Lyudmila
-		Maia Marija Magdalena Mariajana Marta Milanka Manuela Militsa
-		Nadeida Nefena Nicolina Natasha Nadezhda Nevena
-		Olga
-		Penca Petra Pelageja
-		Rada Rositsa Radoslava Rahela Ruzha
-		Silvia Snesana Stoianca Shifca Sara Sladjana Smiljana Snjezhana Sofija Suzana Svetlana
-		Teresa Todorca Tisfeta Teodora Timoslava Teodorija Theodote Tatjana Tamara
-		Voeca Veronika Valerija Vasilija Vedrana Vesna
-		Zoe Zhivka Zheljka
-	}
-	traki = {
-	}
-	rimlyani = {
-	}
-	aziyski = {
-	}
-	carantanian = {
-		male_names = {
-			Andrija
-			Boruth Bogo Borna Branimir Bernardin Blaz
-			Cacatius Cheitmar Cedada Chrtomir
-			Domislav Dragomir Dabus Drzislav Domagoj Dmitar
-			Etgar Emerik
-			Fergil Franc
-			Gorazd Gregur
-			Hotimir Hrvoje
-			Iban
-			Juraj
-			Kresimir Kulin Kristo
-			Ladislav Ljedvit Ljutomisl Lovro
-			Modest Majmir Maligoj Mutimir Miroslav Mihajlo Matej Moseguo
-			Nicolaus Ninoslav
-			Pribislav Pribina Petar Pavao
-			Rudbert Radigoj Radus Radovan Ratimir Ruodo
-			Svatobor Semika Stojmir  Svetopolk Svobodin Stanko Stjepan
-			Tomislav
-			Ulfo
-			Valuk Valtunk Vran Vitomir Vitan Vojnomir Viseslav Valhun Valentin
-			Wezil Witogowo Zdeslav Zvonimir
-		}
-		female_names = {
-			Angelina Anna
-			Borislava Branimira Braslava Bogomila
-			Drzislava
-			Gojslava
-			Hicela
-			Jadviga Jelena
-			Kresimira
-			Ljuba Ladislava
-			Mirica Mojca Miroslava Mislava Mutimira Marija
-			Ninoslava
-			Petrissa
-			Ratimira
-			Slava Svetislava
-			Tunca Tomislava
-			Viseslava Vladislava Vojnomira
-			Zverica Zvonimira Zdeslava Ziva
-		}
-	}
-	dynasty_names = {
-		Apsintvic Arotras
-		Bardan
-		Cypsellus
-		Daurentius Duka Diogen Dopin Dardanij
-		Izaurijac
-		Karadza Kamatir Kavasila Komnen Krenyts
-		Metohit Moscopolyets Murzuful Manijak Melingin Mezamerus Moutimirus
-		Njegus Nepot Novakis
-		Palama Poliorket
-		Rinotmet Rossos Rhynchinets
-		Sinkel Skamandren Studit Spanes Strumanets
-		Tsoutsimirus
-		Vajunits
 	}
 }
 
@@ -1042,66 +1028,11 @@ africanu = {
 	}
 }
 
-volga = {
-	graphical_culture = easterngfx
-
-	bolghar = {
-		primary = VBG
-
-		male_names = {
-			Almish Alzek Anzi Apskhih Araslan Asparukh 
-			Balamber Bars Bataul Batbayan Batoya Batulia Bayan Belkermak Bezmer Boyan Bulger Buzan 
-			Chepa Chinialush Dengizikh 
-			Dizeng Dometa Dristar Drong Dukum 
-			Ellak Elemag Ernakh Eskhakh 
-			Goleda Gostun Guar 
-			Hudbad 
-			Iani Irnek Isbul Islivan Isperikh Ispor 
-			Kardam Kharaton Khinialon Khudbard Kordil Kormesiy Kormisosh Kotrag Krovat Krum Kuber Kubrat Kurt Kutrigur Kuvrat 
-			Kälaç Kano Karan Karaton
-			Labertam 
-			Magotin Malamir Mugel 
-			Odolgan Okhsi Okhsun Okors Omurtag Onegavon Organ Organa Ornag Oshi Ostro 
-			Pagan Pakhtiyar Paväl Praksa 
-			Rassate Rugila 
-			Sabin Sandil Sandilkh Sarkhan Sartäç Savin Sevar Shilki Sondoke 
-			Tähtaman Tarasiy Taridin Tatra Telec Telerig Tervel Timër Timëreç Timërpälat Tingiz Tiradin Tokhtaman 
-			Toktu Tsog Tsul Tuk 
-			Umor Uturgur 
-			Vakrim Venda Vetam Vinekh Yani 
-			Yavantey Yençepi Yerneslu Yeçtirek 
-			Zabergan Zenti Tukiy Aydar Irkhan Batir
-		}
-		female_names = {
-			Çeçek Çeçeppi Çeçki Çeçtilet Çilen Çiltanesi 
-			Özgul Özlem 
-			Akgul Asli Ayasun Ayten 
-			Bozçin 
-			Dilek
-			Esin
-			Gulçeçek Gulay Gunduz Gundes Gunes Ikalay Ilkay Ipek Ipekel Irge 
-			Karacik Kätyarikka Këlnissa Këlyamal 
-			Lärkka Lyukha 
-			Mala Maturkka Mutlu 
-			Naça 
-			Patiyer Paykëlti Peksen Puyantay 
-			Sati Savaçka Savkëlti Savtilek Savilay Savintik Shurkka Sibel Sirin Sirma Songul Samur Sarantay Sarä Sarica Sarikel 
-			Tähtani Tekçe Tura 
-			Umay Usunbike 
-			Yasar Yeldem Yildiz Yartilek 
-		}
-	}
-	dynasty_names = {
-		Ashina Dulo Erdevelu Ugain Vokil Altsikur Sabir Ezgil Kashu Barskhan Suvar Barsil Bilar Balanjar
-	}
-}
-
 vlach_group = {
 	wallachian = { # Romanian proper.
-		primary = DCA
 	}
-	vlachika = { # Romanian for Thrace/Bulgaria and such ex-Byzantine lands south of the Danube. Tracia is the primary.
-		primary = THR
+	vlachika = { # Romanian for Thrace/Bulgaria and such ex-Byzantine lands south of the Danube. Thrace is the primary.
+		#primary = THR
 	}
 	pestemari = { # Romanian 'Outremer' culture. (Kingdom of) Jerusalem is the primary.
 		primary = KOJ

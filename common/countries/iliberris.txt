@@ -1,0 +1,93 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 245 242 15 }
+
+historical_idea_groups = {
+	defensive_ideas
+	innovativeness_ideas
+	maritime_ideas
+	exploration_ideas
+	trade_ideas
+	diplomatic_ideas
+	economic_ideas
+	quality_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	dutch_maurician
+	swedish_gallop
+	swedish_gustavian
+	swedish_caroline
+	swedish_arme_blanche
+	prussian_frederickian
+	prussian_uhlan
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Stevanus #1" = 30
+	"Nigolago #0" = 30
+	"Paulo #4" = 30
+	"Vincemalus #1" = 25
+	"Flaino #1" = 20
+	"Toutellus #2" = 20
+	"Ennegus #1" = 15
+	"Elyas #1" = 15
+	"Teorenius #1" = 10
+	"Abellonio #1" = 10
+
+	"Flamule #1" = -10
+	"Matreduze #1" = -10
+	"Presenza #1" = -10
+	"Ana #1" = -10
+	"Margarida #1" = -10
+
+	"Adiuvando #0" = 0
+	"Blandino #1" = 1
+	"Deodatus #0" = 0
+	"Domimentius #1" = 1
+	"Domingiu #1" = 1
+	"Donnadeo #0" = 0
+	"Eolalio #1" = 1
+	"Exemeno #1" = 1
+	"Flaentius #1" = 1
+	"Magnus #0" = 0
+	"Timotheus #2" = 1
+	"Sexto #0" = 0
+}
+
+leader_names = {
+	Argantonio "de Acci"
+	"de Biyaca" "de Beatia"
+	Coras Cartaginiense "de Consaburra"
+	"de Gaiena" "de Guyina"
+	"de Iliberitanum" "de Ilturir"
+	"de Rigusa"
+	"de Salaria"
+	"de Tarraco" "de Turiana"
+	"de Vergilia" "de Viniolae"
+}
+
+ship_names = {
+	Acci Abdera Aboula Acutus
+	Beatia
+	Ciconia Celer
+	Gaiena Gemal
+	Iliberris Ilturir Iuno
+	Lallina
+	Murgi Minerva
+	Neptunus
+	Orospeda
+	"Portos Magnos"
+	Salaria Semperbona Solorius
+	Turdus
+	Vergilia Viniolae Velox
+}

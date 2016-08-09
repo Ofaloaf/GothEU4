@@ -35,106 +35,94 @@ historical_units = {
 }
 
 monarch_names = {
-	"Tihomir #2" = 40
-	"Aleksandru #5" = 40
-	"Kazimeru #3" = 35
-	"Marko #3" = 30
-	"Tiberij #3" = 25
-	"Dobrogast #1" = 25
-	"Dmitrei #1" = 25
-	"Filip #2" = 25
-	"Zdislav #2" = 20
-	"Dragomeru #1" = 20
-	"Miroban #1" = 20
-	"Hariton #1" = 20
-	"Zdislav #1" = 15
-	"Kyrilu #1" = 10
-	"Valuk #1" = 10
+	"Kostantin #3" = 40	# Constantinus
+	"Iskender #5" = 40
+	"Eugenius #4" = 30
+	"Yuhanna #2" = 30	# Iohannes
+	"Jüstinyen #0" = 25	# Justinian
+	"Teodor #0" = 15
+	"Konstans #1" = 15
+	"Manuel #0" = 10
+	"Mikail #0" = 10	# also Turkish form of Michael, a fine name indeed
 
-	"Anna #0" = -5
+	"Roxelana #0" = -5
 
-	"Andrej #0" = 0
-	"Arsen #0" = 0
-	"Bazilisk #0" = 0
-	"Bozhidar #0" = 0
-	"Bratomil #0" = 0
-	"Celestin #0" = 0
-	"Ciril #0" = 0
-	"Dabrag #0" = 0
-	"Dalibor #0" = 0
-	"Dorotej #0" = 0
-	"Drazhan #0" = 0
-	"Eugenij #0" = 0
-	"Eumen #0" = 0
-	"Eutimije #0" = 0
-	"Gaja #0" = 0
-	"Godarz #0" = 0
-	"Hadrijan #1" = 0
-	"Heraklij #0" = 0
-	"Hipolit #0" = 0
-	"Idariz #0" = 0
-	"Inocent #0" = 0
-	"Justin #0" = 0
-	"Kaloker #0" = 0
-	"Kedron #0" = 0
-	"Mstislav #0" = 0
-	"Nearh #0" = 0
-	"Nebovlos #0" = 0
-	"Nikita #0" = 0
-	"Nil #0" = 0
-	"Novacijan #0" = 0
-	"Pridbor #0" = 0
-	"Prokopje #0" = 0
-	"Radoslav #0" = 0
-	"Serafim #0" = 0
-	"Sergej #0" = 0
-	"Stefan #0" = 0
-	"Svetopolk #0" = 0
-	"Teofil #0" = 0
-	"Teofilakt #0" = 0
-	"Ursin #0" = 0
-	"Vavila #0" = 0
-	"Yarognev #0" = 0
-	"Zbignev #0" = 0
-	"Zefirina #0" = 0
-	"Zosim #0" = 0
+	"Abraham #0" = 0
+	"Afsin #0" = 0
+	"Andreas #0" = 0
+	"Aksonqor #0" = 0
+	"Bartalmay #0" = 0	# Bartholomew
+	"Bünyamin #0" = 0	# Benjamin
+	"Cebrail #0" = 0	# Gabriel
+	"Danyal #0" = 0
+	"Demirtas #0" = 0	# is this Demetrius?????
+	"Dukak #0" = 0
+	"Filipus #0" = 0
+	"Gregor #0" = 0
+	"Idris #0" = 0
+	"Isa #0" = 0		# Jesus
+	"Ishak #0" = 0
+	"Ismail #0" = 0		# Ishmael
+	"Jül #0" = 0
+	"Lazar #0" = 0
+	"Levon #0" = 0
+	"Matta #0" = 0		# Matthew
+	"Musa #0" = 0		# Moses
+	"Sevgi #0" = 0
+	"Shmu'il #0" = 0	# Samuel
+	"Simun #0" = 0		# Simon
+	"Süleyman #0" = 0	# Solomon
+	"Tihomir #0" = 0
+	"Toktamis #0" = 0
+	"Tomas #0" = 0
+	"Yakub #0" = 0		# Jacob
+	"Yehuda #0" = 0		# Judas
+	"Yunus #0" = 0		# Jonas
+	"Yusuf #0" = 0		# Josef
+	"Zakariya #0" = 0	# Zachary. Also can be rendered 'Zekeriya'
 }
 
 leader_names = {
-	Apsintvic Abantiy Arotras
-	Berzit Bebikij Bardan
-	Cypsellus
-	Daurentius Danteletayets Duka Diogen Dopin
-	Fragondij
-	Homatijan
-	Izaurijac Iasties
-	Komnen Krenyts Kavasila Katamir
-	Melanditiy Musocius Mezamerus Melingin Manijak Murzuful Moscopolyets Metohit Mogila
-	Novakis Nepot
-	Obulenziy
-	Pirogerij Panisos Poliorket Paflagonij Paitij Phalimer Proarhij Petraliphas
-	Ratimarus Rossos Rinotmet Rubljov Radonezhski
-	Stremanets Saepaij Spanes
-	Tilateij Tsoutsimirus
+	Adami
+	Chavus
+	Danishmendoglu Dallala Dayyan
+	Ertanoglu Etci
+	Giray Gharabili
+	Hiziroglu Haddad
+	Jawkhi Jawjali
+	Kuhan Karakuz
+	Najjar
+	Ozan
+	Watan
+	Sidonlu Satgaon Savuroglu Saatci Sayrajani Shulal
+	Trakyali Turguloglu Tarakodissa Turhanoglu Talyani
+	Urayni
+	Zenonoglu Zalabani Zarku
 }
 
 ship_names = {
-	Arkadije "Arhiepiskop Flavijan" Afrodita Ares
-	Carigrad
-	Demetra Diona
-	Ereb Eak Eos Ersa Elektra
-	Fton Filot
-	Geja Gera
-	Hipno Haron Hiperion Heru Hada Hestiju Hefest Heraklo
-	Irena
-	Jelisaveta
-	"Konstantin Veliki" Kron Kalista
-	Marcel Mor
-	"Novi Rim" Nikta
-	Orfej Olimp
-	Posejdona
-	"Sveti Polieukt" "Sveti Hipolit Rimski" "Sveti Ciril" "Sveti Anatolije" "Sveti Stjepan Prvomuchenik"
-	"Teodozije Veliki" Teodora Thekla
-	Uran
-	Zeus
+	Aslan Aydin "Aziz Dismas" "Aramatyali Yusuf" Anatolia
+	"Beytanyali Lazar" Beyaz Barnabas
+	Cappadocia Cilicia
+	Fatma
+	Galatia Gulay
+	"Havari Andreas" "Havari Matta" "Havari Aziz Bartalmay" Hacer Hürrem
+	Istemihan
+	"Kara Sezar" Kizil
+	Meryem
+	Nuh
+	Paphlagonia
+	Siyah Soluk
+	"Tarsuslu Pavlus"
+	Veronica
+	Yildirim Yasemin Yonca Yeldem Yahudi
+	Zebedi
+}
+
+army_names = {
+	"Anadolu Ordusu" "Balkan Ordusu" "Mîsîr Ordusu" "Kîrîm Ordusu" "$PROVINCE$ Ordusu"
+}
+
+fleet_names = {
+	"$PROVINCE$ Donanmasî"
 }

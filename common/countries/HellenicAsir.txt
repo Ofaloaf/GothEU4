@@ -1,0 +1,80 @@
+#Asir
+
+graphical_culture = easterngfx
+
+color = { 12 30 100 }
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	trade_ideas
+	offensive_ideas
+	diplomatic_ideas
+	quality_ideas
+	administrative_ideas
+	economic_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	hungarian_hussar
+	germanized_pike
+	polish_musketeer
+	polish_hussar
+	polish_tercio
+	polish_winged_hussar
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+}
+
+monarch_names = {
+	"Andreas #1" = 20
+	"Damianos #1" = 20
+	"Gregorios #1" = 20
+	"Pavlos #0" = 15
+	"Iordanes #0" = 15
+	"Lodovikos #1" = 10
+	"Antoninos #1" = 10
+	"Theodios #1" = 10
+	"Ioannis #0" = 10
+	"Porphyrios #0" = 5
+
+	"Alexandros #0" = 0
+	"Alexios #0" = 0
+	"Bartholomaios #0" = 0
+	"Christodoulos #0" = 0
+	"Euphemios #0" = 0
+	"Konstantinos #0" = 0
+	"Nikolaos #0" = 0
+	"Spyridon #0" = 0
+	"Symmachos #0" = 0
+}
+
+leader_names = {
+	Branas
+	Gerostathis Gennatas
+	Kanellopoulos Karatzas Kapodistrias Kalamogdartis Kontostavlos
+	Logothetis
+	Magginas Mavromichalis
+	Palamidis Psyllas
+	Sigalas Syropoulos Spiliadis Sisinis Stamos Stavros
+	Tornikes
+	Zarides Zimisces Zaimis Zografos
+}
+
+ship_names = {
+	Achilleus Adrianoupolis Aetos "Aghia Eirene" "Aghia Helene" "Aghia Magdalene" "Aghia Sophia" 
+	"Aghia Thekla" "Aghion Oros" "Aghios Athanasios" "Aghios Eusebios" "Aghios Ioannes" 
+	"Aghios Markos" "Aghios Maximos" "Aghios Menas" "Aghios Nikolaos" "Aghios Philippos"
+	"Aghios Sergios" "Aghios Stephanos" "Aghios Theodoros" Aigaion Aigyptos Amphitrion 
+	Angeliophoros Aniketos Apokalipsis "Apostolos Andreas" "Apostolos Pavlos" "Apostolos Petros"
+	Dairis
+	Malouchos
+	Nikarete
+	Rarou Roupa
+	Theophano
+}

@@ -4,8 +4,6 @@ graphical_culture = westerngfx
 
 color = { 213  132  76 }
 
-preferred_religion = gnostic
-
 historical_idea_groups = {
 	maritime_ideas
 	trade_ideas

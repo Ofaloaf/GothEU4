@@ -1,0 +1,5 @@
+government = constitutional_monarchy
+technology_group = western
+primary_culture = loegric
+religion = protestant
+capital = 236

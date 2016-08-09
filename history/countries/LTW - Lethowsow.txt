@@ -1,5 +1,0 @@
-government = enlightened_despotism
-technology_group = western
-religion = orthodox
-primary_culture = cumbric
-capital = 484 # Havana

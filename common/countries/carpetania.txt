@@ -1,0 +1,99 @@
+# Carpetania
+
+graphical_culture = westerngfx
+
+color = { 245 204 15 }
+
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	spy_ideas
+	quality_ideas
+	religious_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Mallaton #1" = 30
+	"Dadeo #0" = 20
+
+	"Asturio #0" = 0
+	"Besilio #0" = 0
+	"Bianus #0" = 0
+	"Cadenio #0" = 0
+	"Celso #0" = 0
+	"Conancius #0" = 0
+	"Flano #0" = 0
+	"Natallus #0" = 0
+	"Osormeo #0" = 0
+	"Orbanus #0" = 0
+	"Octavio #0" = 0
+	"Paulato #0" = 0
+	"Quinto #0" = 0
+	"Ramulus #0" = 0
+	"Revelius #0" = 0
+	"Salomon #0" = 0
+	"Salvator #0" = 0
+	"Santon #0" = 0
+	"Toribius #0" = 0
+	"Titus #0" = 0
+	"Tiyon #0" = 0
+	"Theodoro #0" = 0
+	"Viator #0" = 0
+	"Vicentius #0" = 0
+}
+
+leader_names = {
+	Baniense "de Begastri"
+	Cos Campeyo "de Caesarobriga" "de Consabura"
+	Deniel
+	Eres
+	Guisasola Granella
+	Hervas
+	Isicio
+	Lepidoso
+	Moscoso "de Matritum" "de Mantua" "de Miaccum"
+	"de Numanzia"
+	Orbe
+	Palomeres "de Puiggros"
+	Quixotus
+	"de Raxac"
+	Silíceo Santos
+	"de Titulcia" "de Toletum"
+	Viso
+	Zoelaeo
+}
+
+ship_names = {
+	Audentius "Ad Murum"
+	Bacauda
+	Cupidus Concordia Caprus Caesarobriga Consabura
+	"Liberus Pater"
+	Matritum Melantius Minerva Mercurius
+	Nilus
+	Oceanus
+	Providentia
+	Rapidus
+	"Sanctus Eugenius" "Sanctus Eladius"
+	Toletum Triumphus Tagus
+	Victoria Vesta Venus "Vicus Cuminarius"
+}

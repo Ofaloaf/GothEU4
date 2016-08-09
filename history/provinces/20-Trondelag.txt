@@ -1,10 +1,11 @@
 #Tröndelag, incl. Trondheim, Frosta, Röros, Steinviksholm
 
-owner = NOR
-controller = NOR
+owner = KNR
+controller = KNR
 add_core = NOR
+add_core = KNR
 culture = norwegian
-religion = orthodox
+religion = catholic
 hre = no
 base_tax = 3
 base_production = 3

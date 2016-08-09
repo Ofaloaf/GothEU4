@@ -1,0 +1,6 @@
+technology_group = chinese
+primary_culture = mongol
+religion = manichee
+government = tribal_federation # steppe_horde
+capital = 667
+historical_friend = A02

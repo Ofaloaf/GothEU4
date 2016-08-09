@@ -1,0 +1,17 @@
+government = feudal_monarchy
+government_rank = 1
+primary_culture = uyghur
+religion = tengri_pagan_reformed
+secondary_religion = jewish
+technology_group = chinese
+capital = 739	# kashgar
+
+1401.11.28 = {
+	monarch = {
+		name = "Dayir"
+		dynasty = "Narantsetseg"
+		adm = 5
+		dip = 3
+		mil = 3
+	}
+}

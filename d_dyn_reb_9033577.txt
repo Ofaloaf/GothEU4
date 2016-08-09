@@ -1,0 +1,76 @@
+# d_dyn_reb_9033577
+
+graphical_culture = westerngfx
+random_nation_chance = 0
+
+color = { 255 255 255 }
+
+historical_idea_groups = {
+	plutocracy_ideas
+	trade_ideas
+	economic_ideas
+	defensive_ideas
+	maritime_ideas
+	administrative_ideas
+	offensive_ideas
+	quantity_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	chevauchee
+	western_longbow
+	gaelic_mercenary
+	gaelic_free_shooter
+	french_caracolle
+	irish_charge
+	anglofrench_line
+	french_dragoon
+	british_redcoat
+	british_hussar
+	british_square
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"MISSING_KEY #0" = 50
+	"USER_ERROR #0" = 30
+	"Unnamed Infant #0" = 20
+	"Ludwig_Louis #0" = 10
+	"EVENTID 55000 #0" = 10
+
+	"Mary_Maria #0" = -10
+
+	" #0" = 0
+	"30 #0" = 0
+	"EMBASSY_PROPOSE_0 #0" = 0
+	"EVT12345.DESC #0" = 0
+	"FLOATING_INTEGER #0" = 0
+	"NO_TEXT_FOR_KEY #0" = 0
+	"NULL_ERROR #0" = 0
+}
+
+leader_names = {
+	0xc0000142 0xc000007b
+	"Ceska Lipa"
+	GetShortName GetDynastyName
+	king
+	N_37 N_94 N_5_8_87
+	"out of sync"
+}
+
+ship_names = {
+	"b_" Byzantiny Bonii
+	"Couldn't find texture file: ."
+	"Eternal Tournament"
+	"Failed to save"
+	Grenzbereinigungstrieb
+	Malii
+	"Offsite Hosting" Overwrite
+	Persua Platypus Paradox
+	"Runtime Error" Reinstall
+	"unable to start correctly" unite_bg_32
+}

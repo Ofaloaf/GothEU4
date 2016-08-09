@@ -1,8 +1,17 @@
 government = feudal_monarchy
-government_rank = 1
-technology_group = western
-religion = orthodox
+government_rank = 2
 primary_culture = armorican
+religion = catholic
+technology_group = western
+capital = 172	# Nantes
 
-capital = 172
-
+1398.11.19 = {
+	monarch = {
+		name = "Sexto II"
+		dynasty = "Oscense"
+		birth_date = 1349.9.16
+		adm = 1
+		dip = 4
+		mil = 4
+	}
+}

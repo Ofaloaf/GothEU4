@@ -112,18 +112,23 @@ leader_names = {
 }
 
 ship_names = {
-	Avalonia "Ambrosius Aurelianus"
+	Avalonia "Ambrosius Aurelianus" Agricola "Aulus Plautius" Apollinaris
 	Britannia Boudicca Brutus
-	Cambria Cornubia Constantinus Ceint
+	Cambria Cornubia Constantinus Ceint Caratacus Cerialis
 	Dumnonia Durnovaria "Deva Victrix" Durotrigia
-	Excalibur Eboracum Elmetia
+	Excalibur Eboracum Elmetia Eugenius Edobichus
 	"Flavia Caesariensis"
-	Glevum "Gloria Iceni"
+	Glevum "Gloria Iceni" Guotepauc Gemina Grattius Gildas
+	Honorius "Hosidius Geta"
+	"Julius Frontinus"
 	Londinium Legio
-	"Maxima Caesariensis" "Mons Badonicus" Maximus Monapia
+	"Maxima Caesariensis" "Mons Badonicus" "Magnus Maximus" Monapia "Mons Graupius"
+	Noviomagus Nemesianus Nennius Nebiogastes
 	Ordovicia
 	Pelagius Pabo Penuchel
+	"Quintus Veranius"
 	Rhegin
 	Siluria "Sanctus Albanus" "Sanctus Gregorius" "Sanctus Palladius" "Sanctus Augustinus"
-	Victoria Vectis
+	Theonus "Titus Sabinus" Togodumnus Tamesis
+	Victoria Vectis "Valeria Victrix" Verica
 }

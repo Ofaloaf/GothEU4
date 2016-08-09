@@ -1,18 +1,23 @@
 #246 - Northumberland
+#+Durham
 
-owner = CMB
-controller = CMB
-culture = cumbric
-religion = orthodox
+owner = TIN
+controller = TIN
+culture = albann
+religion = catholic
 hre = no
 base_tax = 5
 base_production = 5
 trade_goods = cloth
 base_manpower = 3
-capital = "Pons Aelius"
+capital = "Din Gwardi"
 #fort_15th = yes
 is_city = yes
 add_core = CMB
+add_core = TIN
+
+
+
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman

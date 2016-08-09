@@ -1,0 +1,25 @@
+government = despotic_monarchy
+technology_group = chinese
+religion = confucianism
+primary_culture = hubei
+capital = 683 # Nanchang
+
+1360.1.1 = {
+	monarch = {
+		name = "Dading"
+		dynasty = "Chen"
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+
+1364.1.1 = {
+	monarch = {
+		name = "Xiandao"
+		dynasty = "Chen"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}

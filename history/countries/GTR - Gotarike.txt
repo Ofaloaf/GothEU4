@@ -2,7 +2,30 @@ government = feudal_monarchy
 technology_group = western
 unit_type = western
 primary_culture = geatish
-religion = orthodox
-capital = 7
+religion = catholic
+add_accepted_culture = swedish
+capital = 7 # Vastergotland
 
 national_focus = MIL
+
+1393.9.8 = {
+	monarch = {
+		name = "Paulus"
+		dynasty = "Hjort"
+		birth_date = 1357.4.30
+		adm = 3
+		dip = 4
+		mil = 1
+	}
+	heir = {
+		name = "Agantyr"
+		monarch_name = "Agantyr I"
+		dynasty = "Hjort"
+		birth_date = 1382.9.2
+		death_date = 1450.1.1
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+}

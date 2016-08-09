@@ -1,0 +1,6 @@
+government = feudal_monarchy
+primary_culture = baetic
+religion = catholic
+technology_group = western
+capital = 225	# Cordoba
+elector = yes

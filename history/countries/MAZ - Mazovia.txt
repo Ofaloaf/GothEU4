@@ -1,0 +1,19 @@
+government = feudal_monarchy
+government_rank = 1
+technology_group = eastern
+religion = catholic
+primary_culture = sorbian
+capital = 256 # Plock
+
+
+# Mazovian Dukes# (in fact the dukes of Warsaw as Mazovia had more duchies)
+1385.7.3 = {
+	monarch = {
+		name = "Boriwoj II"
+		dynasty = "z Lyzyc"
+		birth_date = 1365.7.1
+		dip = 3
+		adm = 2
+		mil = 2
+	}
+}

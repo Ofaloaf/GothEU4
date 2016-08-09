@@ -1,0 +1,18 @@
+government = feudal_monarchy
+government_rank = 1
+primary_culture = pestemari
+religion = catholic
+technology_group = eastern
+capital = 377 # Aleppo
+
+1386.4.19 = {
+	monarch = {
+		name = "Sophia I"
+		dynasty = "Marczaltovi"
+		birth_date = 1361.2.15
+		female = yes
+		adm = 3
+		dip = 5
+		mil = 3
+	}
+}

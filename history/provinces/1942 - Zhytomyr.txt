@@ -1,9 +1,9 @@
 #Zhytomyr
 
-owner = ALN
-controller = ALN
-culture = alan
-religion = orthodox
+owner = RTH
+controller = RTH
+culture = ruthenian
+religion = catholic
 hre = no
 base_tax = 3
 base_production = 3
@@ -13,7 +13,7 @@ capital = "Zhytomyr"
 estate = estate_nobles
 is_city = yes
 add_core = KIE
-add_core = ALN
+add_core = RTH
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

@@ -1,12 +1,14 @@
 #Oplandene, incl. Hamar, Lillehammer
 
-owner = NOR
-controller = NOR
+owner = GTR
+controller = GTR
 add_core = NOR
+add_core = GTR
 culture = norwegian
-religion = orthodox
+religion = catholic
 hre = no
 base_tax = 1 
+
 base_production = 1
 trade_goods = naval_supplies
 base_manpower = 1
@@ -19,4 +21,3 @@ discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-

@@ -1,18 +1,21 @@
 #1748 - La Mancha
 
-owner = BAE
-controller = BAE
-add_core = CTH
-add_core = BAE
+owner = ILB
+controller = ILB
+add_core = ILB
 culture = baetic
-religion = orthodox
+religion = catholic
 hre = yes
 base_tax = 3
 base_production = 4
 trade_goods = wool 
 base_manpower = 2
-capital = "Gaiena" 
+capital = "Gaiena"
+estate = estate_church 
 is_city = yes
+
+
+
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

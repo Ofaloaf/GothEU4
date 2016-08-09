@@ -1,17 +1,21 @@
 # 1743 Cambray
 
-owner = SUE
-controller = SUE
-add_core = SUE
-capital = "Cambray"
+owner = TOX
+controller = TOX
+add_core = TOX
+capital = "Camaracum"
 is_city = yes
-culture = rhenish
-religion = orthodox
+estate = estate_church
+culture = gothburgundian
+religion = catholic
 hre = yes
 base_tax = 5 
 base_production = 5
 trade_goods = grain
 base_manpower = 2
+
+
+
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

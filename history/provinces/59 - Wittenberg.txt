@@ -1,9 +1,9 @@
 #59 - Wittenberg
 
-owner = SRB
-controller = SRB
-culture = saxon
-religion = orthodox
+owner = FRC
+controller = FRC
+culture = oostfranken
+religion = catholic
 capital = "Wittenberg"
 trade_goods = wool
 hre = no
@@ -11,8 +11,12 @@ base_tax = 4
 base_production = 4
 base_manpower = 2
 is_city = yes
-add_core = SRB
+add_core = FRC
+
+
+
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
+

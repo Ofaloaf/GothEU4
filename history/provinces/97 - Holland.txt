@@ -1,22 +1,27 @@
 # 97 Holland - Principal cities: Amsterdam, Haarlem & Den Haag
 
-owner = FRK
-controller = FRK
-add_core = FRK
+owner = FRC
+controller = FRC
+add_core = FRC
+add_core = FLA
 capital = "Amsterdam"
 is_city = yes
 culture = dutch
-religion = orthodox
+religion = catholic
 hre = no
-base_tax = 5
-base_production = 5
+base_tax = 4
+base_production = 4
 trade_goods = fish
 base_manpower = 3
 fort_15th = yes
+
+
+
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
+
 extra_cost = 25
 
 add_permanent_province_modifier = {

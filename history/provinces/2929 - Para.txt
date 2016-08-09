@@ -1,0 +1,15 @@
+# - Para
+
+owner = W00
+controller = W00
+add_core = W00
+is_city = yes
+culture = tupinamba
+discovered_by = south_american
+religion = animism
+capital = "Portel"
+trade_goods = naval_supplies
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 1

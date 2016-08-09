@@ -1,17 +1,20 @@
 government = feudal_monarchy
+government_rank = 2
 primary_culture = norwegian
-religion = orthodox
+religion = catholic
 technology_group = western
-historical_friend = DAN
-capital = 17 #Akershus
+historical_rival = LOE
+capital = 23
 
-1814.2.16 = {
+
+1380.5.4 = {
 	monarch = {
-		name = "Christian Frederik"
-		dynasty = "von Oldenburg"
-		birth_date = 1786.9.18
-		adm = 0
-		dip = 0
-		mil = 0
+		name = "Viktoria II"
+		dynasty = "af Munsö"
+		birth_date = 1373.9.11
+		female = yes
+		adm = 4
+		dip = 2
+		mil = 4
 	}
 }

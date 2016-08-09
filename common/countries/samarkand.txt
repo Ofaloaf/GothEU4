@@ -1,0 +1,80 @@
+#Country Name: Please see filename.
+
+graphical_culture = muslimgfx
+
+color = { 128 0 128 } 
+
+historical_idea_groups = {
+	religious_ideas
+	trade_ideas
+	quantity_ideas
+	offensive_ideas
+	expansion_ideas
+	economic_ideas
+	defensive_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	mongol_bow
+	mongol_swarm
+	mongol_steppe
+}
+
+monarch_names = {
+        "Temur #0" = 40
+	"Chulgetei #1" = 30
+	"Horkhudagh #0" = 30
+	"Ulugh #0" = 25
+	"Taraqai #0" = 25
+	"Qarchar #0" = 25
+	"Khagatai #0" = 20
+	"Chaghagan #0" = 20
+	"Baraq #0" = 15
+
+	"Gulfem #0" = -5
+
+	"Altan #0" = 0
+	"Bâbur #0" = 0
+	"Dayan #0" = 0
+	"Dogolon #0" = 0
+	"Ilterish #0" = 0
+        "Nasîr #0" = 0
+	"Qilibi #0" = 0
+        "Uways #0" = 0
+}
+
+leader_names = {
+	Aghrikur Arghun Arlat
+	Barulas Baatud Bayandalai Biyat Busa Barkut Baghlan "Belad Bustan"
+	Çelebi Chaqmaq Chimbai
+	Dojar
+	Fuladchi
+	Girai Ghariband
+	Khurmen Kerait Kilaji
+	Jahagir Jalâl Jâmî Jalair Josolaji Jaurat
+	Khalil
+	Loqai Lechi
+	Mohsin Manlai Misit
+	Oklan Onk Ozjolaji Ormaq
+	Qalmaq "Quchi Qataghan" Qarlug Qirq Qurlaut Qirghiz Qilwai
+	Sevrei Shagird Sakhtiiyan Samrjiq
+	Tsogt Tuwadiq Tam Tubin Tushlub Tanghut Timan
+	Unebolad "ud-Dîn" Ulishun
+	Yajqar
+	Zaman
+}
+
+ship_names = {
+	Hexiangu
+	Ispahan
+	Kirman Kish Kharesm Kandahar
+	Lahore
+	Merv Maracanda
+	Nishupur
+	Ormuz
+	Rustam
+	Sikandar Sebzewar Slurax Samarqand
+	Tamerlane Tahriz Transoxiana
+	"Shah Rukh" Sogdiana
+}

@@ -1,0 +1,15 @@
+# - Muturu
+
+owner = W00
+controller = W00
+add_core = W00
+culture = tupinamba
+discovered_by = south_american
+religion = animism
+capital = "Muturu"
+trade_goods = cocoa
+is_city = yes
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 2

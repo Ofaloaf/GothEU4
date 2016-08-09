@@ -1,17 +1,18 @@
 # 196 Toulouse - Principal cities: Toulouse
 
-owner = TOU
-controller = TOU
+owner = SPM
+controller = SPM
 capital = "Tolosa"
 is_city = yes
 culture = septimanian
-religion = orthodox
+religion = catholic
 hre = yes
 base_tax = 7
 base_production = 7
 trade_goods = wine
 base_manpower = 6
-add_core = TOU
+add_core = SPM
+
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

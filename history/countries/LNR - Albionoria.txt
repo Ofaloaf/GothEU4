@@ -1,5 +1,5 @@
 government = constitutional_republic
 technology_group = western
-religion = orthodox
+religion = catholic
 primary_culture = cumbric
 capital = 991	# Ottawa

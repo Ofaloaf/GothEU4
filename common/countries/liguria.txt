@@ -4,6 +4,8 @@ graphical_culture = westerngfx
 
 color = { 218  215  56 }
 
+preferred_religion = reformed
+
 historical_idea_groups = {
 	religious_ideas
 	defensive_ideas

@@ -1,0 +1,85 @@
+# Oultrejourdain
+
+graphical_culture = easterngfx
+
+color={ 190 190 180 }
+
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	religious_ideas
+	spy_ideas
+	trade_ideas
+	diplomatic_ideas
+	economic_ideas
+	quality_ideas
+}
+
+historical_units = {
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
+
+monarch_names = {
+	"Iancu #2" = 30
+	"Corneliu #1" = 25
+	"Milos #1" = 20
+	"Stefan #1" = 20
+	"Veaceslav #1" = 20
+	"Simion #1" = 10
+	"Valeriu #1" = 10
+
+	"Adriana #0" = -10
+	"Stefana #0" = -5
+
+	"Andrei #0" = 0
+	"Anghel #0" = 0
+	"Bajan #0" = 0
+	"Barbat #0" = 0
+	"Dragos #0" = 0
+	"Gavril #0" = 0
+	"Iacob #0" = 0
+	"Iosif #0" = 0
+	"Laurentiu #0" = 0
+	"Nicolaie #0" = 0
+	"Radovan #0" = 0
+	"Roman #0" = 0
+	"Vilhelm #0" = 0
+}
+
+leader_names = {
+	Albescu "de Arqah"
+	"de Besmedin" "de Boutron"
+	Costin Csaky
+	"de Dujail" "de Darum"
+	"Guthi-Orszagh" "de Gibelet" "de Gerasa"
+	"de Kerak"
+	"de Mephaat"
+	"de Qastal"
+	Selimovic Szilagyi "de Sela"
+}
+
+ship_names = {
+	Ammon
+	Dibon
+	Eufroysina Edom
+	Floarea "Franjo Selimovic"
+	Jazer Jerash
+	Moab
+	Philadelphia "Petra Haritonofa"
+	Tereza
+	Ultrajordania
+}

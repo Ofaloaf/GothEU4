@@ -1,17 +1,20 @@
 #340 - Constantine
 
-owner = TUN
-controller = TUN 
+owner = NMD
+controller = NMD
 culture = numidian
-religion = orthodox
+religion = catholic
 capital = "Constantine"
 trade_goods = grain
-hre = no
-base_tax = 3 
-base_production = 3
-base_manpower = 2
+hre = yes
+base_tax = 4
+base_production = 4
+base_manpower = 3
 is_city = yes
-add_core = TUN
+add_core = NMD
+
+
+
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

@@ -1,5 +1,5 @@
 government = feudal_monarchy
-religion = orthodox
+religion = catholic
 primary_culture = hispanian
 technology_group = western
 capital = 2988

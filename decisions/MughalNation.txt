@@ -1,0 +1,122 @@
+country_decisions = {
+
+	mughal_nation = {
+		major = yes
+		potential = {
+			normal_or_historical_nations = yes
+			OR = {
+				ai = no
+				is_playing_custom_nation = no
+			}
+			NOT = { tag = PER }
+			NOT = { tag = MUG }
+			NOT = { tag = TUR }
+			NOT = { tag = HLR }
+			OR = {
+				NOT = { exists = MUG }
+				ai = no
+			}
+			OR = {
+				tag = TIM
+				culture_group = altaic
+			}
+			OR = {
+				ai = no
+				AND = {
+					ai = yes
+					num_of_cities = 5
+				}
+			}
+			is_colonial_nation = no
+			OR = {
+				is_former_colonial_nation = no
+				AND = {
+					is_former_colonial_nation = yes
+					ai = no
+				}
+			}
+		}
+		allow = {
+			NOT = { exists = MUG }
+			total_development = 600
+			is_at_war = no
+			is_subject = no
+			owns = 700		# Xi'an
+			owns = 688		# Kaifeng
+			owns = 1816		# Beijing
+			OR = {
+				owns = 679	# Chengdu
+				owns = 682	# Wuchang
+				owns = 1821	# Nanjing
+			}
+		}
+		effect = {
+			change_tag = MUG
+			if = {
+				limit = {
+					is_part_of_hre = yes
+					is_elector = no
+					is_emperor = no
+				}
+				every_owned_province = {
+					limit = {
+						is_part_of_hre = yes
+					}
+					set_in_empire = no
+				}
+			}
+			set_government_rank = 3
+			south_china_region = {
+				limit = {
+					NOT = { owned_by = ROOT }
+				}
+				add_permanent_claim = MUG
+			}
+			xinan_region = {
+				limit = {
+					NOT = { owned_by = ROOT }
+				}
+				add_permanent_claim = MUG
+			}
+			north_china_region = {
+				limit = {
+					NOT = { owned_by = ROOT }
+				}
+				add_permanent_claim = MUG
+			}
+			mongolia_region = {
+				limit = {
+					NOT = { owned_by = ROOT }
+				}
+				add_permanent_claim = MUG
+			}
+
+			add_prestige = 25
+			
+			if = {
+				limit = {
+					technology_group = nomad_group
+				}
+				change_technology_group = chinese
+				change_unit_type = chinese
+			}
+			if = {
+				limit = {
+					is_tribal = yes
+				}
+				change_government = despotic_monarchy
+			}
+			if = {
+				limit = { has_custom_ideas = no }
+				country_event = { id = ideagroups.1 } #Swap Ideas
+			}
+			set_capital = 1816 # Beijing
+			1816 = { change_culture = ROOT }
+		}
+		ai_will_do = {
+			factor = 1
+		}
+		ai_importance = 400
+	}
+
+}

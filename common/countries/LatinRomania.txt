@@ -6,6 +6,8 @@ color={ 176 187 215 }
 
 revolutionary_colors = { 10  0  5 }
 
+preferred_religion = reformed
+
 historical_idea_groups = {
 	administrative_ideas
 	defensive_ideas
@@ -53,6 +55,7 @@ monarch_names = {
 	"Daniele #0" = 0
 	"Ësteo #0" = 0
 	"Eurigh #0" = 0
+	"Felis #0" = 0
 	"Gajo #0" = 0
 	"Giacint #0" = 0
 	"Giaco #0" = 0
@@ -62,6 +65,7 @@ monarch_names = {
 	"Guidin #0" = 0
 	"Gulielm #0" = 0
 	"Ignassi #0" = 0
+	"Ludovich #0" = 0
 	"Manuel #0" = 0
 	"Margh #0" = 0
 	"Màssim #0" = 0
@@ -94,37 +98,48 @@ monarch_names = {
 }
 
 leader_names = {
-	"d'Asèj" "d'Acaja" Ancina
-	Bonomel "ëd Bredulo" "ëd Bricheras" "Brambilla" Borgèis
+	"d'Asèj" "d'Acaja" Ancina "dl'Aquila"
+	Bonomel "ëd Bredulo" "ëd Bricheras" "Brambilla" Borgèis Biancaman
 	Cacheran Calcagn Crisòstom 
-	"de Faesulae" "ëd Firense"
+	"de Faesulae" "ëd Firense" "ëd Frosinon"
 	Gadaricus "ëd Giaven" Gualberto "de Gorrevôd" "dël Giss"
 	Liunat "ëd Lissandria" "ëd Lòd" "ëd Luca" "ëd Leinì"
 	"ëd Milan" "dël Mondvì"
 	"d'Òstia"
-	"ëd Pisa" "de Prez" "dël Pesi"
+	"ëd Pisa" "de Prez" "dël Pesi" "ëd Prangins"
 	Rava "dla Rol" "ëd Roma"
-	"de Setelsona" "ëd San Dalmass" "ëd San Ësteo"
+	"de Setelsona" "ëd San Dalmass" "ëd San Ësteo" "ëd Salern"
 	Totoni "de Turrin"
-	"ëd Véres" "ëd Valèis" "dla Vermegnana"
+	"ëd Véres" "ëd Valèis" "dla Vermegnana" "ëd Viterb"
 	Waldelenus Walchunus
 }
 
 ship_names = {
-	August Annonaria Antonin "Augusta Taurinorum"
-	Ciceron Costantin Calìgola Clàudi Censora Còmod Caracala Carinus "Costans Clòr"
-	Dioclessian Domissian Decio
-	Egilona Eròd Eliogàbal
-	Florentia
-	"Giulio Céser" "Glissio Agrìcola" "Giulia Dòmna" Galeri Galba
-	Italia
-	Liutberga Latinitas "Lissànder Sever" Liguria
-	Maddalena "March Aureli" Macrin Mediolanum
-	Neron
-	Orìgen Oton
-	Porphyrius Pisanus
-	Romanitas
-	Svetòni "Sétim Sever"
-	Tiberi
-	Vespasian Viteli
+	August Annonaria Antonin "Augusta Taurinorum" "Ager Gallicus" "Alpes Cottiae" "Amicus Optimus"
+	Basilica Brutium "Bellator Sanctus"
+	Ciceron Costantin Calìgola Clàudi Censora Còmod Caracala Carinus "Costans Clòr" Calabria Campania Cisalpina Castitas
+	Dioclessian Domissian Decio "Datum Optimum" Diadumeniano
+	Egilona Eròd Eliogàbal Etruria Exarchus Eliogabalo
+	Florentia Flaminia Fides
+	"Giulio Céser" "Glissio Agrìcola" "Giulia Dòmna" Galeri Godesteus Galba
+	Histria
+	Italia Insubria Integritas
+	Liutberga Latinitas "Lissànder Sever" Liguria Lucania
+	Maddalena "March Aureli" Macrin Mediolanum Molisium Marche
+	Neron Nerva
+	Orìgen Oton Osta
+	Porphyrius Pisanus Pietas Pudicitiam Pudor Pertinace
+	Romanitas Ravena
+	Svetòni "Sétim Sever" Sabina "Sancta Virgo" Sanctimonia
+	Tiberi Trentin Transpadana
+	Umbria
+	Vespasian Viteli Valeria Venerabilis
+}
+
+army_names = {
+	"Armada de $PROVINCE$" 
+}
+
+fleet_names = {
+	"Fluta de $PROVINCE$"
 }

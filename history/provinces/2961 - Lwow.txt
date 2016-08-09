@@ -1,10 +1,10 @@
 # - Lwow
 
-owner = ALN
-controller = ALN
+owner = RTH
+controller = RTH
 capital= "Leopolis"
 culture = ruthenian
-religion = orthodox
+religion = catholic
 trade_goods = dyes #Polish cochineal
 hre = no
 base_tax = 6
@@ -12,10 +12,14 @@ base_production = 6
 base_manpower = 2
 estate = estate_church #Or burghers
 is_city = yes
-add_core = ALN
+add_core = RTH
 
 
-
+discovered_by = KAZ
+discovered_by = CRI
+discovered_by = GOL
+discovered_by = AST
+discovered_by = QAS
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

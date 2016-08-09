@@ -3,10 +3,9 @@
 owner = SRB
 controller = SRB
 add_core = SRB
-add_core = ALN
 capital = "Danzig"
-culture = alan
-religion = orthodox
+culture = sorbian
+religion = catholic
 trade_goods = grain
 hre = no
 base_tax = 7

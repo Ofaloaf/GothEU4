@@ -4,8 +4,9 @@ owner = ORL
 controller = ORL
 capital = "Aurelianum"
 is_city = yes
-culture = armorican
-religion = orthodox
+culture = gautes
+religion = catholic
+estate = estate_nobles
 hre = yes
 base_tax = 8 
 base_production = 8
@@ -13,6 +14,9 @@ trade_goods = grain
 base_manpower = 7
 add_local_autonomy = 10
 add_core = ORL
+
+
+
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

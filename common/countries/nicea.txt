@@ -1,0 +1,91 @@
+# Nicaea/Nicea/Nicia
+
+graphical_culture = westerngfx
+
+color = { 122  115  124 }
+
+preferred_religion = reformed
+
+historical_idea_groups = {
+	trade_ideas
+	innovativeness_ideas
+	naval_ideas
+	administrative_ideas
+	economic_ideas
+	spy_ideas
+	diplomatic_ideas
+	quality_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	gaelic_galloglaigh
+	gaelic_mercenary
+	gaelic_free_shooter
+	irish_charge
+	anglofrench_line
+	british_redcoat
+	british_hussar
+	british_square
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Acius #1" = 40
+	"Hilaris #4" = 40
+	"Benedixes #2" = 30
+	"Georgis #6" = 30
+	"Caprasis #1" = 20
+	"Luperculus #1" = 20
+	"Thomas #2" = 20
+	"Estefanes #1" = 15
+	"Froterius #1" = 10
+	"Iacune #1" = 10
+
+	"Britta #1" = -10
+	"Sati #0" = -10
+
+	"Abraham #0" = 0
+	"Catulines #0" = 0
+	"Frodonius #0" = 0
+	"Indus #0" = 0
+	"Pascalis #0" = 0
+	"Sidonis #0" = 0
+	"Suer #0" = 0
+	"Tacite #0" = 0
+	"Victor #0" = 0
+}
+
+leader_names = {
+	Aussonis Austadis "de Albertis" Artesan
+	Blussis Bonafilis
+	Classicïen Cantonus Caponis
+	Dutheris Druentane "de Dipo"
+	Ferrerus
+	Garibaldes Galvano
+	"de Lumo" "de Loriol" "de Leyni"
+	Malettus Marencus
+	"de Nicea" "de Navelis"
+	Palettus Provana Pallavicinus
+	Recrosio
+	Sardina Sola
+	"de Turrisfurt"
+	Vercingetoregulo "de Vintium" "de Valperga"
+	Zavaglia
+}
+
+ship_names = {
+	Anao Avisio Antipolis
+	Bellanda
+	Cemenelum Cuntinus
+	Leo
+	Minerva
+	Nike Nitardus Navelis Nicaea
+	Olivula 
+	"Sanctus Bassus" "Sanctus Valerius"
+	Varum
+}

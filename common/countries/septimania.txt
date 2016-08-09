@@ -4,8 +4,6 @@ graphical_culture = westerngfx
 
 color = { 173 48 80 }
 
-preferred_religion = gnostic
-
 historical_idea_groups = {
 	defensive_ideas
 	trade_ideas
@@ -43,30 +41,45 @@ monarch_names = {
 	"Athanasis #2" = 25
 	"Eufemïen #0" = 20
 	"Lucas #1" = 20
+	"Bartholomeus #2" = 20
+	"Deusdedit #1" = 15
+	"Moyses #1" = 15
 	"Didago #1" = 15
 
 	"Rosmerta #1" = -5
+	"Daniella #1" = -5
 	"Galeria #0" = -3
 	"Honorina #0" = -3
 
+	"Alexander #1" = 1
 	"Arvandes #0" = 0
 	"Bartholomeus #0" = 0
 	"Benedixes #0" = 0
-	"Bianus #1" = 0
+	"Bianus #1" = 1
 	"Cambaule #0" = 0
 	"Carbonel #0" = 0
+	"Cassïen #1" = 1
+	"Celsus #0" = 0
 	"Danielus #0" = 0
-	"Gratus #1" = 0
+	"Gatïen #0" = 0
+	"Gratus #1" = 1
 	"Gregoris #0" = 0
+	"Honestes #1" = 1
+	"Ignacis #1" = 1
 	"Joanes #0" = 0
 	"Leo #0" = 0
 	"Marcus #0" = 0
-	"Martin #0" = 0
-	"Mercurius #1" = 0
+	"Martines #1" = 1
+	"Mercurius #1" = 1
+	"Nazaris #0" = 9
 	"Peregrinus #0" = 0
 	"Petronis #0" = 0
 	"Poncis #0" = 0
-	"Timotheus #1" = 0
+	"Pocinus #1" = 1
+	"Timotheus #1" = 1
+	"Toutellus #0" = 0
+	"Victorines #1" = 1
+	"Zarraco #0" = 0
 }
 
 leader_names = {

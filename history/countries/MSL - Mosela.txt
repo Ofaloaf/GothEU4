@@ -1,0 +1,6 @@
+government = feudal_monarchy
+government_rank = 1
+primary_culture = rhenish
+religion = catholic
+technology_group = western
+capital = 1761 # Pfalz / Vormatas

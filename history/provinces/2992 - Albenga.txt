@@ -3,8 +3,8 @@
 owner = LGI
 controller = LGI
 add_core = LGI
-culture = lat_ligurian
-religion = orthodox
+culture = taurinjeis
+religion = catholic
 hre = yes
 base_tax = 6
 base_production = 6
@@ -12,6 +12,9 @@ trade_goods = naval_supplies
 base_manpower = 1
 capital = "Albenga"
 is_city = yes # Estimated
+
+
+
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

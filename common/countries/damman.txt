@@ -1,0 +1,102 @@
+graphical_culture = muslimgfx
+
+color = { 32 127 30 }
+
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	religious_ideas
+	spy_ideas
+	trade_ideas
+	innovativeness_ideas
+	economic_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	ottoman_yaya
+	ottoman_musellem
+	ottoman_azab
+	ottoman_timariot
+	ottoman_janissary
+	ottoman_spahi
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
+
+monarch_names = {
+	"Orhan #2" = 30
+	"Tugrul #2" = 30
+	"Kaya #1" = 20
+	"Melikshah #1" = 20
+	"Hasan #2" = 15
+	"Togay #1" =15
+	"Naveed #1" = 10
+	"Karatay #1" = 10
+	"Sevilay #1" = 10
+
+	"Gulbahar #1" = -10
+	"Sirin #1" = -10
+	"Ghazal #1" = -10
+	"Gunduz #1" = -10
+
+	"Batuhan #0" = 0
+	"Berkiyaruk #0" = 0
+	"Böru #0" = 0
+	"Ertan #0" = 0
+	"Haim #0" = 0
+	"Kasim #0" = 0
+	"Kutalmis #0" = 0
+	"Ibrahim #0" = 0
+	"Saltuk #0" = 0
+	"Saurca #0" = 0
+	"Savtekin #0" = 0
+	"Sinam #0" = 0
+	"Tolun #0" = 0
+	"Tunga #0" = 0
+	"Yunus #0" = 0
+	"Yusuf #0" = 0
+}
+
+leader_names = {
+	Ashinas Alaton Avigdor Ariel Abulafia Ata Arsalani Afshar
+	Bali Bassan Bakas Barabba Barsabba Baylwani
+	Capsali
+	Dogan Dalven
+	Elyashar
+	"Gauhar Ayin"
+	Kerman
+	Panigel
+	Qamhi
+	Sökmen Sarfati Sevi Senbahar Saki Saban Senceroglu Siyavushoglu Shirazi Salur
+	Taitazak Turhanoglu Tusi
+	Veli
+	Zavzani
+}
+
+
+ship_names = {
+	Asitane Arudi Adil Azimli Asker Atmaca
+	Bunsuz Bakire
+	Cimri Celebi Canlanma Cengaver Canavan
+	Derakubiye Dersaadet Dogru Dindar Doghan
+	"Etz ha-Hayyim"
+	Faith
+	"Gürcü Hatun" "Gevher Nesibe" Göksu
+	"Hasan Abd al-Qays"
+	"Inal Ildeguzid"
+	Miryam
+	"Orhan Seljuk" Özgul
+	Tura
+	Yoheved Yildirim Yavuz
+	"Zeynül-Hac"
+}

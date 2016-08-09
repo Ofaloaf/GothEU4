@@ -1,0 +1,17 @@
+government = feudal_monarchy
+primary_culture = khazak
+add_accepted_culture = persian
+religion = manichee
+technology_group = muslim
+capital = 1970 # Yangikent
+
+
+1385.6.20 = {
+	monarch = {
+		name = "Kambiz I"
+		dynasty = "Hazaraspid"
+		adm = 5
+		dip = 2
+		mil = 3
+	}
+}

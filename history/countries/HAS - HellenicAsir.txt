@@ -1,0 +1,8 @@
+government = monastic_order_government
+government_rank = 1
+technology_group = ottoman
+unit_type = eastern
+primary_culture = aigyptian
+religion = catholic
+historical_friend = HLS
+capital = 386 # Asir

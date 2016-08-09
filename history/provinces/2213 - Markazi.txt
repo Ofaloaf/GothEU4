@@ -1,7 +1,7 @@
 #2213 - Markazi
 
-owner = ITC
-controller = ITC
+owner = QOC
+controller = QOC
 culture = persian
 religion = jewish
 capital = "Qom"
@@ -12,7 +12,8 @@ base_production = 3
 base_manpower = 1
 is_city = yes
 add_core = PER
-add_core = ITC
+add_core = QOC
+
 
 
 discovered_by = muslim

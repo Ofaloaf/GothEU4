@@ -1,18 +1,21 @@
 # 98 Utrecht - Principal cities: Utrecht
 
-owner = FRK
-controller = FRK
+owner = FRC
+controller = FRC
 capital = "Utrecht"
 is_city = yes
 culture = dutch
-religion = orthodox
+religion = catholic
 hre = no
-base_tax = 6
-base_production = 6
+base_tax = 4
+base_production = 4
 trade_goods = cloth
-base_manpower = 3
-add_core = FRK
+base_manpower = 2
+add_core = FRC
 fort_15th = yes
+
+
+
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

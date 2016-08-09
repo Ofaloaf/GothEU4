@@ -1,0 +1,19 @@
+government = tribal_despotism
+primary_culture = nubian
+religion = coptic
+technology_group = east_african
+unit_type = sub_saharan
+capital = 2319
+historical_friend = HLS
+
+#Sultans of Senar
+
+1366.9.20 = {
+	monarch = {
+		name = "Abai II"
+		dynasty = "Trinkitaid"
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+}

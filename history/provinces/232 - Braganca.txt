@@ -1,17 +1,21 @@
 #232 - Bragança
 
-owner = GAL
-controller = GAL
+owner = BRN
+controller = BRN
 culture = lusitanian
-religion = orthodox
-capital = "Bragança"
+religion = catholic
+capital = "Brigantium"
 trade_goods = wine
 hre = yes
 base_tax = 5 
 base_production = 5
 base_manpower = 2
 is_city = yes
-add_core = LUS
+estate = estate_nobles
+add_core = BRN
+
+
+
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman

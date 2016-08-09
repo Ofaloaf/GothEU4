@@ -1,17 +1,21 @@
 # 78 - Mainz
-capital = "Mainz"
-culture = hessian
+capital = "Moguntia"
+culture = old_gothic
 religion = catholic
 trade_goods = grain
-owner = MAI
+owner = RPA
 base_tax = 5 
 base_production = 5
 base_manpower = 2
 is_city = yes
-add_core = MAI
-controller = MAI
-hre = no
+add_core = RPA
+controller = RPA
+hre = yes
+
+
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
+
+

@@ -1,0 +1,139 @@
+# Tiemurenkuo
+# "Da Bei"?
+# Mogholistan
+
+graphical_culture = asiangfx
+
+color = { 33 96 48 } 
+revolutionary_colors = { 9  8  9 }
+
+historical_idea_groups = {
+	humanist_ideas
+	defensive_ideas
+	trade_ideas
+	economic_ideas
+	offensive_ideas
+	maritime_ideas
+	administrative_ideas
+	quantity_ideas
+}
+
+historical_units = {
+	steppe_riders
+	steppe_lancers
+	steppe_mounted_raiders
+	steppe_cavalry
+	steppe_uhlans
+	steppe_raiders
+	steppe_footmen
+	steppe_musketeers
+	steppe_infantry
+	steppe_rifles
+	reformed_steppe_rifles
+}
+
+monarch_names = {
+	"Babür #0" = 30
+	"Buyan #0" = 20
+	"Dayan #0" = 20
+	"Agbarjin #0" = 15
+	"Arugtai #0" = 15
+	"Elbeg #0" = 15
+	"Ayurparibhadra #0" = 10
+	"Suddhipala #0" = 10
+	"Temür #0" = 10
+	"Yesün #0" = 10
+
+	"Adai #0" = 20
+	"Altan #0" = 20
+	"Arigaba #0" = 10
+	"Bodi #0" = 20
+	"Bek #0" = 20
+	"Bahamu #0" = 20
+	"Bars #0" = 20
+	"Biligtü #0" = 10
+	"Darayisung #0" = 20
+	"Delbeg #0" = 20
+	"Ejei #0" = 10
+	"Engke #0" = 10
+	"Güyük #0" = 10
+	"Gün #0" = 20
+	"Gulichi #0" = 20
+	"Irinchibal #0" = 10
+	"Jorightu #0" = 10
+	"Köke #0" = 10
+	"Ligdan #0" = 20
+	"Markörgis #0" = 10
+	"Manduulun #0" = 20
+	"Öljei #0" = 20
+	"Örüg #0" = 15
+	"Oyiradai #0" = 20
+	"Ögödei #0" = 10
+	"Qayshan #0" = 10
+	"Qoshila #0" = 10
+	"Tayisung #0" = 20
+	"Toghun #0" = 10
+	"Tümen #0" = 10
+	"Tolui #0" = 10
+	"Toq #0" = 10
+	"Uskhal #0" = 10
+
+	"Temülen #0" = -1
+	"Börte #0" = -1
+	"Mandukhai #0" = -1
+	"Samar #0" = -1
+	"Zaufishan #0" = -1
+
+	"Ariq #0" = 0
+	"Ataliq #0" = 0
+	"Daniyal #0" = 0
+	"Eljigidei #0" = 0
+	"Kiyan #0" = 0
+	"Negus #0" = 0
+	"Öge #0" = 0
+	"Sayn #0" = 0
+}
+
+leader_names = {
+	Abaga Abaganar Ast Arlat Azyk
+	Borjigin "Belad Bustan" Botiyai "Badai As" Baghan Biyat Barlas Beg Buklian Bugu
+	Chagaan Chakhar Chimbai Chaqmaq Cherik
+	Darqan Dojar
+	Ghariband 
+	Hongirad
+	Ilaji Ikhires
+	Jurim Jit "Jaljat Uljin" Jebergen Jaurat
+	Khorchin Kharachin Kalmuk Kilchi Kilaji Kerait Kait Khusaini Kharnuud
+	Loqai
+	Ma Manghit Majar Matin Ming Muzanheb Muamaya
+	Noyan Nagar
+	Onriut Ordos Onk Ozjolaji Ojinbai Ormaq Olkhunut
+	Pesha
+	Qipchaq Qurlaut Qilwai Qirq Qushchi Qirghiz Qalan "Quchi Qataghan" Qongliyut
+	Ramdan
+	Shagird Sakhtiiyan Saroi Shakibi
+	Tümed Tanghut Tushlub Tuwadiq Tilabi Timan Tam
+	Ulanqab Uriankhai Utarchi Uishun
+	Wang
+	Xilingol Xiao
+	Yingchang Yungshiyebu Yankuz Yajqar Yuz Yabu
+}
+
+ship_names = {
+	Adai Arusa
+	Batu "Bo'orchu" Borokhula Böke
+	Chilaun Chagaan Chambal
+	Dharmapala "Dörben Külü'üd" "Dörben Noyas" "Dei Setsen"
+	Elbeg
+	"Ghengis Khan"
+	Hülegü Hohhot
+	Jelme Jebe Jinggim Jöchi Jalsena "Jurluq Mergen"
+	Khubilai "Khar Khiruge" Kamala Karakorum "Kala Jahazi" Khan
+	Manas Mugali Möngke
+	Nausena "Nav ka Yudh" Niknaz "Nila Jahazi" Niloufa
+	Ögödei "Örüg Temür"
+	Qubilai "Quba Shira"
+	Shikhikhutug "Sorqan Shira" Sagar
+	Tolui
+	Yingchang  "Yelü Chucai" 
+}

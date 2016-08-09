@@ -1,18 +1,22 @@
 # 187 Barrois - Principal cities: Verdun
 
-owner = DVO
-controller = DVO
-capital = "Caturiges"
+owner = MEU
+controller = MEU
+capital = "Caturigurum"
 is_city = yes
-culture = gautonian
-religion = orthodox
+culture = gautes
+religion = catholic
 hre = yes
 base_tax = 5 
 base_production = 5
 trade_goods = cloth
 base_manpower = 5
-add_core = DVO
+add_core = MEU
 fort_15th = yes
+ # La Notre-Dame de Verdun
+
+
+
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

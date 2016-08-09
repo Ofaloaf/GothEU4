@@ -1,0 +1,17 @@
+government = feudal_monarchy
+technology_group = western
+religion = catholic
+primary_culture = gautes
+add_accepted_culture = hispanian
+capital = 127	# Cagliari
+elector = yes
+
+1387.1.1 = {
+	monarch = { 
+		name = "Isabèla I"
+		dynasty = "de Dipo"
+		dip = 3
+		mil = 1
+		adm = 4
+	}
+}

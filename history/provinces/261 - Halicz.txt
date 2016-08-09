@@ -1,22 +1,23 @@
 #261 - Halicz
 
-owner = ALN
-controller = ALN
+owner = RTH
+controller = RTH
 capital= "Halicz"
-culture = alan
-religion = orthodox
+culture = ruthenian
+religion = catholic
 trade_goods = grain
 hre = no
 base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
-add_core = ALN
-
-
-
+add_core = RTH
+discovered_by = KAZ
+discovered_by = CRI
+discovered_by = GOL
+discovered_by = AST
+discovered_by = QAS
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-

@@ -1,0 +1,144 @@
+# Zeugitana
+
+graphical_culture = muslimgfx
+
+color = { 201 73 41 }
+
+preferred_religion = protestant
+
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	religious_ideas
+	maritime_ideas	
+	administrative_ideas
+	offensive_ideas
+	economic_ideas
+	expansion_ideas
+}
+
+historical_units = {
+	mamluk_archer
+	mamluk_cavalry_charge
+	mamluk_duel
+	mamluk_musket_charge
+	muslim_mass_infantry
+	muslim_dragoon
+	ali_bey_reformed_infantry
+}
+
+monarch_names = {
+	"Tulemeju #1" =15
+	"Pascale #1" = 15
+	"Gildon #1" = 15
+	"Plintha #2" = 10
+	"Mertinus #1" = 10
+	"Honorius #1" = 10
+	"Donatu #0" = 10
+
+	"Maria #1" = -10
+	"Augustina #0" = -10
+	"Costantza #0" = -10
+	"Felicita #0" = -5
+	"Maddelina #0" = -5
+
+	"Abbmelcar #0" = 0
+	"Aderbalu #0" = 0
+	"Apuleju #0" = 0
+	"Arzoghu #0" = 0
+	"Bartolomeu #0" = 0
+	"Basili #0" = 0
+	"Binmelcar #0" = 0
+	"Bonifaciu #0" = 0
+	"Capussa #0" = 0
+	"Ceciliu #0" = 0
+	"Clementzi #0" = 0
+	"Costantzi #0" = 0
+	"Danelu #0" = 0
+	"Diodoru #0" = 0
+	"Domnigu #0" = 0
+	"Emiliu #0" = 0
+	"Egidiu #0" = 0
+	"Floru #0" = 0
+	"Gildon #0" = 0
+	"Gratzianu #0" = 0
+	"Gregori #0" = 0
+	"Gavrielu #0" = 0
+	"Gasparru #0" = 0
+	"Ignatzi #0" = 0
+	"Isalca #0" = 0
+	"Jagu #0" = 0
+	"Jacovu #0" = 0
+	"Jaroah #0" = 0
+	"Johannei #0" = 0
+	"Josefu #0" = 0
+	"Juba #0" = 0
+	"Julianu #0" = 0
+	"Justu #0" = 0
+	"Magrinu #0" = 0
+	"Marceh #0" = 0
+	"Mariu #0" = 0
+	"Masceddelu #0" = 0
+	"Mauru #0" = 0
+	"Maxsimilla #0" = 0
+	"Mazeu #0" = 0
+	"Micheli #0" = 0
+	"Nicola #0" = 0
+	"Nubelu #0" = 0
+	"Paulu #0" = 0
+	"Petru #0" = 0
+	"Pompeju #0" = 0
+	"Rafiele #0" = 0
+	"Salomon #0" = 0
+	"Salvettor #0" = 0
+	"Samueli #0" = 0
+	"Stefanu #0" = 0
+	"Simion #0" = 0
+	"Saturnu #0" = 0
+	"Teodore #0" = 0
+	"Teofanu #0" = 0
+	"Terentzi #0" = 0
+	"Tomas #0" = 0
+	"Urse #0" = 0
+	"Vocciu #0" = 0
+	"Vonnannaro #0" = 0
+}
+
+leader_names = {
+	Aangaliu "D'Aquinu" Aru
+	Balisteri "di Bagrada"
+	Cubeddu "di Clupea" "di Cartrggini" Cabras Casula "di Capri"
+	Fara
+	"di Gelo" "di Gisco"
+	"di Jovis"
+	Lussu "di Lares"
+	Mago Melis "di Maxula" Murgia
+	"di Naraggara"
+	Pisciu "di Pupput" Pes Paulis
+	"di Ruspina"
+	Sychaiu "di Sufetula" "di Sicca" Secche
+	"di Thugga" "di Thala" "di Thabraca" "di Theveste" "di Tirna" "di Tusca"
+	Viridiu "di Vacca"
+	"di Zeugitane" "di Zama" "di Ziqua"
+}
+
+ship_names = {
+	Africa Acerbas Acholla "Ad Mercurium" "Ad Pertusa" "Ad Decimum" "Ad Aquas" "Abbir Maius" "Ad Gallinacium"
+	Bomilcar
+	Cossyra Capris "Castra Cornelliana"
+	Dido Donatus
+	Elissa
+	"Fundus Bassianus"
+	"Gildon Piscius"
+	Hadrumetum "Hippo Regius" "Hippo Diarrhytus" "Hamilcar Barca" Himera "Hanno Navigator" Hasdrubal
+	"Leptis Minor"
+	Mamertinus Malchus
+	Neapolis
+	Orbita
+	Proconsul Punica Pygmalion "Pheradi Maius"
+	Quodvultdeus
+	Selinus "Sanctus Augustinus" Segermes Siminina
+	Tyrus Tanit "Thuburbo Maius" Tepelte Thinissut Thizika
+	Utica Uppenna "Ucres Cigisa"
+	Zeugitana
+}

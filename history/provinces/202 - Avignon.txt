@@ -5,16 +5,18 @@ controller = PRV
 capital = "Avennio"
 is_city = yes
 culture = provincian
-religion = orthodox
+religion = catholic
 hre = yes
 base_tax = 3 
 base_production = 3
 trade_goods = cloth
 base_manpower = 4
-add_core = AVI
 add_core = PRV
 
 fort_15th = yes # Le Palais des Papes is super strong, and built on and beneath a natural rock formation
+
+
+
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

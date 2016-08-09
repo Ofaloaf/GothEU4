@@ -2,16 +2,19 @@
 
 owner = PRV
 controller = PRV
-capital = "Dracuinhan"
+capital = "Draguignane"
 is_city = yes
 culture = provincian
-religion = orthodox
+religion = catholic
 hre = yes
 base_tax = 4 
 base_production = 4
 trade_goods = wool
 base_manpower = 2
 add_core = PRV
+
+
+
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

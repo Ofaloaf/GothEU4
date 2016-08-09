@@ -1,0 +1,124 @@
+# Turkish Nobatia
+
+graphical_culture = muslimgfx
+
+color = { 132 163 95 }
+
+historical_idea_groups = {
+	diplomatic_ideas
+	religious_ideas
+	defensive_ideas
+	trade_ideas
+	offensive_ideas
+	spy_ideas
+	economic_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	persian_footsoldier
+	persian_cavalry_charge
+	persian_shamshir
+	qizilbash_cavalry
+	tofongchis_musketeer
+	topchis_artillery
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_mass_infantry
+	muslim_dragoon
+	persian_rifle
+}
+
+monarch_names = {
+	"Tunga #1" = 50
+	"Sökmen #2" = 30
+	"Tolun #1" = 30
+	"Korkut #0" = 25
+	"Yunus #0" = 20
+	"Alp Arslan #0" = 10
+
+	"Zehra #0" = -10
+	"Sirin #0" = -10
+	"Irge #0" = -5
+	"Mala #0" = -5
+
+	"Adnan #0" = 0
+	"Aslan #0" = 0
+	"Assaf #0" = 0		# Asaph, using the actual Hebraic form
+	"Bayezid #0" = 0
+	"Elazar #0" = 0
+	"Haim #0" = 0		# Chaim
+	"Harun #0" = 0		# Aaron
+	"Ibrahim #0" = 0	# Abraham
+	"Imram #0" = 0		# Amram
+	"Ishak #0" = 0		# Ishak
+	"Ismail #0" = 0		# Ishmael
+	"Keykavus #0" = 0
+	"Keykubad #0" = 0
+	"Kutalmish #0" = 0
+	"Lazar #0" = 0		# Lazarus
+	"Levi #0" = 0
+	"Musa #0" = 0		# Moses
+	"Natanel #0" = 0	# Nathaniel
+	"Pinhas #0" = 0
+	"Sabetay #0" = 0	# Sabbatai/Saturn(?)
+	"Simun #0" = 0		# Simon
+	"Umut #0" = 0
+	"Yahuda #0" = 0		# Judah
+	"Yahya #0" = 0		# John
+	"Yakup #0" = 0		# Jacob
+	"Yusuf #0" = 0		# Joseph
+	"Zekeriya #0" = 0	
+}
+
+leader_names = {
+	Alaton Alfandari Avigdor Ariel Abulafia Ata Arsalani Afshar
+	Bali Bassan Bakas Barabba Barsabba Baylwani Baduspanzadeh
+	Capsali
+	Dalven
+	Elyashar
+	Frizis
+	Güney Güzelses Geron Gencevi
+	Haleva
+	Ishaki Inaloglu
+	Kanik Kovo Köpek Köselerin
+	Mizrachi Mitrani Mikali
+	Nigar Nasi Nahum Naphtali
+	Palombo Panigel Pervane
+	Qamhi
+	Rosanes Rey Rukinoglu
+	Sarfati Sevi Senbahar Saki Saban Senceroglu Siyavushoglu Shirazi Salur
+	Taitazak Turhanoglu Tusi
+	Veli
+	Zavzani
+}
+
+ship_names = {
+	Asitane Arudi Adil Azimli Asker Atmaca
+	Bunsuz Bakire
+	Cimri Celebi Canlanma Cengaver Canavan
+	Derakubiye Dersaadet Dogru Dindar Doghan
+	"Etz ha-Hayyim"
+	Faith
+	Gelibolu "Gürcü Hatun" "Gevher Nesibe" Göksu Gayretli
+	Hasanak Hüdavendigar Hevesli
+	Isfahan Isra Ishakbeg
+	Kostantiniyye Kara Kodja Khadim Kahin Kozlu Kartal Kirt "Kalkan Tashiyici"
+	Miryam
+	Lea
+	Payitaht Peygamber
+	Resul
+	Saygili Savashchi Shövalye Silahshör Shahin Seljuk
+	Tilki
+	Yoheved Yildirim Yavuz
+	"Zeynül-Hac"
+}
+
+
+army_names = {
+	"$PROVINCE$ Ordusu"
+}
+
+fleet_names = {
+	"$PROVINCE$ Donanmasî"
+}

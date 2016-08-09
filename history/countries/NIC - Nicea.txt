@@ -1,0 +1,18 @@
+government = imperial_city
+government_rank = 1
+mercantilism = 25
+technology_group = western
+religion = catholic
+primary_culture = provincian
+capital = 102
+fixed_capital = 102
+
+1399.1.1 = {
+	monarch = {
+		name = "Curiales"
+		adm = 3
+		dip = 3
+		mil = 3
+		regent = yes
+	}
+}

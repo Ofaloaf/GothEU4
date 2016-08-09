@@ -1,18 +1,17 @@
 #119 - Ancona
 
-owner = LRM
-controller = LRM
-culture = lat_roman 
-religion = orthodox 
-hre = no 
+owner = ANC
+controller = ANC
+culture = romandeis
+religion = catholic 
+hre = yes
 base_tax = 5 
 base_production = 5    
 trade_goods = fish
 base_manpower = 4    
 capital = "Ancona" 
 is_city = yes 
-estate = estate_burghers #Or nobles
-add_core = PAP
+add_core = ANC
 
 
 

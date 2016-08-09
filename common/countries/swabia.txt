@@ -119,33 +119,38 @@ monarch_names = {
 }
 
 leader_names = {
-	Andorfer Abt
-	"Bernhard-Karling" "vo Bade" Bodo Betzel Bilfinger Burgkmair Böblinger Böschenstein
+	Andorfer Abt "von Albstadt"
+	"Bernhard-Karling" "vo Bade" Bodo Betzel Bilfinger Burgkmair Böblinger Böschenstein "vo Bitz" "vo Bisenga" "vo Bilenga"
 	Chlingensperg
 	"vo Dibenga"
 	Ensinger Eisengrein Egolph
 	Federmann Fressant Feuerlein  Ficker
-	Görich Günzler Gottlob "von Gutbrod" Glocker
-	Haile "vo Hailbrunn" Hutter Hoeneß Hoyoul Hafenbrädl Hoss
+	Görich Günzler Gottlob "von Gutbrod" Glocker "vo Geislenga" "vo Grosslfenga"
+	Haile "vo Hailbrunn" Hutter Hoeneß Hoyoul Hafenbrädl Hoss "vo Hächenga" "vo Hoagerloch"
 	Idler Ihle
+	"vo Jõngenga"
 	Koellin
+	Lämmle
 	Multscher "vo Messenga" "Maler zu Schwaz" Magirus Moser Maisch
-	"vo Olm"
-	Pachelbel Peuerl Pfaff Pütter "von Palm"
-	Ridinger "vo Rümelin"
-	Syrlin "vo Schduagert" Schüchlein Schwarz Susemihl Sigel Spittler Schäffle Sydler Stifel "von Steudel"
-	Wendling "von Wächter" Wilsenhütten Wagner
-	Zeitblom Zeller
+	"von Olm"
+	Pachelbel Peuerl Pfaff Pütter "vo Palm"
+	Ridinger "vo Rümelin" "vo Rotshausa"
+	Syrlin "vo Schduagert" Schüchlein Schwarz Susemihl Sigel Spittler Schäffle Sydler Stifel "vo Steudel" "vo Schduagert"
+	"vo Tegerfelden"
+	Wendling "vo Wächter" Wilsenhütten Wagner "vo Weizsäcker" "vo Weila"
+	Zeitblom Zeller "vo Zemmern"
 }
 
 ship_names = {
+	Bodamicus Brigantinus Bubulcus
+	Cromatius
 	Diibenga Decumatia
 	"Germania Suebica" Gisela Gausbold
-	Hulma
+	Hulma "Hermannus Contractus"
 	Konradin
 	Leuehärz
-	Swabia "Sankt Munio"
-	Tassilo
+	Svebia "Sankt Munio" "Salve Regina" Stuccardia "Sankt Gebhardus"
+	Tassilo Thaumastus
 	Ursula
 	Vindelicia
 }

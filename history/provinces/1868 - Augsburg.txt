@@ -2,16 +2,16 @@
 owner = RNT
 controller = RNT
 add_core = RNT
-add_core = SWB
-culture = swabian
-religion = orthodox
-base_tax = 6
-base_production = 6
+culture = carantanian
+religion = catholic
+base_tax = 5
+base_production = 5
 trade_goods = cloth	#fustians
 base_manpower = 3
-capital = "Augsburg"
+capital = "Augspurk"
 is_city = yes
 hre = no
+
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

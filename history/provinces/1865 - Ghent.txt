@@ -1,17 +1,21 @@
 # 1865 - Ghent
 
-owner = FLA
-controller = FLA
+owner = RPA
+controller = RPA
+add_core = RPA
 add_core = FLA
 is_city = yes
 capital = "Ganda"
 culture = rhenish
-religion = orthodox
+religion = catholic
 hre = yes
 base_tax = 8 
 base_production = 8
 trade_goods = cloth
 base_manpower = 3
+
+
+
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

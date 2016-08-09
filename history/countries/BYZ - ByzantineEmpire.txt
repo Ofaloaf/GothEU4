@@ -1,7 +1,31 @@
 government = feudal_monarchy
 government_rank = 3
-primary_culture = rimlyani
-religion = orthodox
+primary_culture = turkish # oh nooooo
+religion = catholic
 technology_group = eastern
-capital = 151 # Constantinople
-fixed_capital = 151 # Cannot move capital away from this province & no power cost to move to it
+capital = 326 # Ankyra
+
+1384.8.30 = {
+	monarch = {
+		name = "Eugenius IV"
+		dynasty = "Obulenziy"
+		birth_date = 1354.2.14	
+		adm = 2
+		dip = 1
+		mil = 4
+	}
+}
+
+1392.12.18 = {
+	heir = {
+		name = "Eugenius"
+		monarch_name = "Eugenius V"
+		dynasty = "Obulenziy"
+		birth_date = 1386.12.21
+		death_date = 1450.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}

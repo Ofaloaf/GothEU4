@@ -1,6 +1,0 @@
-government = feudal_monarchy
-primary_culture = basque
-religion = orthodox
-technology_group = western
-capital = 210	# Pamplona
-

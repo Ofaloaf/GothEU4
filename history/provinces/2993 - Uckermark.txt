@@ -1,10 +1,10 @@
 #50 - Uckermark + Stargard, etc
 
-owner = SRB
-controller = SRB
-add_core = SRB
-culture = sorbian
-religion = orthodox
+owner = FRC
+controller = FRC
+add_core = FRC
+culture = pommeranian
+religion = catholic
 hre = no
 base_tax = 4
 base_production = 4
@@ -12,6 +12,9 @@ trade_goods = cloth
 base_manpower = 1
 capital = "Prenzlau"
 is_city = yes
+
+
+
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

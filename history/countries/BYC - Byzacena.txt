@@ -1,0 +1,7 @@
+government = theocratic_government
+primary_culture = cartagginu
+religion = catholic
+technology_group = western
+unit_type = muslim
+capital = 2473
+government_rank = 1

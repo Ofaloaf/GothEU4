@@ -1,21 +1,24 @@
 #320 - Rhodes
 
-owner = MTU
-controller = MTU
-culture = greek
-religion = orthodox
+owner = AEG
+controller = AEG
+culture = macedonian
+religion = catholic
 capital = "Rhodes"
 trade_goods = fish
 hre = no
 base_tax = 4 
+
 base_production = 4
 base_manpower = 3
 is_city = yes
 fort_15th = yes
-add_core = MTU
+add_core = AEG
 
-discovered_by = muslim
-discovered_by = ottoman
+
+
 discovered_by = western
 discovered_by = eastern
+discovered_by = muslim
 discovered_by = nomad_group
+discovered_by = ottoman

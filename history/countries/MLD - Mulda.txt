@@ -1,0 +1,17 @@
+government = feudal_monarchy
+government_rank = 1
+primary_culture = sarmatian
+religion = catholic
+technology_group = eastern
+capital = 1756
+
+1377.12.29 = {
+	monarch = {
+		name = "Irambust II"
+		dynasty = "Ouastobalid"
+		birth_date = 1359.6.26
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}

@@ -12,6 +12,9 @@ trade_goods = naval_supplies
 base_manpower = 2
 capital = "Rostock"
 is_city = yes
+
+
+
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

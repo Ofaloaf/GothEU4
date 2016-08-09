@@ -1,20 +1,21 @@
-#233 - Cornwall
+#233 - Cornwall + Devon
 
-owner = LOE
-controller = LOE
+owner = KMR
+controller = KMR
 culture = cambric
-religion = orthodox
+religion = catholic
 hre = no
-base_tax = 4 
-base_production = 5
+base_tax = 3
+base_production = 3
 trade_goods = copper
 base_manpower = 3
-capital = "Exeter"
+capital = "Esca"
 is_city = yes
-add_core = CRN
-add_core = LOE
+add_core = KMR
+
+
+
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
-

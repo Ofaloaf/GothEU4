@@ -1,0 +1,87 @@
+#Country Name: Please see filename.
+
+graphical_culture = asiangfx
+
+color = { 113 100 139 }
+
+historical_idea_groups = {
+	administrative_ideas
+	religious_ideas
+	defensive_ideas
+	trade_ideas
+	economic_ideas
+	offensive_ideas
+	maritime_ideas
+	quantity_ideas
+}
+
+historical_units = {
+	steppe_riders
+	steppe_lancers
+	steppe_mounted_raiders
+	steppe_cavalry
+	steppe_uhlans
+	steppe_raiders
+	steppe_footmen
+	steppe_musketeers
+	steppe_infantry
+	steppe_rifles
+	reformed_steppe_rifles
+}
+
+monarch_names = {
+	"Bâbur #0" = 20
+	"Tughlugh #0" = 10
+	"Esen Busa #0" = 10
+	"Kebek #0" = 10
+	"Abishqa #0" = 10
+	"Mutukan #0" = 10
+	"Ulugh #0" = 10
+	"Taraqai #0" = 10
+	"Yesünto'a #0" = 10
+	"Baidar #0" = 10
+	"Alghu #0" = 10
+	"Temür #1" = 1
+	
+	"Fatin #1" = -1
+
+	"Duwa #0" = 0
+	"Yunus #0" = 0
+}
+
+leader_names = {
+	Aghrikur Arlat
+	Bahrin "Badai As" Baghlan
+	Chimbai
+	Durman
+	Girai
+	Iljai
+	Jahagir Jâmî Jebergen Josolaji Jalair
+	Khalil Keneges Kilchi
+	Lechi
+	Mohsin
+	Ojinbai Oklan Orman
+	Pesha
+	Qunghrat Qiyat Qanghli
+	Shoran Shirin Samrjiq Shagird
+	Targhut Tama Tilabi Tuwadiq
+	Uishun
+	Yuz
+	Zaman
+}
+
+ship_names = {
+	Ardabil
+	Bakhura Baluches Balkh
+	Herat
+	Ispahan Irdana
+	Kirman Kish Kharesm Kandahar Kitai
+	Lahore
+	Merv Mawarannahr
+	Nishupur
+	Ormuz
+	Rustam
+	Sikandar Sebzewar Slurax Samarqand
+	Tamerlane Tahriz Tokharia
+	"Shah Rukh"
+}

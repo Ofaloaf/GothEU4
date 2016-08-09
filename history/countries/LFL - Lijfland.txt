@@ -1,0 +1,18 @@
+government = feudal_monarchy
+government_rank = 1
+technology_group = western
+primary_culture = dutch
+religion = catholic
+capital = 38	# Riga
+historical_friend = FRC # Francie
+
+1355.1.20 = {
+	monarch = {
+		name = "Claes I"
+		dynasty = "van Randerath"
+		birth_date = 1337.12.31
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}

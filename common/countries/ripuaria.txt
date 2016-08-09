@@ -1,0 +1,112 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 84  124  48 }
+
+historical_idea_groups = {
+	religious_ideas
+	trade_ideas
+	defensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	spy_ideas
+	offensive_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Damianus #1" = 30
+	"Benedictus #1" = 20
+	"Ekbert #1" = 20
+	"Alberich #1" = 15
+	"Gabriel #1" = 15
+	"Lukas #1" = 10
+	"Frumagilds #1" = 10
+	"Zacharias #1" = 10
+	"Xristaufaurus #1" = 10
+
+	"Donna #1" = -10
+	"Helisabeth #1" = -10
+	"Calvina #1" = -10
+
+	"Airastus #0" = 0
+	"Amadaius #0" = 0
+	"Ambrauseus #0" = 0
+	"Andraias #0" = 0
+	"Askalks #0" = 0
+	"Barteimaius #0" = 0
+	"Daniel #0" = 0
+	"Duda #0" = 0
+	"Dumerit #0" = 0
+	"Fruisclus #0" = 0
+	"Gaizhardus #0" = 0
+	"Giselbert #0" = 0
+	"Gudisal #0" = 0
+	"Hermann #0" = 0
+	"Hyeronimus #0" = 0
+	"Iakobus #0" = 0
+	"Isak #0" = 0
+	"Ligo #0" = 0
+	"Lutbert #0" = 0
+	"Luthaweic #0" = 0
+	"Marivadus #0" = 0
+	"Odomus #0" = 0
+	"Paitrus #0" = 0
+	"Romaeus #0" = 0
+	"Thiudarik #0" = 0
+	"Thomas #0" = 0
+	"Uftila #0" = 0
+	"Vivenzus #1" = 0
+	"Wiliahilm #0" = 0
+	"Wiljarith #0" = 0
+}
+
+leader_names = {
+	Aedotheus Alavivus Apiscalingus Aurtja Ariaricsunus Angantiring
+	Brano
+	Egicasunus Eriulphingianus Edekosunus
+	Falk
+	Granella Gastigodis
+	Hails Hairto Hariggs Hethinsunus Hunilasunus
+	Igils
+	Kalbo
+	Lubains
+	Milith Mundericsunus
+	Ouimfulk Oppasunus
+	Pitziasunus
+	Quidilasunus
+	Ruigenhil Respa
+	Sweritha Sergericsunus Soasunus Sibiasunus
+	Thervingus Theudisunus "af Turon"
+	Wens
+	Zomamensis
+}
+
+ship_names = {
+	Aquilina
+	Belgica Berchte
+	Genesita Germania
+	Ripensis Rhenus
+}
+
+army_names = {
+	"Armada de $PROVINCE$" 
+}

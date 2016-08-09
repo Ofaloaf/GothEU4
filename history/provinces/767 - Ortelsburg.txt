@@ -1,0 +1,21 @@
+# - Ortelsburg
+
+owner = SRB
+controller = SRB
+capital = "Ortelsburg"
+culture = old_prussian
+religion = catholic
+trade_goods = naval_supplies
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 2
+is_city = yes
+add_core = LIT
+add_core = SRB
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+
+add_local_autonomy = 50

@@ -1,6 +1,16 @@
-government = feudal_monarchy
+government = imperial_city
 government_rank = 1
-religion = orthodox
+religion = catholic
 primary_culture = hispanian
 technology_group = western
 capital = 213	# Barcelona
+
+1400.1.1 = {
+	monarch = {
+		name = "Curiales"
+		adm = 3
+		dip = 3
+		mil = 3
+		regent = yes
+	}
+}

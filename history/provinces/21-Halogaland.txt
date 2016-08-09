@@ -1,10 +1,11 @@
 #Hålogaland, incl. Steig, Vågan, Trondenes, Andenes, Alstahaug
 
-owner = NOR
-controller = NOR
+owner = KNR
+controller = KNR
+add_core = KNR
 add_core = NOR
 culture = norwegian
-religion = orthodox
+religion = catholic
 hre = no
 base_tax = 1 
 base_production = 1
@@ -18,4 +19,3 @@ is_city = yes
 
 discovered_by = western
 discovered_by = eastern
-

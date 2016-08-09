@@ -1,0 +1,30 @@
+government = feudal_monarchy
+technology_group = eastern
+primary_culture = macedonian
+religion = catholic
+capital = 148 # Thessalonica / Solun
+
+1383.6.24 = {
+	monarch = {
+		name = "Ivan"
+		dynasty = "Strumanets"
+		birth_date = 1356.12.26
+		adm = 3
+		dip = 2
+		mil = 5
+	}
+}
+
+1388.6.20 = {
+	heir = {
+		name = "Chestislav"
+		monarch_name = "Chestislav I"
+		dynasty = "Strumanets"
+		birth_date = 1388.6.20
+		death_date = 1450.1.1
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}

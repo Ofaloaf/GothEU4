@@ -1,0 +1,18 @@
+government = imperial_city
+government_rank = 1
+mercantilism = 25
+primary_culture = romandeis
+religion = catholic
+technology_group = western
+capital = 118	# Roma
+fixed_capital = 118  # Cannot move capital away from this province & no power cost to move to it
+
+1400.1.1 = {
+	monarch = {
+		name = "Curiales"
+		adm = 3
+		dip = 3
+		mil = 3
+		regent = yes
+	}
+}

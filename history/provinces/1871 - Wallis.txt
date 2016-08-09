@@ -1,9 +1,9 @@
 #1871 - Wallis
 
-owner = SWI
-controller = SWI
+owner = SVA
+controller = SVA
 culture = taurinjeis
-religion = orthodox
+religion = catholic
 capital = "Sion"
 trade_goods = wool
 hre = yes
@@ -12,7 +12,10 @@ base_production = 3
 base_manpower = 1
 is_city = yes
 estate = estate_church
-add_core = SWI
+add_core = SVA
+
+
+
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

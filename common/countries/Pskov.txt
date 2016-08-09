@@ -1,0 +1,119 @@
+#Pskov
+
+graphical_culture = easterngfx
+
+color = { 82  123  95 }
+
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	diplomatic_ideas
+	religious_ideas
+	administrative_ideas
+	economic_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+monarch_names = {
+	"Toktu #2" = 30
+	"Drong #2" = 30
+	"Sabin #2" = 20
+	"Kotrag #1" = 20
+	"Kuber #1" = 15
+	"Batbayan #1" = 15
+	"Kubrat #2" = 15
+	"Bozchin #1" = 15
+	"Telec #1" = 10
+	"Sevar #1" = 10
+	"Telerig #1" = 10
+	"Yerneslu #1" = 10
+
+	"Mala #0" = -5
+	"Ipek #0" = -5
+	"Sarantay #0" = -5
+
+	"Almish #0" = 0
+	"Andriyan #0" = 0
+	"Asparukh #0" = 1
+	"Atner #0" = 0
+	"Dergun #0" = 0
+	"Elteber #0" = 0
+	"Fargat #0" = 0
+	"Ghabdul #0" = 0
+	"Guar #1" = 1
+	"Ille #0" = 0
+	"Karaton #1" = 1
+	"Keshtenttin #0" = 0	# Constantine?
+	"Kezhedey #2" = 0
+	"Krum #0" = 0
+	"Külerkin #0" = 0
+	"Malamir #0" = 0
+	"Nurutdin #0" = 0
+	"Omurtag #0" = 0
+	"Orunza #0" = 0
+	"Puresh #2" = 0
+	"Sespel #0" = 0
+	"Shilki #0" = 0
+	"Tutugek #0" = 0
+	"Vakrim #0" = 0
+}
+
+leader_names = {
+	Asagel Anatri Aygi Augal Altsikurs Amrak Apa Akhasir
+	Bezmer Burta Barsil Bilar Barskhan Beserman Bagrasik Bichurin Bersula Bagha Balanjar Bilar
+	Chelbir Celepi Cantak Chakarar
+	Dulo Djagfar Dirmar Duar Disuyuhan Doulun Dengshuzi Datans
+	Esegel Ermiyar
+	Husankaj Hutsze
+	Ishbara Issik Ishtemi Ilteber Illig
+	Kashgu Kupibulkar Küriyer Kangti Keluo Kozar Kidar Kazarig
+	Lir
+	Mishshi Mitta Mohotu Mumo Mangeti Muqan
+	Nigmatullin Nushibi Nagai
+	Olxontor
+	Pascatir Pilesh Pihouba Poluomen
+	Rangan
+	Serep Saragur Sundica Stasis Sampsi Shaz Shetu Suvar Sabir
+	Tawile Tekin Turi Tuktash Terbelis Teletzes Töremen Tardu Taspar Tunugui Tiefa Tatpar Tölis Tughruq
+	Ugain
+	Virjal Vitti Vokil Vestranna
+	Xwalis
+	Yiltabar Yardy
+	Zhenli
+}
+
+ship_names = {
+	Avitohol Atil
+	Bagatur "Biri Bagain" Boila "Ber Tengre" "Bumin Khan"
+	"Dokya Yugra" "Dergun Yugra" "Dobrinya Tikshaykid"
+	Irnik
+	Khalga Kaban "Kardam Dulo" Karacik "Karan Tiradin" "Karaton Koshelid"
+	"Mala Froni" "Mastorava Luki"
+	Onoguria Organa
+	Qolovur
+	Ravzhava
+	Subigi "Sandilkh Gorodezid"
+	"Thorbjorn Froni" Tekche
+	Uran
+	"Yenchepi Yenchepi" "Yani Yani" Yildiz
+}

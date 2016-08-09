@@ -1,5 +1,0 @@
-government = feudal_monarchy
-primary_culture = wallachian
-religion = orthodox
-technology_group = eastern
-capital = 161	# Tîrgoviste

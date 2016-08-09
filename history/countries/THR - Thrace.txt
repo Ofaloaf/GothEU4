@@ -1,0 +1,17 @@
+government = elective_monarchy
+government_rank = 2
+primary_culture = vlachika
+religion = catholic
+technology_group = eastern
+capital = 151 # Constantinople
+
+1397.9.30 = {
+	monarch = {
+		name = "Dumitru I"
+		dynasty = "Dezsofi"
+		birth_date = 1376.8.28
+		adm = 1
+		dip = 4
+		mil = 4
+	}
+}

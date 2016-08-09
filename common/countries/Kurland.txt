@@ -1,0 +1,96 @@
+#Kurland
+
+graphical_culture = westerngfx
+
+color = { 99  137  153 }
+
+revolutionary_colors = { 10  13  0 } #Kurland Governate
+
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	diplomatic_ideas
+	economic_ideas
+	spy_ideas
+	quality_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	swedish_gallop
+	swedish_gustavian
+	swedish_caroline
+	swedish_arme_blanche
+	prussian_frederickian
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Diederick #2" = 40
+	"Lodewijk #1" = 40
+	"Filips #0" = 20
+	"Theodolf #1" = 20
+	"Bajoras #1" = 5
+
+	"Maria #1" = -5
+	"Sanne #0" = -5
+
+	"Antoon #0" = 0
+	"Bavo #0" = 0
+	"Claes #0" = 0
+	"Damaes #0" = 0
+	"Gerard #0" = 0
+	"Ghaeyen #0" = 0
+	"Gijsbrecht #0" = 0
+	"Godschalk #0" = 0
+	"Sicco #0" = 0
+	"Steven #0" = 0
+	"Tiberius #0" = 0
+	"Willen #0" = 0
+}
+
+leader_names = {
+	Aemsz
+	Backer Baerntsz Bijl
+	Copken
+	"van Diest"
+	Fircks 
+	"van Grobin" Gerytszoen "van Goldingen"
+	"van der Hede"
+	Janszoon
+	Liclaisz
+	Metselair Mack
+	Nagel Nachtegael Nellenz
+	Pelgremsz "van Piltene"
+	Scarpincsz Steinhower Spillemaker Stoop
+	Taube
+	Vinck Valck Vos Vrancken Vredericxz
+	"van den Woude"
+}
+
+ship_names = {
+	"Arnold II Folcwalding" "Ankad Penikis"
+	"Baise Penikis"
+	Curonia "Ceredig Dyfed"
+	Daira
+	Energiek
+	Golgotha Geluk Gedurfd "Ghibe Dender"
+	Hugheman Hillebrant Hubrecht
+	Kathrijne Krachtig
+	"Laaste Tribune"
+	"Niels av Nordland"
+	Ritsaert Ricout Reynken
+	Soutmoedig
+	Thetburga
+	Victoria Vykantas Vechter Voorspoed Vermetel Vrijpostig
+	Welvaart Welstand
+}

@@ -1,0 +1,32 @@
+government = despotic_monarchy
+government_rank = 3
+primary_culture = amhara
+religion = sunni
+technology_group = east_african
+unit_type = sub_saharan
+capital = 1224		# Gonder
+
+
+1382.1.1 = {
+	monarch = {
+		name = "Semer II"
+		dynasty = "Solomonid"
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}
+
+1385.1.1 = {
+	heir = {
+		name = "Gebre"
+		monarch_name = "Gebereal III"
+		dynasty = "Solomonid"
+		birth_date = 1385.1.1
+		death_date = 1414.1.1
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}

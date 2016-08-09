@@ -1,0 +1,16 @@
+government = steppe_horde
+technology_group = eastern
+unit_type = nomad_group
+religion = catholic
+primary_culture = alan
+capital = 1974
+
+1392.5.17 = {
+	monarch = {
+		name = "Balambar IV"
+		dynasty = Aini
+		adm = 2
+		dip = 0
+		mil = 4
+	}
+}

@@ -1,19 +1,22 @@
 #81 - Hessen
 
-owner = FRK
-controller = FRK
-add_core = FRK
+owner = FRC
+controller = FRC
 add_core = HES
+add_core = FRC
 capital = "Marburg"
 trade_goods = wool
 culture = hessian
-religion = orthodox
+religion = catholic
 base_tax = 4 
 base_production = 4
 base_manpower = 2
 is_city = yes
 courthouse = yes
 hre = no
+
+
+
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

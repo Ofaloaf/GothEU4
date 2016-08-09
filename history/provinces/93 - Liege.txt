@@ -1,19 +1,23 @@
 # 93 Liège - Principal cities: Liège & Namur
 
-owner = BLG
-controller = BLG
+owner = TRI
+controller = TRI
 capital = "Legia"
 is_city = yes
-culture = rhenish
-religion = orthodox
+culture = old_gothic
+religion = catholic
 hre = yes
 base_tax = 6 
 base_production = 6
 trade_goods = iron
 base_manpower = 3
-add_core = BLG
+add_core = TRI
 fort_15th = yes
+
+
+
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
+

@@ -1,9 +1,9 @@
 #1846 - Amasya
 
-owner = MTU
-controller = MTU
+owner = QOC
+controller = QOC
 culture = turkish
-religion = manichee
+religion = catholic
 capital = "Amasya"
 trade_goods = iron
 hre = no
@@ -11,7 +11,9 @@ base_tax = 4
 base_production = 4
 base_manpower = 3
 is_city = yes
-add_core = MTU
+add_core = QOC
+
+
 
 discovered_by = western
 discovered_by = eastern

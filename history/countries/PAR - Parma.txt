@@ -1,0 +1,7 @@
+government = feudal_monarchy
+government_rank = 1
+primary_culture = avarian
+religion = catholic
+technology_group = western
+capital = 105	# Parma
+fixed_capital = 105 # Cannot move capital away from this province & no power cost to move to it

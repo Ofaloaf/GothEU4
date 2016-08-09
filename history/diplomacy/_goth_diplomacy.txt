@@ -1,0 +1,135 @@
+# Aegean Islands are a vassal of Carantania
+vassal = {
+	first = RNT
+	second = AEG
+	start_date = 1400.1.1
+	end_date = 1800.1.1
+}
+
+# Francie actually is the joint crowns of Francia Proper and Sorbia
+union = {
+	first = FRC
+	second = SRB
+	start_date = 1394.6.6
+	end_date = 1800.1.1
+}
+
+# Lithuania is actually a tributary of Swabia's in CK2 in 1402
+alliance = {
+	first = SWB
+	second = LIT
+	start_date = 1400.1.1
+	end_date = 1800.1.1
+}
+
+# Treveria is a vassal of Septimania
+vassal = {
+	first = SPM
+	second = TRI
+	start_date = 1400.1.1
+	end_date = 1800.1.1
+}
+
+# Wallachia is a vassal of Carantania
+vassal = {
+	first = RNT
+	second = WAL
+	start_date = 1400.1.1
+	end_date = 1800.1.1
+}
+
+# Lijfland is a vassal of Francie
+vassal = {
+	first = FRC
+	second = LFL
+	start_date = 1400.1.1
+	end_date = 1800.1.1
+}
+
+# Mecklenburg is a vassal of Francie
+vassal = {
+	first = FRC
+	second = MKL
+	start_date = 1400.1.1
+	end_date = 1800.1.1
+}
+
+# Nidaros is a vassal of Francie
+vassal = {
+	first = FRC
+	second = KNR
+	start_date = 1400.1.1
+	end_date = 1800.1.1
+}
+
+# Bituric is a vassal of Gothia
+vassal = {
+	first = GTH
+	second = BTC
+	start_date = 1400.1.1
+	end_date = 1800.1.1
+}
+
+# Pskov is a vassal of Volga Bulgaria
+vassal = {
+	first = VBG
+	second = PSK
+	start_date = 1400.1.1
+	end_date = 1800.1.1
+}
+
+# Anadolu is a vassal of Qocharids
+vassal = {
+	first = QOC
+	second = A00
+	start_date = 1400.1.1
+	end_date = 1800.1.1
+}
+
+# Asir Chapter is a vassal of the Brotherhood of the Holy Sepulchre
+vassal = {
+	first = HLS
+	second = HAS
+	start_date = 1400.1.1
+	end_date = 1800.1.1
+}
+
+# Alodia is a vassal of Abyssinia/Ethiopa
+vassal = {
+	first = ETH
+	second = ALO
+	start_date = 1400.1.1
+	end_date = 1800.1.1
+}
+
+# Makuria is a vassal of Abyssinia/Ethiopa
+vassal = {
+	first = ETH
+	second = MAK
+	start_date = 1400.1.1
+	end_date = 1800.1.1
+}
+
+# Qocharid-Nefoud alliance
+alliance = {
+	first = QOC
+	second = NFD
+	start_date = 1400.1.1
+	end_date = 1800.1.1
+}
+
+# Damman is a vassal of Qocharids
+vassal = {
+	first = QOC
+	second = DMM
+	start_date = 1400.1.1
+	end_date = 1800.1.1
+}
+
+# Baluchistan is a vassal of Sindh
+vassal = {
+	first = SND
+	second = BAL
+	start_date = 1400.1.1
+	end_date = 1800.1.1
+}

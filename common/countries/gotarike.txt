@@ -7,8 +7,6 @@ color = { 8 165 82 }
 
 revolutionary_colors = { 13  8  13 } #Fictional
 
-preferred_religion = protestant
-
 historical_idea_groups = {
 	administrative_ideas
 	offensive_ideas
@@ -38,12 +36,19 @@ historical_units = {
 }
 
 monarch_names = {
-	"Karl #0" = 50
+	"Fredrik #3" = 50
 	"Johan #0" = 40
-	"Erik #0" = 40
-	"Fredrik #0" = 35
+	"Hervard #1" = 25
+	"Kolbein #1" = 25
+	"Kjartan #1" = 15
+	"Hjalmar #1" = 15
 	"Magnus #0" = 10
+	"Siggeir #1" = 10
+	"Paulus #1" = 10
+	"Agantyr #0" = 10
+	"Arngrimr #1" = 5
 
+	"Heulwen #1" = -10
 	"Ulrika #0" = -5
 	"Hedwig #0" = -5
 
@@ -56,12 +61,15 @@ monarch_names = {
 	"Birger #0" = 0
 	"Björn #0" = 0
 	"Corfitz #0" = 0
+	"Dag #1" = 0
 	"Dagmar #0" = 0
 	"Detler #0" = 0
 	"Edvard #0" = 0
 	"Emil #0" = 0
 	"Ernst #0" = 0
+	"Faste #1" = 0
 	"Filip #0" = 0
+	"Geirr #1" = 0
 	"Henrik #0" = 0
 	"Inge #0" = 0
 	"Jakob #0" = 0

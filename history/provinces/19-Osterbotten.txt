@@ -2,10 +2,10 @@
 
 owner = GTR
 controller = GTR
+add_core = OST
 add_core = GTR
-add_core = FIN
-culture = finnish
-religion = orthodox
+culture = osterlander
+religion = catholic
 hre = no
 base_tax = 1 
 base_production = 1

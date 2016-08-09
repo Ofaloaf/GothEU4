@@ -1,20 +1,24 @@
 # 89 Picardie - Principal cities: Amiens
 
-owner = SUE
-controller = SUE
-capital = "Suessionum"
+owner = FLA
+controller = FLA
+add_core = FLA
+capital = "Bolonia"
 is_city = yes
-culture = rhenish
-religion = orthodox
+estate = estate_nobles
+culture = armorican
+religion = catholic
 hre = yes
 base_tax = 6 
-
 base_production = 6
 trade_goods = grain
 base_manpower = 5
-add_core = SUE
 fort_15th = yes
+
+
+
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
+

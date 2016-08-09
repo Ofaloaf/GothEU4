@@ -2,10 +2,9 @@
 
 owner = GAL
 controller = GAL
-add_core = CNT
 add_core = GAL
-culture = cantabrian
-religion = orthodox
+culture = gallaecian
+religion = catholic
 hre = yes
 base_tax = 5
 base_production = 5
@@ -13,6 +12,9 @@ trade_goods = salt
 base_manpower = 3
 capital = "Oviedo" 
 is_city = yes
+
+
+
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

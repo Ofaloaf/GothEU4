@@ -1,0 +1,16 @@
+# - Rio Das Mortes
+
+owner = W01
+controller = W01
+add_core = W01
+culture = carib
+discovered_by = south_american
+religion = animism
+capital = "Kuhikugu"
+trade_goods = tropical_wood
+is_city = yes
+hre = no
+base_tax = 3
+
+base_production = 3
+base_manpower = 3

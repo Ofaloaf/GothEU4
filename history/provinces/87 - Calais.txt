@@ -1,20 +1,24 @@
 # 87 Calais - Principal cities: Calais
 
-owner = FLA
-controller = FLA
-capital = "Caletum"
-culture = armorican
-religion = orthodox
+owner = GHI
+controller = GHI 
+capital = "Caleeis"
+culture = gothburgundian
+religion = catholic
 hre = yes
 base_tax = 5 
+
 base_production = 5
 trade_goods = fish
 base_manpower = 3
-add_core = FLA
+add_core = GHI
+
+
+
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
+
 fort_15th = yes
 is_city = yes
-

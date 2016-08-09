@@ -1,11 +1,10 @@
 # - Greifswald
 
-owner = SRB
-controller = SRB
-add_core = POM
-add_core = SRB
-culture = sorbian
-religion = orthodox
+owner = FRC
+controller = FRC
+add_core = FRC
+culture = pommeranian
+religion = catholic
 hre = no
 base_tax = 2
 base_production = 2
@@ -13,6 +12,9 @@ trade_goods = salt
 base_manpower = 2
 capital = "Greifswald"
 is_city = yes
+
+
+
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

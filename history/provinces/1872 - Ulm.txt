@@ -3,14 +3,17 @@ owner = SWB
 controller = SWB
 add_core = SWB
 culture = swabian
-religion = orthodox
-base_tax = 7 
-base_production = 7
+religion = catholic
+base_tax = 5
+base_production = 5
 trade_goods = cloth	#fustians
 base_manpower = 4
 capital = "Ulm"
 is_city = yes
 hre = no
+
+
+
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

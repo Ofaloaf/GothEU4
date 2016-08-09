@@ -1,0 +1,6 @@
+government = theocratic_government
+primary_culture = gautonian
+religion = catholic
+elector = yes
+technology_group = western
+capital = 205

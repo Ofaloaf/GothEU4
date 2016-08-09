@@ -1,17 +1,21 @@
 # 1879 - Alençon
 
-owner = RDM
-controller = RDM
-capital = "Alencio"
+owner = ANJ
+controller = ANJ
+capital = "Alençon"
 is_city = yes
 culture = armorican
-religion = orthodox
+religion = catholic
 hre = yes
 base_tax = 6 
 base_production = 6
 trade_goods = cloth
 base_manpower = 4
-add_core = RDM
+estate = estate_nobles
+add_core = ANJ
+
+
+
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

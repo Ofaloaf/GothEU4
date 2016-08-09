@@ -1,20 +1,22 @@
 #120 - Abbruzzi
 
-owner = SMN
-controller = SMN
+owner = ANC
+controller = ANC
 culture = lat_neapolitan 
-religion = orthodox
-hre = no 
+religion = catholic 
+hre = yes
 base_tax = 5 
 base_production = 5 
 trade_goods = wine 
 base_manpower = 3
-capital = "L'Aquila" 
+capital = "Amiternum" 
 estate = estate_church
 is_city = yes 
-add_core = SMN
+add_core = ANC
+
+
+
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-

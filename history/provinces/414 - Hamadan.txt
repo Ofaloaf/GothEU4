@@ -1,18 +1,19 @@
 #414 - Hamadan
 
-owner = ITC
-controller = ITC
+owner = QOC
+controller = QOC
 culture = persian
-religion = jewish
+religion = zoroastrian
 capital = "Hamedan"
 trade_goods = cloth
 hre = no
 base_tax = 3 
+
 base_production = 3
 base_manpower = 3
 is_city = yes
-add_core = ITC
 add_core = PER
+add_core = QOC
 
 
 

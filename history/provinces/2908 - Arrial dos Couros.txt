@@ -1,0 +1,15 @@
+# - Arrial dos Couros
+
+owner = W01
+controller = W01
+add_core = W01
+is_city = yes
+culture = ge
+discovered_by = south_american
+religion = animism
+capital = "Arrial dos Couros"
+trade_goods = spices
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 2

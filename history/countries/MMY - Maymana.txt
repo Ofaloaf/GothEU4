@@ -1,0 +1,16 @@
+government = tribal_kingdom
+government_rank = 1
+technology_group = muslim
+religion = jewish
+primary_culture = afghani
+capital = 2228
+
+1344.7.10 = {
+	monarch = {
+		name = "Aydogdu I"
+		dynasty = "Tekke"
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}

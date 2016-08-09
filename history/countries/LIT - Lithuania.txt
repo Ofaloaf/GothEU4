@@ -1,0 +1,8 @@
+government = feudal_monarchy
+government_rank = 2
+primary_culture = lithuanian
+add_accepted_culture = sorbian
+religion = catholic
+technology_group = eastern
+historical_rival = FRC
+capital = 1859

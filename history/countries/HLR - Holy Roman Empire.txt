@@ -1,0 +1,8 @@
+government = feudal_monarchy
+government_rank = 3
+technology_group = western
+primary_culture = romandeis
+religion = catholic
+capital = 118 # Roma
+
+1750.1.1 = { government = constitutional_republic }

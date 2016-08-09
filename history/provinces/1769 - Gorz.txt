@@ -1,17 +1,20 @@
 # 1769 - Görz
-owner = LRM
-controller = LRM
-add_core = LRM
-add_core = AQU
-culture = lat_venetian
-religion = orthodox
+owner = QUA
+controller = QUA
+add_core = QUA
+culture = soab
+religion = catholic
 base_tax = 5 
 base_production = 5
 trade_goods = iron
 base_manpower = 2
-capital = "Goritium"
+capital = "Gorissia"
+estate = estate_nobles
 is_city = yes
-hre = no
+hre = yes
+
+
+
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

@@ -1,0 +1,17 @@
+government = monastic_order_government
+primary_culture = aigyptian
+religion = catholic
+technology_group = eastern
+capital = 361 # Cairo
+historical_friend = NUB
+
+1392.4.2 = {
+	monarch = {
+		name = "Pavlos de Gloui"
+		birth_date = 1354.12.15
+		adm = 4
+		dip = 1
+		mil = 3
+	}
+	leader = { name = "Pavlos de Gloui"	type = general	rank = 1	fire = 2	shock = 2	manuever = 3	siege = 0 }
+}

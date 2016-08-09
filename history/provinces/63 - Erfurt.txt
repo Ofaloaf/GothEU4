@@ -1,9 +1,9 @@
 #63 - Erfurt
 
-owner = SAX
-controller = SAX 
-culture = saxon
-religion = orthodox
+owner = FRC
+controller = FRC
+culture = oostfranken
+religion = catholic
 capital = "Erfurt"
 trade_goods = dyes #Woad
 hre = no
@@ -11,8 +11,11 @@ base_tax = 3
 base_production = 3
 base_manpower = 1
 is_city = yes
-add_core = SAX
-add_core = THU
+estate = estate_nobles
+add_core = FRC
+
+
+
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

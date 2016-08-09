@@ -1,10 +1,10 @@
 #53 - Lüneburg
 
-owner = FRK
-controller = FRK
-add_core = FRK
+owner = FRC
+controller = FRC
+add_core = FRC
 culture = oostfranken
-religion = orthodox
+religion = catholic
 capital = "Lüneburg"
 trade_goods = salt
 hre = no
@@ -12,6 +12,9 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
+
+
+
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

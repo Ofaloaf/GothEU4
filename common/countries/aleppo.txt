@@ -1,0 +1,101 @@
+# Vlach Aleppo
+
+graphical_culture = westerngfx
+
+color={ 85 232 20 }
+
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	spy_ideas
+	religious_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
+
+monarch_names = {
+	"Iorghu #2" = 30
+	"Sas #2" = 20
+	"Dragos #1" = 15
+	"Seneslav #1" = 10
+	"Alexandru #0" = 10
+
+	"Sophia #1" = -15
+	"Iacoba #1" = -10
+
+	"Anghel #0" = 0
+	"Bajan #0" = 0
+	"Claudiu #0" = 0
+	"Damjan #0" = 0
+	"Dumitru #0" = 0
+	"Gavril #0" = 0
+	"Iancu #0" = 0
+	"Ieremia #0" = 0
+	"Iuga #0" = 0
+	"Janus #0" = 0
+	"Lactu #0" = 0
+	"Ladislau #0" = 0
+	"Laurentiu #0" = 0
+	"Lucian #0" = 0
+	"Megas #0" = 0
+	"Moise #0" = 0
+	"Pirvu #0" = 0
+	"Radovan #0" = 0
+	"Simion #0" = 0
+	"Stelian #0" = 0
+	"Timotei #0" = 0
+	"Veaceslav #0" = 0
+	"Victor #0" = 0
+}
+
+leader_names = {
+	Basarab
+	Csaky
+	Dragusin "de Darbasak"
+	Farrou
+	Iancuescu
+	"Guthi-Orszagh"
+	"de Harim" "de Hazart"
+	"de Laodicea" "de Lerminet"
+	Marczaltövi "Micu-Klein" "de Merle"
+	"de Qutaysh"
+	"de Sis" "de Saone"
+	"de Talabiad" "de Tars"
+}
+
+ship_names = {
+	Anatolius Acacius Adriana "Apostolul Toma"
+	Berhane Beroea
+	Cyrus
+	Deszofi
+	Felicia
+	Ionela "Ioan Evanghelistul"
+	Khalibon
+	Nazaret
+	"Pirvu Selimovic"
+	Sargon "Seleucus Nicator" "Sfântul Eustathius Magnus" "Sfântul Meletius" Svetlana Smaranda "Sfântul Andrei" "Sfântul Petru"
+	"Sfântul Gheorghe"
+	"Sfântul Ioan de Patmos"
+	Telepinus Tigranes Theodotus Tanaz Tars
+	Zobah
+}

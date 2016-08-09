@@ -1,0 +1,22 @@
+#2422 - Veda-Suvar
+
+owner = VBG
+controller = VBG
+culture = bolghar
+religion = catholic
+capital = "Veda-Suvar"
+trade_goods = grain
+hre = no
+base_tax = 2 
+base_production = 2
+base_manpower = 3
+is_city = yes
+add_core = VBG
+
+
+
+discovered_by = eastern
+discovered_by = western
+discovered_by = nomad_group
+discovered_by = ottoman
+

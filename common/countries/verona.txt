@@ -1,0 +1,156 @@
+# Verona
+
+graphical_culture = westerngfx
+
+color = { 170 255 170 }
+
+preferred_religion = reformed
+
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	aristocracy_ideas
+	spy_ideas
+	religious_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	swedish_gallop
+	swedish_gustavian
+	swedish_caroline
+	swedish_arme_blanche
+	prussian_frederickian
+	prussian_uhlan
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Teodosi #1" = 30
+	"Federigh #1" = 25
+	"Giouan #1" = 20
+	"Marcellino #1" = 15
+	"Dativo #1" = 10
+	"Paulus #1" = 10
+	"Agila #0" = 10
+	"Lacubegi #1" = 5
+
+	"Cunigunda #1" = -10
+	"Beatris #1" = -10
+	"Lucinetta #0" = -10
+	"Platta #1" = -10
+	"Tarsina #1" = -5
+
+	"Atil #0" = 0
+	"Ambreus #0" = 0
+	"Adrian #0" = 0
+	"Benedet #0" = 0
+	"Bonifass #0" = 0
+	"Batista #0" = 0
+	"Chintila #0" = 0
+	"Carl #0" = 0
+	"Clàudi #0" = 0
+	"Costantin #0" = 0
+	"Conrà #0" = 0
+	"Deceneo #0" = 0
+	"Daniele #0" = 0
+	"Esselin #0" = 0
+	"Edoard #0" = 0
+	"Ebal #0" = 0
+	"Ësteo #0" = 0
+	"Éracle #0" = 0
+	"Folco #0" = 0
+	"Federigh #0" = 0
+	"Fravitta #0" = 0
+	"Flip #0" = 0
+	"Ignassi #0" = 0
+	"Iblet #0" = 0
+	"Giordane #0" = 0
+	"Gracco #0" = 0
+	"Gainas #0" = 0
+	"Genio #0" = 0
+	"Gulielm #0" = 0
+	"Gajo #0" = 0
+	"Gregòri #0" = 0
+	"Godifré #0" = 0
+	"Giacint #0" = 0
+	"Lugh #0" = 0
+	"Ludovigh #0" = 0
+	"Leon #0" = 0
+	"Lorens #0" = 0
+	"Lissànder #0" = 0
+	"Medeo #0" = 0
+	"Margh #0" = 0
+	"Melior #0" = 0
+	"Màssim #0" = 0
+	"Manfrèid #0" = 0
+	"Nicholaus #0" = 0
+	"Odoacre #0" = 0
+	"Oton #0" = 0
+	"Odilo #0" = 0
+	"Plinta #0" = 0
+	"Pàol #0" = 0
+	"Quodvultdeus #0" = 0
+	"Roderigh #0" = 0
+	"Ròmol #0" = 0
+	"Renà #0" = 0
+	"Safrax #0" = 0
+	"Saro #0" = 0
+	"Settimi #0" = 0
+	"Tufta #0" = 0
+	"Teudi #0" = 0
+	"Tulga #0" = 0
+	"Teia #0" = 0
+	"Tiudenand #0" = 0
+	"Tiudisel #0" = 0
+	"Tomà #0" = 0
+	"Tiuderigh #0" = 0
+	"Uraia #0" = 0
+	"Ulfila #0" = 0
+	"Ugo #0" = 0
+	"Usdrila #0" = 0
+	"Valerian #0" = 0
+	"Xavêio #0" = 0
+}
+
+leader_names = {
+	Aleicoune "d'Aponus" "d'Ateste" "d'Auraei" "d'Andes"
+	Basadona Bondumier Bragadin
+	"ëd Caldiero" "ëd Castellutto" "ëd Cucanea" "ëd Carnea" Cigogna
+	"de Dipo" "ëd Duino" "ëd Dolfin"
+	"d'Este"
+	"ëd Fossis"
+	Gera
+	"ëd Herclia" "ëd Hostilia" "ëd Homobon"
+	Lero "ëd Lisono" Lesse
+	Masguinus "ëd Malempensa" Maroel Manolosso Moro Mosto Mocenigo
+	Pesaro "ëd Pàdoa" "ëd Porcileis" "ëd Portis" Priuli
+	Quixotus
+	Rava
+	Salamon "ëd Sirmio" "ëd Sarnis"
+	Tosi "ëd Trevis" "ëd Tocello" Tron
+	Viatore "ëd Vicensa" "ëd Valvesono" "ëd Villalta" "ëd Varmo" "ëd Vettor"
+	"ëd Zuccula" "ëd Zerneo" "ëd Zuane"
+}
+
+ship_names = {
+	Alaberta Amalasunta Altinum "Ad Finem" Ariolica "Ad Flexum" "Ad Palatium"
+	"Bonifacius Nefarias" Beneventum
+	Cangrande Cleonimus Candianum "Claudius Augustus"
+	"Iulia Concordia"
+	Mastinus Marozia "Mons Silicis" Medoacus
+	Patavium "Portus Edronis" Postumia
+	Retrone
+	Sirmio Sarnis
+	Valdamerca Vicetia Vennum
+}

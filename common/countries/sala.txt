@@ -1,0 +1,97 @@
+# Sala Colonia
+
+graphical_culture = muslimgfx
+
+color = { 130  77  119 }
+
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	economic_ideas
+	diplomatic_ideas
+	offensive_ideas
+	spy_ideas
+	quality_ideas
+	trade_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	prussian_uhlan
+	prussian_drill
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Verissimus #1" = 30
+	"Honorius #1" = 30
+	"Samueli #0" = 30
+	"Carcasanu #0" = 25
+	"Bartolomeu #2" = 25
+	"Nicola #1" = 20
+	"Cladiu #2" = 20
+	"Mauru #1" = 10
+	"Dominigu #1" = 10
+
+	"Gersenda #1" = -5
+	"Margarita #1" = -5
+	"Basilia #1" = -5
+
+	"Abbmelcar #0" = 0
+	"Akutla #1" = 1
+	"Alexsandru #0" = 0
+	"Donatu #0" = 0
+	"Egidiu #0" = 0
+	"Facundus #0" = 0
+	"Floru #0" = 0
+	"Marceh #1" = 0
+	"Masceddelu #1" = 0
+	"Massuna #0" = 0
+	"Mazeu #1" = 0
+	"Petru #0" = 0
+	"Zigza #1" = 0
+}
+
+leader_names = {
+	Ayceli Awras
+	Bixiu "di Banasa" Brachodanu Broccu
+	Casula Canalis Canu
+	"Envolatus Barcinensis"
+	Docevita
+	Ghessa
+	"di Jovis"
+	Lussu Lucchesu
+	Masguinus Musulamen Machliu "di Maxila" Mereu
+	Pisciu Poddighe Pinna Pintus
+	Romanu
+	Schellou Schoviah "di Silvani" Secche
+	Tafuranu "di Tiflet" "di Tuburbo"
+	Usai
+	Virdis Vacca "di Veresvi"
+	Zaba Zauecu
+}
+
+ship_names = {
+	Adela
+	Banasa Boi
+	Cadeddu
+	Datina
+	Frigidae Falco
+	Lixus Lodde
+	Mele "Marcus Cappaius"
+	Nieddu
+	Platta Piga Pilloni Puddu
+	"Sala Colonia" Sanna "Sanctus Romanus"
+	"Verissimus Coras"
+}

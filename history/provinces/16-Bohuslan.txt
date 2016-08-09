@@ -1,10 +1,11 @@
 #Bohuslän, contains Marstrand, Uddevalla, Strömstad.
 
-owner = NOR
-controller = NOR
+owner = GTR
+controller = GTR
 add_core = NOR
+add_core = GTR
 culture = norwegian
-religion = orthodox
+religion = catholic
 hre = no
 base_tax = 2 
 base_production = 2

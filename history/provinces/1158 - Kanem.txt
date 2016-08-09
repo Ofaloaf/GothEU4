@@ -1,0 +1,22 @@
+#1158 - Kanem
+
+owner = KBO
+controller = KBO
+add_core = YAO
+add_core = KBO
+culture = kanuri
+religion = catholic
+capital = "Ngala"
+is_city = yes
+base_manpower = 2
+trade_goods = wool
+hre = no
+base_tax = 3 
+base_production = 3
+
+
+
+discovered_by = sub_saharan
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman

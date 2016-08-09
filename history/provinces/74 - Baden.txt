@@ -3,15 +3,18 @@
 owner = GTY
 controller = GTY
 add_core = GTY
-capital = "Aquis"
+add_core = BAD
+capital = "Aquae"
 trade_goods = wine
-religion = orthodox
+religion = catholic
 culture = swabian
 base_tax = 2 
 base_production = 2
 base_manpower = 1
 is_city = yes
 hre = yes
+
+
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

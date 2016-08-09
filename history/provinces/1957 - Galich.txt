@@ -1,0 +1,22 @@
+#Galich
+
+owner = VBG
+controller = VBG
+capital = "Galich"
+culture = bolghar
+religion = catholic
+trade_goods = salt
+hre = no
+base_tax = 5 
+base_production = 7 #Huge Salt Mine
+base_manpower = 2
+is_city = yes
+add_core = VBG
+fort_15th = yes
+
+
+
+discovered_by = eastern
+discovered_by = western
+discovered_by = GOL
+discovered_by = nomad_group

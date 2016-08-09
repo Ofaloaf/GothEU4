@@ -1,19 +1,21 @@
 # - Titteri
 
-owner = TLC
-controller = TLC
-culture = numidian
-religion = orthodox
+owner = CSE
+controller = CSE
+culture = berber
+religion = catholic
 capital = "Medea"
 trade_goods = grain
-hre = no
+hre = yes
 base_tax = 1 
 base_production = 1
 base_manpower = 1
 is_city = yes
 estate = estate_nobles
-add_core = TLC
-add_core = ALG
+add_core = CSE
+
+
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = western
+discovered_by = eastern

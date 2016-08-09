@@ -2,8 +2,9 @@
 
 owner = SRB
 controller = SRB
-culture = sorbian
-religion = orthodox
+add_core = SRB
+culture = schlesian
+religion = catholic
 capital = "Glogau"
 trade_goods = grain
 hre = no
@@ -11,7 +12,13 @@ base_tax = 4
 base_production = 4
 is_city = yes
 base_manpower = 1
-add_core = SRB
+add_core = SIL
+discovered_by = KAZ
+discovered_by = CRI
+discovered_by = GOL
+discovered_by = AST
+discovered_by = QAS
+
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

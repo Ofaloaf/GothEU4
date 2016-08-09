@@ -84,6 +84,7 @@
 169 = "Redonia"
 170 = "Osismia"
 171 = "Veneda"
+174 = "Bordelh
 177 = "Meduana"
 178 = "Andegavia"
 179 = "Burgis"

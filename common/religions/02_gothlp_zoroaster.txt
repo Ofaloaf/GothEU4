@@ -1,0 +1,26 @@
+zoroastrian_group = {
+	manichee = {
+		icon = 26
+		color = { 0.7 0.7 0.4 }
+		country = {
+			tolerance_heathen = 1
+			global_unrest = -0.5
+		}
+		country_as_secondary = {
+			horde_unity = 1
+			discipline = 0.05
+		}
+		on_convert = {
+			add_prestige = -100
+			add_stability = -1
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}		
+
+		heretic = { MANDAEAN NEOQUQITE BARDAISANITE_REVIVAL }	
+	}
+	
+	crusade_name = HOLY_WAR
+}

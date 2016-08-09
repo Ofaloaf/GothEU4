@@ -1,0 +1,16 @@
+# No previous file for Dallol
+
+owner = MAL
+controller = MAL
+add_core = SON
+add_core = MAL
+is_city = yes
+culture = songhai 
+religion = shamanism #Fetishism
+capital = "Say"
+trade_goods = grain
+hre = no
+base_tax = 2 
+base_production = 2
+base_manpower = 1
+discovered_by = sub_saharan

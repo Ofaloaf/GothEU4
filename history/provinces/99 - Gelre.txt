@@ -1,18 +1,19 @@
 # 99 Gelre - Principal cities: Arnhem, Zwolle & Nijmegen
 
-owner = FRK
-controller = FRK
+owner = FRC
+controller = FRC
 capital = "Arnhem"
 is_city = yes
 culture = dutch
-religion = orthodox
+religion = catholic
 hre = no
-base_tax = 5
-base_production = 5
+base_tax = 3
+base_production = 3
 trade_goods = grain
-base_manpower = 3
+base_manpower = 2
 add_core = GEL
-add_core = FRK
+add_core = FRC
+
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

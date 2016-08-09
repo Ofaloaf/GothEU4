@@ -1,0 +1,15 @@
+government = despotic_monarchy
+primary_culture = turkish
+religion = jewish
+technology_group = muslim
+capital = 410	# Bagdad
+
+1399.12.8 = {
+	monarch = {
+		name = "Porsuk I"
+		dynasty = "Sassanid"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}

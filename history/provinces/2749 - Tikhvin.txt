@@ -1,0 +1,21 @@
+# 2749 - Tikhvin
+
+owner = ILM
+controller = ILM
+culture = mordvin
+religion = catholic
+hre = no
+base_tax = 5 
+base_production = 5
+trade_goods = iron
+base_manpower = 2
+capital = "Tikhvin"
+is_city = yes
+add_core = ILM
+
+
+
+discovered_by = eastern
+discovered_by = western
+discovered_by = nomad_group
+

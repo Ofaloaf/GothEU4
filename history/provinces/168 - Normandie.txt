@@ -1,20 +1,23 @@
 # 168 Normandie - Principal cities: Caen
 
-owner = RDM
-controller = RDM
-capital = "Cadumo"
+owner = AMC
+controller = AMC
+capital = "Caen"
 is_city = yes
-culture = armorican
-religion = orthodox
+culture = loegric
+religion = catholic
 hre = yes
 base_tax = 6 
 base_production = 6
 trade_goods = naval_supplies
 base_manpower = 5
+
+
+
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-add_core = RDM
-fort_15th = yes
 
+add_core = AMC
+fort_15th = yes

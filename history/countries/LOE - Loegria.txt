@@ -2,5 +2,15 @@ government = feudal_monarchy
 government_rank = 2
 technology_group = western
 primary_culture = loegric
-religion = orthodox
+religion = catholic
 capital = 238 # Essex
+
+1401.2.1 = {
+	monarch = {
+		name = "Radovan II"
+		dynasty = "Väse"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}

@@ -1,7 +1,0 @@
-government = despotic_monarchy
-primary_culture = turkish
-religion = manichee
-technology_group = ottoman
-historical_rival = BYZ
-capital = 323 # Konya
-national_focus = MIL

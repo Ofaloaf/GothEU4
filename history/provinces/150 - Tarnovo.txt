@@ -3,7 +3,7 @@
 owner = THR
 controller = THR
 culture = vlachika
-religion = orthodox
+religion = catholic
 capital = "Tarnovo"
 trade_goods = iron
 hre = no
@@ -13,6 +13,9 @@ base_manpower = 3
 estate = estate_nobles
 is_city = yes
 add_core = THR
+
+
+
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

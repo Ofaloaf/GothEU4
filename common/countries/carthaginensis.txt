@@ -1,0 +1,106 @@
+graphical_culture = westerngfx
+
+color = { 32 73 77 }
+
+historical_idea_groups = {
+	administrative_ideas
+	defensive_ideas
+	trade_ideas
+	economic_ideas
+	offensive_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	expansion_ideas
+}
+
+preferred_religion = protestant
+
+historical_units = {
+	halberd_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	french_caracolle
+	anglofrench_line
+	french_dragoon
+	french_bluecoat
+	french_cuirassier
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Egenio #1" = 30
+	"Dedon #3" = 30
+	"Reles #1" = 25
+	"Gudesteus #2" = 20
+	"Jaufret #2" = 20
+	"Thomas #2" = 20
+	"Abraham #1" = 10
+	"Feixoo #1" = 10
+
+	"Marta #1" = -10
+	"Basilisa #1" = -10
+	"Iulia #1" = -10
+	"Gratiosa #1" = -10
+
+	"Adamantius #0" = 0
+	"Albanus #1" = 1
+	"Antenato #0" = 0
+	"Arsenius #0" = 0
+	"Bonellus #0" = 0
+	"Bonentius #0" = 0
+	"Comenciolus #0" = 0
+	"Elauus #0" = 0
+	"Ferrario #0" = 0
+	"Florenzo #0" = 0
+	"Fortis #0" = 0
+	"Furtinius #0" = 0
+	"Gaudenzo #0" = 0
+	"Ilians #1" = 1
+	"Infantinus #0" = 0
+	"Lucus #0" = 0
+	"Mallaton #0" = 0
+	"Maurus #0" = 0
+	"Moino #0" = 0
+	"Pascale #0" = 0
+	"Piliolus #1" = 1
+	"Sarracinus #1" = 1
+	"Vitus #0" = 0
+}
+
+leader_names = {
+	Astrugui Amilcaro
+	Baniense "de Bisuldune" "de Baria"
+	Coras
+	"de Eliocroca"
+	"de Ficaria"
+	"de Guifredopolis"
+	"de Ico"
+	Lero "de Longuntica"
+	Martorell
+	"de Petrodunum"
+	Vercingetoregulo "de Valentia"
+}
+
+ship_names = {
+	Begastrum
+	Calvina Cristina "Cartago Spartaria" Caesarius
+	Doretia
+	Gratzia "Gabriela de Viviers" Genesia
+	Egabra
+	Gloriosus
+	Ilorci
+	"Liberius Patricius" Licinianus Leontius
+	Minervina
+	Nomendulce
+	Orospeda Orracha
+	Rapidus Romana
+	Segisa "Scipio Africanus"
+	Turiaso Thiar "Tislit Coras"
+	Victrix
+}

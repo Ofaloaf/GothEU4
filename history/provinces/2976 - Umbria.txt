@@ -2,14 +2,14 @@
 
 owner = LRM
 controller = LRM
-culture = lat_roman 
+culture = romandeis
 religion = catholic 
-hre = no
+hre = yes
 base_tax = 6
 base_production = 6
 trade_goods = wine
 base_manpower = 1
-capital = "Perusia" 
+capital = "Perugia" 
 is_city = yes
 add_core = LRM
 

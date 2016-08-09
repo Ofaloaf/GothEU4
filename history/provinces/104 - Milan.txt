@@ -3,17 +3,19 @@
 owner = LRM
 controller = LRM
 culture = taurinjeis
-religion = orthodox
-hre = no
-base_tax = 11 
-base_production = 11 
+religion = catholic
+hre = yes
+base_tax = 9
+base_production = 9
 trade_goods = cloth
-base_manpower = 8
-fort_15th = yes 
+base_manpower = 7
+fort_15th = yes #Sforza Castle
 capital = "Milan"
 is_city = yes	# Estimated
-add_core = LGI
 add_core = LRM
+
+
+
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

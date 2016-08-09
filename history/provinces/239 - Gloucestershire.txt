@@ -1,18 +1,23 @@
 #239 - Gloucestershire
+#Includes Somerset.
 
 owner = LOE
 controller = LOE
-culture = loegric
-religion = orthodox
+culture = cambric
+religion = catholic
 hre = no
 base_tax = 5 
 base_production = 5
 trade_goods = iron
 base_manpower = 4
-capital = "Gloui"
+capital = "Glouvia"
 is_city = yes
 add_core = LOE
+
+
+
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
+

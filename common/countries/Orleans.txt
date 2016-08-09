@@ -51,32 +51,44 @@ monarch_names = {
 	"Jordan #0" = 0
 	"Leidrat #0" = 0
 	"Lodoycus #0" = 0
+	"Miquel #0" = 0
 	"Narseis #0" = 0
+	"Pèitre #0" = 0
+	"Pol #0" = 0
+	"Raugier #0" = 0
 	"Rodericho #0" = 0
 	"Sidauni #0" = 0
 	"Tiuderic #0" = 0
+	"Turismau #0" = 0
+	"Ugne #0" = 0
+	"Vigitino #0" = 0
 }
 
 leader_names = {
+	Ablabis
 	"de Belca"
-	"de Casteldun" "de Colomna" "de Carnutis"
+	Causidicus "de Casteldun" "de Colomna" "de Carnutis" Cabillate
 	"de Drocas"
 	"d'Esparnona"
-	Milith "de Miciaco"
+	Fabricius
+	Laiggaiu
+	Milith "de Miciaco" Melanclaenau
+	Naulbadau
+	Pilleates
 	Rava
-	Sergerics "de Setelsona"
+	Sergerics "de Setelsona" Safraceis Sareis Sballes
 	Triarius
 	Unilasuna
-	"de Vigo"
+	Valraumas "de Vigo" Vulturareis
 }
 
 ship_names = {
 	"Alico Gastigodis" "Ad Fines" Autricum Aurelius
 	Blesum Brunissenda
-	Castrodunum Carnutum Cenabum
-	"Dunensa Castrum"
+	Castrodunum Carnutum Cenabum Colomna Clemència
+	"Dunensa Castrum" Dulça
 	Hildigunthi
-	Marquisa
+	Marquisa Miciacum
 	Noviogentum Noviodunum
 	Petronilha
 	Sparniacum Salioclita Segimovicus

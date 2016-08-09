@@ -1,0 +1,17 @@
+government = feudal_monarchy
+government_rank = 1
+primary_culture = baluchi
+religion = hinduism
+technology_group = indian
+capital = 577	# Quetta
+
+1400.1.1 = {
+	monarch = {
+		name = "Hafif"
+		dynasty = "Bhambhani"
+		dip = 1
+		adm = 1 
+		mil = 1
+	}
+	capital = 2072 # Bhakkar
+}
