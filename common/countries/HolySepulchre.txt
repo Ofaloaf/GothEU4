@@ -6,7 +6,7 @@ graphical_culture = easterngfx
 
 color = { 120 0 145 }
 
-preferred_religion = protestant
+preferred_religion = gnostic
 
 historical_idea_groups = {
 	trade_ideas

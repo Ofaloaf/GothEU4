@@ -1,0 +1,105 @@
+# Kannauj
+
+graphical_culture = indiangfx
+
+color = { 197 47 39 }
+
+historical_idea_groups = {
+	quantity_ideas
+	offensive_ideas
+	diplomatic_ideas
+	defensive_ideas
+	trade_ideas
+	aristocracy_ideas
+	spy_ideas
+	economic_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	rajput_hill_fighters
+	indian_arquebusier
+	mughal_musketeer
+	rajput_musketeer
+	mughal_mansabdar
+	indian_elephant
+	sikh_hit_and_run
+	bhonsle_cavalry
+	indian_rifle
+	tipu_sultan_rocket
+}
+
+monarch_names = {
+	"Vikramaditya #6" = 50
+	"Adikavi #2" = 40
+	"Madhava #2" = 30
+	"Dalu #3" = 30
+	"Jagaraya #1" = 15
+	"Madanavarman #1" = 15
+	"Viranarasimha #1" = 15
+	"Tejapala #1" = 10
+	"Marasimha #1" = 10
+	"Permadi #1" = 10
+	"Rampal #1" = 10
+	"Brahmadeva #1" = 10
+	"Jagdev #1" = 10
+
+	"Puppadevi #1" = -10
+	"Hoysaladevi #0" = -5
+	"Ratnadevi #0" = -5
+	"Chandaladevi #0" = -5
+
+	"Ama #1" = 1
+	"Asaga #0" = 0
+	"Bhoja #1" = 1
+	"Dundaka #2" = 2
+	"Gopal #0" = 0
+	"Jatanpal #2" = 2
+	"Keeratdeva #0" = 0
+	"Mihira #1" = 1
+	"Paramardideva #1" = 1
+	"Pritampala #0" = 0
+	"Ramchalla #0" = 0
+	"Vendakadri #1" = 1
+	"Harde Sah #0" = 0
+	"Nirpat #0" = 0
+	"Sabha #0" = 0
+	"Hindupat #0" = 0
+	"Anirudh #0" = 0
+	"Dhokal #0" = 0
+	"Kishor #0" = 0
+	"Mahendra #0" = 0
+	"Lokpal #0" = 0
+	"Madho #0" = 0
+	"Malkhan #0" = 0
+}
+
+leader_names = {
+	Ayudha
+	Beejpal Bundela Bais Baghela Bhaal
+	Chattar Chauhan Chandela
+	Datia
+	Gupta
+	Jasos Jadon
+	Katoch
+	Mihir Minhas Mori
+	Naru Naga
+	Permadi Pakhral Pundir
+	Rashtrakuta
+	Singh Saharan
+	Tomara
+	Varman
+}
+
+ship_names = {
+	Betwa Devi Durga Ganga Gandak
+	Gayatri Ghagra Gomti Jalsena
+	"Kala Jahazi" Ken Lakshmi
+	"Lal Jahazi" Nausena "Nav ka Yudh"
+	"Nila Jahazi" Parvati Radha
+	Ramganga Ratri Sagar Sarasvati
+	Satlaj Sita Yamuna
+	Lakshmi
+	Yasovarman
+	"Zainab Tari Bhambhani"
+}

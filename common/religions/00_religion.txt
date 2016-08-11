@@ -22,6 +22,7 @@ christian = {
 		allowed_conversion = {
 			reformed
 			protestant
+			gnostic
 		}
 		country = {
 			tolerance_own = 1
@@ -233,6 +234,7 @@ christian = {
 		allowed_conversion = {
 			reformed
 			catholic
+			gnostic
 		}
 		allowed_center_conversion = {
 			catholic
@@ -447,11 +449,12 @@ christian = {
 	}
 
 	reformed = { # Anabaptist
-		color = { 0.45 0.6 0.45 }
+		color = { 0.35 0.5 0.35 }
 		icon = 3
 		allowed_conversion = {
 			protestant
 			catholic
+			gnostic
 		}
 		allowed_center_conversion = {
 			catholic
@@ -464,6 +467,9 @@ christian = {
 		country_as_secondary = {
 			global_unrest = -1
 			advisor_cost = -0.1
+		}
+		province = {
+			local_missionary_strength = -0.01 
 		}
 
 		will_get_center = {
@@ -535,6 +541,7 @@ christian = {
 								religion = protestant
 								religion = catholic
 								religion = reformed
+								religion = gnostic
 							}
 							not = { province_id = 118 }
 							is_in_capital_area = yes
@@ -589,6 +596,7 @@ christian = {
 								religion = protestant
 								religion = catholic
 								religion = reformed
+								religion = gnostic
 							}
 							is_in_capital_area = yes
 							is_reformation_center = no
@@ -641,11 +649,219 @@ christian = {
 			}
 		}
 		
-		heretic = { QUAKER }
+		heretic = { QUAKER CHARISTMATIC INSPIRATIONIST }
 		
 		date = 1515.1.1
 		
 		fervor = yes
+	}
+
+	gnostic = {
+		color = { 0.2 0.7 0.6 }
+		icon = 4
+
+		allowed_conversion = {
+			protestant
+			catholic
+			reformed
+		}
+
+		allowed_center_conversion = {
+			catholic
+		}
+
+		country = {
+			global_trade_income_modifier = 0.10
+			global_unrest = -1
+		}
+		country_as_secondary = {
+			tolerance_own = -1
+			land_morale = 0.10
+		}
+
+		will_get_center = {
+			any_owned_province = {
+				OR = {
+					religion = protestant
+					religion = catholic
+					religion = reformed
+					religion = gnostic
+				}
+				not = { province_id = 118 }
+				is_in_capital_area = yes
+				is_reformation_center = no
+				OR = {
+					has_province_flag = start_of_gnostic_reformation
+					development = 10
+				}
+				is_island = no
+				NOT = {
+					any_neighbor_province = {
+						is_reformation_center = yes
+					}
+				}
+				NOT = {
+					any_province = {
+						area = PREV
+						religion = gnostic
+						is_reformation_center = yes
+					}
+				}
+				NOT = { has_climate = arctic }
+				NOT = { has_climate = arid }
+				NOT = { has_terrain = coastline }
+				NOT = { has_terrain = coastal_desert }
+				NOT = { has_terrain = steppe }
+				NOT = { has_terrain = desert }
+				NOT = { has_terrain = glacier }
+				NOT = { has_climate = tropical }
+			}
+		}
+		
+		on_convert = {
+			change_religion = gnostic
+			add_prestige = -100
+			remove_country_modifier = counter_reformation
+			remove_country_modifier = the_statue_in_restraint_of_appeals
+			remove_country_modifier = bavarian_jesuits
+			remove_country_modifier = the_societas_jesu
+			remove_country_modifier = the_declaration_of_indulgence
+			remove_country_modifier = de_heretico_comburendo
+			remove_country_modifier = the_conventicle_act
+			
+			if = {
+				limit = {
+					has_country_flag = reformation_money
+					NOT = {
+						calc_true_if = {
+							all_province = {
+								religion = gnostic
+								is_reformation_center = yes
+							}
+							amount = 3
+						}
+					}
+				}
+				hidden_effect = {
+					random_owned_province = {
+						limit = {
+							OR = {
+								religion = protestant
+								religion = catholic
+								religion = reformed
+								religion = gnostic
+							}
+							not = { province_id = 118 }
+							is_in_capital_area = yes
+							is_reformation_center = no
+							is_island = no
+							development = 10
+							NOT = {
+								any_neighbor_province = {
+									is_reformation_center = yes
+								}
+							}
+							NOT = {
+								any_province = {
+									area = PREV
+									religion = gnostic
+									is_reformation_center = yes
+								}
+							}
+							NOT = { has_climate = arctic }
+							NOT = { has_climate = arid }
+							NOT = { has_terrain = coastline }
+							NOT = { has_terrain = coastal_desert }
+							NOT = { has_terrain = steppe }
+							NOT = { has_terrain = desert }
+							NOT = { has_terrain = glacier }
+							NOT = { has_climate = tropical }
+						}
+						change_religion = gnostic
+						add_reform_center = gnostic
+					}
+				}
+				custom_tooltip = CENTER_OF_REFORMATION_POSSIBLE
+			}
+			if = {
+				limit = {
+					NOT = { has_country_flag = reformation_money }
+					NOT = {
+						calc_true_if = {
+							all_province = {
+								religion = reformed
+								is_reformation_center = yes
+							}
+							amount = 3
+						}
+					}
+				}
+				add_years_of_income = 1.0
+				hidden_effect = {
+					random_owned_province = {
+						limit = {
+							OR = {
+								religion = protestant
+								religion = catholic
+								religion = reformed
+								religion = gnostic
+							}
+							is_in_capital_area = yes
+							is_reformation_center = no
+							is_island = no
+							not = { province_id = 118 }
+							development = 10
+							NOT = {
+								any_neighbor_province = {
+									is_reformation_center = yes
+								}
+							}
+							NOT = {
+								any_province = {
+									area = PREV
+									religion = gnostic
+									is_reformation_center = yes
+								}
+							}
+							NOT = { has_climate = arctic }
+							NOT = { has_climate = arid }
+							NOT = { has_terrain = coastline }
+							NOT = { has_terrain = coastal_desert }
+							NOT = { has_terrain = steppe }
+							NOT = { has_terrain = desert }
+							NOT = { has_terrain = glacier }
+							NOT = { has_climate = tropical }
+						}
+						change_religion = gnostic
+						add_reform_center = gnostic
+					}
+				}
+				custom_tooltip = CENTER_OF_REFORMATION_POSSIBLE
+			}
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}			
+			set_country_flag = "reformation_money"
+			every_known_country = {
+				limit = {
+					reverse_has_opinion_modifier = {
+						who = ROOT
+						modifier = opinion_demote_pope
+					}
+				}
+				reverse_remove_opinion = {
+					who = ROOT
+					modifier = opinion_demote_pope
+				}
+			}
+		}		
+		
+		heretic = { DUALIST ADAMITE MONARCHIANIST }
+		
+		hre_heretic_religion = yes
+
+		date = 1520.1.1
 	}
 
 	orthodox = {
@@ -1100,8 +1316,8 @@ pagan = {
 	}
 	
 	mesoamerican_religion = {
-		#color = { 0.3 0.1 0.7 }
-		color = { 0.5 0.1 0.7 }
+		color = { 0.3 0.1 0.7 }
+		#color = { 0.5 0.1 0.7 }
 		icon = 19
 		country = {
 			tolerance_own = 1

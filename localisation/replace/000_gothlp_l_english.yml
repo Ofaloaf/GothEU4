@@ -96,6 +96,8 @@
  SEMIARIAN:0 "Semi-Arian"
  MANDAEAN:0 "Mandaean"
  NEOQUQITE:0 "Neo-Quqite"
+ CHARISMATIC:0 "Charistmatic"
+ INSPIRATIONIST:0 "Inspirationist"
  BARSAISANITE_REVIVAL:0 "Bardaisanite Revivalist"
  colonial_alleghania:0 "Colonial Alleghania"
  COLONIAL_ALLEGHANIA_Root_Culture_GetName_Alleghania:0 "[Root.GetAdjective] Alleghania"

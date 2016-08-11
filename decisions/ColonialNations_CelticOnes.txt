@@ -1,0 +1,152 @@
+country_decisions = {
+
+	# EASTERN AMERICA - Madogwys
+	usa_nation = {
+		major = yes
+		potential = {
+			NOT = { has_country_flag = changed_from_colonial_nation }
+			OR = {
+				is_former_colonial_nation = yes
+				is_colonial_nation = yes
+			}
+			OR = {
+				colonial_alleghania = {
+					owned_by = ROOT
+				}
+				colonial_appalachia = {
+					owned_by = ROOT
+				}
+				colonial_ohio = {
+					owned_by = ROOT
+				}
+				colonial_florida = {
+					owned_by = ROOT
+				}
+				colonial_mississippi = {
+					owned_by = ROOT
+				}
+			}
+			culture_group = gaelic
+			OR = {
+				ai = no
+				AND = {
+					ai = yes
+					num_of_cities = 3	
+				}
+			}
+		}
+		allow = {
+			adm_tech = 10
+			is_former_colonial_nation = yes
+			is_subject = no
+			is_at_war = no
+			OR = {
+				capital_scope = {
+					colonial_region = colonial_alleghania
+					is_core = ROOT
+				}
+				capital_scope = {
+					colonial_region = colonial_appalachia
+					is_core = ROOT
+				}
+				capital_scope = {
+					colonial_region = colonial_ohio
+					is_core = ROOT
+				}
+				capital_scope = {
+					colonial_region = colonial_florida
+					is_core = ROOT
+				}
+				capital_scope = {
+					colonial_region = colonial_mississippi
+					is_core = ROOT
+				}
+			}
+			NOT = { exists = N02 }
+		}
+		effect = {
+			change_tag = N02
+			if = {
+				limit = {
+					is_part_of_hre = yes
+					is_elector = no
+				}
+				every_owned_province = {
+					limit = {
+						is_part_of_hre = yes
+					}
+					set_in_empire = no
+				}
+			}
+			if = {
+				limit = { NOT = { government_rank = 2 } }
+				set_government_rank = 2
+			}
+			swap_free_idea_group = yes
+			if = {
+				limit = {
+					OR = {
+						capital_scope = {
+							colonial_region = colonial_alleghania
+						}
+						capital_scope = {
+							colonial_region = colonial_appalachia
+						}
+						capital_scope = {
+							colonial_region = colonial_ohio
+						}
+						capital_scope = {
+							colonial_region = colonial_florida
+						}
+					}
+				}
+				colonial_alleghania = {
+					limit = {
+						NOT = { owned_by = ROOT }
+					}
+					add_claim = ROOT
+				}
+				colonial_appalachia = {
+					limit = {
+						NOT = { owned_by = ROOT }
+					}
+					add_claim = ROOT
+				}
+				colonial_ohio = {
+					limit = {
+						NOT = { owned_by = ROOT }
+					}
+					add_claim = ROOT
+				}
+				colonial_florida = {
+					limit = {
+						NOT = { owned_by = ROOT }
+					}
+					add_claim = ROOT
+				}
+			}
+			if = {
+				limit = {
+					capital_scope = {
+						colonial_region = colonial_mississippi
+					}
+				}
+				colonial_mississippi = {
+					limit = {
+						NOT = { owned_by = ROOT }
+					}
+					add_claim = ROOT
+				}
+			}
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+			set_country_flag = changed_from_colonial_nation
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}

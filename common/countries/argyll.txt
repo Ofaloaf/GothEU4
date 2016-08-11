@@ -4,7 +4,7 @@ graphical_culture = westerngfx
 
 color = { 15 150 240 }
 
-preferred_religion = reformed
+preferred_religion = gnostic
 
 historical_idea_groups = {
 	naval_ideas

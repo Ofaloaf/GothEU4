@@ -1,0 +1,107 @@
+# Madogwys
+
+graphical_culture = westerngfx
+
+colonial_parent = GBP
+random_nation_chance = 0
+
+color = { 69 208 157 }
+
+historical_idea_groups = {
+	plutocracy_ideas
+	trade_ideas
+	economic_ideas
+	defensive_ideas
+	maritime_ideas
+	administrative_ideas
+	offensive_ideas
+	quantity_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	chevauchee
+	western_longbow
+	gaelic_mercenary
+	gaelic_free_shooter
+	french_caracolle
+	irish_charge
+	anglofrench_line
+	french_dragoon
+	british_redcoat
+	british_hussar
+	british_square
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Owain #0" = 30
+	"Geraint #0" = 30
+	"Iewan #0" = 25
+	"Iago #0" = 0
+	"Llywelyn #0" = 20
+	"Emrys #0" = 20
+	"Erbin #0" = 10
+
+	"Emid #0" = -5
+	"Alis #0" = -5
+
+	"Abraham #0" = 0
+	"Bedo #0" = 0
+	"Bleddyn #0" = 0
+	"Dafydd #0" = 0
+	"Daniel #0" = 0
+	"Einion #0" = 0
+	"Elias #0" = 0
+	"Eseciel #0" = 0
+	"Gwilym #0" = 0
+	"Gwynfor #0" = 0
+	"Hywel #0" = 0
+	"Iowerth #0" = 0
+	"Isaac #0" = 0
+	"Malachi #0" = 0
+	"Meredudd #0" = 0
+	"Moses #0" = 0
+	"Phylip #0" = 0
+	"Rhisiart #0" = 0
+	"Siôn #0" = 0
+}
+
+leader_names = {
+	Antron "An Gof" "ap Meryk" Abioan Argol Apteoda Alaw Aled
+	Bolitho Bach Bychan Brydydd Brwynllys Benfras Brwmffild
+	Carew Clemo Cent Cothi Cain Cynfrig
+	Deceanglus Day Dyfodwg Ddu Dwygraig Deylwyn
+	Enys Eyri Epynt
+	Flamank Fychan Fardd
+	Griffith Gruffyd Glyndwr Glyn Gwynno Gryg Goch Gethin
+	Hoddnant Hiraethog
+	Ifans
+	Kyffin
+	Llwyd Lawgoch Lhuyd Lleision
+	Machen Merwyn Morcant Môn Maelor
+	Nantlais Nannau Nanmor
+	Offeiriad
+	Pyfrom Penhaligon Pentreath Penrhyn Prydudd Powys
+	Rocha Rhys Rheon Rhodri
+	Sais Seisyll Saer
+	Trevithick Thom Trebilcogh Tregeagle Trewavas Trewinnard Treffry Tangye Terfel Trefmawr Tynan Trefor Tudur
+	Wyn Wogan
+}
+
+ship_names = {
+	Amerauder
+	Bucca Brevita Brychan
+	Cloten
+	Doniert
+	Elbodius
+	Gam
+	Iolo
+	"Llwch Llawwynnauc" Lamchalad Llongborth
+	Madocus Myrddin "Madog ap Maredudd"
+	"Owain ap Zuinch" "Owain Gwynedd"
+	Thaliesin
+}

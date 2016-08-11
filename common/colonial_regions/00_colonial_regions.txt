@@ -354,7 +354,10 @@ colonial_alleghania = {
 	# Specific
 	names = {
 		trigger = {
-			culture_group = brythonic
+			OR = {
+				culture_group = brythonic
+				culture_group = gaelic
+			}
 		}
 		name = "COLONIAL_ALLEGHANIA_Afallon"
 	}
@@ -762,7 +765,7 @@ colonial_california = {
 		trigger = {
 			OR = {
 				culture_group = brythonic
-				culture_group = celtic
+				culture_group = gaelic
 			}
 		}
 		name = "COLONIAL_CALIFORNIA_New_Albion"
@@ -944,7 +947,10 @@ colonial_the_carribean = {
 	}
 	names = {
 		trigger = {
-			culture_group = brythonic
+			OR = {
+				culture_group = brythonic
+				culture_group = gaelic
+			}
 			owns = 488 # Les Cayes
 			owns = 489 # Barahonas
 			owns = 490 # Tortuga
@@ -1151,7 +1157,7 @@ colonial_plattina = {
 	# Specific
 	names = {
 		trigger = {
-			culture_group = brythonic
+			culture_group = gaelic
 		}
 		name = "COLONIAL_LA_PLATA_ter_gogyrfan"
 	}

@@ -93,10 +93,67 @@ country_event = {
 			government = theocratic_government
 		}
 		modifier = {
-			factor = 0.4
+			factor = 0.8
 			OR = {
 				culture_group = brythonic
 				culture_group = latine
+			}
+		}
+		modifier = {
+			factor = 0.5
+			OR = {
+				capital_scope = {
+					region = low_countries_region
+					is_core = ROOT
+				}
+				capital_scope = {
+					area = lombardy_area
+					is_core = ROOT
+				}
+				capital_scope = {
+					area = piedmont_area
+					is_core = ROOT
+				}
+				capital_scope = {
+					area = tuscany_area
+					is_core = ROOT
+				}
+				capital_scope = {
+					area = liguria_area
+					is_core = ROOT
+				}
+				capital_scope = {
+					area = naples_area
+					is_core = ROOT
+				}
+				capital_scope = {
+					area = emilia_romagna_area
+					is_core = ROOT
+				}
+				capital_scope = {
+					area = central_italy_area
+					is_core = ROOT
+				}
+				capital_scope = {
+					region = north_german_region
+					is_core = ROOT
+				}
+				capital_scope = {
+					area = switzerland_area
+					is_core = ROOT
+				}
+				capital_scope = {
+					area = romandie_area
+					is_core = ROOT
+				}
+				capital_scope = {
+					area = picardy_area
+					is_core = ROOT
+				}
+				capital_scope = {
+					region = british_isles_region
+					is_core = ROOT
+				}
 			}
 		}
 		modifier = {

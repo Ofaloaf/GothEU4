@@ -1,10 +1,11 @@
 #1156 - Damagaram
 
-owner = AIR
-controller = AIR
+owner = KBO
+controller = KBO
 add_core = AIR
+add_core = KBO
 culture = tuareg
-religion = sunni
+religion = catholic
 capital = "Mashina"
 is_city = yes
 base_manpower = 1

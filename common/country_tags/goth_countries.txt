@@ -160,6 +160,9 @@ W01 = "countries/xingu.txt"
 # Floating
 AVL = "countries/avallonia.txt"		# Brythonic
 
+# Alleghania
+N02 = "countries/madogwys.txt"		# Celtic. Also works for Ohio, Florida, Mississippi and Appalachia
+
 # Appalachia
 WTG = "countries/watauga.txt"		# Generic
 
