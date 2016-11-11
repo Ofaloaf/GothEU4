@@ -1,0 +1,17 @@
+government = despotic_monarchy
+primary_culture = quechua
+religion = inti
+technology_group = andean
+unit_type = south_american
+capital = 1988 # Rapanui
+
+
+1399.1.1 = {
+	monarch = {
+		name = "Manco"
+		dynasty = "Si"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}

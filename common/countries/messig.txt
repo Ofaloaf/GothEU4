@@ -1,0 +1,152 @@
+# Brithenig Mexico
+# Messig
+
+graphical_culture = westerngfx
+
+colonial_parent = GBI
+random_nation_chance = 0
+
+color = { 139 124 219 }
+
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+	administrative_ideas
+	economic_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	spanish_tercio
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Gion #0" = 40
+	"Mewrig #0" = 40
+	"Costenhin #0" = 30
+	"Aleisandr #0" = 25
+	"Iago #0" = 20
+	"Andreas #0" = 15
+	"Kenan #0" = 15
+	"Porfirius #0" = 10
+	"Gwethiern #0" = 5
+
+	"Betrys #0" = -10
+	"Buddega #0" = -10
+	"Gladus #0" = -10
+	"Isabel #0" = -10
+	"Sibyl #0" = -10
+	"Mair #0" = -5
+
+	"Cristen #0" = -1
+	"Efa #0" = -1
+	"Ffridd #0" = -1
+	"Gianeth #0" = -1
+	"Lucilla #0" = -1
+	"Mallt #0" = -1
+	"Maryared #0" = -1
+	"Nest #0" = -1
+	"Sarra #0" = -1
+	"Siwan #0" = -1
+	"Susanna #0" = -1
+	"Tegida #0" = -1
+	"Viola #0" = -1
+	"Yuilia #0" = -1
+
+	"Agricola #0" = 0
+	"Antoin #0" = 0
+	"Argad #0" = 0
+	"Arthwr #0" = 0
+	"Awstin #0" = 0
+	"Barrivent #0" = 0
+	"Carol #0" = 0
+	"Cristian #0" = 0
+	"Cwrig #0" = 0
+	"Dewidd #0" = 0
+	"Dunat #0" = 0
+	"Eudaf #0" = 0
+	"Gereint #0" = 0
+	"Gioffri #0" = 0
+	"Glywys #0" = 0
+	"Gregor #0 = 0
+	"Ieroni #0" = 0
+	"Iosep #0" = 0
+	"Llawreint #0" = 0
+	"Llewfelen #0" = 0
+	"Luc #0" = 0
+	"Map #0" = 0
+	"Marc #0" = 0
+	"Mathew #0" = 0
+	"Migangel #0" = 0
+	"Modrat #0" = 0
+	"Nigol #0" = 0
+	"Pascen #0" = 0
+	"Pawl #0" = 0
+	"Pedr #0" = 0
+	"Philip #0" = 0
+	"Res #0" = 0
+	"Rhoberth #0" = 0
+	"Stinian #0" = 0
+	"Tegid #0" = 0
+	"Tewdos #0" = 0
+	"Theonus #0" = 0
+	"Timothew #0" = 0
+	"Tomos #0" = 0
+	"Ysteffan #0" = 0
+}
+
+leader_names = {
+	Aprys
+	Berdicguent Boibont Bendith
+	Cybidd Clig
+	Dysbellur
+	Ffeirth Fferreir Ffuneir
+	Glasobrin Griffydd Glythun Glas Gwefer Gwenadur
+	Iuguret
+	Llefan Llineir Llydwig Llewein
+	Meddig Magr Molineir Muin Masguigadl
+	Nenan Nepus
+	Ordofig
+	Protictoris Pengras Penrhys Prefder Pereirin
+	Rhedun Rhoch Rhui
+	Serw Servatus
+	Yniwr
+}
+
+ship_names = {
+	Aurus Argenteus Aquila Anahuag
+	Britannicus
+	Dlasgwllin
+	Generusdad Gleirus Grad Glycin Giu Gioddediwn Githan Greidus Gwad Gury Grydyddin Gwarddadurdad
+	Iucatania
+	Miles
+	Negesseir Nonostan
+	"Novus Orbus"
+	Olmecana Ofeddient Olympig Oradur
+	Paraduis Peleirin Pegiffigfent Pechad
+	"Saeth Ffridd" "Saeth Iewan" "Saeth Mair" Stellaris Solaris "Saeth Awstin" "Saeth Pedr" Sigodincadl
+	Tysadlan
+}
+
+army_names = {
+	"Yysserchid di $PROVINCE$"
+}
+
+fleet_names = {
+	"Eiscair di $PROVINCE$" # for all the sperginess of Ill Bethisad, I can't find a Brithenig word for "navy", "fleet" or "squadron". Rowans made up something instead!
+}

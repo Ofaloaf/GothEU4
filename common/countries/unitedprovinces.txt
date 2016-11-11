@@ -1,0 +1,139 @@
+# United Provinces
+
+graphical_culture = westerngfx
+color = { 209 163 86 }
+
+historical_score = 3500
+revolutionary_colors = { 6  0  14 }
+
+historical_idea_groups = {
+	administrative_ideas
+	exploration_ideas
+	defensive_ideas
+	maritime_ideas
+	innovativeness_ideas
+	quality_ideas
+	trade_ideas
+	economic_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	french_caracolle
+	swedish_gallop
+	austrian_tercio
+	austrian_grenzer
+	french_bluecoat
+	french_dragoon
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Theuderik #0" = 30
+	"Hendrik #0" = 30
+	"Karel #0" = 30
+	"Lodewijk #0" = 25
+	"Constantijn #0" = 25
+	"Steyn #0" = 0
+	"Willem #0" = 10
+
+	"Anna #0" = -5
+	"Catharina #0" = -5
+	"Maria #0" = -10
+
+	"Abraham #0" = 0
+	"Adriaan #0" = 0
+	"Amadeus #0" = 0
+	"Antoon #0" = 0
+	"Auno #0" = 0
+	"Barthout #0" = 0
+	"Bartholomeus #0" = 0
+	"Christiaan #0" = 0
+	"Cornelis #0" = 0
+	"Dagobert #0" = 0
+	"Dionysius #0" = 0
+	"Egbert #0" = 0
+	"Festus #0" = 0
+	"Flavius #0" = 0
+	"Florellus #0" = 0
+	"Frans #0" = 0
+	"Frederik #0" = 0
+	"George #0" = 0
+	"Gero #0" = 0
+	"Gosewijn #0" = 0
+	"Hieronymus #0" = 0
+	"Hugo #0" = 0
+	"Isaac #0" = 0
+	"Jan #0" = 0
+	"Julius #0" = 0
+	"Justus #0" = 0
+	"Karloman #0" = 0
+	"Lotharius #0" = 0
+	"Lucius #0" = 0
+	"Maarten #0" = 0
+	"Mato #0" = 0
+	"Menno #0" = 0
+	"Mummolin #0" = 0
+	"Nicolaas #0" = 0
+	"Nussito #0" = 0
+	"Otker #0" = 0
+	"Paulus #0" = 0
+	"Petrus #0" = 0
+	"Rutger #0" = 0
+	"Simon #0" = 0
+	"Sunno #0" = 0
+	"Theodor #0" = 0
+	"Thomas #0" = 0
+	"Willichar #0" = 0
+	"Zacharias #0" = 0
+}
+
+leader_names = {
+	Ambundi "van Aylva" Alteras "van Almonde"
+	Blankenfeld Brezan Bicker Beverland Banckert "van Brakel"
+	Coebel Cruys
+	Dulder Daleminzinger "van Deynse" Duyck Dankert
+	Evertsen
+	Floriszoon "van Fleurus" "van Flodroff"
+	"de Gomme" "van Glinstra"
+	Hapsalus Heinsius "van der Hagen" Heuss Huybrechts "van der Hulst" Hommius Haultain
+	Kater Keetlaer Kortenaer
+	Lugiau
+	Menk Matelief
+	"van Overschie"
+	Pauw Paan
+	Rengers Rusius "van Rijswijck" Roelofs Roolvink "de Ruyter" Reael
+	Suerbeer Sitice Sattau Schey Stellingwerf Swartenhont
+	Troelstra
+	Viglius "van Vechten" "van Vyffhusen" "van Valckenborgh" "de Vries"
+	Westerweel "van Walk" "van Waldeck-Eisenberg" "van Warschau" "de Wittert"
+	"van Zwichem" "van der Zaan"
+}
+
+ship_names = {
+	Ajax
+	"Baltica Rex" Barbara
+	Dolomicus Dervanus Dragomira
+	Francia
+	Germania
+	"Kleene Sint Joris"
+	Lusatia
+	Misinia
+	Nordalbingia
+	Polabia Pomeralia
+	Scythia Sorbia "Sint Gausbertus" "Sint Barralus"
+	Vistulia
+	Wismar
+}
+
+army_names = {
+	"Staatse Leger" "Prinselijk Leger" "Leger van $PROVINCE$" 
+}

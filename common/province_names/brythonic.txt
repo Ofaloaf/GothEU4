@@ -1,8 +1,56 @@
 # Europe & Old World
+236 = "Lundein"
+240 = "Lla Ferch"
+241 = "Termorgan"
 368 = "Elys"
-1860 = "Ffens"
+1861 = "Derwent"
+4130 = "Dûnein"
+
+# Alleghania
+481 = "Sarras"
+953 = "Ter Mair"	# "Mary's Land". Get it? GET IT
+954 = "Yriel"		# Erie, slightly tweaked.
+955 = "Pegtref"		# "Peace-town". Incorrect order for Brithenig, but there used to be an indian settlement nearby named "Peixtin" or "Paxtang" and I just imagined some early Brithenig colonizers going "oh, that sounds like this"
+956 = "Ffradrfent Afant" # 'Brotherly Love', I think.
+960 = "Castregai"
+962 = "Glestingas"
+963 = "Castrebran"
+964 = "Celliwig"
+965 = "Castreleon"
+966 = "Lodonesia"
+967 = "Ysl Rhys"
+968 = "Trimontium"
+2023 = "Gran Ministeir"	# "Great Ministry"
+2555 = "Armterid"
+2556 = "Pedretref" 	# "Stone-town"
+2557 = "Nadelig"	# "Christmas" (adj)
+2558 = "Llanteulyddog"
+2559 = "An Dinas"
+2561 = "Tintagol"
+2563 = "Camlann"
+2639 = "Porth Yscyrdad" # "Port Darkness". It's New Jersey, alright?
+
+# Appalachia
+929 = "Apollonia"
+931 = "Lliferadiwn"	# Deliverance
+932 = "Porth Nîr"	# Port Black
+936 = "Castrebannog"
+937 = "Dore"
+938 = "Brenn"
+950 = "Parmen"
+952 = "Castrenoel"
+2539 = "Emmaus"
+2539 = "Ioppe"
+2542 = "Fowi"
+2545 = "Tref Duhare"
+2549 = "Camp Ffinystiw"
+2550 = "Alexandria"
+
+# Brazil
+763 = "Castr Januarius"
 
 # Canada
+991 = "Trefith"
 994 = "Astolat"
 2584 = "Listenysia"
 
@@ -10,31 +58,9 @@
 482 = "Scilloniae"
 487 = "Felynys"
 488 = "Cereticiana"
-492 = "Ynys Dywyll"
-
-# Alleghania
-481 = "Sarras"
-953 = "Ter Mair"
-956 = "Tamarik"
-960 = "Caergai"
-962 = "Glestingas"
-963 = "Caer Bran"
-964 = "Celliwig"
-965 = "Gastreleon"
-966 = "Lodonesia"
-2555 = "Armterid"
-2558 = "Llanteulyddog"
-2559 = "An Dinas"
-2561 = "Tintagol"
-2563 = "Camlann"
-
-# Appalachia
-936 = "Caerbannog"
-937 = "Dore"
-938 = "Brenn"
-950 = "Parmen"
-952 = "Carnoel"
-2542 = "Fowi"
+492 = "Ysl Dywyll"
+497 = "Dominica"
+498 = "Martinica"
 
 # Equinoctialia
 491 = "Mona"
@@ -44,16 +70,22 @@
 927 = "Saeth Awstin"
 2536 = "Pogannwn"
 
+# Mexico
+2647 = "Gweracryg"
+
+# Mississippi
+893 = "Castreguiddno"
+896 = "Sefid-Lla-Peis" 	# "Path of the Petticoat". Counldn't find the Brithenig word for "Junction".
+
 # Ohio
+916 = "Casllows"	# Cas llo Ws "House of Bones", I think.
 917 = "Baddon"
 945 = "Elmet"
 951 = "Killaraus"
+2520 = "Aegyptula"
 2552 = "Conlater"
 
-# Mississippi
-893 = "Caer Wyddno"
-
-# Quariana - 'Ter Gogyrfan'
+# Plattina - 'Ter Gogyrfan'
 782 = "Cedairnynys"
 2860 = "Benegrind"
 2868 = "Carmelyiard"

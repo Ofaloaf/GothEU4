@@ -7,7 +7,7 @@ normal_or_historical_nations = yes
 
 # Novum Emporium Burdigalensis
 country_event = {
-	id = flavor_goth.01
+	id = flavor_goth.1
 	title = "EVTNAMEflavor_goth01"
 	desc = "EVTDESCflavor_goth01"
 	picture = MERCHANTS_TALKING_eventPicture
@@ -33,6 +33,42 @@ country_event = {
 				name = port_to_the_new_world
 				duration = -1
 			}
+		}
+	}
+}
+
+# Gothic Legalism
+country_event = {
+	id = flavor_goth.2
+	title = "EVTNAMEflavor_goth2"
+	desc = "EVTDESCflavor_goth2"
+	picture = ADVISOR_eventPicture
+
+	fire_only_once = yes
+
+	trigger = {
+		tag = GTH
+		has_idea = gothic_legalism
+		government = monarchy
+	}
+
+	mean_time_to_happen = {
+		months = 6
+	}
+	
+	option = {		
+		name = "flavor_goth.2.a"	# Senatorial Monarchy
+		change_government = province_gothic_monarchy
+	}
+	option = {		
+		name = "flavor_goth.2.b"	# Curial Monarchy
+		change_government = council_gothic_monarchy
+	}
+	option = {
+		name = "flavor_goth.2.c"	# Do nothing
+		custom_tooltip = "flavor_goth2_fair_warning"
+		hidden_effect = {
+			set_country_flag = goons_make_bad_decisions
 		}
 	}
 }

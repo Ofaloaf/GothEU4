@@ -1,0 +1,5 @@
+government = constitutional_republic
+technology_group = western
+primary_culture = gautes
+religion = gnostic
+capital = 887

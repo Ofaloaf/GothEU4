@@ -11,6 +11,8 @@ country_event = {
 	major = yes
 	
 	trigger = {
+		is_religion_enabled = protestant
+		religion_years = { protestant = 10 }
 		NOT = { is_religion_enabled = gnostic }
 		religion = catholic
 		is_defender_of_faith = no	
@@ -40,6 +42,7 @@ country_event = {
 				culture_group = vlach_group
 				culture_group = south_slavic
 				culture_group = gaelic
+				culture = dalmatian
 			}
 		}
 				

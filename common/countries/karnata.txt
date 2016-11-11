@@ -1,0 +1,115 @@
+#Country Name: See the Name of this File.
+
+graphical_culture = indiangfx
+
+color = { 49 175 191 }
+
+historical_idea_groups = {
+	religious_ideas
+	quantity_ideas
+	innovativeness_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	economic_ideas
+	spy_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	rajput_hill_fighters
+	indian_arquebusier
+	south_indian_musketeer
+	reformed_mughal_musketeer
+	indian_elephant
+	bhonsle_infantry
+	indian_shock_cavalry
+	maharathan_guerilla_warfare
+	sikh_rifle
+	tipu_sultan_rocket
+}
+
+monarch_names = {
+	"Kirtivarman #3" = 40
+	"Permadi #4" = 35
+	"Bukka #3" = 30
+	"Bhuvikrama #1" = 25
+	"Sankama #1" = 20
+	"Gajankusha #2" = 20
+	"Mangalesi #1" = 15
+	"Mallikarjuna #1" = 15
+	"Konganivarman #1" = 15
+	"Viravijara #1" = 15
+	"Ahavamalla #0" = 15
+	"Sharva #1" = 10
+	"Marulaganga #1" = 10
+	"Butuga #1" = 10
+
+	"Mallikarjuna #0" = 1
+	"Tirumala Devi #0" = -1
+	"China Devi #0" = -1
+	"Gangambika #1" = -5
+
+	"Adarsh #0" = 0
+	"Allasani Pedana #0" = 0
+	"Aryavanata Mudaliar #0" = 0
+	"Budhil #0" = 0
+	"Chaitanya #0" = 0
+	"Chellappa #0" = 0
+	"Dandanayaka #0" = 0
+	"Devarsi #0" = 0
+	"Devilal #0" = 0
+	"Gopa #0" = 0
+	"Gopana #0" = 0
+	"Gunda #0" = 0
+	"Hridaynath #0" = 0
+	"Imadhi #0" = 0
+	"Isvara #0" = 0
+	"Kanaka #0" = 0
+	"Kaushal #0" = 0
+	"Kempe Gauda #0" = 0
+	"Koniteraja #0" = 0
+	"Kumara #0" = 0
+	"Lakshmidhara #0" = 0
+	"Manabhusa #0" = 0
+	"Manprasad #0" = 0
+	"Markandeya #0" = 0
+	"Nagama #0" = 0
+	"Narasa #0" = 0
+	"Pranet #0" = 0
+	"Prabuddha #0" = 0
+	"Purandaradasa #0" = 0
+	"Rishi #0" = 0
+	"Salukaraya #0" = 0
+	"Saluva Mango #0" = 0
+	"Sarasvat #0" = 0
+	"Sivvappa #0" = 0
+	"Thirumalai #0" = 0
+	"Viswanatha #0" = 0
+	"Vyasaraya #0" = 0
+}
+
+leader_names = {
+	Alupa
+	Gopana Govindaraya
+	Heuna
+	Kampana Kamma Keladi
+	Mangu
+	Nayak Nayaka Nayudu Narasa
+	Paruchuri
+	Reddy
+	Saluva
+	Tuluva Timma Timmarasa Tiruvadi
+	Ummattur
+	Velama Vasireddy
+}
+
+ship_names = {
+	Amirtha Amman Arul Bharatapuza
+	Bhavani Bhima Chellam Devi Durga
+	Gayatri Godavari Iniya Kabani
+	Kaveri Krishna Lakshmi Madhu
+	Meenakshi Nalini Pambar Parvati
+	Periyar Ponni Radha Ratri Sarasvati
+	Sita Tamarai Tungabhadra
+}

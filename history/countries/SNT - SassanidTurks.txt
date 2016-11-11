@@ -1,5 +1,5 @@
 government = despotic_monarchy
-primary_culture = turkish
+primary_culture = farsliturk
 religion = jewish
 technology_group = muslim
 capital = 410	# Bagdad

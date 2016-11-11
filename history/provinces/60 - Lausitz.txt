@@ -3,7 +3,7 @@
 owner = SRB
 controller = SRB
 add_core = SRB
-capital = "Bautzen"
+capital = "Budyšin"
 culture = sorbian
 religion = catholic
 trade_goods = cloth

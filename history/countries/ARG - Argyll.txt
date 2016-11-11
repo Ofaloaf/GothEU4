@@ -4,3 +4,14 @@ primary_culture = albann
 religion = catholic
 technology_group = western
 capital = 249
+
+1402.3.12 = {
+	monarch = {
+		name = "Tomos"
+		dynasty = "de Caerdwrn"
+		birth_date = 1370.1.1
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}

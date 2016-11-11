@@ -1,0 +1,22 @@
+# No previous file for Jicarilla
+
+owner = APA
+controller = APA
+add_core = APA
+is_city = yes
+trade_goods = grain
+culture = apache
+religion = totemism
+capital = "Jicarilla"
+hre = no
+base_tax = 1 
+
+base_production = 1
+base_manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostileness = 2
+
+
+
+discovered_by = north_american

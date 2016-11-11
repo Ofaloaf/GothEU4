@@ -64,7 +64,7 @@ monarch_names = {
 	"Avremar #0" = 0
 	"Badegisel #0" = 0
 	"Balderik #0" = 0
-	"Bartolomeus #1" = 0
+	"Bartholomeus #1" = 0
 	"Bavo #0" = 0
 	"Berengarius #0" = 0
 	"Bero #0" = 0
@@ -108,6 +108,7 @@ monarch_names = {
 	"Marcus #0" = 0
 	"Martinus #0" = 0
 	"Matthaeus #0" = 0
+	"Menno #0" = 0
 	"Mummolin #0" = 0
 	"Onno #1" = 0
 	"Otker #0" = 0
@@ -133,7 +134,7 @@ monarch_names = {
 leader_names = {
 	Alteras "van der Aa" "van Aarsens" "van Assendelft"
 	Bicker "van Breda" "van Beuningen" "van Beverningh" Buys Boreel Bataafse Brunsvelt
-	Cats "van Casembroot" Coebel
+	Cats "van Casembroot" Coebel "van Coehoorn"
 	Daendels "van Diemen" Duyck
 	Evertzen "van Egmont" "van den Eynde"
 	Fagel
@@ -175,4 +176,12 @@ ship_names = {
 	Vrijheid
 	Wassenaar
 	Zeehond
+}
+
+army_names = {
+	"Leger van $PROVINCE$" 
+}
+
+fleet_names = {
+	"Noordzeevloot" "Oostzeevloot" "Vloot van $PROVINCE$" 
 }

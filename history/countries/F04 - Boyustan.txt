@@ -1,0 +1,5 @@
+government = feudal_monarchy
+primary_culture = boyustaniy
+religion = catholic
+capital = 266 # Praha
+technology_group = eastern

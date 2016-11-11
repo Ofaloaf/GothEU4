@@ -4,6 +4,8 @@ graphical_culture = easterngfx
 
 color = { 152  85  92 }
 
+revolutionary_colors = { 6 8 3 }
+
 historical_idea_groups = {
 	economic_ideas
 	defensive_ideas
@@ -34,8 +36,9 @@ historical_units = {
 monarch_names = {
 	"Aslan #2" = 30
 	"Levan #1" = 30
+	"Leri #1" = 25
 	"Gubaz #1" = 20
-	"Tamerlan #1" = 20
+	"Tamerlan #2" = 20
 	"Dzæræs #1" = 15
 	"Inal #1" = 15
 	"Respendial #1" = 15
@@ -47,12 +50,18 @@ monarch_names = {
 	"Kul #1" = 5
 	"Kol #1" = 5
 
+	"Altun #0" = -5
+	"Elene #0" = -5
+	"Kera #0" = -5
+	"Tsiala #0" = -5
+	"Shukhia #0" = -1
+
 	"Arsen #0" = 0
 	"Abisal #0" = 0
 	"Atsamaz #1" = 0
 	"Batraz #0" = 0
 	"Besik #0" = 0
-	"Daler #0" = 0
+	"Daler #1" = 0
 	"Davlat #0" = 0
 	"Djadaron #0" = 0
 	"Dzambek #0" = 0

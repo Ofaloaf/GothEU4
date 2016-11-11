@@ -3,7 +3,8 @@
 owner = JZY
 controller = JZY
 add_core = JZY
-capital = "Plzen"
+add_core = F04
+capital = "Setuacatum"
 culture = boyustaniy
 religion = catholic
 trade_goods = naval_supplies

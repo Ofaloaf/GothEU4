@@ -1,0 +1,21 @@
+#940 - Kentucky
+
+owner = W05
+controller = W05
+add_core = W05
+culture = cahokian
+religion = nahuatl
+capital = "Tolu"
+trade_goods = fur
+is_city = yes
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 2
+native_size = 5
+native_ferocity = 5
+native_hostileness = 1
+
+
+
+discovered_by = north_american

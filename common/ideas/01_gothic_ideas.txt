@@ -46,3 +46,165 @@ gothic_culture_ideas = {
 	}
 }
 
+brithenig_major_ideas = { # for Loegria and Brithenig version of Great Britain formable
+	start = {
+		leader_land_shock = 1
+		land_forcelimit_modifier = 0.33
+	}
+
+	bonus = {
+		free_leader_pool = 1
+	}
+	
+	trigger = {
+		OR = {
+			tag = LOE
+			tag = GBI
+		}
+	}
+	free = yes		#wibe added at load.
+
+	memory_of_stonehenge = {
+		global_missionary_strength = 0.02
+	}
+	grail_quest = {
+		cavalry_power = 0.1
+		religious_unity = 0.2
+	}
+	channel_dominance = {
+		naval_morale = 0.20
+		embargo_efficiency = 0.33
+	}
+	viae_novae = {
+		development_cost = -0.1
+	}
+	new_model_navy = {
+		heavy_ship_power = 0.10
+		global_sailors_modifier = 0.1
+	}
+	molmutine_measurements = {
+		production_efficiency = 0.1
+	}
+	round_table = {
+		global_unrest = -1
+	}
+}
+
+carthagennan_ideas = {
+	start = {
+		diplomatic_reputation = 1
+		relations_decay_of_me = 0.50
+	}
+	
+	bonus = {
+		defensiveness = 0.20
+	}
+	
+	trigger = {
+		culture_group = carthagennan_group
+		capital_scope = { region = spain_region }
+	}
+	free = yes
+	
+	hispanian_printing_industry = {
+		idea_cost = -0.05
+	}
+	hispanian_tradition_of_the_legion = {
+		infantry_power = 0.15
+	}
+	hispanian_roman_civilization = {
+		diplomatic_upkeep = 1
+	}
+	hispanian_office_of_censor = {
+		global_manpower_modifier = 0.33
+	}
+	hispanian__tax_reform = {
+		global_tax_modifier = 0.15
+	}
+	hispanian_heir_to_the_empire = {
+		prestige = 1
+	}
+	hispanian_path_to_citizenship = {
+		core_creation = -0.25
+	}
+}
+
+
+LRM_ideas = {
+	start = {
+		diplomatic_reputation = 1
+		global_manpower_modifier = 0.20
+	}
+	
+	bonus = {
+		discipline = 0.05
+	}	
+
+	trigger = {
+		tag = LRM
+	}
+	free = yes		#will be added at load.
+	
+	roman_goths = {
+		legitimacy = 1
+	}
+	tradition_of_the_legion = {
+		infantry_power = 0.15
+	}
+	mare_nostrum = {
+		galley_cost = -0.15
+		galley_power = 0.20
+	}
+	office_of_censor = {
+		global_manpower_modifier = 0.33
+	}
+	LRM_mediterranean_trade = {
+		trade_steering = 0.20
+	}
+	chartered_merchant_companies = {
+		global_trade_power = 0.20
+	}
+	LRM_imperium_sine_fine = {
+		core_creation = -0.20
+	}
+}
+
+
+ZYX_ideas = {
+	start = {
+		global_manpower_modifier = 0.25
+		infantry_cost = -0.20
+	}
+
+	bonus = {
+		global_manpower_modifier = 0.50
+	}
+
+	trigger = {
+		tag = ZYX
+	}
+	free = yes		#will be added at load.
+
+	nakharar_titles = {
+		enemy_core_creation = 0.25
+	}
+	apostolic_church = {
+		global_missionary_strength = 0.02
+	}
+	border_nation = {
+		diplomatic_reputation = 1
+	}
+	melikdom_organization = {
+		global_tax_modifier = 0.1
+	}
+	siberian_frontier = {
+		colonists = 1
+		auto_explore_adjacent_to_colony = yes
+	}
+	table_of_ranks = {
+		army_tradition = 0.5
+	}	
+	curriculum_of_the_cadet_corps = {
+		technology_cost = -0.10
+	}
+}

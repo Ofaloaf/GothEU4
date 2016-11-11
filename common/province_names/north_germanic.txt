@@ -18,4 +18,6 @@
 
 # Caribbean
 493 = "Taphus"
+497 = "Dominica"
+498 = "Martinika"
 1881 = "Gustavia"

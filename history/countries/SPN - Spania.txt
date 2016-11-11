@@ -1,0 +1,8 @@
+government = despotic_monarchy
+government_rank = 1
+primary_culture = hispanian
+religion = catholic
+technology_group = western
+capital = 219 # Toledo
+
+national_focus = MIL

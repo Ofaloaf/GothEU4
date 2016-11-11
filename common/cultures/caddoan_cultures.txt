@@ -1,0 +1,93 @@
+caddoan = {
+
+	cahokian = {
+		male_names = {
+			Aminoya Aquijo Apokwaynu
+			Cahurajoligo
+			Eehpesh
+			"Hahn-ahksh'" Heeshil Hananshil
+			Ihil Itsh
+			Koniphadjo "Koon'aay-kow" Kahbeenahnu
+			Lemetskup Lakupe
+			Obalalkabiche Oshev
+			Palisema Pexkuya Pakadshilu
+			Quigualtam
+			Sokorsokon
+			"Tah'hah-weesh" "Tama'l-katipilsh" Tchakop
+			Unuh Uhntsweetaah
+			Weelee Wastanem
+		}
+		female_names = {
+			"Ampkwasi-ilu"
+			Elekeh "E'met"
+			Hakucues
+			Isoxhuyat Ihihetuis
+			Kenlenu "Kwvl'eesh" Kahasip
+			"O'nu"
+			Puilusi
+			Sawashish Sokorenu Shilatketafo
+			Tchokoillisi "Totstotch'hakis" Tukuhalis Tsokup
+			Untchiastik
+			Washtaninu Winatooh
+		}
+		dynasty_names = {
+			Casqui Chulotchmaya
+			Eemet
+			Hokko
+			Kapahtia
+			Mahkat Mayokup
+			Nodena Nahlahayap
+			Offagoula
+			Pacaha
+			Shogob
+			Tamoucougoula Thoucoue Tchuna Tenedahnuk
+			Utiangüe Ukteni Ususekwel
+			Quizquiz Quigate
+		}
+	}
+	natchez = {
+		male_names = {
+			Aminoya Aquijo Apokwaynu
+			Cahurajoligo
+			Eehpesh
+			"Hahn-ahksh'" Heeshil Hananshil
+			Ihil Itsh
+			Koniphadjo "Koon'aay-kow" Kahbeenahnu
+			Lemetskup Lakupe
+			Obalalkabiche Oshev
+			Palisema Pexkuya Pakadshilu
+			Quigualtam
+			Sokorsokon
+			"Tah'hah-weesh" "Tama'l-katipilsh" Tchakop
+			Unuh Uhntsweetaah
+			Weelee Wastanem
+		}
+		female_names = {
+			"Ampkwasi-ilu"
+			Elekeh "E'met"
+			Hakucues
+			Isoxhuyat Ihihetuis
+			Kenlenu "Kwvl'eesh" Kahasip
+			"O'nu"
+			Puilusi
+			Sawashish Sokorenu Shilatketafo
+			Tchokoillisi "Totstotch'hakis" Tukuhalis Tsokup
+			Untchiastik
+			Washtaninu Winatooh
+		}
+		dynasty_names = {
+			Casqui Chulotchmaya
+			Eemet
+			Hokko
+			Kapahtia
+			Mahkat Mayokup
+			Nodena Nahlahayap
+			Offagoula
+			Pacaha
+			Shogob
+			Tamoucougoula Thoucoue Tchuna Tenedahnuk
+			Utiangüe Ukteni Ususekwel
+			Quizquiz Quigate
+		}
+	}
+}

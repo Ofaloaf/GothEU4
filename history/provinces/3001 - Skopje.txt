@@ -13,6 +13,7 @@ base_manpower = 3
 is_city = yes
 add_core = THR
 add_core = MKD
+add_core = SKL
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL

@@ -2,7 +2,7 @@
 
 owner = AMC
 controller = AMC
-capital = "Caen"
+capital = "Cadumo"
 is_city = yes
 culture = loegric
 religion = catholic

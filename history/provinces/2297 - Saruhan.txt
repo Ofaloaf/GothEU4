@@ -2,7 +2,7 @@
 
 owner = THR
 controller = THR
-culture = turkish
+culture = rummen
 religion = catholic
 capital = "Manisa"
 trade_goods = cotton

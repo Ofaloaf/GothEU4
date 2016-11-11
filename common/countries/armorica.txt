@@ -39,6 +39,7 @@ monarch_names = {
 	"Tiuderic #2" = 30
 	"Guidéric #1" = 25
 	"Guidimir #0" = 15
+	"Triwila #2" = 10
 
 	"Sança #0" = -1
 	"Joana #0" = -1

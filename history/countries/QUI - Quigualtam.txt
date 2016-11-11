@@ -1,0 +1,5 @@
+government = despotic_monarchy
+primary_culture = natchez
+religion = nahuatl
+technology_group = north_american
+capital = 2528

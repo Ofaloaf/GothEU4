@@ -1,0 +1,16 @@
+#917 - Cahokia
+
+owner = CKI
+controller = CKI
+add_core = CKI
+culture = cahokian
+religion = nahuatl
+capital = "Cahokia"
+is_city = yes
+trade_goods = grain
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 3
+
+discovered_by = north_american

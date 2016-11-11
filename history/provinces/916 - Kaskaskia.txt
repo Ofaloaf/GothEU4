@@ -1,0 +1,16 @@
+#916 - Kaskaskia
+
+owner = CKI
+controller = CKI
+add_core = CKI
+is_city = yes
+culture = cahokian
+religion = nahuatl
+capital = "Kaskaskia"
+trade_goods = fur
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 2
+
+discovered_by = north_american

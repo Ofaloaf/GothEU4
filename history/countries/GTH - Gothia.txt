@@ -38,9 +38,26 @@ capital = 203 # Lyonnais
 		dip = 3
 		mil = 2
 	}
+
+	set_allow_female_emperor = yes
+
+	clear_scripted_personalities = yes
+	add_ruler_personality = well_advised_personality
 }
 
-1402.3.13 = {
+1402.3.12 = {
+	queen = {
+		country_of_origin = LOE
+		name = "Maeclun"
+		dynasty = "de Bannatia"
+		birth_date = 1376.10.5
+		death_date = 1450.1.1
+		adm = 3
+		dip = 5
+		mil = 1
+	}
+	add_queen_personality = silver_tongue_personality
+
 	heir = {
 		name = "Tiuderic"
 		monarch_name = "Tiuderic X"
@@ -51,5 +68,17 @@ capital = 203 # Lyonnais
 		adm = 2
 		dip = 2
 		mil = 3
+	}
+
+	leader = {
+		name = "Gautier Triarius"
+		type = general
+		rank = 1
+		fire = 3
+		shock = 3
+		manuever = 4
+		siege = 0
+		death_date = 1450.1.1
+		personality = goal_oriented_personality
 	}
 }

@@ -1,6 +1,6 @@
 government = despotic_monarchy
 government_rank = 1
-primary_culture = turkish
+primary_culture = rummen
 religion = jewish
 technology_group = muslim
 capital = 322

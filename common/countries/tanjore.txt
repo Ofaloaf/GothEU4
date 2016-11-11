@@ -1,0 +1,98 @@
+# Pandya Alupa/Kannada Tamilakam
+# Tanjore/Thanjavur
+
+graphical_culture = indiangfx
+
+color={ 200 25 65 }
+
+historical_idea_groups = {
+	religious_ideas
+	quantity_ideas
+	innovativeness_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	economic_ideas
+	spy_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	rajput_hill_fighters
+	indian_arquebusier
+	south_indian_musketeer
+	reformed_mughal_musketeer
+	indian_elephant
+	bhonsle_infantry
+	indian_shock_cavalry
+	maharathan_guerilla_warfare
+	sikh_rifle
+	tipu_sultan_rocket
+}
+
+
+monarch_names = {
+	"Virupaksha #2" = 30
+	"Sankama #3" = 30
+	"Srikirama #1" = 20
+	"Adikavi #1" = 20
+	"Marasimha #1" = 20
+	"Achugi #1" = 15
+	"Sharva #1" = 10
+	"Somesvara #1" = 10
+	"Butuga #1" = 10
+	"Srivikrama #0" = 10
+	"Bukka #1" = 5
+	"Mushkara #1" = 5
+
+	"Mahadevi #1" = -10
+	"Mailaladevi #0" = -5
+	"Shantaladevi #0" = -5
+	"Tari #1" = -10
+
+	"Ahavamalla #0" = 0
+	"Bijjama #0" = 0
+	"Chavundaraya #0" = 0
+	"Dhruva #0" = 0
+	"Gajankusha #0" = 0
+	"Krishnadevaraya #0" = 0
+	"Madhava #0" = 0
+	"Pulakeshin #0" = 0
+	"Ramadeva #0" = 0
+	"Sadashiva #0" = 0
+	"Sadayappa #0" = 0
+	"Singhana #0" = 0
+	"Sriranga #0" = 0
+	"Thimma #0" = 0
+	"Venkatadri #0" = 0
+	"Viraballala #0" = 0
+}
+
+leader_names = { Ayann Ay
+	Bhambhani Badami Bhakthavatsalam
+	Chinnamalai
+	Dashavarman
+	Hoysala Haleri
+	Kalyani Kalachuri
+	Mahadevan Meenakshisundaram Mudaliar
+	Nayinar
+	Pillai
+	Rashrakuta
+	Subramaniam Sethupathi
+	Tuluva "Talakad Ganga" Thondaiman
+	Vallal Vanniyan
+}
+
+ship_names = {
+	Amirtha Amman Arul
+	Bijjabbe Bharatapuza Bhavani Bhima
+	Chandaladevi Chidbhavananda Charubala "Chola Nadu"
+	Gangambika
+	Katar "Karu Nadu" Kannanur Kongu
+	Lakshmi Latha
+	Meena
+	Nataraja
+	Satchidananda Satyagraha Sita Srirangam
+	Tamarai Tungabhadra Tanjavur
+	Uraiyur
+}

@@ -1,0 +1,3 @@
+# Cocos Ridge
+
+discovered_by = andean

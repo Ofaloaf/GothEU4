@@ -2,7 +2,7 @@
 
 owner = BYZ
 controller = BYZ
-culture = turkish
+culture = rummen
 religion = catholic
 capital = "Ankyra"
 trade_goods = copper

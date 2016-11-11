@@ -1,0 +1,114 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+colonial_parent = GBI
+random_nation_chance = 0
+
+historical_score = 200
+
+color = { 69  157  208 }
+
+historical_idea_groups = {
+	plutocracy_ideas
+	trade_ideas
+	economic_ideas
+	defensive_ideas
+	maritime_ideas
+	administrative_ideas
+	offensive_ideas
+	quantity_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	chevauchee
+	western_longbow
+	gaelic_mercenary
+	gaelic_free_shooter
+	french_caracolle
+	irish_charge
+	anglofrench_line
+	french_dragoon
+	british_redcoat
+	british_hussar
+	british_square
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Georgius #0" = 20
+	"Iacobus #0" = 20
+	"Iohannes #0" = 20
+	"Thomas #0" = 20
+	"Carolus #0" = 15
+	"Danielis #0" = 15
+	"Henricus #0" = 15
+	"Samuel #0" = 15
+	"Artorius #0" = 10
+	"Cyrus #0" = 10
+	"David #0" = 10
+	"Elias #0" = 10
+	"Fredericus Augustus #0" = 10
+	"Nathaniel #0" = 10
+	"Paganus #0" = 10
+	"Ricardus #0" = 10
+
+    	"Deborah #0" = -1
+    	"Sarah #0" = -1
+    	"Anna #0" = -1
+
+	"Aaron #0" = 0
+	"Abraham #0" = 0
+	"Alexander #0" = 0
+	"Aloysius #0" = 0
+	"Ananias #0" = 0
+	"Azarias #0" = 0
+	"Deuteronomius #0" = 0
+	"Hieronymus #0" = 0
+	"Isaacus #0" = 0
+	"Justus #0" = 0
+	"Michael #0" = 0
+	"Moyses #0" = 0
+	"Quodvultdeus #0" = 0
+	"Reuben #0" = 0
+	"Sedrac #0" = 0
+	"Stephanus #0" = 0
+	"Theodericus #0" = 0
+	"Theodorus #0" = 0
+	"Theophilus #0" = 0
+	"Valerius #0" = 0
+}
+
+leader_names = {
+	Dento
+	Fronto
+	Miles
+}
+
+ship_names = {
+	Adams Alfred Alliance America "Andrew Doria" Argo Argus
+	"Bonhomme Richard" Boston 
+	Cabot Chesapeake Champion Columbus Confederacy Congress Constellation Constitution
+	Dolphin Deane Delaware Diligent 
+	Effingham Enterprise Essex
+	Fly
+	"General Gates" "General Washington"
+	Hampden Hancock Hornet
+	Independence 
+	"John Adams"
+	Lexington
+	Montgomery Mosquito
+	Nautilus
+	Philadelphia Pigot President Providence
+	"Queen of France"
+	Raleigh Randolph Racehorse Ranger Reprisal Repulse Resistance Retaliation Revenge
+	Sachem Saratoga Serapis Siren Surprise
+	Trumbull
+	"United States"
+	Viper Virginia Vixen
+	Warren Washington Wasp 
+}

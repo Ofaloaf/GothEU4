@@ -109,3 +109,11 @@ ship_names = {
 	Trileukoi Timalinum "Turris Augusti"
 	Viriathus Vermundus
 }
+
+army_names = {
+	"Exercitus de $PROVINCE$"
+}
+
+fleet_names = {
+	"Navium de $PROVINCE$"
+}

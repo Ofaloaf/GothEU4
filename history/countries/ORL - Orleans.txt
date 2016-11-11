@@ -5,3 +5,43 @@ religion = catholic
 technology_group = western
 capital = 184	# Orléans
 fixed_capital = 184 # Cannot move capital away from this province & no power cost to move to it
+
+1395.8.23 = {
+	monarch = {
+		name = "Infantinus II"
+		dynasty = "de Caracca"
+		dip = 2
+		mil = 1
+		adm = 3
+	}
+	clear_scripted_personalities = yes
+	add_ruler_personality = secretive_personality
+}
+
+1395.8.23 = {
+	queen = {
+		country_of_origin = GTH
+		name = "Joana"
+		dynasty = "Triarius"
+		birth_date = 1375.2.17
+		death_date = 1450.1.1
+		is_female = yes
+		dip = 3
+		mil = 4
+		adm = 4
+	}
+}
+
+1395.8.23 = {
+	heir = {
+		name = "Infantinus"
+		monarch_name = "Infantinus III"
+		dynasty = "de Caracca"
+		birth_date = 1390.10.15
+		death_date = 1450.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}

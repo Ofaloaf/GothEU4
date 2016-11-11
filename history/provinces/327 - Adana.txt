@@ -2,7 +2,7 @@
 
 owner = ALP
 controller = ALP
-culture = turkish
+culture = rummen
 religion = catholic
 capital = "Adana"
 trade_goods = cotton

@@ -2,7 +2,7 @@
 
 owner = THR
 controller = THR
-culture = albanian
+culture = macedonian
 religion = catholic
 capital = "Durrës"
 trade_goods = wool
@@ -14,6 +14,7 @@ is_city = yes
 add_core = ALB
 add_core = MKD
 add_core = THR
+add_core = SKL
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL

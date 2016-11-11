@@ -1,0 +1,53 @@
+iranian = {
+	farsliturk = { #
+		male_names = {
+			Ahmad Ardeshir Arslan
+			Behram Baqtash
+			Cihangir
+			Dawud
+			Ertogril
+			Firuz Fuzuli
+			Harun Hüsrev
+			Ibrahim
+			Jahangir
+			Kavad Kuchlug Kutalmish Kaykhusraw Kaykaus Kayqubad
+			Mansur Murad
+			Nurseh
+			Rustam
+			Sapur Saparmurat Suleyman
+			Toghrul Toghtekin Tughril Tutush
+			Uthman
+			Yezdigirt
+		}
+		female_names = {
+			Ayshe Aduke Aliye
+			Beyhan Behice Begum
+			Esma
+			Fehime
+			Gevherhan Gülüstü
+			Hürrem Hanzade Hatice
+			Kale Kösem Kaya
+			Mihrimah Mahpeyker Münire
+			Turkan
+			Ümmügülsüm
+			Verdicenan
+		}
+		dynasty_names = {
+			"Al-i Afrasiyab" Alkaevli Artuqoglu Afsharoglu Alayuntlu
+			Bayat Begdili Bayandur Büghdüz
+			Chavuldur
+			Demiryayli 
+			Eymür
+			Ghaznavi
+			Harezmsah
+			Igdir
+			Khorasani Karlugh Karaevli
+			Jandar
+			Pehlwan
+			Qocharid Qajar
+			Salur
+			Ulugh Üchok
+			Yaparli Yazir Yüreghir Yiva
+		}
+	}
+}

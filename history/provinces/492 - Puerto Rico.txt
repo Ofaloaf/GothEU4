@@ -1,0 +1,20 @@
+#492 - Puerto Rico
+
+owner = W04
+controller = W04
+add_core = W04
+culture = arawak
+religion = animism
+capital = "Cayabo"
+is_city = yes
+trade_goods = gold
+hre = no
+base_tax = 4
+base_production = 5
+base_manpower = 2
+native_size = 10
+native_ferocity = 2 
+native_hostileness = 5
+discovered_by = CAB
+discovered_by = ARW
+discovered_by = W04

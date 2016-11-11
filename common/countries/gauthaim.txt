@@ -1,0 +1,183 @@
+# Gauthaim Guthaemus Gotham
+
+graphical_culture = westerngfx
+
+colonial_parent = GTH
+random_nation_chance = 0
+
+color = { 255 201 14 }
+
+historical_idea_groups = {
+	plutocracy_ideas
+	trade_ideas
+	economic_ideas
+	defensive_ideas
+	maritime_ideas
+	administrative_ideas
+	offensive_ideas
+	quantity_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	chevauchee
+	western_longbow
+	gaelic_mercenary
+	gaelic_free_shooter
+	french_caracolle
+	irish_charge
+	anglofrench_line
+	french_dragoon
+	british_redcoat
+	british_hussar
+	british_square
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Florellus #0" = 60
+	"Alaric #0" = 45
+	"Cunstantin #0" = 40
+	"Audon #0" = 35
+	"Atila #0" = 30
+	"Tiudor #0" = 25
+	"Audoacre #0" = 20
+	"Tiberius #0" = 20
+
+	"Andrieva #0" = -10
+	"Berta #0" = -10
+	"Elisabèta #0" = -10
+	"Joana #0" = -10
+	"Tiudora #0" = -10
+	
+	"Aedanus #0" = 0
+	"Agricola #0" = 0
+	"Alexandre #0" = 0
+	"Alffonsus #0" = 0
+	"Aloito #0" = 0
+	"Aloysius #0" = 0
+	"Armagilus #0" = 0
+	"Arvandus #0" = 0
+	"Aznar #0" = 0
+	"Bartoumiéu #0" = 0
+	"Bermond #0" = 0
+	"Carles #0" = 0
+	"Cephas #0" = 0
+	"Claudi #0" = 0
+	"Cornelius #0" = 0
+	"Dat #0" = 0
+	"Dàvi #0" = 0
+	"Diaco #0" = 0
+	"Eraric #0" = 0
+	"Ervige #0" = 0
+	"Evaric #0" = 0
+	"Froila #0" = 0
+	"Frederi #0" = 0
+	"Filip #0" = 0
+	"Ferrand #0" = 0
+	"Garçi #0" = 0
+	"Gideon #0" = 0
+	"Gilabert #0" = 0
+	"Girard #0" = 0
+	"Gudafres #0" = 0
+	"Guitart #0" = 0
+	"Immanuèl #0" = 0
+	"Istève #0" = 0
+	"Juli #0" = 0
+	"Joan #0" = 0
+	"Laurènç #0" = 0
+	"Liun #0" = 0
+	"Lucàs #0" = 0
+	"Lup #0" = 0
+	"Mardochaius #0" = 0
+	"Martin #0" = 0
+	"Miquel #0" = 0
+	"Marc #0" = 0
+	"Narseis #0" = 0
+	"Nehemias #0" = 0
+	"Nicomachus #0" = 0
+	"Obedias #0" = 0
+	"Olban #0" = 0
+	"Ordonno #0" = 0
+	"Pèire #0" = 0
+	"Pol #0" = 0
+	"Pascalis #0" = 0
+	"Pons #0" = 0
+	"Quintil #0" = 0
+	"Quintus #0" = 0
+	"Raimond #0" = 0
+	"Rodericho #0" = 0
+	"Raugier #0" = 0
+	"Ricard #0" = 0
+	"Ranimiro #0" = 0
+	"Sans #0" = 0
+	"Simaun #0" = 0
+	"Sidauni #0" = 0
+	"Suneario #0" = 0
+	"Sever #0" = 0
+	"Thaddeus #0" = 0
+	"Tiuderic #0" = 0
+	"Tiudemir #0" = 0
+	"Tiudat #0" = 0
+	"Tiudòsi #0" = 0
+	"Theophilus #0" = 0
+	"Ulfilas #0" = 0
+	"Ulysses #0" = 0
+	"Ubert #0" = 0
+	"Uc #0" = 0
+	"Vicenç #0" = 0
+	"Videre #0" = 0
+	"Veremundo #0" = 0
+}
+
+leader_names = {
+	Amatein Aroy Ataus
+	Baudoïn Berenguer Baró Bofill Bernat Bonassio Bajuli Banlhe Barrali Boet Belser Belzea Boils
+	Cadraut Coqui Collo Chabeca Coc Cadona Coysset Crestian Corat Cassaing Coloin
+	Dento Derill Domènec Duran Dagberti Daigon Danuha Dasches Dauhan Daurenx Debas Deuganas Dedoigne Dartes
+	Ermengol Eneg Estene Estochait
+	Foget Ferrarius Faber Ferrenn Fora Filhou
+	Gabic Garriga Gerouart Gitard Galhardi Gast Guillelmi Guiraldi Gourris Gorio Gulden Guilhot Galteroti
+	"de Hulhac"
+	Iohanis Iozbert Isan
+	Jehan
+	Lana Lerescat Lonsat Livin
+	Mironis "de Muntral" "de Manlleu" Mascurd Marti Macellar Moric Melis
+	Oromir Oller
+	Pardines "de Pradel" Pages "de Paliol" Pastorel Pardo
+	Rastan Rabascun Russel Ribes Rainal Rondeletius Rabelaesus Ranc
+	Salmó Sumar Sargantans Stoard Sella "de Salignac" Simon
+	Tosa "de Taradell" Theca
+	Ualard
+	Vedre
+	Ysarni
+}
+
+ship_names = {
+	Aeolus Ajax Argo
+	Calypso Centurio Consul
+	Defensa
+	Enigmor Ermessendis Equinòcci 
+	Guèine Golias Gargantua
+	Justesa Joculator
+	Libertat Làmia Lup Leun
+	Mulda Marianna Moisset Mandra
+	Navar
+	Onecca Occidentalis Orosius
+	Pardus
+	Seneca Soldada Salamon Severinus Sauma Sagitari 
+	Titbores
+	Urraca
+	"Vir Vespertilianus" Vèspa Verdon
+}
+
+army_names = {
+	"Armada de $PROVINCE$" 
+}
+
+fleet_names = {
+	"Fluta de $PROVINCE$"
+}

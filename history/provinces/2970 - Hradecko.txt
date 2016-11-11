@@ -3,7 +3,8 @@
 owner = JZY
 controller = JZY
 add_core = JZY
-capital = "Hradec Králové"
+add_core = F04
+capital = "Meliodunum"
 culture = boyustaniy
 religion = catholic
 trade_goods = grain 

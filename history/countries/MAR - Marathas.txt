@@ -1,0 +1,30 @@
+government = despotic_monarchy
+technology_group = indian
+primary_culture = marathi
+religion = hinduism
+capital = 1946	# Satara
+ 
+
+1384.10.5 = {
+	monarch = {
+		name = "Viravijaya III"
+		dynasty = "Rashtrakuta"
+		ADM = 3
+		DIP = 6
+		MIL = 1
+	}
+}
+
+1384.10.5 = {
+	heir = {
+		name = "Viravijaya"
+		monarch_name = "Viravijaya IV"
+		dynasty = "Rashtrakuta"
+		birth_date = 1379.7.29
+		death_date = 1450.1.1
+		claim = 95
+		ADM = 6
+		DIP = 2
+		MIL = 3
+	}
+}

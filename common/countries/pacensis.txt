@@ -101,3 +101,11 @@ ship_names = {
 	Preziosa "Pax Iulia" "Portus Hannibalis" "Patulus Portus"
 	Sacrum Sines Serpa
 }
+
+army_names = {
+	"Exercitus de $PROVINCE$"
+}
+
+fleet_names = {
+	"Navium de $PROVINCE$"
+}

@@ -1,0 +1,30 @@
+#636 - Brunei
+
+owner = BEI
+controller = BEI
+culture = bornean
+religion = manichee
+capital = "Brunei"
+trade_goods = spices
+hre = no
+base_tax = 7
+base_production = 7
+base_manpower = 4
+is_city = yes
+add_core = BEI
+
+
+
+discovered_by = chinese
+discovered_by = indian
+discovered_by = muslim
+discovered_by = ottoman
+
+extra_cost = 15
+
+add_permanent_province_modifier = {
+	name = center_of_trade_modifier
+	duration = -1
+}
+
+

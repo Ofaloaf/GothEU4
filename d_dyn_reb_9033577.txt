@@ -42,10 +42,13 @@ monarch_names = {
 	"Ludwig_Louis #0" = 10
 	"EVENTID 55000 #0" = 10
 
-	"Mary_Maria #0" = -10
+	"Mary_Maria 0 #0" = -10
 
 	" #0" = 0
+	"1 #0" = 0
 	"30 #0" = 0
+	"cannot find #0" = 0
+	"cannot load #0" = 0
 	"EMBASSY_PROPOSE_0 #0" = 0
 	"EVT12345.DESC #0" = 0
 	"FLOATING_INTEGER #0" = 0

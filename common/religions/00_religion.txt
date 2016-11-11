@@ -500,8 +500,8 @@ christian = {
 					}
 				}
 				NOT = { has_climate = arctic }
-				NOT = { has_climate = arid }
-				NOT = { has_terrain = coastline }
+				#NOT = { has_climate = arid }
+				#NOT = { has_terrain = coastline }
 				NOT = { has_terrain = coastal_desert }
 				NOT = { has_terrain = steppe }
 				NOT = { has_terrain = desert }
@@ -561,8 +561,8 @@ christian = {
 								}
 							}
 							NOT = { has_climate = arctic }
-							NOT = { has_climate = arid }
-							NOT = { has_terrain = coastline }
+							#NOT = { has_climate = arid }
+							#NOT = { has_terrain = coastline }
 							NOT = { has_terrain = coastal_desert }
 							NOT = { has_terrain = steppe }
 							NOT = { has_terrain = desert }
@@ -657,8 +657,8 @@ christian = {
 	}
 
 	gnostic = {
-		color = { 0.2 0.7 0.6 }
-		icon = 4
+		color = { 0.1 0.6 0.5 }
+		icon = 42
 
 		allowed_conversion = {
 			protestant
@@ -678,6 +678,24 @@ christian = {
 			tolerance_own = -1
 			land_morale = 0.10
 		}
+
+		uses_church_power = yes				# Uses church power/aspect mechanics
+		aspects = {
+			organised_through_bishops_aspect
+			priests_may_marry_aspect
+			adult_baptism_aspect
+			holy_sacraments_aspect
+			saints_accept_prayers_aspect
+			icons_images_aspect
+			legalised_divorces_aspect
+			heretics_deported_aspect
+			parish_registers_aspect
+			individual_creeds_aspect
+			allow_usury_aspect
+			translated_bibles_aspect
+		}
+		
+		hre_heretic_religion = yes
 
 		will_get_center = {
 			any_owned_province = {
@@ -708,11 +726,11 @@ christian = {
 					}
 				}
 				NOT = { has_climate = arctic }
-				NOT = { has_climate = arid }
-				NOT = { has_terrain = coastline }
-				NOT = { has_terrain = coastal_desert }
+				#NOT = { has_climate = arid }
+				#NOT = { has_terrain = coastline }
+				#NOT = { has_terrain = coastal_desert }
 				NOT = { has_terrain = steppe }
-				NOT = { has_terrain = desert }
+				#NOT = { has_terrain = desert }
 				NOT = { has_terrain = glacier }
 				NOT = { has_climate = tropical }
 			}
@@ -769,8 +787,8 @@ christian = {
 								}
 							}
 							NOT = { has_climate = arctic }
-							NOT = { has_climate = arid }
-							NOT = { has_terrain = coastline }
+							#NOT = { has_climate = arid }
+							#NOT = { has_terrain = coastline }
 							NOT = { has_terrain = coastal_desert }
 							NOT = { has_terrain = steppe }
 							NOT = { has_terrain = desert }
@@ -914,6 +932,16 @@ christian = {
 		heretic = { SEMIARIAN SEDEVACANTIST DONATIST }
 
 		misguided_heretic = yes		# Other christians hate them less
+
+		holy_sites = { 118 112 151 104 379 }
+		
+		blessings = {
+			legitimize_government
+			encourage_warriors_of_the_faith
+			send_monks_to_establish_monasteries
+			promote_territorial_rights
+			will_of_the_martyrs
+		}
 	}
 	
 	coptic = {

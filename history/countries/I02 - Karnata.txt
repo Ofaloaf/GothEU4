@@ -1,0 +1,29 @@
+government = feudal_monarchy
+primary_culture = kannada
+religion = hinduism
+technology_group = indian
+capital = 541	# Vijayanagara
+
+1384.12.19 = {
+	monarch = {
+		name = "Marulganga"
+		dynasty = "Nolamba"
+		ADM = 1
+		DIP = 3
+		MIL = 3
+	}
+}
+
+1401.8.6 = {
+	heir = {
+		name = "Ahavamalla"
+		monarch_name = "Ahavamalla I"
+		dynasty = "Nolamba"
+		birth_date = 1401.8.6
+		death_date = 1450.1.1
+		claim = 40
+		ADM = 2
+		DIP = 1
+		MIL = 3
+	}
+}

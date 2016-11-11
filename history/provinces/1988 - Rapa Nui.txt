@@ -1,0 +1,17 @@
+#1988 - Rapanui
+
+owner = W03
+controller = W03
+add_core = W03
+culture = quechua
+religion = inti
+capital = "Hanga Roa"
+trade_goods = naval_supplies
+is_city = yes
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 3
+
+
+discovered_by = andean

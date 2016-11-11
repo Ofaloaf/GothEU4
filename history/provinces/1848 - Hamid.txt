@@ -2,7 +2,7 @@
 
 owner = A00
 controller = A00
-culture = turkish
+culture = rummen
 religion = manichee
 capital = "Burdur"
 trade_goods = grain

@@ -45,7 +45,9 @@ monarch_names = {
 	"Manuel #0" = 10
 	"Mikail #0" = 10	# also Turkish form of Michael, a fine name indeed
 
+	"Meryem #0" = -5
 	"Roxelana #0" = -5
+	"Teodora #0" = -5
 
 	"Abraham #0" = 0
 	"Afsin #0" = 0
@@ -68,7 +70,7 @@ monarch_names = {
 	"Levon #0" = 0
 	"Matta #0" = 0		# Matthew
 	"Musa #0" = 0		# Moses
-	"Sevgi #0" = 0
+	"Nikodim #0" = 0
 	"Shmu'il #0" = 0	# Samuel
 	"Simun #0" = 0		# Simon
 	"Süleyman #0" = 0	# Solomon
@@ -101,21 +103,22 @@ leader_names = {
 }
 
 ship_names = {
-	Aslan Aydin "Aziz Dismas" "Aramatyali Yusuf" Anatolia
-	"Beytanyali Lazar" Beyaz Barnabas
+	Aslan Aydin "Aziz Dismas" "Aramatyali Yusuf" Anatolia Alfay
+	"Beytanyali Lazar" Beyaz Barnabas Barabba Bartimay
 	Cappadocia Cilicia
 	Fatma
 	Galatia Gulay
 	"Havari Andreas" "Havari Matta" "Havari Aziz Bartalmay" Hacer Hürrem
 	Istemihan
-	"Kara Sezar" Kizil
+	Klopas "Kara Sezar" Kizil
+	Lejyon Lisanias
 	Meryem
-	Nuh
+	Nuh Natanel
 	Paphlagonia
 	Siyah Soluk
 	"Tarsuslu Pavlus"
 	Veronica
-	Yildirim Yasemin Yonca Yeldem Yahudi
+	Yildirim Yasemin Yonca Yeldem Yahudi Yehoyakim
 	Zebedi
 }
 

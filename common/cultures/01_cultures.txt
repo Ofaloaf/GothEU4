@@ -352,126 +352,58 @@ gallic_group = {
 	}
 }
 
-new_world_african_group = {
-	graphical_culture = africangfx
+scythic = {
+	graphical_culture = easterngfx
 
-	male_names = { Osman Mohomet }
-
-	new_world_african = {
-		male_names = {
-			Abbas Abdel Amadou Ayuba
-			Bello
-			Crispus
-			Dembo
-			Hassan Hussein
-			Ibrahim
-			Kofi
-			Manuel Moussa
-			Prempo
-			Suleyman
-			Usman 
-			Zargo
-		}
-		female_names = {
-			Fatima
-			Ghadir
-			Isabela
-			Latifa
-			Mareme
-			Ndeye
-		}
-		dynasty_names = {
-			Asamu Ba Beretuo Buzu Diallo Dimo Fatou Jallow Maccudo Nana Pullo Tutu
-		}
+	alan = {
 	}
-	mauri = {
-		male_names = {
-			Augustus Amede Anilus Astrel Andreas Aaron
-			Bebo Bayano
-			Crispus Cassius Caesar Claudius
-			Darius Deodonus
-			Elias Estevanico
-			Felix Fala
-			Gaou
-			Hamo
-			Isaias Isaac
-			Julius Juba
-			Lucas Lucius
-			Marcus Masinissa Moyses Martius Mutius
-			Nero
-			Octavius Otho Omer Ouezzin
-			Petro Publius
-			Quintus
-			Soso Stephanus
-			Titus Tego
-			Victor
-		}
-		female_names = {
-			Araminta Amalia Adah Angela Antonia
-			Dido
-			Evangelina
-			Kessiah
-			Lavinia
-			Martha Maria
-			Phillis Priscilla
-			Rebecca Rachel Rittea Regla
-			Sylvia
-			Virginia Veronica
-			Xiomara
-			Yuisa Yaima
-		}
-		dynasty_names = {
-			Agenor Afou
-			Biassou Bazile
-			Capois Cator
-			Fatiman
-			Guinou
-			Metullus
-			Palao
-			Snaër Senghor
-			Taliaferro 
-		}
+	sarmatian = {
+		tag = MUL
 	}
-	escaunes = { # the demonym of people in the kingdom of Kongo was 'esikongo'
-		male_names = {
-			Alaric Audo Atila Andru Ainrichho
-			Claudi Cyrus Celsus Caralo
-			Dionís Duda
-			Eleuteri Elia
-			Gerard Guido
-			Hieronymus Hannibal
-			Juba Josephus
-			Kemokai Kavuna
-			Lansana Lodoycus Leon Lissandre
-			Mukeke Mozes
-			Nico Nanga
-			Odile Odysseus Ossian
-			Rústic Petrus
-			Pau Pompeu Ptolemèu
-			Sekou Septimus Severus Samuel Salomon
-			Telo Teia
-			Xerxes Xeppe
-			Zufuru
-		}
-		female_names = {
-			Basilia
-			Cleopatra
-			Dionysia Didona
-			Elisabeta
-			Galla
-			Isata
-			Kimpa
-			Lissandra
-			Marcia Meri
-			Rebecca
-			Tamora
-			Suinta
-		}
-		dynasty_names = {
-			Berlu Bere Gbelle Koroma Opala Gonde Margai Madabio Dembei Berewa Minah Oponjo Yoko Ndoleh
-			Pieh Gbujama Kaikai Dauda Musa Malik Hinga Ganda Gulama Samba Hindowa Kella Kallon Bantamoi
-			Thahsus Birodeins Ubils Skattja Daupjands Unmanariggus Baris Swartjan Bethlaihaim Gastojans
-		}
+	venediy = {
+	}
+	boyustaniy = {
+		tag = F04
+	}
+	jasi = {
+		tag = JZY
+	}
+	male_names = {
+		Ælbeg Æmbalan Aghsartan Alatey Akhsar Anbal Anbazuk Aravat Arsen Askhkadar Ashot Aslan Aspar Athom
+		Balambar Balsag Barlah Bæqætar Basil Bazuk Beler Ber Biræg Boz-Uruz Buürgur Buriberdi Burikhan
+		Candak Chelakhsartag 
+		Davit Djadaron Durgulel Dzæræs
+		Gætæg Georgy Girgon Gokhar Gubaz Guram
+		Hasqar Huddan 
+		Istor Itaz Iveri 
+		Kandak Kandz Kavtia Kaur Kul Khankhusy Khætag Konstantin Kubal Kuluk
+		Lak Levan
+		Pulad
+		Respendial Rosmag
+		Safrak Sakhir Sangipan Saros Sathis Savkudz Soslan Suarn Syrdon 
+		Taymuraz Taus Totraz
+		Urdure Uruzma Uturku
+		Yasynya
+		Zaur
+	}
+	female_names = {
+		Adadza Alda Altun Ana Atsyrukhs
+		Baia Bedisa Borena Btsenon Burudukan 
+		Duda 
+		Elene Eliso
+		Gergana Gulchara Guranduht
+		Kera Keratsa Ketevan Koser
+		Lamara Lashin Lela
+		Mariami
+		Natia Nino
+		Rusudan
+		Sanatha Satinik Shatana Shorena Shukhia
+		Tamari Tinatini Tsiala
+		Vardo Vedokha
+		Yeran
+	}
+	dynasty_names = {
+		Halani Vistüliy Viadriy Circipaniy
 	}
 }
 
@@ -855,109 +787,126 @@ brythonic = { # 'Brithenig' in-game
 	}
 }
 
-mississippian = {
-	graphical_culture = northamericagfx
+new_world_african_group = {
+	graphical_culture = africangfx
 
-	cahokian = {
-	}
-	natchez = {
-	}
-	male_names = {
-		Aminoya Aquijo Apokwaynu
-		Cahurajoligo
-		Eehpesh
-		"Hahn-ahksh'" Heeshil Hananshil
-		Ihil Itsh
-		Koniphadjo "Koon'aay-kow" Kahbeenahnu
-		Lemetskup Lakupe
-		Obalalkabiche Oshev
-		Palisema Pexkuya Pakadshilu
-		Quigualtam
-		Sokorsokon
-		"Tah'hah-weesh" "Tama'l-katipilsh" Tchakop
-		Unuh Uhntsweetaah
-		Weelee Wastanem
-	}
-	female_names = {
-		"Ampkwasi-ilu"
-		Elekeh "E'met"
-		Hakucues
-		Isoxhuyat Ihihetuis
-		Kenlenu "Kwvl'eesh" Kahasip
-		"O'nu"
-		Puilusi
-		Sawashish Sokorenu Shilatketafo
-		Tchokoillisi "Totstotch'hakis" Tukuhalis Tsokup
-		Untchiastik
-		Washtaninu Winatooh
-	}
-	dynasty_names = {
-		Casqui Chulotchmaya
-		Eemet
-		Hokko
-		Kapahtia
-		Mahkat Mayokup
-		Nodena Nahlahayap
-		Offagoula
-		Pacaha
-		Shogob
-		Tamoucougoula Thoucoue Tchuna Tenedahnuk
-		Utiangüe Ukteni Ususekwel
-		Quizquiz Quigate
-	}
-}
+	male_names = { Osman Mohomet }
 
-scythic = {
-	graphical_culture = easterngfx
-
-	alan = {
+	new_world_african = {
+		male_names = {
+			Abbas Abdel Amadou Ayuba
+			Bello
+			Crispus
+			Dembo
+			Hassan Hussein
+			Ibrahim
+			Kofi
+			Manuel Moussa
+			Prempo
+			Suleyman
+			Usman 
+			Zargo
+		}
+		female_names = {
+			Fatima
+			Ghadir
+			Isabela
+			Latifa
+			Mareme
+			Ndeye
+		}
+		dynasty_names = {
+			Asamu Ba Beretuo Buzu Diallo Dimo Fatou Jallow Maccudo Nana Pullo Tutu
+		}
 	}
-	sarmatian = {
-		tag = MUL
+	mauri = {
+		male_names = {
+			Augustus Amede Anilus Astrel Andreas Aaron
+			Bebo Bayano
+			Crispus Cassius Caesar Claudius
+			Darius Deodonus
+			Elias Estevanico
+			Felix Fala
+			Gaou
+			Hamo
+			Isaias Isaac
+			Julius Juba
+			Lucas Lucius
+			Marcus Masinissa Moyses Martius Mutius
+			Nero
+			Octavius Otho Omer Ouezzin
+			Petro Publius
+			Quintus
+			Soso Stephanus
+			Titus Tego
+			Victor
+		}
+		female_names = {
+			Araminta Amalia Adah Angela Antonia
+			Dido
+			Evangelina
+			Kessiah
+			Lavinia
+			Martha Maria
+			Phillis Priscilla
+			Rebecca Rachel Rittea Regla
+			Sylvia
+			Virginia Veronica
+			Xiomara
+			Yuisa Yaima
+		}
+		dynasty_names = {
+			Agenor Afou
+			Biassou Bazile
+			Capois Cator
+			Fatiman
+			Guinou
+			Metullus
+			Palao
+			Snaër Senghor
+			Taliaferro 
+		}
 	}
-	venediy = {
-	}
-	boyustaniy = {
-	}
-	jasi = {
-		tag = JZY
-	}
-	male_names = {
-		Ælbeg Æmbalan Aghsartan Alatey Akhsar Anbal Anbazuk Aravat Arsen Askhkadar Ashot Aslan Aspar Athom
-		Balambar Balsag Barlah Bæqætar Basil Bazuk Beler Ber Biræg Boz-Uruz Buürgur Buriberdi Burikhan
-		Candak Chelakhsartag 
-		Davit Djadaron Durgulel Dzæræs
-		Gætæg Georgy Girgon Gokhar Gubaz Guram
-		Hasqar Huddan 
-		Istor Itaz Iveri 
-		Kandak Kandz Kavtia Kaur Kul Khankhusy Khætag Konstantin Kubal Kuluk
-		Lak Levan
-		Pulad
-		Respendial Rosmag
-		Safrak Sakhir Sangipan Saros Sathis Savkudz Soslan Suarn Syrdon 
-		Taymuraz Taus Totraz
-		Urdure Uruzma Uturku
-		Yasynya
-		Zaur
-	}
-	female_names = {
-		Adadza Alda Altun Ana Atsyrukhs
-		Baia Bedisa Borena Btsenon Burudukan 
-		Duda 
-		Elene Eliso
-		Gergana Gulchara Guranduht
-		Kera Keratsa Ketevan Koser
-		Lamara Lashin Lela
-		Mariami
-		Natia Nino
-		Rusudan
-		Sanatha Satinik Shatana Shorena Shukhia
-		Tamari Tinatini Tsiala
-		Vardo Vedokha
-		Yeran
-	}
-	dynasty_names = {
-		Halani Vistüliy Viadriy Circipaniy
+	escaunes = { # the demonym of people in the kingdom of Kongo was 'esikongo'
+		male_names = {
+			Alaric Audo Atila Andru Ainrichho
+			Claudi Cyrus Celsus Caralo
+			Dionís Duda
+			Eleuteri Elia
+			Gerard Guido
+			Hieronymus Hannibal
+			Juba Josephus
+			Kemokai Kavuna
+			Lansana Lodoycus Leon Lissandre
+			Mukeke Mozes
+			Nico Nanga
+			Odile Odysseus Ossian
+			Rústic Petrus
+			Pau Pompeu Ptolemèu
+			Sekou Septimus Severus Samuel Salomon
+			Telo Teia
+			Xerxes Xeppe
+			Zufuru
+		}
+		female_names = {
+			Basilia
+			Cleopatra
+			Dionysia Didona
+			Elisabeta
+			Galla
+			Isata
+			Kimpa
+			Lissandra
+			Marcia Meri
+			Rebecca
+			Tamora
+			Suinta
+		}
+		dynasty_names = {
+			Berlu Bere Gbelle Koroma Opala Gonde Margai Madabio Dembei Berewa Minah Oponjo Yoko Ndoleh
+			Pieh Gbujama Kaikai Dauda Musa Malik Hinga Ganda Gulama Samba Hindowa Kella Kallon Bantamoi
+			Thahsus Birodeins Ubils Skattja Daupjands Unmanariggus Baris Swartjan Bethlaihaim Gastojans
+		}
 	}
 }
 
@@ -1028,51 +977,101 @@ africanu = {
 	}
 }
 
-vlach_group = {
-	wallachian = { # Romanian proper.
-	}
-	vlachika = { # Romanian for Thrace/Bulgaria and such ex-Byzantine lands south of the Danube. Thrace is the primary.
-		#primary = THR
-	}
+crusader_group = {
 	pestemari = { # Romanian 'Outremer' culture. (Kingdom of) Jerusalem is the primary.
 		primary = KOJ
+
+		male_names = {
+			Constantin Mihail Mircea Mihnea Nicolae Vladislav Mattia 
+			Ilias Scarlat Stefan Alexandru Ioan Leon Moise Neagoie Besarab 
+			Serban Simeon Teodosiu Vladut Corneliu Flaviu Iuliu Octavian
+			Valeriu Petru Petrascu 
+			Adrian Alexander Anghel Angel Aron Bajan Balc Barbat Basarab Bogdan Carol 
+			Ciprian Ciubar Claudiu
+			Cornelius Costin Damjan Dan Dragos Dumitru Emerik Florin Franjo Francis Gavril 
+			Gheorghe George Grigore Gregory Iacob Gabriel
+			Iancu Ieremia Ilie John Iorghu Iosif Iuga Janos Ladislau Latcu Laurentiu Laurence 
+			Litovoi Lucian Lucius Marin Marius
+			Mihai Milos Milosz Nicolaie Petre Pirvu Radovan Radu Roman Sas Seneslav 
+			Sergiu Simion Simon
+			Stephen Stelian Teodor Theodore Tepes Tibor Tihomir Timotei Tudor Thierry
+			Valentin Vasile Basil Veaceslav
+			Victor Vilhelm William Vintila Vlad
+		}
+		female_names = {
+			Adelina Adriana Afina Alexandra Alexia Ana Anna Anastasia Angela Arina
+			Christina Clara Dana Ecatarina Catherine
+			Elena Helen Elisabeta Elisabeth Emilia Emily Eufroysina Euphrosyne Felicia Floarea Flora 
+			Ioana Ionela Irina Iulia Juliana Maria Monica Iacoba
+			Natalia Olimpia Paraschiva Petra Roxana Ruxandra Smaranda Sophia Stana Stefana 
+			Stefania Stephania Teodora Rahela Flavia Cosmina
+			Tereza Teresa Vasilica Violeta Yolanda Voica Zina
+		}
+		dynasty_names = {
+			Basarab
+			Callimachi Ghica Cantacuzino Cantemiresti Caradja Cypsellus "de Cibinium" Conachi Craiovesti
+			Danesti Draculesti
+			Golescu 
+			Hâjdau
+			Kogalniceanu 
+			Movilesti Mavrocordatos
+			Racovita
+			Sturdza Soutzos
+			Vacarescu
+		}
 	}
-	dynasty_names = {
-		Basarab
-		Callimachi Ghica Cantacuzino Cantemiresti Caradja Cypsellus "de Cibinium" Conachi Craiovesti
-		Danesti Draculesti
-		Golescu 
-		Hâjdau
-		Kogalniceanu 
-		Movilesti Mavrocordatos
-		Racovita
-		Sturdza Soutzos
-		Vacarescu
-	}
-	male_names = {
-		Constantin Mihail Mircea Mihnea Nicolae Vladislav Mattia 
-		Ilias Scarlat Stefan Alexandru Ioan Leon Moise Neagoie Besarab 
-		Serban Simeon Teodosiu Vladut Corneliu Flaviu Iuliu Octavian
-		Valeriu Petru Petrascu 
-		Adrian Alexander Anghel Angel Aron Bajan Balc Barbat Basarab Bogdan Carol 
-		Ciprian Ciubar Claudiu
-		Cornelius Costin Damjan Dan Dragos Dumitru Emerik Florin Franjo Francis Gavril 
-		Gheorghe George Grigore Gregory Iacob Gabriel
-		Iancu Ieremia Ilie John Iorghu Iosif Iuga Janos Ladislau Latcu Laurentiu Laurence 
-		Litovoi Lucian Lucius Marin Marius
-		Mihai Milos Milosz Nicolaie Petre Pirvu Radovan Radu Roman Sas Seneslav 
-		Sergiu Simion Simon
-		Stephen Stelian Teodor Theodore Tepes Tibor Tihomir Timotei Tudor Thierry
-		Valentin Vasile Basil Veaceslav
-		Victor Vilhelm William Vintila Vlad
-	}
-	female_names = {
-		Adelina Adriana Afina Alexandra Alexia Ana Anna Anastasia Angela Arina
-		Christina Clara Dana Ecatarina Catherine
-		Elena Helen Elisabeta Elisabeth Emilia Emily Eufroysina Euphrosyne Felicia Floarea Flora 
-		Ioana Ionela Irina Iulia Juliana Maria Monica Iacoba
-		Natalia Olimpia Paraschiva Petra Roxana Ruxandra Smaranda Sophia Stana Stefana 
-		Stefania Stephania Teodora Rahela Flavia Cosmina
-		Tereza Teresa Vasilica Violeta Yolanda Voica Zina
+	aigyptian = {
+		male_names = {
+			Androus Agathonikos Abianos Abanoub Aaron Aghreppinos Archelaus Athenas Alexandros Areios
+			Biniamin
+			Cerdo
+			Daniel Davoud Diogenes
+			Ezra Eunos
+			Gharbi 
+			Hippolytos Helias Hieron
+			Ishaak
+			Kaies
+			Levi Leon
+			Mikhael Manuel Melyos Menas Mattheos
+			Nilos
+			Onouf
+			Pounos Pachnubis Pates Petros Ptolemaios
+			Shenute Sawiros Simeon Sabas Serapion
+			Thewonas Thewodros Tryfon Tewodorikos
+			Yosef Yoannis Yustos Yaroklas Yakovos
+			Zenon
+		}
+		female_names = {
+			Anna Anastasia Afaf Amunet Asmin Adriane Apollonia Alexandra Arsinoe
+			Barbara Bereniki
+			Chrysogone
+			Demiana Dorothea Dionysia Demetra
+			Elpis Eirena Evanthia Euphrosyne Eunike Elaiodora Evniki Evridiki
+			Fana
+			Georgia Gregoria Garyphallia Gabrielia
+			Kale
+			Leontia Lysandra
+			Miram Marta Monnia Margarita
+			Nefret Nonna Nahomsesis
+			Potamina Pernoufe Parthena Pelagia Phyllis Philippa
+			Raune Rhodanthe
+			Samia Sofia Sibylla
+			Talida Tawadora Thaesis Thomais Thekla Thaïs
+			Virina Valeria
+			Yohanna
+			Zoe
+		}
+		dynasty_names = {
+			Atta Ammonios Asklepiades
+			Dryton
+			Esthladas Ebnzara Ebnebsal 
+			Harpaesis
+			Kres
+			Mankarios
+			Nakady Nechoutes
+			Pelaias
+			Roufail
+			Spemminis
+		}
 	}
 }

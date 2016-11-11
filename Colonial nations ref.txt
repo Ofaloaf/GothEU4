@@ -20,44 +20,46 @@
 
 BY REGION	Culture			Name			TAG	Notes?
 
-Floating	Brythonic (group)	Avallonia		AVL	# from 'Avalon'
-Floating	Gallic (group)		Vergentorica		VGT	# Plutarch rendered 'Vercingetorix', a Gaulish king, as 'Vergentorix'
+Floating	Brithenig (group)	Avallonia		AVL	# from 'Avalon'
+Floating	Gallic (group)		Vergentorica		N08	# Plutarch rendered 'Vercingetorix', a Gaulish king, as 'Vergentorix'
 Floating	Gothic (group)		Gauthaim		GHH	# 'Goth-home' in old Germanic Gothic. Now there can be a Gauthaim City.
-Floating	Carthagennan (group)	Eleutheria		ELT	# Ancient Greek term and personification of liberty
+Floating	Carthagennan (group)	Eleutheria		N09	# Ancient Greek term and personification of liberty
 Floating	Romano-African (group)	Hannonia		-	# named after Hanno the Navigator
 
 Alleghania	[Generic]		USA			USA	# GOD BLESS
-Alleghania	Dutch/Oostfranken	New Netherlannds	NND	# I considered 'New France' but surely that's too silly.
+Alleghania	Dutch/Oostfranken	New Netherlannds	N06	# I considered 'New France' but surely that's too silly.
+Alleghania	Brithenig & Celtic	Madogwys		N02	# Supposed to be the name of "Welsh" Native American tribes.
 
 Appalachia	[Generic]		Watauga			WTG	# riffing off the 'Watauga Association'
-Appalachia	Gothic (group)		Libertia		LBT	# playing off liberty/libertas. God bless.
-Appalachia	Carthagennan (group)	Aeneica			AEN	# Land of Aeneas
+Appalachia	Carthagennan (group)	Aeneica			N10	# Land of Aeneas
 
 Brazil		Gothic & Germanic	Papegania		PPG	# Papaga returns! 'Papaga' ('Parrot') itself is rendered 'papegân' in Old German.
 Brazil 		Carthagennan (group)	Sanctacrux		SCX	# 'Ilha/Terra de Santa Cruz' was an early name for Brazil
+Brazil		Africanu		Charetes		N07 	# 'Charetes' is the name of a river Hanno the Navigator allegedly discovered
 
 California	Gothic (group)		Sentandray		GTA	# Occitan-Gothic version of 'San Andreas', slightly garbled.
 
 Canada		[generic]		Canada			CAN	# Vanilla
-Canada		Brythonic (group)	Albionoria		LNR	# 'Albion of the North'. Actual name considered for Canada, historically.
+Canada		Brithenig (group)	Albionoria		LNR	# 'Albion of the North'. Actual name considered for Canada, historically.
 
 * I want to take this opportunity to note that the raw name of the region in-game is colonial_the_carribean which isn't the right way to spell it
 Caribbean	[generic]		Haiti			HAT	# Only formable if the CN's capital is in Hispaniola.
 Caribbean (cuba)[generic]		Cuba			CUB	# Only formable if the CN's capital is in Cuba.
-Caribbean	Brythonic (group)	Lethowsow		LTW	# Cornish name for certain lost lands, conflated with Arthur's Lyonesse.
+Caribbean	Brithenig (group)	Lethowsow		LTW	# Cornish name for certain lost lands, conflated with Arthur's Lyonesse.
 Caribbean	Gothic (group)		Royllo			ROY	# Historical apocryphal island. https://en.wikipedia.org/wiki/Royllo
 
-Equinoctialia	[generic]		Equinoctia		-	# 'Land of the Equinox'
+Equinoctialia	[generic]		Equinoctia		N00	# 'Land of the Equinox'
 
 Florida		[generic]		Florida			FLD	# It's Florida.
 Florida		Gothic (group)		Agustinha		AGN	# 'Augustinia', playing off St. Augustine being in Florida.
 
 Mexico		[generic]		Mexico			MEX	# Vanilla
-Mexico		Gothic (group)		Guastica		GST	# Attempting to derive an alt-name for Mexico from the Huastec people.
+Mexico		Gothic (group)		Guastica		GST	# Attempt to derive an alt-name for Mexico from the Huastec people.
+Mexico		Brithenig		Messig			N03	# Attempt to Brithenig-ize the name "Mexico"
 
 Mississippi	[generic]		Mississippi		MSS	# It's Mississippi.
 Mississippi	[generic]		Missouri		MIS	# It's Missouri.
-Mississippi	Brythonic		Gwyddno			GWD	# Gwyddno Garanhir ruled a mythical kingdom which flooded 'cos of booze.
+Mississippi	Brithenig		Gwyddno			GWD	# Gwyddno Garanhir ruled a mythical kingdom which flooded 'cos of booze.
 Mississippi	Gothic (group)		Arheimaria		ARH	# 'Arheimar' was, by the Hervarar saga, a Gothic town on the Dneiper
 
 Ohio		[generic]		Michigan		UOM	# GO BLUE
@@ -65,9 +67,12 @@ Ohio		[generic]		Michigan		UOM	# GO BLUE
 Peru		[generic]		Peru			PER	# Vanilla
 Peru		Gothic (group)		Içymha			ICY	# The area around Lima, Peru was once called 'Itychma', after the Ichma people nearby. From Itchyma, a more Latinized 'Itchimia' can be made, and garbling that into Occitan-Gothic can make something like 'Içymha'
 
-Platina		[generic]		Argentina		LAP	# Vanilla, relocalized La Plata
-Platina		[generic]		Chile			CHL	# Vanilla
-Platina		Gothic (group)		Goranica		-	# Derived from the name of the Guarani people.
-Platina		Carthagennan (group)	Quariana		-	# Paraguay and Uruguay are rendered Paraquaria and Uraquaria in Latin.
+Plattina	[generic]		Argentina		LAP	# Vanilla, relocalized La Plata
+Plattina	[generic]		Chile			CHL	# Vanilla
+Plattina	Gothic (group)		Goranica		QRT	# Derived from the name of the Guarani people.
+Plattina	Brithenig		Terarient		N04	# 'Ter Arient' is something like 'Silver-land'
+Plattina	Dutch & Oostfr.		Batavia			N05	# Azeri LP
+
+Tejas		[generic]		Tejas			N11	# Texas
 
 Terranova	Scandinavian (group)	Vinland			VIN	# It's Vinland! Includes Canada in claims.

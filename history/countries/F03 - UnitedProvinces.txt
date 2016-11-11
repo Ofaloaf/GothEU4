@@ -1,0 +1,7 @@
+government = feudal_monarchy
+technology_group = western
+religion = catholic
+primary_culture = dutch
+add_accepted_culture = oostfranken
+capital = 57
+

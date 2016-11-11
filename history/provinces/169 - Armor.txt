@@ -2,7 +2,7 @@
 
 owner = AMC
 controller = AMC
-capital = "Rennes"
+capital = "Redhonis"
 is_city = yes
 culture = armorican
 religion = catholic

@@ -1,0 +1,22 @@
+#2099 - Kandy
+
+owner = I01
+controller = I01
+add_core = I01
+culture = sinhala
+religion = buddhism
+capital = "Gampala"
+trade_goods = spices
+hre = no
+base_tax = 2 
+base_production = 3
+base_manpower = 2
+is_city = yes
+estate = estate_church
+add_core = CEY
+
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = indian
+discovered_by = chinese
+discovered_by = east_african

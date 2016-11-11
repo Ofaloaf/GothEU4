@@ -2,7 +2,7 @@
 
 owner = QOC
 controller = QOC
-culture = turkish
+culture = rummen
 religion = jewish
 capital = "Erzindjan"
 trade_goods = copper

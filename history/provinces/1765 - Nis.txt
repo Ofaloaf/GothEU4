@@ -13,8 +13,7 @@ base_manpower = 2
 is_city = yes
 estate = estate_nobles
 add_core = THR
-
-
+add_core = SKL
 
 discovered_by = western
 discovered_by = eastern

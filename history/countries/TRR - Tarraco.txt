@@ -4,6 +4,19 @@ primary_culture = hispanian
 technology_group = western
 capital = 2988
 
+1402.3.12 = {
+	monarch = {
+		name = "Flaianus"
+		dynasty = "de Viviers"
+		birth_date = 1349.1.1
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+
+	set_allow_female_emperor = yes
+}
+
 1711.4.18 = { government = bureaucratic_despotism }
 
 1759.8.12 = { government = enlightened_despotism }

@@ -1,0 +1,107 @@
+# Terarient # Brithenig Argentina
+
+graphical_culture = westerngfx
+
+colonial_parent = GBI
+random_nation_chance = 0
+
+color = { 152 209 146 }
+
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	spy_ideas
+	economic_ideas
+	quantity_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	spanish_tercio
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+monarch_names = {
+	"Gion #0" = 50
+	"Gereint #0" = 40
+	"Iosep #0" = 25
+	"Costenhin #0" = 20
+	"Emreis #0" = 15
+	"Drystin #0" = 10
+
+	"Efa #0" = -20
+	"Cristen #0" = -10
+	"Eleu #0" = -10
+
+	"Greid #0" = -1
+	"Sarra #0" = -1
+
+	"Cristoffer #0" = 0
+	"Cynedd #0" = 0
+	"Dunad #0" = 0
+	"Enrhig #0" = 0
+	"Erchyl #0" = 0
+	"Garfan #0" = 0
+	"Gwilim #0" = 0
+	"Hyw #0" = 0
+	"Ieroni #0" = 0
+	"Keswallon #0" = 0
+	"Llawreint #0" = 0
+	"Luc #0" = 0
+	"Lluid #0" = 0
+	"Madag #0" = 0
+	"Migangel #0" = 0
+	"Nigol #0" = 0
+	"Padrig #0" = 0
+	"Pawl #0" = 0
+	"Pedr #0" = 0
+	"Tegid #0" = 0
+	"Tomos #0" = 0
+	"Ysteffan #0" = 0
+}
+
+leader_names = {
+	Allt
+	Ban Bech Bel Bendith Blanc Braw Broch Bryd Bryn
+	Cab Canyd Cybidd Clig Cel
+	Dere Dysbellur
+	Ffawr Ffereir Ffeil Ffeirth Ffelig Ffurneir
+	Glas Glythun Gran Gras Griffin Gris Gwefer Gwenadur Gwithur
+	Hewlin
+	Lladda Llefan Llewein Llîneir Llewel Llyddwig
+	Magr Manuel Meddig Mendes Molineir Morgan
+	Nîr Noc
+	Piewn Pascen Pengras Penrhys Pereirin Prefder
+	Rhedun Rhoch Rhui Rhys
+	Saer Saeson Serw
+	Teg Tew Traffer 
+	Uisel
+	Yddael Yniwr
+}
+
+ship_names = {
+	Admirediwn "Arddent Llew" "Abostol Marc" Afent Affligadurdad Aleluia Aministradur Anofeddient
+	"Ban Barfeir" Baril Bendith Bengwolont Bugun Burdd
+	Dewin "Diawl di Wer" Diawlig Dienef Digas Disdin
+	"Ereddideir Ffelig"
+	Ffulyer "Ffoll Ffuded"
+	Gwrthiern
+	Llefiathan Lleinc Lliferadiwn Liferthad Llîn
+	Rector
+	"Saeth Mair"
+	Yndad Yscelleint "Yscyrdad Nîr" "Ysl Arient" Yspirid Ystiwlan
+}

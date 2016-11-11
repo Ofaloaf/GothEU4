@@ -1,5 +1,7 @@
 technology_group = chinese
 primary_culture = mongol
+add_accepted_culture = hakka
+add_accepted_culture = cantonese
 religion = manichee
 government = tribal_federation # steppe_horde
 capital = 667

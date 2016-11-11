@@ -117,7 +117,7 @@ leader_names = {
 	d'Aballo d'Austduun d'Aussèrra "de Aura" "del Abatut" Athonis Aymes
 	Barra "de Belena" "de Bailijoc" "de Bairicaz" "de Bullecaz" Bares Bembelli Bonsom Boys Bruni
 	Camsoris "de Crebanna" "de Cluniaco" "de Curtinaz" "de Caudat" "de Clamisjac" "de Castaneto"
-	Cathena Costa
+	Cathena Costa "de Cadrela"
 	Davi "de Donezac"
 	Escolani Embrini
 	Fava "de Fulhonibus" Fabri Fontanas "de Falgario"
@@ -128,7 +128,7 @@ leader_names = {
 	"de Nivèrns"
 	Omellari
 	Payrolerius "de Ponteigni" "de Pinu"
-	"de Quadrigellae" "de Quato" "de lo Regne"
+	"de Quato" "de lo Regne"
 	Romengiis "de Rominac" Raynes Riqueti "de Roaxio" "de Reselenquis" Retonditor Rulh
 	Simeonis "de Senemuro" "de Scalquemchis" "de Sangueda"
 	Textor Torena Tolsani "del Troc" "de Trageto"

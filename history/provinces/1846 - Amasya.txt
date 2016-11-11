@@ -2,7 +2,7 @@
 
 owner = QOC
 controller = QOC
-culture = turkish
+culture = rummen
 religion = catholic
 capital = "Amasya"
 trade_goods = iron

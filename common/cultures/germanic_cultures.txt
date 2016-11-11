@@ -1,5 +1,6 @@
 germanic = {
 	oostfranken = {
+		primary = F00
 		male_names = {
 			Arnulf Alewinus Agberto Adulfo Albertus Arnekin Alard Assceric Ancelin Arnst Andries Adriaan
 			Berengarius Bauto Batten Bodekine Barwold Brandekijn Blomart Boio Bavo

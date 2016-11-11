@@ -4,3 +4,14 @@ primary_culture = septimanian
 religion = catholic
 technology_group = western
 capital = 2753 # Narbonne
+
+1395.7.30 = {
+	monarch = {
+		name = "Exuperis II"
+		dynasty = "Ouetei"
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+	set_allow_female_emperor = yes
+}

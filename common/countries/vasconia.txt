@@ -1,0 +1,107 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 252  233  58 }
+
+historical_idea_groups = {
+	maritime_ideas
+	religious_ideas
+	defensive_ideas
+	economic_ideas
+	innovativeness_ideas
+	spy_ideas
+	offensive_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	spanish_tercio
+	french_caracolle
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Belasco #0" = 40
+	"Domicu #0" = 30
+	"Baraxil #0" = 20
+	"Andolin #0" = 15
+	"Felix #0" = 10
+	"Genealis #0" = 10
+
+	"Aimara #0" = -1
+	"Doltza #0" = -1
+
+	"Adam #0" = 0
+	"Ahotzar #0" = 0
+	"Aingeru #0" = 0
+	"Amandus #0" = 0
+	"Andregoto #0" = 0
+	"Andres #0" = 0
+	"Antso #0" = 0
+	"Armentari #0" = 0
+	"Aurubilitu #0" = 0
+	"Balkoe #0" = 0
+	"Bartholomeus #0" = 0
+	"Bazkoare #0" = 0
+	"Beila #0" = 0
+	"Diagur #0" = 0
+	"Gartzia #0" = 0
+	"Gilen #0" = 0
+	"Jenneco #0" = 0
+	"Johan #0" = 0
+	"Martialis #0" = 0
+	"Otxoa #0" = 0
+	"Pascoalet #0" = 0
+	"Pelagius #0" = 0
+	"Petrus #0" = 0
+	"Sancius #0" = 0
+	"Toda #0" = 0
+}
+
+leader_names = {
+	Ayta Adameiz Alaman Annaz "d'Aldatz" "de Agorreta" Aperrit Armentariz "de Alhegi" Acenari Azubeliz Aparpequo "de Aguerrea"
+	Belcho "de Bituris" "de Butron" Beltz Beylla Belakez Blachiz "de Bea"
+	"de Calaburris" "de Cascantum" "de Çuricoin" "de Cara"
+	Dominicoz Didacoz Dolquitez
+	Eitiz Echeverri Eniquiz Esteriz
+	"de Graccurris" "de Guendulain" "de Gecho" Gorria
+	Harraz
+	"de Igoa" "de Ilharraza" "de Isasti"
+	Lequentize "de Latrasoe" Latorlegui "de Labaguer" Lopaco
+	Marziella "de Muscaria" Marquo Mayora
+	"de Nauarra"
+	Ovecoz Orrilici "de Osinaga" "de Oiasso"
+	Pardo "de Pompaelo" "de Palacios"
+	Somberria "de Seguia"
+	"de Tarraga"
+	Uelaç
+	Vele Vigilaz Vitako
+	Zalduetaco "de Zubelche" "de Zunieta"
+}
+
+ship_names = {
+	Alavona Alba Aizeti Amabilis Amorosa Anaya Aphal Aritz Auria Avadexe Azeri Aznarot "Amik Oma" Andelos
+	Baztan Belatz Beltxo Bartulon Bilitu Biquendi Beturri
+	Curnonium
+	"Domna Anderguina" "Domna Entragot" Domeca Domecato
+	Ercavica
+	Gipuzkoa
+	Harri
+	Iacca Iturissa Ilumberris
+	Ologicus Oiasso
+	Nemanturissa
+	Txarles
+	Vasco Velascus
+}

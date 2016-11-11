@@ -1,0 +1,164 @@
+# Cheretes
+# Mauri Brazil
+
+graphical_culture = westerngfx
+
+colonial_parent = MOR
+random_nation_chance = 0
+
+color = { 158 143 28 }
+
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	spy_ideas
+	economic_ideas
+	maritime_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	spanish_tercio
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Jagu #0" = 50
+	"Agustinu #0" = 40
+	"Bonifaciu #0" = 35
+	"Laurentzi #0" = 25
+	"Marceh #0" = 20
+	"Costantinu #0" = 15
+	"Garmelu #0" = 15
+	"Hanno #0" = 5
+
+	"Augustina #0" = -10
+	"Diane #0" = -10
+	"Anna #0" = -5
+	"Benedetta #0" = -5
+	"Costantina #0" = -5
+	"Ippolita #0" = -5
+	"Olimpia #0" = -5
+
+	"Angeleca #0" = -1
+	"Aprili #0" = -1
+	"Balatta #0" = -1
+	"Basilia #0" = -1
+	"Batnoma #0" = -1
+	"Christina #0" = -1
+	"Clara #0" = -1
+	"Costantza #0" = -1
+	"Damia #0" = -1
+	"Domna #0" = -1
+	"Elisabetta #0" = -1
+	"Felicula #0" = -1
+	"Gavriella #0" = -1
+	"Imashtarte #0" = -1
+	"Januaria #0" = -1
+	"Johanna #0" = -1
+	"Lucia #0" = -1
+	"Maddelina #0" = -1
+	"Maria #0" = -1
+	"Monica #0" = -1
+	"Nivatora #0" = -1
+	"Paola #0" = -1
+	"Perpetua #0" = -1
+	"Petrenella #0" = -1
+	"Sarah #0" = -1
+	"Sidonia #0" = -1
+	"Sofia #0" = -1
+	"Susanna #0" = -1
+	"Valeria #0" = -1
+
+	"Abbmelcar #0" = 0
+	"Adrinu #0" = 0
+	"Antala #0" = 0
+	"Capussa #0" = 0
+	"Carcasanu #0" = 0
+	"Diodoru #0" = 0
+	"Dominigu #0" = 0
+	"Egidiu #0" = 0
+	"Gildon #0" = 0
+	"Jacovu #0" = 0
+	"Jaroah #0" = 0
+	"Jironimu #0" = 0
+	"Johannei #0" = 0
+	"Josefu #0" = 0
+	"Justu #0" = 0
+	"Marcellu #0" = 0
+	"Mariu #0" = 0
+	"Massuna #0" = 0
+	"Maxsimilla #0" = 0
+	"Mazeu #0" = 0
+	"Micheli #0" = 0
+	"Nicola #0" = 0
+	"Nartzalu #0" = 0
+	"Pascale #0" = 0
+	"Paulu #0" = 0
+	"Petru #0" = 0
+	"Pompeju #0" = 0
+	"Quodvultdeus #0" = 0
+	"Rafiele #0" = 0
+	"Salomon #0" = 0
+	"Savettor #0" = 0
+	"Samueli #0" = 0
+	"Saturnu #0" = 0
+	"Stefanu #0" = 0
+	"Teodore #0" = 0
+	"Terentzi #0" = 0
+	"Tulemeju #0" = 0
+	"Tomassu #0" = 0
+	"Urse #0" = 0
+	"Zacarias #0" = 0
+}
+
+leader_names = {
+	Antinori "D'Aquinu" Aglieri Allegra Alotta Amari
+	Bonnanu Bufalinu Balistreri Bixiu Bodei Briguglia Buffa
+	Cinniri Carolla Coco Cefalù Canalis Cuccia Costa Cipri Cancemi Calandrucci Calò
+	Dragna Drucci
+	Furnari Fara Failla
+	Gotti Galante Giunta Guarraci Ghessa Gagini
+	Licastri Licata Larocca Licavoli
+	Maranzanu Montanu Masseria Meli Marabitti Marinuzzi Martorana
+	Prio Pettu Pes Pinna Poddighe
+	Rossi Reina
+	Sabella Scalise Sciandra Sciascia Scozzari Stanfa Salanu Siccanu Sacche
+	"di Tucca"
+	Valetta Vitale
+	Zamanu Zaba
+}
+
+ship_names = {
+	"Antinatu Anticu" Ancilu Assissurri Assistanti Austu Astarte
+	Baal
+	Canuscenza Cacòcciula Curaggiu Concetta
+	Donatus
+	Eolus
+	Gad
+	Hippolyta
+	Mmalidittu Mènnula Moloch
+	Sfirruzza
+	Varcoca
+}
+
+army_names = {
+	"Armatu di %PROVINCE%"
+}
+
+fleet_names = {
+	"Classis $PROVINCE$"
+}

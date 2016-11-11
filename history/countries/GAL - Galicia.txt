@@ -4,3 +4,16 @@ primary_culture = gallaecian
 religion = catholic
 technology_group = western
 capital = 206	# Galicia
+
+1402.3.12 = {
+	monarch = {
+		name = "Bodero"
+		dynasty = "of Iskar"
+		birth_date = 1373.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+
+	set_allow_female_emperor = yes
+}

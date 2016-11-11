@@ -1,0 +1,17 @@
+government = despotic_monarchy
+government_rank = 1
+primary_culture = gujarati
+religion = hinduism
+technology_group = indian
+capital = 2054	# Ahmadabad
+
+#Sultans of Gujarat
+1391.1.1 = {
+	monarch = {
+		name = "Ramaraya II"
+		dynasty = "Pandya Alupa" #
+		ADM = 2
+		DIP = 0
+		MIL = 1
+	}
+} 

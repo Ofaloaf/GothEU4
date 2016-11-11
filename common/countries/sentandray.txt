@@ -1,0 +1,136 @@
+# Sentandray
+
+graphical_culture = westerngfx
+
+color = { 130 156 172 }
+
+colonial_parent = GTH
+
+historical_idea_groups = {
+	trade_ideas
+	religious_ideas
+	maritime_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	spy_ideas
+	defensive_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	spanish_tercio
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Caraules #0" = 30
+	"Lixandre #0" = 30
+	"Conrat #0" = 25
+	"Alaric #0" = 25
+	"Tiuderic #0" = 20
+	"Guillemó #0" = 10
+
+	"Ana #0" = -10
+	"Isabèu #0" = -10
+	"Peironèla #0" = -10
+	"Richènda #0" = -10
+	"Patricia #0" = -5
+
+	"Aloito #0" = 0
+	"Antoni #0" = 0
+	"Aristòtel #0" = 0
+	"Atalaric #0" = 0
+	"Audoacre #0" = 0
+	"Audon #0" = 0
+	"Avit #0" = 0
+	"Ciceron #0" = 0
+	"Ciergue #0" = 0
+	"Claudi #0" = 0
+	"Cristau #0" = 0
+	"Evaric #0" = 0
+	"Fidelh #0" = 0
+	"Frederi #0" = 0
+	"Gomé #0" = 0
+	"Gonçalo #0" = 0
+	"Gudafres #0" = 0
+	"Guttier #0" = 0
+	"Istève #0" = 0
+	"Itier #0" = 0
+	"Jacint #0" = 0
+	"Jacme #0" = 0
+	"Jòrdi #0" = 0
+	"Josèp #0" = 0
+	"Laurènç #0" = 0
+	"Leidrat #0" = 0
+	"Leonidas #0" = 0
+	"Liun #0" = 0
+	"Lucàs #0" = 0
+	"Marc #0" = 0
+	"Marius #0" = 0
+	"Matias #0" = 0
+	"Miquel #0" = 0
+	"Otger #0" = 0
+	"Pascalis #0" = 0
+	"Pèitre #0" = 0
+	"Pol #0" = 0
+	"Ricard #0" = 0
+	"Salvador #0" = 0
+	"Tadé #0" = 0
+	"Tumàs #0" = 0
+	"Turismau #0" = 0
+	"Uc #0" = 0
+	"Zenon #0" = 0
+}
+
+leader_names = {
+	Aurains "d'Astarac" Arroman Aunís "d'Auvesías" "d'Arròs" Alari Avantin "d'Ardet" Arlettaz Artus Aylagas
+	Blancat "de Baïsa" Bojan Biat "deth Bòsc" Badosa "de Banyuls" Baudru Benassis Bona Bosc Brazès Bomati 
+	Criac Crabari "deu Castèth" Cesèrt "de Comenge" Couchaz Cabello Camatta Carnimolla Catala Cayrol Codognès
+	Devic Daydé Delclos Delonca Doria Dumas
+	Escayol Eulry Esfotanz
+	Felitz Frajó Fargeas Farran
+	Germer Gimoés "de Garona" Ginèst Germièr "de Grefuèlha" Gaudenç Gassies Gallay Giot Gossart Goze Graule Guiry
+	Haust Helitz Harriòu
+	Inhan Irles Imbernon
+	Jòri
+	Lengròs Lari Launart "de Lauragués" Linou Livièlh "de Latge" "de Luishon" Lon Llado Lunel Lloansi Lopros
+	Maur Martòri Marcèth Mounis Manalt Majoral Marmayou Marty Mas
+	Nérel Nogué
+	Orenç Oriola d'Ornos
+	Pelagos Potge Pau Palma Pasco Payra Picas Pla Plana Proical Porra Pujol Puig
+	Rostesi "de Ribèra" Ramis Raynal Rius Roig
+	Sauvi "de Sent-Cric" Solan Somplesi "de Sent-Clar" Saglan "de Sava" Serieys Sarbardeil Sarrau "De Santa" Salavert
+	Teus "de Tarn" Tarris "de Terrats" Tosi Touxagas
+	Vivalda "de Vilagauta"
+	Xaupi
+}
+
+ship_names = {
+	Aralha Apollon Afrodita Ares Arator Agricola Antonina Acertuc Ardit Amic Aimelina
+	Bran
+	Cerberus Conoissedor Comunalment Conquistar Coratjós
+	Dracon "Dieu Vos Gard" Domidieu
+	Emperador Estragat Engrès Enchantat
+	Falco Fòrt
+	Guerrejador "La Gràcia de Dieu"
+	Hydra
+	Julieta
+	"Los Sants"
+	Malibu Mundus
+	Pomona Publicola Pluton
+	Regonda
+	"Senta Crestia" "Senta Fe" Solon "Sent Andreas" "Sent Diaco"
+	Violador Vigor Vïatz
+	Zeus
+}

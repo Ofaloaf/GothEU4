@@ -1,0 +1,3 @@
+discovered_by = W03
+
+1600.1.1 = { discovered_by = andean }

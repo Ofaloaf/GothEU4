@@ -95,3 +95,11 @@ ship_names = {
 	Tertakom 
 	Utrillas
 }
+
+army_names = {
+	"Exercitus de $PROVINCE$"
+}
+
+fleet_names = {
+	"Navium de $PROVINCE$"
+}

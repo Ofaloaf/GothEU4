@@ -27,3 +27,7 @@ slavery_dominant = {
 slavery_abolished = {
 	stability_cost_modifier = -0.1
 }
+
+no_imperial_gallic_blessing = {
+	stability_cost_modifier = 0.1
+}

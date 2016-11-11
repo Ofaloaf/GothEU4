@@ -2,7 +2,7 @@
 
 owner = AMC
 controller = AMC
-capital = "Rohan"
+capital = "Veneda"
 is_city = yes
 culture = armorican
 religion = catholic

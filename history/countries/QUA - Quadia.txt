@@ -4,3 +4,14 @@ religion = catholic
 technology_group = western
 capital = 111	# Friuli
 government_rank = 1
+
+1391.4.9 = {
+	monarch = {
+		name = "Gulfurn"
+		dynasty = "ëd Lissandria"
+		birth_date = 1359.4.13
+		ADM = 3
+		DIP = 3
+		MIL = 3
+	}
+}

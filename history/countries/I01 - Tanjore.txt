@@ -1,0 +1,30 @@
+government = feudal_monarchy
+primary_culture = kannada
+add_accepted_culture = tamil
+religion = hinduism
+technology_group = indian
+capital = 2026 # Tanjore
+
+1395.8.6 = {
+	monarch = {
+		name = "Achugi"
+		dynasty = "Pandya Alupa"
+		ADM = 2
+		DIP = 2
+		MIL = 4
+	}
+}
+
+1395.8.6 = {
+	heir = {
+		name = "Srivikrama"
+		monarch_name = "Srivikrama I"
+		dynasty = "Pandya Alupa"
+		birth_date = 1390.3.6
+		death_date = 1450.1.1
+		claim = 40
+		ADM = 2
+		DIP = 1
+		MIL = 3
+	}
+}

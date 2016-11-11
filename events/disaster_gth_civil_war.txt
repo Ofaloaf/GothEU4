@@ -1,0 +1,352 @@
+########################################
+# Gothic Civil War
+########################################
+
+namespace = gothic_civil_war
+
+# The Gothic Civil War
+country_event = {
+	id = gothic_civil_war.1
+	title = "flavor_gth.EVTNAME1642"
+	desc = "flavor_gth.EVTDESC1642"
+	picture = CIVIL_WAR_eventPicture
+
+	major = yes
+	
+	is_triggered_only = yes
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+
+	immediate = {
+		hidden_effect = {
+			set_country_flag = gth_civil_war_happened
+			add_stability = -3
+		}
+	}
+	
+	option = {			# Parliamentarians
+		name = "flavor_gth.EVTOPTA1642"
+		ai_chance = { factor = 50 }
+		set_country_flag = supports_parliamentarians
+		add_manpower = -0.25
+		if = {
+			limit = { has_heir = yes }
+			hidden_effect = {
+				kill_heir = yes
+			}
+		}
+		define_ruler = {
+			name = "Amalus"
+			MIL = 4
+		}
+		set_ruler_flag = cromwell_flag
+		change_government = republican_dictatorship
+		random_owned_province = {
+			limit = {
+				region = france_region
+				NOT = { units_in_province = 1 }
+				is_capital = no
+			}
+			spawn_rebels = {
+				type = pretender_rebels
+				size = 6
+			}
+		}
+	}
+	option = {			# Royalists
+		name = "flavor_eng.EVTOPTB9225"
+		ai_chance = { factor = 50 }
+		set_country_flag = supports_royalists
+		add_manpower = -0.25
+		random_owned_province = {
+			limit = {
+				region = france_region
+				NOT = { units_in_province = 1 }
+				is_capital = no
+			}
+			spawn_rebels = {
+				type = revolutionary_rebels
+				size = 6
+				leader = "Amalus"
+			}
+		}
+	}
+}
+
+# Self-denying Ordinance and New Model Army
+country_event = {
+	id = gothic_civil_war.2
+	title = "flavor_gth.EVTNAME1643"
+	desc = "flavor_gth.EVTDESC1643"
+	picture = MILITARY_CAMP_eventPicture
+
+	is_triggered_only = yes
+	
+	trigger = {
+		has_country_flag = supports_parliamentarians
+		NOT = { has_country_flag = GTH_had_event_1643 }
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+
+	immediate = {
+		set_country_flag = GTH_had_event_1643
+	}
+	
+	option = {			# Pass the Ordinance and reform the army
+		name = "flavor_eng.EVTOPTA1643"
+		ai_chance = { factor = 90 }
+		add_country_modifier = {
+			name = new_model_army
+			duration = 3650
+		}
+	}
+	option = {			# It is not needed
+		name = "flavor_eng.EVTOPTB1643"
+		ai_chance = { factor = 10 }
+		add_stability = 1
+		add_manpower = 2
+	}
+}
+
+# New Model Army
+country_event = {
+	id = gothic_civil_war.3
+	title = "flavor_gth.EVTNAME1644"
+	desc = "flavor_gth.EVTDESC1644"
+	picture = MILITARY_CAMP_eventPicture
+
+	is_triggered_only = yes
+	
+	trigger = {
+		NOT = { has_country_flag = GTH_had_event_1644 }
+		has_country_flag = supports_royalists
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+
+	immediate = {
+		set_country_flag = GTH_had_event_1644
+	}
+	
+	option = {			# Pass the Ordinance and reform the army
+		name = "flavor_eng.EVTOPTA1644"
+		ai_chance = { factor = 90 }
+		add_country_modifier = {
+			name = new_model_army
+			duration = 7300
+		}
+	}
+	option = {			# It is not needed
+		name = "flavor_eng.EVTOPTB1644"
+		ai_chance = { factor = 10 }
+		add_stability = 1
+		add_manpower = 2
+	}
+}
+
+# The Old Gothic Rebellion
+country_event = {
+	id = gothic_civil_war.4
+	title = "flavor_gth.EVTNAME1645"
+	desc = "flavor_gth.EVTDESC1645"
+	picture = ANGRY_MOB_eventPicture
+
+	is_triggered_only = yes
+	
+	trigger = {
+		NOT = { has_country_flag = GTH_had_event_1645 }
+		any_owned_province = {
+			culture = old_gothic
+			unrest = 1
+		}
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+
+	immediate = {
+		set_country_flag = GTH_had_event_1645
+	}
+	
+	option = {			# Pay them
+		name = "flavor_gth.EVTOPTA1645"
+		ai_chance = { factor = 50 }
+		add_years_of_income = -0.25
+	}
+	option = {			# Let them revolt
+		name = "flavor_eng.EVTOPTB1645"
+		ai_chance = { factor = 50 }
+		every_owned_province = {
+			limit = {
+				culture = old_gothic
+				unrest = 1
+			}
+			spawn_rebels = {
+				type = pretender_rebels
+				size = 2
+			}
+		}
+	}
+}
+
+# Pride's Purge
+country_event = {
+	id = gothic_civil_war.10
+	title = "flavor_gth.EVTNAME1646"
+	desc = "flavor_gth.EVTDESC1646"
+	picture = BATTLE_eventPicture
+
+	is_triggered_only = yes
+	
+	trigger = {
+		NOT = { has_country_flag = GTH_had_event_1646 }
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+
+	immediate = {
+		set_country_flag = GTH_had_event_1646
+	}
+	
+	option = {			# Execute those not loyal
+		name = "flavor_gth.EVTOPTA1646"
+		ai_chance = { factor = 75 }
+		random_owned_province = {
+			limit = {
+				region = france_region
+				is_capital = no
+			}
+			spawn_rebels = {
+				type = pretender_rebels
+				size = 2
+			}
+		}
+	}
+	option = {			# Pardon them
+		name = "flavor_gth.EVTOPTB1646"
+		ai_chance = { factor = 25 }
+		add_prestige = -15
+		add_stability = -1
+		random_owned_province = {
+			limit = {
+				region = france_region
+				is_capital = no
+			}
+			spawn_rebels = {
+				type = pretender_rebels
+				size = 1
+			}
+		}
+	}
+}
+
+# End of the Gothic Civil War
+country_event = {
+	id = gothic_civil_war.100
+	title = "flavor_gth.EVTNAME1647"
+	desc = "flavor_gth.EVTDESC1647"
+	picture = CIVIL_WAR_eventPicture
+
+	major = yes
+	
+	is_triggered_only = yes
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+		
+	option = {			# Order has finally been restored
+		name = "flavor_gth.EVTOPTA1647"
+		trigger = { has_country_flag = supports_royalists }
+		change_government = absolute_monarchy
+		clr_country_flag = supports_royalists
+		add_prestige = 50
+		add_stability = 2
+	}
+	
+	option = {			# Order has finally been restored
+		name = "flavor_eng.EVTOPTB1647"
+		trigger = { has_country_flag = supports_parliamentarians }
+		clr_country_flag = supports_parliamentarians
+		add_prestige = 50
+		add_stability = 2
+		if = {
+			limit = {
+				NOT = { has_ruler_flag = cromwell_flag }
+			}
+			country_event = { id = gothic_civil_war.11 }
+		}
+		if = {
+			limit = {
+				has_ruler_flag = cromwell_flag
+			}
+			set_country_flag = gothic_civil_war_won_by_parliamentarians
+		}
+	}
+}
+
+# Parliamentarian Victory
+country_event = {
+	id = gothic_civil_war.11
+	title = "gothic_civil_war.11.t"
+	desc = "gothic_civil_war.11.d"
+	picture = BATTLE_eventPicture
+
+	is_triggered_only = yes
+	
+	fire_only_once = yes
+	
+	option = {			# A Republic
+		name = "gothic_civil_war.11.a"
+		ai_chance = { factor = 50 }
+		change_government = constitutional_republic
+	}
+	option = {			# A Monarchy
+		name = "gothic_civil_war.11.b"
+		ai_chance = { factor = 50 }
+		change_government = province_gothic_monarchy
+	}
+}
+
+#Parliamentarian Victory - Death of Cromwell
+country_event = {
+	id = gothic_civil_war.12
+	title = "gothic_civil_war.12.t"
+	desc = "gothic_civil_war.12.d"
+	picture = BATTLE_eventPicture
+	
+	mean_time_to_happen = {
+		months = 12
+	}
+	
+	fire_only_once = yes
+	
+	trigger = {
+		has_country_flag = gothic_civil_war_won_by_parliamentarians
+		NOT = { has_ruler_flag = cromwell_flag }
+		NOT = { government = constitutional_republic }
+		NOT = { government = province_gothic_monarchy }
+		NOT = { government = constitutional_monarchy }
+	}
+	
+	option = {			# A Republic
+		name = "gothic_civil_war.11.a"
+		ai_chance = { factor = 50 }
+		change_government = constitutional_republic
+	}
+	option = {			# A Monarchy
+		name = "gothic_civil_war.11.b"
+		ai_chance = { factor = 50 }
+		change_government = province_gothic_monarchy
+	}
+}

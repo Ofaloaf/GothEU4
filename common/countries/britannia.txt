@@ -53,6 +53,7 @@ monarch_names = {
 	"Gian #0" = -5
 	"Isabel #0" = -10
 	"Sibyl #0" = -10
+	"Ygerna #0" = -5
 
 	"Adda #0" = 0
 	"Antoin #0" = 0
@@ -128,27 +129,38 @@ leader_names = {
 }
 
 ship_names = {
-	Albanactus "Ambrosius Aurelianus" "Aeneas Silvius" Archgallo Arvirargus Allectus Asclepiodotus "Aurelius Conanus" Artorius
-	Brutus Brennius Belinus Bledudo Britannica
-	Caligula "Claudius Constantinus" Carausius Corineus Cunedagius Cordelia Catellus Cledaucus Clotenus Cassibelanus Coilus
-	"Coelus Magnus" Constantius
-	Digueillus "Dunvallo Molmutius"
-	Eboracum Ebraucus Elidurus Enniaunus Edadus
-	Fulgenius
-	Gorbonianus "Gracianus Municepts" Gurgintius Guiderius Geta
-	Ingenius Idvallo
-	Kimbelinus
-	Londinium Lindum Lemanis Locrinus "Lucius Imperator"
-	Millus "Maxima Caesariensis" "Magnus Maximus" Mempricius Marganus Morvidus Merianus Marius "Mons Badonicus"
-	Oenus Octavius
-	Peredurus "Portus Dubris" Porrex
-	Rutupiae Regulbium Rivallo Redechius
-	Seniciana "Sanctus Augustinus" "Sanctus Pelagius" Sisillius "Sanctus Vortimerus" "Sanctus Dubricius"
-	Theonus Tenvantius Tancogeistla
+	Albanactus "Ambrosius Aurelianus" "Aeneas Silvius" Archgallo Arvirargus Allectus Asclepiodotus "Aurelius Conanus" Artorius Antedius
+	Aldroenus Adanus "Agricola Rex"
+	Brutus Brennius Belinus Bledudo Britannica Boudica Bicanus Brogmaglus Brocanus Buill
+	Caligula "Claudius Constantinus" Carausius Corineus Cunedagius Cordelia Catellus Cledaucus Clotenus Cassibelanus Coilus "Catus Decianus"
+	"Coelus Magnus" Constantius Camber "Cunetacius Magnus" Caratacus "Conanus Meriadocus" Catamanus Concennus Claudia Caritas
+	Digueillus "Dunvallo Molmutius" Disilius Darocus
+	Eboracum Ebraucus Elidurus Enniaunus Edadus Ericius Eberwella Eugenius Eliffan
+	Fulgenius Ferrex
+	Gorbonianus "Gracianus Municeps" Gurgintius Guiderius Geta Gloriana Guendoloena Gurgustius Gerontius Gildas Gundleus Galla Guinocus
+	"Geiddad Geidd" "Gleirus Glen" Gury
+	Honoria Honorata Halocus
+	Ingenius Idvallo "Insula Sanctorum" Iudicallus Iudocus Iudovellus Ierusalem Illuseir
+	Juliana
+	Kimbelinus Kimarcus Kinarius Kenetus
+	Londinium Lindum Lemanis Locrinus "Lucius Imperator" Leudonus
+	Millus "Maxima Caesariensis" "Magnus Maximus" Mempricius Marganus Morvidus Merianus Marius "Mons Badonicus" Marganus Marcia Maponos
+	Oenus Octavius "Ostorius Scapula"
+	Peredurus "Portus Dubris" Porrex Prasutagus Pinner Penalun "Pabius Rex"
+	Rutupiae Regulbium Rivallo Redechius Rudaucus Rivaldus Riothamus Rodericus
+	Seniciana "Saeth Augustinus" "Saeth Pelagius" Sisillius "Saeth Vortimerus" "Saeth Dubricius" "Suetonius Paulinus" Seneca Staterius
+	"Saeth Ursula" Saturnus "Saeth Canna" "Saeth Crallus" "Saeth Iltutus" "Saeth Davidus" "Saeth Dubricius" "Saeth Daniolus"
+	"Saeth Telianus" "Saeth Oudoceus" Solomus "Saeth Cunocius"
+	Theonus Tenvantius Tancogeistla Theodora
 	Urianus Urbanus
-	Verlamium Valentia "Venta Icenorum" Volusenus Vortiporius
+	Verlamium Valentia "Venta Icenorum" Volusenus Vortiporius Victoria Vitalis
+	Ygerna
 }
 
 army_names = {
 	"Yysserchid di $PROVINCE$"
+}
+
+fleet_names = {
+	"Eiscair di $PROVINCE$" # for all the sperginess of Ill Bethisad, I can't find a Brithenig word for "navy", "fleet" or "squadron". Rowans made up something instead!
 }

@@ -1,0 +1,119 @@
+# Tejas
+
+graphical_culture = westerngfx
+
+color = { 201 204 186 }
+
+colonial_parent = GTH
+
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	spy_ideas
+	economic_ideas
+	quantity_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	spanish_tercio
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Mirabèlh #0" = 50
+	"Tiuderic #0" = 40
+	"Guilhem #0" = 30
+	"Amalric #0" = 30
+	"Lozoïc #0" = 25
+	"Andrai #0" = 20
+
+	"Fe #0" = -5
+	"Maria #0" = -10
+	"Dèbora #0" = -1
+
+	"Alaric #0" = 0
+	"Albertet #0" = 0
+	"Audoïn #0" = 0
+	"Diaco #0" = 0
+	"Ermengau #0" = 0
+	"Estilicó #0" = 0
+	"Evaric #0" = 0
+	"Froila #0" = 0
+	"Guidéric #0" = 0
+	"Hunila #0" = 0
+	"Immanuèl #0" = 0
+	"Joyos #0" = 0
+	"Leonidas #0" = 0
+	"Lixandre #0" = 0
+	"Mahiu #0" = 0
+	"Matfrei #0" = 0
+	"Obs #0" = 0
+	"Otniel #0" = 0
+	"Pèitre #0" = 0
+	"Ponç #0" = 0
+	"Raolf #0" = 0
+	"Samuel #0" = 0
+	"Sans #0" = 0
+	"Sergi #0" = 0
+	"Sever #0" = 0
+	"Suer #0" = 0
+	"Suneario #0" = 0
+	"Tacite #0" = 0
+	"Teia #0" = 0
+	"Telo #0" = 0
+	"Tiudemir #0" = 0
+	"Ubald #0" = 0
+	"Veremundo #0" = 0
+	"Walia #0" = 0
+	"Wifredo #0" = 0
+	"Zabuló #0" = 0
+}
+
+leader_names = {
+	Anelier Amiel
+	Bretel "de Belenoi" Bonel
+	Carel "de Caboet" Cailla Codax Cavalaz
+	Fontanals Figueira Fonsalada Faidit
+	Grils "de Givenchi"
+	Isarn
+	Jordan
+	Llull "de Lunel" Lobrun "del Luc"
+	Milà Miralhas
+	Novella
+	Pidal "de Pegulhan" Peirol
+	Ridel "de Rubys" Ruiz
+	"de Sestaró"
+	Trogni "de Tintinhac" Trobel
+	Villanauva
+}
+
+ship_names = {
+	Alegret Abdon Ammon Aiolos
+	Beladomna
+	Cercamon
+	Dasypus Dorus Deimachus
+	Eli Ehud Elon
+	Folquet
+	Hyacinthus
+	Ibsan
+	Jaïr
+	Marcabru Marcoat Moab
+	Orseis
+	Samsó "Santa Fe"
+	Texia
+	Xamgar Xuthus
+}

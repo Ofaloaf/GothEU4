@@ -2,7 +2,7 @@
 
 owner = ANJ
 controller = ANJ
-capital = "Alençon"
+capital = "Ebrieis"
 is_city = yes
 culture = armorican
 religion = catholic

@@ -8,7 +8,7 @@ country_decisions = {
 				ai = no
 				is_playing_custom_nation = no
 			}
-			NOT = { exists = GTH }
+			NOT = { tag = GTH }
 			NOT = { tag = HLR }
 			NOT = { tag = PAP }
 			culture_group = gothic_group
@@ -25,11 +25,11 @@ country_decisions = {
 			is_at_war = no
 			owns_core_province = 203 	# Lyonnais / Liunés
 			owns_core_province = 193	# France-Comte / Besantio
-			owns_core_province = 1871	# Wallis / Valais
 			owns_core_province = 183	# Île-de-France
-			owns_core_province = 80		# Trier / Treveria / Trevèri
+			#owns_core_province = 80	# Trier / Treveria / Trevèri
 			owns_core_province = 192	# Bourgogne / Divio
 			owns_core_province = 186	# Champagne		
+			NOT = { exists = GTH }
 		}
 		effect = {
 			change_tag = GTH

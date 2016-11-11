@@ -2,7 +2,8 @@
 
 owner = JZY
 controller = JZY
-capital = "Brunn"
+add_core = F04
+capital = "Phurgisatis"
 culture = boyustaniy
 religion = catholic
 trade_goods = grain 

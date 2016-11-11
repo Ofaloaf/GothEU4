@@ -14,6 +14,7 @@ fort_15th = yes
 capital = "Berlin"
 is_city = yes
 
+add_core = F01
 
 
 discovered_by = eastern

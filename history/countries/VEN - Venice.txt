@@ -8,3 +8,14 @@ capital = 112 # Venezia
 fixed_capital = 112 # Cannot move capital away from this province & no power cost to move to it
 
 national_focus = DIP
+
+1386.3.4 = {
+	monarch = {
+		name = "Antonio"
+		dynasty = "Afero"
+		birth_date = 1343.5.28
+		adm = 3
+		dip = 3
+		mil = 1
+	}
+}

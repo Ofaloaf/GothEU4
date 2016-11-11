@@ -2,7 +2,7 @@
 
 owner = BYZ
 controller = BYZ
-culture = turkish
+culture = rummen
 religion = manichee
 capital = "Konya"
 trade_goods = salt

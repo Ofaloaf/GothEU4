@@ -115,3 +115,11 @@ ship_names = {
 	Victoria Vesta Virtus Velasquita Virginia
 	Yberia
 }
+
+army_names = {
+	"Exercitus de $PROVINCE$"
+}
+
+fleet_names = {
+	"Navium de $PROVINCE$"
+}

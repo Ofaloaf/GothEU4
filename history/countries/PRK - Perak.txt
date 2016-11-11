@@ -1,0 +1,5 @@
+government = despotic_monarchy
+primary_culture = malayan
+religion = manichee
+technology_group = chinese
+capital = 595	# Perak

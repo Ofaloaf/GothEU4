@@ -47,17 +47,12 @@ MKD = "countries/macedonia.txt"
 SKL = "countries/sklavinia.txt"		# cultural revolter for Slavs in Vlach Thrace
 THR = "countries/thrace.txt"
 
-# Cathay
-A01 = "countries/tianwan.txt"
-A02 = "countries/daxia.txt"
-A03 = "countries/manzi.txt"
-ATY = "countries/altay.txt"
-DHN = "countries/dahan.txt"
-DZH = "countries/dazhou.txt"
-KHN = "countries/khotan.txt"
-KSG = "countries/kashgar.txt"
-
 # Germania
+F00 = "countries/austrasia.txt"
+F01 = "countries/heveldun.txt"
+F02 = "countries/nordalbingia.txt"
+F03 = "countries/unitedprovinces.txt"
+F04 = "countries/boyustan.txt"
 FRC = "countries/francia.txt"
 RNT = "countries/carantania.txt"
 RPA = "countries/ripuaria.txt"
@@ -93,9 +88,11 @@ CRP = "countries/carpetania.txt"
 CTG = "countries/carthaginensis.txt"
 CTH = "countries/carthagenna.txt"
 EMT = "countries/emeritanus.txt"
+H00 = "countries/vasconia.txt"
 ILB = "countries/iliberris.txt"
 LUS = "countries/lusitania.txt"
 PCN = "countries/pacensis.txt"
+SPN = "countries/spania.txt"
 TRR = "countries/tarraco.txt"
 
 # Italia
@@ -149,42 +146,96 @@ VRA = "countries/vrastan.txt"		# Armenian Georgia
 VSD = "countries/varasdinum.txt"	# Easternmost part of the WRE-HRE
 ZYX = "countries/ArmenianCircassia.txt"	# Armenian Circassia
 
+# Cathay
+A01 = "countries/tianwan.txt"
+A02 = "countries/daxia.txt"
+A03 = "countries/manzi.txt"
+ATY = "countries/altay.txt"
+DHN = "countries/dahan.txt"
+DZH = "countries/dazhou.txt"
+KHN = "countries/khotan.txt"
+KSG = "countries/kashgar.txt"
+
+# India
+I00 = "countries/kannauj.txt"
+I01 = "countries/tanjore.txt"
+I02 = "countries/karnata.txt"
+
 # Novus Orbis
+CKI = "countries/cahokia.txt"
+HST = "countries/hisatsinom.txt"
+QUI = "countries/quigualtam.txt"
 SBP = "countries/sobaipuri.txt"
 W00 = "countries/marajoara.txt"
 W01 = "countries/xingu.txt"
+W02 = "countries/akimel.txt"
+W03 = "countries/viracochansuyu.txt"
+W04 = "countries/boriken.txt"
+W05 = "countries/wasioto.txt"
+W06 = "countries/waapaahsiiki.txt"
 
 
 # NEW WORLD REVOLTERS
 
 # Floating
-AVL = "countries/avallonia.txt"		# Brythonic
+AVL = "countries/avallonia.txt"		# Brithenig
+GHH = "countries/gauthaim.txt"		# Gothic
+N08 = "countries/vergentorica.txt"	# Gallic
+N09 = "countries/eleutheria.txt"	# Carthagennan
 
 # Alleghania
-N02 = "countries/madogwys.txt"		# Celtic. Also works for Ohio, Florida, Mississippi and Appalachia
+N02 = "countries/madogwys.txt"		# Brithenig & Celtic. Also works for Ohio, Florida, Mississippi and Appalachia
+N06 = "countries/newnetherlands.txt"	# Dutch & Oostfranken
 
 # Appalachia
+N10 = "countries/aeneica.txt"		# Carthagennan
 WTG = "countries/watauga.txt"		# Generic
 
+# Brazil
+N07 = "countries/charetes.txt"		# Africanu
+PPG = "countries/papegania.txt"		# Gothic
+SCX = "countries/sanctacrux.txt"	# Generic
+
+# California
+GTA = "countries/sentandray.txt"	# Gothic
+
 # Canada
-LNR = "countries/albionoria.txt"	# Brythonic
+LNR = "countries/albionoria.txt"	# Brithenig
+VIN = "countries/vinland.txt"		# Scandinavian. Also covers Terranova.
 
 # Caribbean
 CUB = "countries/cuba.txt"		# Generic
+LTW = "countries/lethowsow.txt"		# Brithenig & Celtic
+ROY = "countries/royllo.txt"		# Gothic
 
 # Equinoctialia
 N00 = "countries/equinoctia.txt"
 
 # Florida
+AGN = "countries/agustinha.txt"		# Gothic
 FLR = "countries/florida.txt"		# Generic
 
+# Mexico
+GUS = "countries/guastica.txt"		# Gothic
+N03 = "countries/messig.txt"		# Brithenig
+
 # Mississippi
-GWD = "countries/gwyddno.txt"		# Brythonic
+ARH = "countries/arheimaria.txt"	# Gothic
+GWD = "countries/gwyddno.txt"		# Brithenig
 MIS = "countries/missouri.txt"		# Generic
 MSS = "countries/mississippi.txt"	# Generic
 
 # Ohio
 UOM = "countries/michigan.txt"		# Generic
 
+# Peru
+ICY = "countries/icymha.txt"		# Gothic
+
 # Plattina
 N01 = "countries/argentina.txt"		# Generic
+N04 = "countries/terarient.txt"		# Brithenig
+N05 = "countries/batavia.txt"		# Dutch
+QRT = "countries/goranica.txt"		# Gothic
+
+# Tejas
+N11 = "countries/tejas.txt"		# Generic

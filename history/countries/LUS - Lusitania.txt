@@ -3,5 +3,6 @@ primary_culture = lusitanian
 religion = catholic
 technology_group = western
 capital = 227 # Lisboa
+government_rank = 1
 
 #national_focus = DIP

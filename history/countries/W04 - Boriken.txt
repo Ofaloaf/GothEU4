@@ -1,0 +1,15 @@
+government = tribal_federation
+government_rank = 1
+primary_culture = arawak
+religion = animism
+technology_group = south_american
+capital = 492
+
+1402.1.1 = {
+	monarch = {
+		name = "Agüeybaná"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}

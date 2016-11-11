@@ -1,0 +1,66 @@
+# Europe & Old World
+233 = "Kernow"
+236 = "Llundain"
+239 = "Caerloyw"
+240 = "Powys"
+368 = "Elys"
+1860 = "Ffens"
+1861 = "Derwent"
+4130 = "Dyfnaint"
+
+# Canada
+994 = "Astolat"
+2584 = "Listenysia"
+
+# Carribean
+482 = "Scilloniae"
+487 = "Felynys"
+488 = "Cereticiana"
+492 = "Ynys Dywyll"
+497 = "Dominica"
+
+# Alleghania
+481 = "Sarras"
+953 = "Ter Mair"
+956 = "Tamarik"
+960 = "Caergai"
+962 = "Glestingas"
+963 = "Caer Bran"
+964 = "Celliwig"
+965 = "Gastreleon"
+966 = "Lodonesia"
+2555 = "Armterid"
+2558 = "Llanteulyddog"
+2559 = "An Dinas"
+2561 = "Tintagol"
+2563 = "Camlann"
+
+# Appalachia
+936 = "Caerbannog"
+937 = "Dore"
+938 = "Brenn"
+950 = "Parmen"
+952 = "Carnoel"
+2542 = "Fowi"
+
+# Equinoctialia
+491 = "Mona"
+
+# Floridia
+926 = "Brokliande"
+927 = "Saeth Awstin"
+2536 = "Pogannwn"
+
+# Ohio
+917 = "Baddon"
+945 = "Elmet"
+951 = "Killaraus"
+2552 = "Conlater"
+
+# Mississippi
+893 = "Caer Wyddno"
+
+# Plattina - 'Ter Gogyrfan'
+782 = "Cedairnynys"
+2860 = "Benegrind"
+2868 = "Carmelyiard"

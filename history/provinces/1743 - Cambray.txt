@@ -3,7 +3,7 @@
 owner = TOX
 controller = TOX
 add_core = TOX
-capital = "Camaracum"
+capital = "Camaraco"
 is_city = yes
 estate = estate_church
 culture = gothburgundian

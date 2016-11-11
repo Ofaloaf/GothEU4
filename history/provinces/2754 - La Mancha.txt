@@ -10,7 +10,7 @@ base_tax = 3
 base_production = 3
 trade_goods = gold #Almadén
 base_manpower = 3
-capital = "Ciudad Real" 
+capital = "Turiaso" 
 is_city = yes
 
 

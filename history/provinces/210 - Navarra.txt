@@ -1,8 +1,8 @@
 #210 - Navarra
 
-owner = MOR
-controller = MOR
-add_core = MOR
+owner = H00
+controller = H00
+add_core = H00
 culture = vasconian
 religion = catholic
 hre = yes
@@ -11,7 +11,7 @@ base_production = 2
 trade_goods = iron
 base_manpower = 2 
 #fort_15th = yes #Fortifications of Pamplona and Saint-Jean-Pied-de-Port
-capital = "Pamplona" 
+capital = "Pomplaeo" 
 is_city = yes
 
 
@@ -20,5 +20,3 @@ discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-
-add_local_autonomy = 50

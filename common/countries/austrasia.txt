@@ -1,0 +1,101 @@
+# Austrasia # 'Oostfranken' revolter
+
+graphical_culture = westerngfx
+
+color = { 188 0 7 }
+
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	religious_ideas
+	maritime_ideas	
+	administrative_ideas
+	offensive_ideas
+	economic_ideas
+	expansion_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	french_caracolle
+	anglofrench_line
+	french_dragoon
+	prussian_frederickian
+	prussian_uhlan
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Karel #0" = 40
+	"Willem #0" = 30
+	"Dagobert #0" = 30
+	"Maurits #0" = 30
+	"Sigebert #0" = 25
+	"Lotharius #0" = 20
+	"Karloman #0" = 10
+
+	"Maria #0" = -5
+
+	"Abram #0" = 0
+	"Adam #0" = 0
+	"Alewinus #0" = 0
+	"Andries #0" = 0
+	"Anton #0" = 0
+	"Bavo #0" = 0
+	"Bodekine #0" = 0
+	"Boio #0" = 0
+	"Claes #0" = 0
+	"Clodio #0" = 0
+	"Frans #0" = 0
+	"Frederik #0" = 0
+	"Gozhelm #0" = 0
+	"Gozewijn #0" = 0
+	"Hesso #0" = 0
+	"Hylonus #0" = 0
+	"Johannes #0" = 0
+	"Mummolus #0" = 0
+	"Pieter #0" = 0
+	"Poppo #0" = 0
+	"Riquardus #0" = 0
+	"Sunno #0" = 0
+	"Theudebert #0" = 0
+	"Thomas #0" = 0
+	"Valken #0" = 0
+	"Zacarias #0" = 0
+}
+
+leader_names = {
+	Armining Avremaring Angrivaring Ansibaring
+	Beroning "van Bergh"
+	Caroling Chasvaring "van Cleef"
+	Deriking
+	Fabricius Froberting
+	"De Graeff" "van Glymes"
+	"van Mimigernaford"
+	Gundomaring
+	Meroveching Merobaudianus
+	Otoning
+	Radulfing Riccharing Richfriding
+	Smeldiging
+	Teutonarus Theodericing
+	Wilberting "van Wisch"
+}
+
+ship_names = {
+	Arminius Amisia Ascalingium Albis
+	Blancefore
+	Fabaria
+	Herculis
+	Ingaevonia Idistavisus
+	Leuphana
+	Mariones
+	Sacra
+	Teuderium Tuliphurdum Tulisurgium
+	Visurgis
+}

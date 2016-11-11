@@ -94,3 +94,11 @@ ship_names = {
 	Tèver Tribun Trilussa Tusculum "Tres Tabernae"
 	Viminal Viteli Velitrae Veii
 }
+
+army_names = {
+	"Armada de $PROVINCE$"
+}
+
+fleet_names = {
+	"Fluta de $PROVINCE$" "Classis $PROVINCE$"
+}

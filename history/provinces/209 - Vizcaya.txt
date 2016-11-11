@@ -1,8 +1,8 @@
 #209 - Vizcaya
 
-owner = MOR
-controller = MOR
-add_core = MOR
+owner = H00
+controller = H00
+add_core = H00
 culture = vasconian
 religion = catholic
 hre = yes

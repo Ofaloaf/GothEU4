@@ -123,3 +123,12 @@ ship_names = {
 	"Vallum Antonini" "Vallum Aelium" Vindolanda Vindobala Vindomora
 	"Ystrad Clud" Ysglyfaethwr Ymosodwr
 }
+
+army_names = {
+	"Yysserchid di $PROVINCE$"
+}
+
+fleet_names = {
+	"Mern Real"
+	"Eiscair di $PROVINCE$" # for all the sperginess of Ill Bethisad, I can't find a Brithenig word for "navy", "fleet" or "squadron". Rowans made up something instead!
+}

@@ -1,0 +1,93 @@
+gothic_civil_war = {
+	potential = {
+		is_year = 1500
+		NOT = { is_year = 1700 }
+		tag = GTH
+		NOT = { has_country_flag = gth_civil_war_happened }
+		government = monarchy
+		has_parliament = no
+		has_country_flag = goons_make_bad_decisions
+		is_subject = no
+		is_lesser_in_union = no
+		france_region = {
+			owned_by = ROOT
+		}
+	}
+
+	
+	
+	can_start = {
+		has_any_disaster = no
+		OR = {
+			NOT = { stability = 2 }
+			AND = {
+				NOT = { stability = 1 }
+				OR = {
+					government = feudal_monarchy
+					government = despotic_monarchy
+					government = administrative_monarchy
+				}
+			}
+		}
+	}
+	
+	
+	can_stop = {
+		stability = 3
+		OR = {
+			has_any_disaster = yes
+			government = province_gothic_monarchy
+			government = council_gothic_monarchy
+		}
+	}
+	
+	
+	
+	progress = {
+		modifier = {
+			factor = 1
+			NOT = { legitimacy = 50 }
+		} 
+		modifier = {
+			factor = 1
+			NOT = { stability = 0 }
+		}
+		modifier = {
+			factor = 1
+			war_exhaustion = 5
+		} 
+		modifier = {
+			factor = 1
+			NOT = { religious_unity = 0.99 }
+		}
+	}
+	
+	modifier = {
+		global_unrest = 9
+	}	
+	
+	can_end = {
+		NOT = { num_of_rebel_armies = 1 }
+		NOT = { num_of_rebel_controlled_provinces = 1 }
+		NOT = { average_unrest = 1 }
+		stability = 1
+	}
+
+	
+	on_start = gothic_civil_war.1
+	on_end = gothic_civil_war.100
+	
+	on_monthly = {
+		events = {
+			
+		}
+		
+		random_events = {
+			1000 = 0
+			100 = gothic_civil_war.2 # Self-denying Ordinance and New Model Army
+			100 = gothic_civil_war.3 # New Model Army
+			100 = gothic_civil_war.4 # Old Gothic Rebellion
+			100 = gothic_civil_war.10 # Pride's Purge
+		}
+	}
+}

@@ -41,14 +41,28 @@
 763 = "Portus Januarius"
 2890 = "Interamnia"
 
+# Caribbean
+487 = "Sancta Gloria"
+497 = "Dominica"
+498 = "Martinica"
+499 = "Sancta Lucia"
+500 = "Sanctus Vincentius"
+
 # Equinoctialia
 830 = "Cyneticum"
 2806 = "Histriola"
 2813 = "Novataga"
 
-# Floridia
+# Florida
 927 = "Sanctus Augustinus"
 
 # Louisiana
-893 = "Cartagiola"
+893 = "Cartagula"
 2014 = "Concordia"
+
+# Mexico
+2647 = "Veracrux"
+
+# Ohio
+946 = "Novum Toletum"
+2520 = "Aegyptula"

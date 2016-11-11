@@ -1,0 +1,12 @@
+advisor = {
+	advisor_id = 476001
+	name = "Guilheumina de Liyunés"
+	location = 203
+	discount = yes
+	
+	skill = 2
+	type = statesman
+	female = yes
+	date = 1399.1.1
+	death_date = 1450.1.1      
+}

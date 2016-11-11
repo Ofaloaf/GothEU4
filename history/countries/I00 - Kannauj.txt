@@ -1,0 +1,18 @@
+government = feudal_monarchy
+government_rank = 2
+technology_group = indian
+religion = hinduism
+primary_culture = kanauji
+capital = 2063
+fixed_capital = 2063
+
+1395.5.17 = {
+	monarch = {
+		name = "Jagaraya"
+		dynasty = "Rashtrakuta"
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+	capital = 2097
+}

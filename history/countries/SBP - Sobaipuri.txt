@@ -4,7 +4,7 @@ religion = totemism
 technology_group = north_american
 capital = 876 # Yavapai
 
-1444.11.11 = {
+1400.11.11 = {
 	monarch = {
 		name = "Juwerta Mahkai"
 		adm = 3

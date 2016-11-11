@@ -1,6 +1,7 @@
 # REGION	COUNTRY
 # Alleghania	USA
 # Appalachia	Watauga
+# Brazil	Sanctacrux
 # Area- Cuba	Cuba
 # Caribbean/HispHaiti
 # Equinoctialia Equinoctia
@@ -10,15 +11,16 @@
 # Mississippi	Missouri
 # Ohio		Michigan
 # Plattina	Argentina
+# Tejas		Tejas
 
 # IN SEPARATE FILES AND STILL ACTIVE:
+# Brazil
 # Canada
 # Chile
 # Paraguay
 # Peru
 
 # DEACTIVATED:
-# Brazil
 # Colombia
 # La Plata
 # Louisiana
@@ -32,9 +34,17 @@ country_decisions = {
 		major = yes
 		potential = {
 			NOT = { has_country_flag = changed_from_colonial_nation }
-			OR = {
-				is_former_colonial_nation = yes
-				is_colonial_nation = yes
+			NOT = {
+				OR = {
+					technology_group = north_american
+					technology_group = mesoamerican
+					technology_group = south_american
+					technology_group = andean
+					technology_group = high_american
+				}
+			}
+			capital_scope = {
+				continent = north_america
 			}
 			OR = {
 				colonial_alleghania = {
@@ -72,7 +82,7 @@ country_decisions = {
 		}
 		allow = {
 			adm_tech = 10
-			is_former_colonial_nation = yes
+			#is_former_colonial_nation = yes
 			is_subject = no
 			is_at_war = no
 			OR = {
@@ -151,9 +161,23 @@ country_decisions = {
 					NOT = { exists = LBT }
 				}
 			}
-			OR = {
-				is_former_colonial_nation = yes
-				is_colonial_nation = yes
+			NOT = {
+				AND = {
+					culture_group = carthagennan_group
+					NOT = { exists = N10 }
+				}
+			}
+			NOT = {
+				OR = {
+					technology_group = north_american
+					technology_group = mesoamerican
+					technology_group = south_american
+					technology_group = andean
+					technology_group = high_american
+				}
+			}
+			capital_scope = {
+				continent = north_america
 			}
 			colonial_appalachia = {
 				owned_by = ROOT
@@ -168,7 +192,7 @@ country_decisions = {
 		}
 		allow = {
 			adm_tech = 10
-			is_former_colonial_nation = yes
+			#is_former_colonial_nation = yes
 			is_subject = no
 			is_at_war = no
 			capital_scope = {
@@ -214,15 +238,104 @@ country_decisions = {
 		}
 	}
 
+	# Generic-ish Brazil Sanctacrux
+	sanctacrux_nation = {
+		major = yes
+		potential = {
+			NOT = { has_country_flag = changed_from_colonial_nation }
+			is_nomad = no
+			is_random_new_world = no
+			OR = {
+				is_former_colonial_nation = yes
+				is_colonial_nation = yes
+			}
+			colonial_brazil = {
+				owned_by = ROOT
+			}
+			OR = {
+				ai = no
+				AND = {
+					ai = yes
+					num_of_cities = 3	
+				}
+			}
+			religion_group = christian
+		}
+		allow = {
+			adm_tech = 10
+			is_former_colonial_nation = yes
+			is_subject = no
+			is_at_war = no
+			capital_scope = {
+				colonial_region = colonial_brazil
+				is_core = ROOT
+			}
+			NOT = { exists = SCX }
+		}
+		effect = {
+			change_tag = SCX
+			if = {
+				limit = {
+					is_part_of_hre = yes
+					is_elector = no
+					is_emperor = no
+				}
+				every_owned_province = {
+					limit = {
+						is_part_of_hre = yes
+					}
+					set_in_empire = no
+				}
+			}
+			if = {
+				limit = {
+					NOT = { government_rank = 2 }
+				}
+				set_government_rank = 2
+			}
+			colonial_brazil = {
+				limit = {
+					NOT = { owned_by = ROOT }
+				}
+				add_permanent_claim = SCX
+			}
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+			if = {
+				limit = { has_custom_ideas = no }
+				country_event = { id = ideagroups.1 } #Swap Ideas
+			}
+			set_country_flag = changed_from_colonial_nation
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
 
 	# GENERIC - CUBA
 	cuba_nation = {
 		major = yes
 		potential = {
 			NOT = { has_country_flag = changed_from_colonial_nation }
-			OR = {
-				is_former_colonial_nation = yes
-				is_colonial_nation = yes
+			NOT = {
+				OR = {
+					technology_group = north_american
+					technology_group = mesoamerican
+					technology_group = south_american
+					technology_group = andean
+					technology_group = high_american
+				}
+			}
+			capital_scope = {
+				OR = {
+					continent = north_america
+					continent = south_america
+					continent = oceania
+				}
 			}
 			colonial_the_carribean = {
 				owned_by = ROOT
@@ -289,9 +402,27 @@ country_decisions = {
 		major = yes
 		potential = {
 			NOT = { has_country_flag = changed_from_colonial_nation }
-			OR = {
-				is_former_colonial_nation = yes
-				is_colonial_nation = yes
+			NOT = {
+				OR = {
+					technology_group = north_american
+					technology_group = mesoamerican
+					technology_group = south_american
+					technology_group = andean
+					technology_group = high_american
+				}
+			}
+			NOT = {
+				OR = {
+					culture_group = gothic_group
+					culture_group = brythonic
+				}
+			}
+			capital_scope = {
+				OR = {
+					continent = north_america
+					continent = south_america
+					continent = oceania
+				}
 			}
 			colonial_the_carribean = {
 				owned_by = ROOT
@@ -306,7 +437,7 @@ country_decisions = {
 		}
 		allow = {
 			adm_tech = 10
-			is_former_colonial_nation = yes
+			#is_former_colonial_nation = yes
 			is_subject = no
 			is_at_war = no
 			capital_scope = {
@@ -358,9 +489,21 @@ country_decisions = {
 		major = yes
 		potential = {
 			NOT = { has_country_flag = changed_from_colonial_nation }
-			OR = {
-				is_former_colonial_nation = yes
-				is_colonial_nation = yes
+			NOT = {
+				OR = {
+					technology_group = north_american
+					technology_group = mesoamerican
+					technology_group = south_american
+					technology_group = andean
+					technology_group = high_american
+				}
+			}
+			capital_scope = {
+				OR = {
+					continent = north_america
+					continent = south_america
+					continent = oceania
+				}
 			}
 			colonial_equinoxialia = {
 				owned_by = ROOT
@@ -375,7 +518,7 @@ country_decisions = {
 		}
 		allow = {
 			adm_tech = 10
-			is_former_colonial_nation = yes
+			#is_former_colonial_nation = yes
 			is_subject = no
 			is_at_war = no
 			capital_scope = {
@@ -426,9 +569,21 @@ country_decisions = {
 		major = yes
 		potential = {
 			NOT = { has_country_flag = changed_from_colonial_nation }
-			OR = {
-				is_former_colonial_nation = yes
-				is_colonial_nation = yes
+			NOT = {
+				OR = {
+					technology_group = north_american
+					technology_group = mesoamerican
+					technology_group = south_american
+					technology_group = andean
+					technology_group = high_american
+				}
+			}
+			capital_scope = {
+				OR = {
+					continent = north_america
+					continent = south_america
+					continent = oceania
+				}
 			}
 			colonial_florida = {
 				owned_by = ROOT
@@ -450,7 +605,7 @@ country_decisions = {
 		}
 		allow = {
 			adm_tech = 10
-			is_former_colonial_nation = yes
+			#is_former_colonial_nation = yes
 			is_subject = no
 			is_at_war = no
 			capital_scope = {
@@ -503,9 +658,27 @@ country_decisions = {
 		major = yes
 		potential = {
 			NOT = { has_country_flag = changed_from_colonial_nation }
-			OR = {
-				is_former_colonial_nation = yes
-				is_colonial_nation = yes
+			NOT = {
+				OR = {
+					technology_group = north_american
+					technology_group = mesoamerican
+					technology_group = south_american
+					technology_group = andean
+					technology_group = high_american
+				}
+			}
+			NOT = {
+				OR = {
+					culture_group = gothic_group
+					culture_group = brythonic
+				}
+			}
+			capital_scope = {
+				OR = {
+					continent = north_america
+					continent = south_america
+					continent = oceania
+				}
 			}
 			colonial_mexico = {
 				owned_by = ROOT
@@ -520,7 +693,7 @@ country_decisions = {
 		}
 		allow = {
 			adm_tech = 10
-			is_former_colonial_nation = yes
+			#is_former_colonial_nation = yes
 			is_subject = no
 			is_at_war = no
 			capital_scope = {
@@ -571,9 +744,21 @@ country_decisions = {
 		major = yes
 		potential = {
 			NOT = { has_country_flag = changed_from_colonial_nation }
-			OR = {
-				is_former_colonial_nation = yes
-				is_colonial_nation = yes
+			NOT = {
+				OR = {
+					technology_group = north_american
+					technology_group = mesoamerican
+					technology_group = south_american
+					technology_group = andean
+					technology_group = high_american
+				}
+			}
+			capital_scope = {
+				OR = {
+					continent = north_america
+					continent = south_america
+					continent = oceania
+				}
 			}
 			NOT = {
 				AND = {
@@ -594,7 +779,7 @@ country_decisions = {
 		}
 		allow = {
 			adm_tech = 10
-			is_former_colonial_nation = yes
+			#is_former_colonial_nation = yes
 			is_subject = no
 			is_at_war = no
 			capital_scope = {
@@ -646,9 +831,21 @@ country_decisions = {
 		major = yes
 		potential = {
 			NOT = { has_country_flag = changed_from_colonial_nation }
-			OR = {
-				is_former_colonial_nation = yes
-				is_colonial_nation = yes
+			NOT = {
+				OR = {
+					technology_group = north_american
+					technology_group = mesoamerican
+					technology_group = south_american
+					technology_group = andean
+					technology_group = high_american
+				}
+			}
+			capital_scope = {
+				OR = {
+					continent = north_america
+					continent = south_america
+					continent = oceania
+				}
 			}
 			colonial_mississippi = {
 				owned_by = ROOT
@@ -671,7 +868,7 @@ country_decisions = {
 		}
 		allow = {
 			adm_tech = 10
-			is_former_colonial_nation = yes
+			#is_former_colonial_nation = yes
 			is_subject = no
 			is_at_war = no
 			capital_scope = {
@@ -726,9 +923,21 @@ country_decisions = {
 		major = yes
 		potential = {
 			NOT = { has_country_flag = changed_from_colonial_nation }
-			OR = {
-				is_former_colonial_nation = yes
-				is_colonial_nation = yes
+			NOT = {
+				OR = {
+					technology_group = north_american
+					technology_group = mesoamerican
+					technology_group = south_american
+					technology_group = andean
+					technology_group = high_american
+				}
+			}
+			capital_scope = {
+				OR = {
+					continent = north_america
+					continent = south_america
+					continent = oceania
+				}
 			}
 			colonial_ohio = {
 				owned_by = ROOT
@@ -794,9 +1003,27 @@ country_decisions = {
 			NOT = { has_country_flag = changed_from_colonial_nation }
 			is_nomad = no
 			is_random_new_world = no			
-			OR = {
-				is_former_colonial_nation = yes
-				is_colonial_nation = yes
+			NOT = {
+				OR = {
+					technology_group = north_american
+					technology_group = mesoamerican
+					technology_group = south_american
+					technology_group = andean
+					technology_group = high_american
+				}
+			}
+			NOT = {
+				OR = {
+					culture_group = brythonic
+					culture_group = gothic_group
+				}
+			}
+			capital_scope = {
+				OR = {
+					continent = north_america
+					continent = south_america
+					continent = oceania
+				}
 			}
 			colonial_plattina = {
 				owned_by = ROOT
@@ -811,7 +1038,7 @@ country_decisions = {
 		}
 		allow = {
 			adm_tech = 10
-			is_former_colonial_nation = yes
+			#is_former_colonial_nation = yes
 			is_subject = no
 			is_at_war = no
 			capital_scope = {
@@ -846,6 +1073,82 @@ country_decisions = {
 					NOT = { owned_by = ROOT }
 				}
 				add_permanent_claim = N01
+			}
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+			set_country_flag = changed_from_colonial_nation
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	# Generic Tejas
+	tejas_nation = {
+		major = yes
+		potential = {
+			NOT = { has_country_flag = changed_from_colonial_nation }
+			NOT = {
+				OR = {
+					technology_group = north_american
+					technology_group = mesoamerican
+					technology_group = south_american
+					technology_group = andean
+					technology_group = high_american
+				}
+			}
+			capital_scope = {
+				continent = north_america
+			}
+			colonial_tejas = {
+				owned_by = ROOT
+			}
+			OR = {
+				ai = no
+				AND = {
+					ai = yes
+					num_of_cities = 3	
+				}
+			}
+		}
+		allow = {
+			adm_tech = 10
+			#is_former_colonial_nation = yes
+			is_subject = no
+			is_at_war = no
+			capital_scope = {
+				colonial_region = colonial_tejas
+				is_core = ROOT
+			}
+			NOT = { exists = N11 }
+		}
+		effect = {
+			change_tag = N11
+			if = {
+				limit = {
+					is_part_of_hre = yes
+					is_elector = no
+				}
+				every_owned_province = {
+					limit = {
+						is_part_of_hre = yes
+					}
+					set_in_empire = no
+				}
+			}
+			if = {
+				limit = { NOT = { government_rank = 2 } }
+				set_government_rank = 2
+			}
+			swap_free_idea_group = yes
+			colonial_tejas = {
+				limit = {
+					NOT = { owned_by = ROOT }
+				}
+				add_claim = ROOT
 			}
 			add_country_modifier = {
 				name = "centralization_modifier"

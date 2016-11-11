@@ -1,0 +1,23 @@
+#882 - Mescalero
+
+owner = W02
+controller = W02
+add_core = HST
+add_core = W02
+is_city = yes
+trade_goods = grain
+culture = navajo 
+religion = totemism
+capital = "Mescalero" 
+hre = no 
+base_tax = 1
+
+base_production = 1 
+base_manpower = 1 
+native_size = 10 
+native_ferocity = 2 
+native_hostileness = 6 
+
+
+
+discovered_by = north_american

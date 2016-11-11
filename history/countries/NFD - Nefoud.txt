@@ -1,7 +1,7 @@
 government = feudal_monarchy
 government_rank = 1
 technology_group = muslim
-primary_culture = turkish
+primary_culture = farsliturk
 religion = jewish
 capital = 2335 # Tamara
 historical_friend = NBT

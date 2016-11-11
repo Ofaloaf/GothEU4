@@ -4,7 +4,7 @@ graphical_culture = westerngfx
 
 color={ 176 187 215 }
 
-revolutionary_colors = { 10  0  5 }
+revolutionary_colors = { 1 8 15 }
 
 preferred_religion = reformed
 
@@ -36,12 +36,33 @@ historical_units = {
 }
 
 monarch_names = {
-	"Teia #1" = 40
-	"Alarigh #0" = 30
-	"Tiuderigh #0" = 20
-	"Carl #0" = 10
+	"Eraric #3" = 40
+	"Teia #2" = 40
+	"Teodemiro #2" = 35
+	"Alarigh #1" = 30
+	"Gianrens #1" = 25
+	"Ësteo #1" = 20
+	"Manfrèid #3" = 20
+	"Ulfila #1" = 15
+	"Godifré #0" = 15
+	"Tiuderigh #0" = 5
+	"Vamba #1" = 5
 
-	"Amalaberga #0" = -5
+	"Amalaberga #0" = -10
+	"Caterina #1" = -10
+	"Andefleda #0" = -5
+	"Neta #1" = -5
+	"Ricciarda #0" = -5
+	"Stefania #0" = -5
+
+	"Amalia #0" = -1
+	"Diodata #0" = -1
+	"Elisabeta #0" = -1
+	"Ereleuva #0" = -1
+	"Giulia #0" = -1
+	"Jolanda #0" = -1
+	"Marozia #0" = -1
+	"Valdamerca #0" = -1
 
 	"Ainrigh #0" = 0
 	"Ajmon #0" = 0
@@ -50,17 +71,16 @@ monarch_names = {
 	"Ambreus #0" = 0
 	"Batista #0" = 0
 	"Buterigh #0" = 0
+	"Carl #0" = 0
 	"Costantin #0" = 0
 	"Dagamerus #0" = 0
 	"Daniele #0" = 0
-	"Ësteo #0" = 0
 	"Eurigh #0" = 0
 	"Felis #0" = 0
 	"Gajo #0" = 0
 	"Giacint #0" = 0
 	"Giaco #0" = 0
 	"Giouan #0" = 0
-	"Godifré #0" = 0
 	"Gregòri #0" = 0
 	"Guidin #0" = 0
 	"Gulielm #0" = 0
@@ -91,24 +111,26 @@ monarch_names = {
 	"Tomà #0" = 0
 	"Totila #0" = 0
 	"Turismau #0" = 0
-	"Ulfila #0" = 0
 	"Uraia #0" = 0
 	"Viliarigh #0" = 0
 	"Vitòrio #0" = 0
 }
 
 leader_names = {
-	"d'Asèj" "d'Acaja" Ancina "dl'Aquila"
-	Bonomel "ëd Bredulo" "ëd Bricheras" "Brambilla" Borgèis Biancaman
-	Cacheran Calcagn Crisòstom 
+	Angerianus "d'Asèj" "d'Acaja" Ancina "dl'Aquila" Arvernigh Araolla
+	Bonomel "ëd Bredulo" "ëd Bricheras" "Brambilla" Borgèis Biancaman Blanch Baffo "De Bosis"
+	Cacheran Calcagn Crisòstom Cigala "ëd Cabrera" Calvo "De Curtis"
+	Denziogh
+	Enna
 	"de Faesulae" "ëd Firense" "ëd Frosinon"
-	Gadaricus "ëd Giaven" Gualberto "de Gorrevôd" "dël Giss"
-	Liunat "ëd Lissandria" "ëd Lòd" "ëd Luca" "ëd Leinì"
-	"ëd Milan" "dël Mondvì"
+	Gadaricus "ëd Giaven" Gualberto "de Gorrevôd" "dël Giss" Grils Galligh
+	Insubrigh
+	Liunat "ëd Lissandria" "ëd Lòd" "ëd Luca" "ëd Leinì" Ligurigh
+	"ëd Milan" "dël Mondvì" "ëd Maensac" "ëd Maian"
 	"d'Òstia"
 	"ëd Pisa" "de Prez" "dël Pesi" "ëd Prangins"
 	Rava "dla Rol" "ëd Roma"
-	"de Setelsona" "ëd San Dalmass" "ëd San Ësteo" "ëd Salern"
+	"de Setelsona" "ëd San Dalmass" "ëd San Ësteo" "ëd Salern" Squanigh "De Signoribus"
 	Totoni "de Turrin"
 	"ëd Véres" "ëd Valèis" "dla Vermegnana" "ëd Viterb"
 	Waldelenus Walchunus
@@ -117,7 +139,7 @@ leader_names = {
 ship_names = {
 	August Annonaria Antonin "Augusta Taurinorum" "Ager Gallicus" "Alpes Cottiae" "Amicus Optimus"
 	Basilica Brutium "Bellator Sanctus"
-	Ciceron Costantin Calìgola Clàudi Censora Còmod Caracala Carinus "Costans Clòr" Calabria Campania Cisalpina Castitas
+	Ciceron Costantin Calìgola Clàudi Censora Còmod Caracala Carinus "Costans Clòr" Calabria Campania Cisalpina Castitas Cossezen
 	Dioclessian Domissian Decio "Datum Optimum" Diadumeniano
 	Egilona Eròd Eliogàbal Etruria Exarchus Eliogabalo
 	Florentia Flaminia Fides
@@ -137,9 +159,10 @@ ship_names = {
 }
 
 army_names = {
-	"Armada de $PROVINCE$" 
+	"Armada de $PROVINCE$" "Legió I" "Legió II" "Legió III" "Legió IV" "Legió V" "Legió VI" "Legió VII" "Legió VIII" "Legió IX" "Legió X"
+	"Legió XI" "Legió XII" "Legió XIII" "Legió XIV" "Legió XV" "Legió XVI" "Legió XVII" "Legió XVIII" "Legió XIX" "Legió XX"
 }
 
 fleet_names = {
-	"Fluta de $PROVINCE$"
+	"Fluta de $PROVINCE$" "Classis $PROVINCE$"
 }

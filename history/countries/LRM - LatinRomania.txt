@@ -11,8 +11,25 @@ capital = 2979 # Novara/Pavia
 		name = "Teodemiro II"
 		dynasty = "Benveniste"
 		birth_date = 1355.8.3
-		adm = 2
 		dip = 1
 		mil = 4
+		adm = 2
 	}
+	queen = {
+		country_of_origin = AMC
+		name = "Reverenza"
+		dynasty = "Oscense"
+		birth_date = 1353.3.14
+		death_date = 1450.1.1
+		is_female = yes
+		dip = 3
+		mil = 5
+		adm = 2
+	}
+
+	set_allow_female_emperor = yes
+
+	clear_scripted_personalities = yes
+	add_ruler_personality = lawgiver_personality
+	add_queen_personality = tactical_genius
 }

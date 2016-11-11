@@ -1,0 +1,124 @@
+graphical_culture = easterngfx
+
+color = { 161 139 40 }
+revolutionary_colors = { 0  4  15 }
+
+historical_idea_groups = {
+	economic_ideas
+	defensive_ideas
+	diplomatic_ideas
+	offensive_ideas
+	trade_ideas
+	innovativeness_ideas
+	religious_ideas
+	spy_ideas	
+}
+
+historical_units = {
+	bardiche_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	hungarian_hussar
+	germanized_pike
+	polish_musketeer
+	polish_hussar
+	polish_tercio
+	polish_winged_hussar
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+}
+
+monarch_names = {
+	"Arta #1" = 30
+	"Tamerlan #2" = 20
+	"Arsen #1" = 20
+	"Daler #1" = 20
+	"Gubaz #1" = 20
+	"Aslan #0" = 15
+	"Respendial #1" = 15
+	"Levan #0" = 15
+	"Demetrius #1" = 5
+
+	"Dzæræs #0" = 15
+	"Inal #0" = 15
+	"Respendial #0" = 15
+	"Anbazuk #0" = 10
+
+	"Ana #0" = -5
+	"Borena #0" = -5
+	"Lira #0" = -5
+	"Shorena #0" = -5
+
+	"Æmbalan #0" = 0
+	"Askhkadar #0" = 0
+	"Arsen #0" = 0
+	"Abisal #0" = 0
+	"Atsamaz #1" = 0
+	"Batraz #0" = 0
+	"Besik #0" = 0
+	"Daler #0" = 0
+	"Davlat #0" = 0
+	"Djadaron #0" = 0
+	"Dzambek #0" = 0
+	"Dzhambolat #0" = 0
+	"Gaito #0" = 0
+	"Giazis #0" = 0
+	"Guram #0" = 0
+	"Gurminig #0" = 0
+	"Ibragim #0" = 0
+	"Issa #0" = 0
+	"Khetagur #0" = 0
+	"Kol #0" = 0
+	"Kostas #0" = 0
+	"Kukl #0" = 0
+	"Kurya #0" = 0
+	"Lyudvig #0" = 0
+	"Merab #0" = 0
+	"Nugzar #0" = 0
+	"Ruslan #0" = 0
+	"Soslan #0" = 0
+	"Syrdon #0" = 0
+	"Taymuraz #1" = 0
+	"Tlepsh #0" = 0
+	"Tugan #1" = 0
+	"Vaso #1" = 0
+	"Zaurbek #0" = 0
+}
+
+leader_names = {
+	Ashtigor Aini Abaity Altsiok Altsikurs Azaliy
+	Babakhel Beeruny Bajinaq Bizenakiy Batas Baïtzas
+	Choponiy Cotiniy Costoboqiy
+	Dihqon
+	Gergity Gassity
+	Hvatanay Hetagkaty
+	Ipaos
+	Juzjany
+	Kocojty Khujandy Kalakany Khulumbaity Kangar Kaïdoum Kourkoutai Kouel Kuchug
+	Leri
+	Merabiy Moglena Metiga
+	Ovadia Oseriatiy
+	Pedram Polovikiy
+	Quanqliy
+	Rudagy Rafniy
+	Sacqaw Sozanatæ
+	Tokatkty Taymazty Tzouriy Talmatiy Tzoponiy
+}
+
+ship_names = {
+	Aucha
+	"Beridus Rex"
+	Coridorgis
+	Felicia
+	Hercynia
+	Meliodunum
+	Nomisterium
+	Oreynius
+	Plurgisatis
+	"Quadia Veta"
+	Rhedintuinum Reganus
+	Setuacatum
+	Tava
+}

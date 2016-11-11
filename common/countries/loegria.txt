@@ -37,10 +37,12 @@ monarch_names = {
 	"Dewidd #0" = 70	# David
 	"Ysteffan #0" = 60	# Stephen
 	"Iewan #0" = 50		# John
-	"Artbeau #5" = 45
-	"Costenhin #0" = 40	# Constantine
-	"Aleisandr #0" = 35	# Alexander
-	"Emreis #0" = 25	# Ambrosius
+	"Artbeau #6" = 45
+	"Girallt #1" = 35
+	"Dunat #1" = 20
+	"Costenhin #0" = 20	# Constantine
+	"Aleisandr #0" = 20	# Alexander
+	"Emreis #0" = 5		# Ambrosius
 
 	"Buddega #0" = -3	# Bouddica / Victoria
 	"Mair #0" = -10		# Maria / Mary
@@ -60,7 +62,6 @@ monarch_names = {
 	"Cynedd #0" = 0
 	"Donal #0" = 0
 	"Dubric #0" = 0
-	"Dunat #0" = 0
 	"Erbin #0" = 0
 	"Erchyl #0" = 0
 	"Gereint #0" = 0
@@ -128,7 +129,16 @@ ship_names = {
 	Pelagius Pabo Penuchel
 	"Quintus Veranius"
 	Rhegin
-	Siluria "Sanctus Albanus" "Sanctus Gregorius" "Sanctus Palladius" "Sanctus Augustinus"
-	Theonus "Titus Sabinus" Togodumnus Tamesis
+	Siluria "Saeth Alban" "Saeth Gregorius" "Saeth Palladius" "Saeth Augustinus" "Saeth Theonus"
+	"Titus Sabinus" Togodumnus Tamesis
 	Victoria Vectis "Valeria Victrix" Verica
+}
+
+army_names = {
+	"Yysserchid di $PROVINCE$"
+}
+
+fleet_names = {
+	"Mern Real"
+	"Eiscair di $PROVINCE$" # for all the sperginess of Ill Bethisad, I can't find a Brithenig word for "navy", "fleet" or "squadron". Rowans made up something instead!
 }

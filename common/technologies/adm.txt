@@ -57,7 +57,7 @@ technology = {
 
 technology = {
 	# Tech 4
-	year = 1440
+	year = 1435
 	# Temple
 	temple = yes
 	
@@ -65,7 +65,7 @@ technology = {
 
 technology = {
 	# Tech 5
-	year = 1455
+	year = 1450
 
 	allowed_idea_groups = 1
 	production_efficiency	 =	0.05

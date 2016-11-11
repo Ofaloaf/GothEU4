@@ -6,3 +6,17 @@ primary_culture = lusitanian
 capital = 230
 
 elector = yes
+
+1402.1.27 = {
+	monarch = {
+		name = "Honoria"
+		dynasty = "Triarius"
+		birth_date = 1376.2.20
+		female = yes
+		ADM = 2
+		DIP = 2
+		MIL = 3
+	}
+
+	set_allow_female_emperor = yes
+}

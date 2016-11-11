@@ -1,0 +1,94 @@
+# Boriken
+
+#Country Name: Please see filename.
+
+graphical_culture = southamericagfx
+
+color = { 209 157 192 }
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	offensive_ideas
+	maritime_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+	economic_ideas
+}
+
+historical_units = {
+	south_american_spearmen
+	south_american_warfare
+	inca_mountain_warfare
+	incan_slingshots
+	incan_axemen
+	south_american_gunpowder_warfare
+	south_american_reformed_gunpowder_warfare
+	south_american_arquebusier
+	westernized_incan
+	reformed_westernized_incan
+	incan_guerilla_warfare
+}
+
+monarch_names = {
+	"Agüeybaná #1" = 30
+	"Guarionex #0" = 30
+	"Arasibo #0" = 25
+	"Bojékio #0" = 25
+	"Caguax #1" = 25
+	"Hayuya #0" = 25
+	"Biautex #0" = 20
+	"Majúbiatibirí #0" = 0
+	"Orocobix #0" = 20
+	"Urayoán #0" = 20
+	"Aramaná #0" = 15
+	"Hatuey #0" = 15
+	"Jumacao #0" = 15
+	"Ayamuynuex #0" = 10
+	"Guamá #0" = 10
+	"Guarocuya #0" = 10
+	"Jumacao #0" = 0
+
+	"Anacaonacacica #0" = -10
+	"Casiguaya #0" = -5
+	"Yuisa #0" = -10
+
+	"Abey #0" = 0
+	"Ayraguay #0" = 0
+	"Bahuanao #0" = 0
+	"Cacicaná #0" = 0
+	"Cacimar #0" = 0
+	"Dagüao #0" = 0
+	"Guaoconel #0" = 0
+	"Güamaní #0" = 0
+	"Maniabón #0" = 0
+	"Oliguama #0" = 0
+	"Ornofay #0" = 0
+}
+
+leader_names = {
+	Abacoa Aymamon Aruaca
+	Baitiquirí Bieque Bayamon
+	Cayabo Culebrinas Caguas Cueybá Coamo
+	Guayama Guahaba Guajataca Guanikeyu
+	Jatibonicu Jayuya Jaragueyal
+	Majibacoa
+	Quisqueya
+	Xaragua
+}
+
+ship_names = {
+	Areito Atabey
+	Bohique Bohio Barbacoa Batata Boinayel Brizuela
+	Cacique
+	"Deminán Caracaracol"
+	Guanín Guaynia
+	Hupia
+	Kiskeya
+	Macocael
+	Nahoria
+	Otoao
+	Toa
+	Yucayeque Yúcahu Yagüecas
+}

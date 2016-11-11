@@ -5,3 +5,22 @@ add_accepted_culture = circassian
 religion = catholic
 technology_group = eastern
 capital = 463 # Circassia
+
+1391.8.18 = {
+	monarch = {
+		name = "Khosrov III"
+		dynasty = "Beskond"
+		birth_date = 1347.10.21
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+	heir = {
+		name = "Vartan"
+		dynasty = "Beskond"
+		birth_date = 1378.8.5
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+}

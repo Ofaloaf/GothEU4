@@ -1,0 +1,130 @@
+country_decisions = {
+
+	upr_commonwealth = {
+		major = yes
+		potential = {
+			normal_or_historical_nations = yes
+			OR = {
+				ai = no
+				is_playing_custom_nation = no
+			}
+			NOT = { exists = F03 }
+			NOT = { tag = HLR }
+			tag = FRC
+			SRB = {
+				exists = yes
+				ai = yes
+				was_player = no
+			}
+			OR = {
+				ai = no
+				AND = {
+					senior_union_with = SRB
+					SRB = { #This overlaps with allow for AI, is meant to negate do_not_integrate
+						NOT = { num_of_cities = 41 } #Keep this number the same as in allow. Original 31 +10
+					}
+				}	
+			}
+		}
+		allow = {
+			SRB = { was_player = no }
+			SRB = {
+				NOT = { num_of_cities = 41 } #Keep this number the same as in potential. Original 31 +10
+			}
+			adm_tech = 10
+			is_subject = no
+			is_nomad = no
+			stability = 1
+			is_at_war = no
+			owns_core_province = 63		# Erfurt
+			owns_core_province = 44		# Hamburg
+			owns_core_province = 57
+			owns_core_province = 50		# Berlin
+			senior_union_with = SRB
+			NOT = { num_of_unions = 2 }
+		}
+		effect = {
+			change_tag = F03
+			inherit = SRB
+			if = {
+				limit = { NOT = { accepted_culture = sorbian } }
+				add_accepted_culture = sorbian
+			}
+			if = {
+				limit = {
+					is_part_of_hre = yes
+					is_elector = no
+					is_emperor = no
+				}
+				every_owned_province = {
+					limit = {
+						is_part_of_hre = yes
+					}
+					set_in_empire = no
+				}
+			}
+			if = {
+				limit = { NOT = { government_rank = 2 } }
+				set_government_rank = 2
+			}
+			if = {
+				limit = {
+					frisia_area = {
+						NOT = { owned_by = FRC }
+						NOT = { owned_by = SRB }
+						NOT = { owned_by = F03 }
+					}
+				}
+				frisia_area = {
+					add_permanent_claim = F03
+				}
+			}
+			if = {
+				limit = {
+					north_german_region = {
+						NOT = { owned_by = FRC }
+						NOT = { owned_by = SRB }
+						NOT = { owned_by = F03 }
+					}
+				}
+				north_german_region = {
+					add_permanent_claim = F03
+				}
+			}
+			if = {
+				limit = {
+					lithuania_area = {
+						NOT = { owned_by = POL }
+						NOT = { owned_by = LIT }
+						NOT = { owned_by = PLC }
+					}
+				}
+				lithuania_area = {
+					add_permanent_claim = PLC
+				}
+			}
+			if = {
+				limit = {
+					netherlands_area = {
+						NOT = { owned_by = FRC }
+						NOT = { owned_by = SRB }
+						NOT = { owned_by = F03 }
+					}
+				}
+				netherlands_area = {
+					add_permanent_claim = F03
+				}
+			}
+			random_owned_province = {
+				limit = { culture = dutch }
+				add_base_tax = 1
+			}
+			add_prestige = 25
+		}
+		ai_will_do = {
+			factor = 1
+		}
+		ai_importance = 400
+		do_not_integrate = SRB
+	}	
+}

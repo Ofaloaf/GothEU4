@@ -7,8 +7,8 @@ preferred_religion = protestant
 
 historical_idea_groups = {
 	defensive_ideas
-	exploration_ideas
 	economic_ideas
+	exploration_ideas
 	maritime_ideas
 	offensive_ideas
 	innovativeness_ideas
@@ -51,10 +51,40 @@ monarch_names = {
 	"Gisela #0" = -10
 	"Andrieva #0" = -10
 	"Puelle #0" = -10
+	"Victoria #0" = -10
 	"Galla #0" = -5
+
+	"Adalaïda #0" = -1
+	"Aliç #0" = -1
+	"Beatritz #0" = -1
+	"Bòna #0" = -1
+	"Caterina #0" = -1
+	"Cecilia #0" = -1
+	"Clemència #0" = -1
+	"Cunstància #0" = -1
+	"Dulça #0" = -1
+	"Filipa #0" = -1
+	"Froiloba #0" = -1
+	"Guigone #0" = -1
+	"Guilheumina #0" = -1
+	"Ioulanda #0" = -1
+	"Isabèu #0" = -1
+	"Joana #0" = -1
+	"Loïsa #0" = -1
+	"Madalena #0" = -1
+	"Monnia #0" = -1
+	"Margarida #0" = -1
+	"Maria #0" = -1
+	"Mascaròsa #0" = -1
+	"Onecca #0" = -1
+	"Peironèla #0" = -1
+	"Richènda #0" = -1
+	"Rosèla #0" = -1
+	"Sança #0" = -1
 
 	"Ainric #0" = 0
 	"Airastus #0" = 0
+	"Albertet #0" = 0
 	"Amadaius #0" = 0
 	"Andrai #0" = 0
 	"Antonei #0" = 0
@@ -70,6 +100,7 @@ monarch_names = {
 	"Dàvi #0" = 0
 	"Egidei #0" = 0
 	"Esaeias #0" = 0
+	"Ferriol #0" = 0
 	"Filip #0" = 0
 	"Frumagild #0" = 0
 	"Gaizard #0" = 0
@@ -97,6 +128,7 @@ monarch_names = {
 	"Mundus #1" = 0
 	"Nathanel #0" = 0
 	"Nicaulas #0" = 0
+	"Ozil #0" = 0
 	"Pèitre #0" = 0
 	"Pol #0" = 0
 	"Quintil #0" = 0
@@ -120,57 +152,62 @@ monarch_names = {
 }
 
 leader_names = {
-	Airus Aspa Audags Aiz Aurtia Ambaur "d'Avenas" "d'Ansa" "d'Ararajovis" "d'Azœlètes" Aindis
+	Airus Aspa Audags Aiz Aurtia Ambaur "d'Avenas" "d'Ansa" "d'Ararajovis" "d'Azœlètes" Aindis Ayrinhac "d'Aorlhac"
 	Balthes "de Berna" "de Boxum" Baira Bidagua Bolas Botsonnada Barravus Bruyas "de Bron" "de Bagnols" "de Bibost" "de Bulyi"
-	Bluss
-	Cadraut Cunce Candacius "de Carilocus" "de Cabillaun" Causidicus "de Cambes" Clavellus Cathena
+	Bluss Barril
+	Cadraut Cunce Candacius "de Carilocus" "de Cabillaun" Causidicus "de Cambes" Clavellus Cathena Crozat Cailla "de Cadartz"
+	Codax "de Caersi" "de Capduelh"
 	Drautine "de Decotia" "de Dibio" Dius Delyduun Daza "de Daniceus" "de Diurnus"
-	Fanci Falgario "de Fulhonibus" "de Floriac"
-	Gabics Guisardo "de Guimballo" "de Gaunus" "de Grandris" Gaido Granella
+	Ermengau
+	Fanci Falgario "de Fulhonibus" "de Floriac" Fonsalada Figueira
+	Gabics Guisardo "de Guimballo" "de Gaunus" "de Grandris" Gaido Granella Garriga Gryphius
 	Jalenca "de Jocus"
-	Leuge Lagomia "de Liun" "de Laniacus" "de Lentiniacum" "de Létra" "de Limans" "de Lozana"
+	Leuge Lagomia "de Liun" "de Laniacus" "de Lentiniacum" "de Létra" "de Limans" "de Lozana" "de Lauzuun" "de Lunel"
 	Mandubingis "de Massava" Maura Mateigs Massabuou Mercieyra Mera "de Matiscone" "de Milyeri" "de Madisus" "de Marennas"
-	Merla Menendi "de Monciocus" "de Massimiau"
+	Merla Menendi "de Monciocus" "de Massimiau" Malaspina
 	Natas "de Nivernum"
 	"d'Odenas"
 	Palhargues "de Potinesca" Pictavini Payrolerius Petri "de Pullenai" "de Pusiniau"
 	Rampa "de Riobe" Regandi Rossinhol Rostanh "de Roaxio" Rainal "de Ronno" "de Rantalona"
-	Sballes Seyrac Simeonis "de Saturnaz"
-	Triarius Tervinge Triggus "de Tilena" Terissa "del Troc"
-	Ultrobon
-	Veziac "de Vaurmacio" "de Vallibus"
+	Sballes Seyrac Simeonis "de Saturnaz" Saisset "de Sestaro" "de las Salas"
+	Triarius Tervinge Triggus "de Tilena" Terissa "del Troc" Trullols
+	Ultrobon "d'Usès" "d'Uisel"
+	Veziac "de Vaurmacio" "de Vallibus" "de Vaqueiras" "del Vilar"
 	"de Warcia"
 	"d'Ycon"
 }
 
 ship_names = {
 	Amal Arius Augis Alavivus Athanaricus Avaricum Argilo Alatheus "Asa Paulini" Augustodunum Andeolus Alienòr Arimirus Atharidus
-	Berig Bigelis Burdigala Bibracte Borvo "Lo Breu"
-	Calamitas Cristina "Claudius Augustus"
-	Diluvium Divitiacus Dulcilla
+	Angilac Auedonnaco Aquarius Andromeda Auriga Arcturus
+	Berig Bigelis Burdigala Bibracte Borvo "Lo Breu" Boötes
+	Calamitas Cristina "Claudius Augustus" Calviniaco Castrumairaldi Camelopardus Cassiopeia Cepheus
+	Diluvium Divitiacus Dulcilla Duasdives Dalfi
 	Ermanaricus
-	Farnobius Fravittas
-	Gothismus Gregorius "Gallia Gothica" Gallicus "Godesteus Saevus" Gautiermanhe Goddas Gaatha Gutthikas
-	Hisarnis Hunuil
+	Farnobius Fravittas Faidit
+	Gothismus Gregorius "Gallia Gothica" Gallicus "Godesteus Saevus" Gautiermanhe Goddas Gaatha Gutthikas Guidonis Gavaudan
+	Hisarnis Hunuil Hydra
 	Inna "Insula Barbara"
 	Janus
-	Lugdunensis Liger Lagnus Ludna Lunna
-	Mummadomna Mansuara Mediolanum Matisco
+	Lugdunensis Liger Lagnus Ludna Lunna Losdunum Lanterlmus Lupus
+	Mummadomna Mansuara Mediolanum Matisco Mirabellum Marcoat Marcabru
+	Noctua
 	Ouim Odotheus Octavus
-	Procrinum "Pontius Rex" Pina
+	Procrinum "Pontius Rex" Pina Peitieus Parthiniacum Pistoleta
 	Quadrigellae
-	Radagaisus Rhodanus "Romulus Nigrinus" Rodelina Rosimunda Rodumna Rhima
-	Saphrax "Santa Romana" "Sant Gabriel" "Sant Marius" "Sant Haimaricus" "Sant Liupoldus" "Sant Saba" Sansalas
-	Theodericus Turonum Turdine Tegridia
-	Ulfilas 
-	Vitherigmanhe Vithimiris Visontio Valavrans Vithericopolis
+	Radagaisus Rhodanus "Romulus Nigrinus" Rodelina Rosimunda Rodumna Rhima Rugiano
+	Saphrax "Santa Romana" "Sent Gabriel" "Sent Marius" "Sent Haimaricus" "Sent Liupoldus" "Sent Saba" Sansalas Santonicensis
+	Sabiniacum "Santa Tarsicia" Sagittarius
+	Theodericus Turonum Turdine Tegridia Tauniaco Talleburgi
+	Ulfilas Uiliaricus
+	Vitherigmanhe Vithimiris Visontio Valavrans Vithericopolis Villanova
 	Wella Winguricus
 }
 
 army_names = {
-	"Armada de $PROVINCE$" 
+	"Armada Raïal" "Armada de $PROVINCE$" 
 }
 
 fleet_names = {
-	"Fluta de $PROVINCE$"
+	"Fluta de Gautya" "Fluta de $PROVINCE$"
 }

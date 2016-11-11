@@ -10,7 +10,7 @@ base_production = 12
 trade_goods = wine
 base_manpower = 6    
 fort_15th = yes
-capital = "Firenze" 
+capital = "Florensa" 
 is_city = yes 
  # Founded 1321
 add_core = LRM

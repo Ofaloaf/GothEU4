@@ -1,6 +1,6 @@
 zoroastrian_group = {
 	manichee = {
-		icon = 26
+		icon = 32
 		color = { 0.7 0.7 0.4 }
 		country = {
 			tolerance_heathen = 1

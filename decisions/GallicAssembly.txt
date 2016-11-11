@@ -1,0 +1,72 @@
+country_decisions = {
+
+	restore_gallic_assembly = {
+		# In late antiquity, Emperor Honorius promised Gaul its own representative assembly, 
+		# which was supposed to meet every two years. With the near-total collapse of the WRE in the
+		# 5th century, the annual meetings of the Assembly ceased. If we revived the ancient institution,
+		# our own ambitions in Gaul would gain a considerable amount of legitimacy.
+
+		potential = {
+			normal_or_historical_nations = yes
+			NOT = { has_global_flag = gallic_assembly_restored }
+			OR = {
+				ai = no
+				is_playing_custom_nation = no
+			}
+			NOT = { tag = HLR }	
+			NOT = { tag = PAP }
+			owns = 201			# Provence
+		}
+		allow = {
+			is_subject = no
+			is_nomad = no
+			is_at_war = no
+			owns_core_province = 201 	# Provence
+			has_parliament = yes
+			OR = {
+				is_elector = yes
+				is_emperor = yes
+				is_great_power = yes	# If a dinky no-name OPM tried to restore the assembly and claim Gaul, everyone would laugh.
+			}
+			not = { has_country_flag = no_imperial_gallic_blessing }
+		}
+		effect = {
+			if = {
+				limit = {
+					is_emperor = yes
+				}
+
+				france_region = {		# Relocalized as Gallia in-game
+					limit = {
+						NOT = { owned_by = ROOT }
+					}
+					add_permanent_claim = ROOT
+				}
+				add_prestige = 20
+				add_legitimacy = 10
+				201 = { rename_capital = Arelate }	# Arelate/Arles was the historical site of the 5th c. assembly
+				hidden_effect = {
+					set_global_flag = gallic_assembly_restored
+				}
+				if = {
+					limit = {
+						has_dlc = "Common Sense"
+						201 = { has_seat_in_parliament = no }
+					}
+					201 = { set_seat_in_parliament = yes }
+				}				
+			}
+			if = {
+				limit = {
+					is_emperor = no
+				}
+				emperor = {
+					country_event = { id = gothlp.1 }
+				}
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}

@@ -2,7 +2,7 @@
 
 owner = AEG
 controller = AEG
-culture = turkish
+culture = rummen
 religion = catholic
 capital = "Adalia"
 trade_goods = cotton

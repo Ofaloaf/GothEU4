@@ -2,7 +2,7 @@ government = feudal_monarchy
 government_rank = 1 #Emirate
 technology_group = muslim
 religion = jewish
-primary_culture = turkish
+primary_culture = farsliturk
 capital = 394	# Al Hasa
 
 

@@ -2,7 +2,7 @@
 
 owner = QOC
 controller = QOC
-culture = turkish
+culture = farsliturk
 religion = jewish
 capital = "Khorramabad"
 trade_goods = grain

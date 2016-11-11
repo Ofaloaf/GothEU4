@@ -1,0 +1,113 @@
+graphical_culture = westerngfx
+
+color = { 104 148 71 }
+
+historical_idea_groups = {
+	diplomatic_ideas
+	defensive_ideas
+	innovativeness_ideas
+	offensive_ideas
+	economic_ideas
+	trade_ideas
+	quality_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	prussian_uhlan
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Karel #0" = 50
+	"Lodewijk #0" = 40
+	"Johan #0" = 35
+	"Otto #0" = 30
+	"Adriaan #0" = 20
+	"Hendrik #0" = 20
+	"Alfred #0" = 10
+
+	"Adelais #0" = -5
+	"Anna #0" = -5
+	"Basina #0" = -5
+	"Bertrada #0" = -5
+	"Fredegonde #0" = -5
+	"Gisela #0" = -5
+	"Hildegard #0" = -5
+
+	"Anton #0" = 0
+	"Assuerus #0" = 0
+	"Balthasar #0" = 0
+	"Childerik #0" = 0
+	"Cornelis #0" = 0
+	"Eduard #0" = 0
+	"Efaart #0" = 0
+	"Eilardus #0" = 0
+	"Einhard #0" = 0
+	"Ernestus #0" = 0
+	"Festus #0" = 0
+	"Gerardus #0" = 0
+	"Gerold #0" = 0
+	"Gijsbert #0" = 0
+	"Hugo #0" = 0
+	"Jacobus #0" = 0
+	"Josias #0" = 0
+	"Kempo #0" = 0
+	"Nicholaas #0" = 0
+	"Pepijn #0" = 0
+	"Ritzius #0" = 0
+	"Rochus #0" = 0
+	"Samuel #0" = 0
+	"Sibrand #0" = 0
+	"Symon #0" = 0
+	"Themo #0" = 0
+	"Theuderik #0" = 0
+	"Walrave #0" = 0
+	"Zacharius #0" = 0
+}
+
+leader_names = {
+	"van Aylva"
+	Bartholdus Boelens
+	Clant Corvinus
+	Damman Dibbets Dwinglonius
+	Eilshemius
+	Gruterus Grevinckhoven Goulartius
+	Hommius "van Heemskerc" Heyngius Hofferus "van Helsdingen" Halbes Herteveld "van Holy" "van Honaert"
+	Krombout "van Kampe"
+	Lydius "de Laet" Langius Liebaert 
+	"van Mehen"
+	Naeranus "van Nieuveld" Niëlles
+	Oortcampius
+	Placius Pinakerus Poppius
+	Rolandus "de Ryck" Ruffelaert Romeling Rickwaerd
+	Sampa Smout
+	Thysius
+	Udemans
+	Voetius Verheyden Vosbergius Vogelius
+	Walaeus Wiferding Wezekius Wtenbogaert
+	Ysbrants
+	"van Zuylen"
+}
+
+ship_names = {
+	Agricola Alba Adovacrius Augustinus
+	Haduloha Hostingabi Holsatia
+	Murdisonius Mosde
+	Wagria
+	Sturmaria
+	Zegepralent Zegevierend Zwaardvechter
+}

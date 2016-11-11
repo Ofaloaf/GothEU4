@@ -13,7 +13,7 @@ base_manpower = 2
 capital = "Wismar"
 is_city = yes
 
-
+add_core = F02
 
 discovered_by = eastern
 discovered_by = western

@@ -10,7 +10,7 @@ country_event = {
 	trigger = {
 		is_religion_enabled = protestant
 		religion_years = { protestant = 15 }
-		year = 1500
+		is_year = 1500
 		NOT = { is_religion_enabled = reformed }
 		is_defender_of_faith = no
 		OR = {

@@ -70,6 +70,14 @@ vassal = {
 	end_date = 1800.1.1
 }
 
+# Aurliansa/Orleans is a vassal of Gothia
+vassal = {
+	first = GTH
+	second = ORL
+	start_date = 1400.1.1
+	end_date = 1800.1.1
+}
+
 # Pskov is a vassal of Volga Bulgaria
 vassal = {
 	first = VBG
@@ -130,6 +138,22 @@ vassal = {
 vassal = {
 	first = SND
 	second = BAL
+	start_date = 1400.1.1
+	end_date = 1800.1.1
+}
+
+# Malacca is a vassal of Majapahit
+vassal = {
+	first = MAJ
+	second = MLC
+	start_date = 1400.1.1
+	end_date = 1800.1.1
+}
+
+# Brunei is a vassal of Majapahit
+vassal = {
+	first = MAJ
+	second = BEI
 	start_date = 1400.1.1
 	end_date = 1800.1.1
 }

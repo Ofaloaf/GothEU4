@@ -3,7 +3,7 @@
 owner = TOX
 controller = TOX
 add_core = TOX
-capital = "Mons"
+capital = "Montes"
 is_city = yes
 
 culture = gothburgundian

@@ -1,2 +1,5 @@
 1304.4.17 = { emperor = GTH } # Emperor Gautier I of Gothia
 1368.11.4 = { emperor = GTH } # Emperor Gautier II of Gothia
+1402.3.12 = { 
+	emperor = GTH
+}

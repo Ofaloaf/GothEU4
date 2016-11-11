@@ -1,0 +1,17 @@
+#1244 - Tahiti
+
+owner = W03
+controller = W03
+add_core = W03
+culture = polynesian
+religion = inti
+capital = "Rikitea"
+trade_goods = fish
+hre = no
+base_tax = 3 
+
+base_production = 3
+base_manpower = 1
+
+
+discovered_by = andean

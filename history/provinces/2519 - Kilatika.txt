@@ -1,0 +1,23 @@
+# No previous file for Kilatika
+
+owner = W06
+controller = W06
+add_core = W06
+add_core = MMI
+culture = illini
+religion = nahuatl
+capital = "Kilatika"
+trade_goods = fur
+is_city = yes
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostileness = 2
+
+
+
+discovered_by = north_american
+

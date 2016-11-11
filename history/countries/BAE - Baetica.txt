@@ -1,6 +1,21 @@
 government = feudal_monarchy
 primary_culture = baetic
 religion = catholic
+government_rank = 2
 technology_group = western
 capital = 225	# Cordoba
 elector = yes
+
+1402.3.12 = {
+	monarch = {
+		name = "Iussana"
+		dynasty = "Alareiksunus"
+		birth_date = 1365.1.1
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+
+	set_allow_female_emperor = yes
+}

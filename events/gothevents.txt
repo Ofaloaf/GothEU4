@@ -1,0 +1,192 @@
+﻿########################################
+# written by Ofaloaf
+########################################
+
+namespace = gothlp
+
+country_event = {
+	id = gothlp.1
+	title = "gothlp.1.t"
+	desc = "gothlp.1.d"
+	picture = HRE_eventPicture
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "gothlp.1.a"		# Accept the Gallic Assembly
+		ai_chance = {
+			factor = 50
+			modifier = {
+				factor = 2
+				has_opinion = {
+					who = FROM
+					value = 100
+				}
+			}
+		}
+		add_imperial_influence = 10
+		add_prestige = -10
+		FROM = {
+			country_event = { id = gothlp.2 }
+		}
+		tooltip = {
+			add_opinion = {
+				who = FROM
+				modifier = opinion_reestablished_gallic_assembly_on_own
+			}
+		}
+	}
+	option = {
+		name = "gothlp.1.b" 		# Refuse to recognize the Assembly
+		ai_chance = {
+			factor = 50
+			modifier = {
+				factor = 0
+				NOT = {
+					has_opinion = {
+						who = FROM
+						value = 50
+					}
+				}
+			}
+			modifier = {
+				factor = 0
+				FROM = {
+					is_part_of_hre = no
+				}
+			}
+		}
+
+		add_opinion = {
+			who = FROM
+			modifier = opinion_displeased
+		}
+
+		FROM = {
+			country_event = { id = gothlp.3 }
+		}
+		tooltip = {
+			add_opinion = {
+				who = FROM
+				modifier = opinion_dared_question_authority
+			}
+		}
+	}
+}
+
+country_event = {
+	id = gothlp.2
+	title = "gothlp.2.t"
+	desc = "gothlp.2.d"
+	picture = HRE_eventPicture
+	
+	is_triggered_only = yes
+
+	option = {
+		name = "gothlp.2.a"
+
+		add_opinion = {
+			who = emperor
+			modifier = opinion_grateful
+		}
+
+		france_region = {		# Relocalized as Gallia in-game
+			limit = {
+				NOT = { owned_by = ROOT }
+			}
+			add_permanent_claim = ROOT
+		}
+		add_prestige = 20
+		add_legitimacy = 20
+		201 = { rename_capital = Arelate }	# Arelate/Arles was the historical site of the 5th c. assembly
+		hidden_effect = {
+			set_global_flag = gallic_assembly_restored
+		}
+		if = {
+			limit = {
+				has_dlc = "Common Sense"
+				201 = { has_seat_in_parliament = no }
+			}
+			201 = { set_seat_in_parliament = yes }
+		}
+	}
+}
+
+country_event = {
+	id = gothlp.3
+	title = "gothlp.3.t"
+	desc = "gothlp.3.d"
+	picture = HRE_eventPicture
+	
+	is_triggered_only = yes
+
+	option = {
+		name = "gothlp.3.a"
+
+		add_country_modifier = {
+			name = "no_imperial_gallic_blessing"
+			duration = 3650
+		}
+		add_opinion = {
+			who = emperor
+			modifier = opinion_angry
+		}
+		add_prestige = -25
+	}
+
+	option = {
+		name = "gothlp.3.b"
+
+		add_opinion = {
+			who = emperor
+			modifier = opinion_angry
+		}
+		reverse_add_opinion = {
+			who = emperor
+			modifier = opinion_angry
+		}
+		france_region = {
+			limit = {
+				NOT = { owned_by = ROOT }
+			}
+			add_claim = ROOT
+		}
+		201 = { rename_capital = Arelate }	# Arelate/Arles was the historical site of the 5th c. assembly
+		hidden_effect = {
+			set_global_flag = gallic_assembly_restored
+		}
+		if = {
+			limit = {
+				has_dlc = "Common Sense"
+					201 = { has_seat_in_parliament = no }
+				}
+			201 = { set_seat_in_parliament = yes }
+		}
+		every_known_country = {
+			limit = {
+				OR = {
+					is_part_of_hre = yes
+					capital_scope = { region = france_region }
+				}
+			}
+			if = {
+				limit = {
+					ROOT = { is_part_of_hre = yes }
+				}
+				add_opinion = {
+					who = ROOT
+					modifier = opinion_traitor
+				}
+			}
+			if = {
+				limit = {
+					ROOT = { is_part_of_hre = no }
+				}
+				add_opinion = {
+					who = ROOT
+					modifier = opinion_irritated
+				}
+			}
+		}
+	}
+}

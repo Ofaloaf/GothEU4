@@ -35,16 +35,6 @@ colonial_alaska = {
 		}
 		name = "COLONIAL_ALASKA_Alyeska"
 	}
-	names = {
-		trigger = {
-			OR = {
-				tag = SPA
-				tag = CAS
-				tag = ARA
-			}
-		}
-		name = "COLONIAL_ALASKA_Pacifico_Norte"
-	}
 	# Generic
 	names = {
 		name = "COLONIAL_ALASKA_Alaska"
@@ -102,108 +92,26 @@ colonial_canada = {
 	names = {
 		trigger = {
 			OR = {
-				tag = FRA
-				culture_group = french
+				religion_group = christian
+				culture_group = latine
+				culture_group = carthagennan_group
 			}
 		}
-		name = "COLONIAL_CANADA_Root_Culture_GetGroupName_Canada"
+		name = "COLONIAL_CANADA_Arcadia"
 	}
 	names = {
 		trigger = {
 			OR = {
-				tag = FRA
-				culture_group = french
-			}
-		}
-		name = "COLONIAL_CANADA_Acadia"
-	}
-	names = {
-		trigger = {
-			tag = FRA
-			OR = {
+				culture = albann
 				any_owned_province = {
 					OR = {
 						region = highlands
 						region = lowlands
 					}
 				}
-				overlord_of = SCO
-				alliance_with = SCO
-			}
-		}
-		name = "COLONIAL_CANADA_Nouvelle_Écosse"
-	}
-	names = {
-		trigger = {
-			tag = BRU
-		}
-		name = "COLONIAL_REGION_New_Root_GetName"
-	}
-	names = {
-		trigger = {
-			OR = {
-				tag = GBR
-				tag = ENG
-			}
-		}
-		name = "COLONIAL_CANADA_Newfoundland"
-	}
-	names = {
-		trigger = {
-			OR = {
-				tag = GBR
-				tag = ENG
-			}
-		}
-		name = "COLONIAL_CANADA_Root_Culture_GetName_Quebec"
-	}
-	names = {
-		trigger = {
-			OR = {
-				tag = GBR
-				tag = ENG
-			}
-		}
-		name = "COLONIAL_CANADA_Laurentia"
-	}
-	names = {
-		trigger = {
-			OR = {
-				tag = GBR
-				tag = ENG
-			}
-		}
-		name = "COLONIAL_CANADA_Borealia"
-	}
-	names = {
-		trigger = {
-			OR = {
-				tag = GBR
-				tag = ENG
-			}
-			SCO = {
-				exists = no
-			}
-			any_owned_province = {
-				OR = {
-					region = highlands
-					region = lowlands
-				}
 			}
 		}
 		name = "COLONIAL_CANADA_Nova_Scotia"
-	}
-	names = {
-		trigger = {
-			tag = SCO
-		}
-		name = "COLONIAL_CANADA_Nova_Scotia"
-	}
-	names = {
-		trigger = {
-			tag = SCO
-		}
-		name = "COLONIAL_CANADA_Nouvelle_Écosse"
 	}
 	names = {
 		trigger = {
@@ -213,15 +121,17 @@ colonial_canada = {
 	}
 	names = {
 		trigger = {
-			OR = {
-				tag = NED
-				tag = HOL
-				primary_culture = dutch
-			}
+			primary_culture = dutch
 		}
 		name = "COLONIAL_CANADA_Nova_Hollandia"
 	}
 	# Generic
+	names = {
+		name = "COLONIAL_CANADA_Laurentia"
+	}
+	names = {
+		name = "COLONIAL_CANADA_Borealia"
+	}
 	names = {
 		name = "COLONIAL_CANADA_Root_Culture_GetName_Canada"
 	}
@@ -232,28 +142,10 @@ colonial_canada = {
 		name = "COLONIAL_CANADA_Root_Culture_GetName_Quebec"
 	}
 	names = {
-		name = "COLONIAL_CANADA_Nova_Scotia"
-	}
-	names = {
-		name = "COLONIAL_CANADA_Acadia"
-	}
-	names = {
-		name = "COLONIAL_CANADA_Laurentia"
-	}
-	names = {
-		name = "COLONIAL_CANADA_Borealia"
-	}
-	names = {
 		trigger = {
 			owns = 1010 # Manitoba
 		}
 		name = "PROV1010"
-	}
-	names = {
-		name = "COLONIAL_CANADA_Hudson_Bay"
-	}
-	names = {
-		name = "COLONIAL_CANADA_Ruperts_Land"
 	}
 }
 
@@ -362,20 +254,34 @@ colonial_alleghania = {
 		name = "COLONIAL_ALLEGHANIA_Afallon"
 	}
 	names = {
-		name = "COLONIAL_ALLEGHANIA_Root_Culture_GetName_Alleghania"
+		name = "COLONIAL_ALLEGHANIA_Nova_Belgica"
+		trigger = {
+			OR = {
+				culture = dutch
+				culture = rhenish
+			}
+		}
+	}
+	names = {
+		trigger = {
+			OR = {
+				is_female = yes
+				has_female_heir = yes
+			}
+		}
+		name = "COLONIAL_EASTERN_AMERICA_Virginia"
+	}
+
+	# Generic
+	names = {
+		name = "COLONIAL_ALLEGHANIA_Norumbega"
 	}
 	names = {
 		name = "COLONIAL_ALLEGHANIA_Canojeharia"
 	}
 	names = {
-		name = "COLONIAL_ALLEGHANIA_Norumbega"
+		name = "COLONIAL_ALLEGHANIA_Root_Culture_GetName_Alleghania"
 	}
-	#names = {
-	#	name = "COLONIAL_ALLEGHANIA_Nova_Belgica"
-	#}
-
-
-	# Generic
 	names = {
 		name = "COLONIAL_REGION_New_Root_GetName"
 	}
@@ -442,6 +348,26 @@ colonial_florida = {
 	}
 
 	names = {
+		trigger = {
+			OR = {
+				is_female = yes
+				has_female_heir = yes
+			}
+		}
+		name = "COLONIAL_EASTERN_AMERICA_Virginia"
+	}
+	names = {
+		trigger = {
+			religion_group = christian
+			OR = {
+				ruler_has_personality = zealot_personality
+				ruler_has_personality = righteous_personality
+				ruler_has_personality = pious_personality
+			}
+		}
+		name = "COLONIAL_FLORIDA_St_Theopemptus"
+	}
+	names = {
 		name = "COLONIAL_FLORIDA_Root_Culture_GetName_Florida"
 	}
 	names = {
@@ -493,16 +419,22 @@ colonial_appalachia = {
 	}
 
 	names = {
-		name = "COLONIAL_REGION_New_Root_GetName"
-	}
-	names = {
-		name = "COLONIAL_EASTERN_AMERICA_Virginia"
-	}
-	names = {
 		trigger = {
 			owns = 924
 		}
 		name = "PROV924" # Alabama
+	}
+	names = {
+		trigger = {
+			OR = {
+				is_female = yes
+				has_female_heir = yes
+			}
+		}
+		name = "COLONIAL_EASTERN_AMERICA_Virginia"
+	}
+	names = {
+		name = "COLONIAL_REGION_New_Root_GetName"
 	}
 }
 
@@ -546,6 +478,21 @@ colonial_ohio = {
 	}
 
 	names = {
+		trigger = {
+			culture_group = gothic_group
+		}
+		name = "COLONIAL_OHIO_Vandalia"
+	}
+	names = {
+		trigger = {
+			OR = {
+				is_female = yes
+				has_female_heir = yes
+			}
+		}
+		name = "COLONIAL_EASTERN_AMERICA_Virginia"
+	}
+	names = {
 		name = "COLONIAL_OHIO_Root_Culture_GetName_Ohio"
 	}
 	names = {
@@ -575,12 +522,6 @@ colonial_ohio = {
 			}
 		}
 		name = "COLONIAL_LOUISIANA_Wisconsin"
-	}
-	names = {
-		trigger = {
-			culture_group = gothic_group
-		}
-		name = "COLONIAL_OHIO_Vandalia"
 	}
 }
 
@@ -662,6 +603,13 @@ colonial_mississippi = {
 		}
 		name = "COLONIAL_MISSISSIPPI_Nauva_Aureliansa"
 	}
+	names = {
+		trigger = {
+			owns = 898 # Kansas
+			culture_group = gothic_group
+		}
+		name = "COLONIAL_MISSISSIPPI_Icansa"
+	}
 	# Generic
 	names = {
 		name = "COLONIAL_MISSISSIPPI_Root_Culture_GetGroupName_Mississippi"
@@ -692,13 +640,6 @@ colonial_mississippi = {
 			owns = 908 # Minnesota
 		}
 		name = "PROV908"
-	}
-	names = {
-		trigger = {
-			owns = 898 # Kansas
-			culture_group = gothic_group
-		}
-		name = "COLONIAL_MISSISSIPPI_Icansa"
 	}
 	names = {
 		trigger = {
@@ -825,47 +766,133 @@ colonial_mexico = {
 	
 	provinces = {
 		865 866 877 862 863 864 859 860 861 855 856 858 857 854 851 853 849 850 848 847 844
-		852 846 845 843 842 841 840 839 837 882 885 891 890 881 880 889 878 879 884 888
-		883 892 886 887 2492 2494 2495 2496 2497 2498 2499 2500 2614 2615 2616 2617 2618 2619 2620
-		2621 2622 2623 2624 2626 2627 2628 2629 2630 2631 2632 2633 2634 2635 2636 2637 2638 2640
-		2641 2642 2643 2644 2645 2646 2647 2648 2649 2650 2651 2652 2653 2657 2661 2662
-		2665 2666 2667 2668 2669
+		852 879
+		2614 2615 2616 2617 2618 2619 2620
+		2621 2622 2623 2624 2626 2627 2628 2629 2630 2631
+		2641 2642 2643 2644 2645 2646 2647 2648 2653 2657
+		2667 2668
 	}
 	
 	# Specific
+	#names = {
+	#	trigger = {
+	#		tag = CTH
+	#	}
+	#	name = "COLONIAL_MEXICO_Praefectura_Mexicum"
+	#}
 	names = {
 		trigger = {
-			tag = CTH
-		}
-		name = "COLONIAL_MEXICO_Praefectura_Mexicum"
-	}
-	names = {
-		trigger = {
-			tag = CTH
+			culture_group = carthagennan_group
 		}
 		name = "COLONIAL_MEXICO_Nova_Hispania"
 	}
 	# Generic
 	names = {
-		trigger = {
-			NOT = { tag = CTH }
-		}
 		name = "COLONIAL_MEXICO_Root_Culture_GetName_Mexico"
 	}
 	names = {
-		trigger = {
-			NOT = { tag = CTH }
-		}
 		name = "COLONIAL_REGION_New_Root_GetName"
 	}
+}
+
+colonial_tejas = {
+	color = { 117 72 28 }
+
+	# Random New World
+	tax_income = 1
+	native_size = 18
+	native_ferocity = 2
+	native_hostileness = 6
+	
+	trade_goods = {
+		fur = 10
+		fish = 1
+		grain = 11
+		cotton = 7
+		iron = 1
+	}
+	
+	culture = {
+		nakota = 2
+		dakota = 8
+		chiwere = 3
+		pawnee = 10
+		osage = 3
+		caddo = 6
+		cheyenne = 1
+		shoshone = 1
+	}
+	
+	religion = {
+		shamanism = 20
+		animism = 20
+	}
+	
+	provinces = {
+		883 884 887 888 2665 2669	# Texas
+		2498 2499 2666 			# 
+		889 890 891 892
+		882 885 886 2496 2497 2500
+		878 880 881 2492 2494 2495
+	}
+
 	names = {
-		name = "COLONIAL_MEXICO_Yucatan"
+		trigger = {
+			culture_group = gothic_group
+		}
+		name = "COLONIAL_TEJAS_Sent_Jacint"
 	}
 	names = {
-		name = "COLONIAL_MEXICO_Guatemala"
+		name = "COLONIAL_TEJAS_Root_Culture_GetName_Tejas"
 	}
+}
+
+# Guatemala
+colonial_guatemala = {
+	color = { 56 214 241 }
+
+	# Random New World
+	tax_income = 3
+	native_size = 8
+	native_ferocity = 2
+	native_hostileness = 5
+	
+	trade_goods = {
+		fur = 2
+		grain = 8
+		salt = 5
+		wool = 7
+		fish = 5
+		sugar = 8
+		gold = 5
+		cocoa = 6
+		naval_supplies = 1
+	}
+	
+	culture = {
+		pueblo = 2
+		navajo = 10
+		piman = 5
+		aztek = 8
+		zapotek = 6
+		mayan = 7
+	}
+	
+	religion = {
+		animism = 10
+	}
+
+	provinces = {
+		2632 2635 2638 2649 			# Chiapas Area
+		845 846 2633 2634 2650 2651 2652 	# Yuatan Area
+		841 842 843 2636 2653 			# Guatemala Area
+		839 840 2637 2640 2662			# Honduras Area
+		837 838 2660 2661			# Nicaragua Area
+		836 2663 2664				# A bit of Panama
+	}
+
 	names = {
-		name = "COLONIAL_MEXICO_Texas"
+		name = "COLONIAL_GUATEMALA_Root_Culture_GetName_Guatemala"
 	}
 	names = {
 		trigger = {
@@ -890,6 +917,9 @@ colonial_mexico = {
 			owns = 840 # Honduras
 		}
 		name = "PROV840"
+	}
+	names = {
+		name = "COLONIAL_MEXICO_Yucatan"
 	}
 }
 
@@ -990,15 +1020,6 @@ colonial_the_carribean = {
 	names = {
 		name = "COLONIAL_THE_CARRIBEAN_Antillia"
 	}
-	
-	extra_province_names = {
-		"Saint Lucia" "Saint Vincent" Montserrat Gonave
-		Aruba Bonaire Mustique Bequia
-		Grenada Dulcina Barbuda Abaco
-		Eleuthera Sabinal Saona Mayreau
-		Anguilla Anegada Tortola Alcarraza
-		Mayaguana "Saint Croix" Vieques Roatan
-	}
 }
 
 # Equinoxialia
@@ -1031,16 +1052,16 @@ colonial_equinoxialia = {
 	provinces = {
 		815 816 817 818 819 820 821 2820 #Quito
 		822 823 824 825 826 827 832 2812 2814 2815 2816 2817 2818 #New Granada
-		835 836 838 2660 2663 2664 2819 #Castilla del Oro
+		835 2819 #Castilla del Oro
 		828 829 2806 #New Andalucia
 		741 742 830 831 834 2803 2805 2807 2808 2809 2810 2811 2813 2939 #Venezuela
 	}
 
 	# Specific
 	# Generic
-	#names = {
-	#	name = "COLONIAL_REGION_Terra_Equinoxialis"
-	#}
+	names = {
+		name = "COLONIAL_EQUINOXIALIA_Terra_Equinoxialis"
+	}
 	names = {
 		name = "COLONIAL_EQUINOXIALIA_Root_Culture_GetName_Equinoxialia"
 	}
@@ -1075,8 +1096,8 @@ colonial_peru = {
 	}
 
 	provinces = {
-		795 797 800 801 802 803 2831 2832 2833 2834 2835 2838 2940 2941 2942 2946 2947 #Bolivia
 		804 805 809 810 811 812 813 814 2821 2822 2823 2824 2825 2826 2827 2943 #Tawantisuyu
+		796
 		806 807 808 2828 2829 2830 #Kuntisuyu
 		2944 2945 #Amazon
 	}
@@ -1087,6 +1108,12 @@ colonial_peru = {
 #		}
 #		name = ""
 #	}
+	names = {
+		trigger = {
+			owns = 809 # Lima
+		}
+		name = "PROV809"
+	}
 	# Generic
 	names = {
 		name = "COLONIAL_PERU_Root_Culture_GetName_Peru"
@@ -1103,15 +1130,45 @@ colonial_peru = {
 	}
 	names = {
 		trigger = {
-			owns = 809 # Lima
-		}
-		name = "PROV809"
-	}
-	names = {
-		trigger = {
 			owns = 808 # Cuzco
 		}
 		name = "PROV808"
+	}
+}
+
+# Charcas
+colonial_charcas = {
+	color = { 234 220 121 }
+
+	# Random New World
+	tax_income = 2
+	native_size = 12
+	native_ferocity = 1
+	native_hostileness = 1
+	
+	trade_goods = {
+		grain = 7
+		fish = 2
+		gold = 1
+		cocoa = 2
+		copper = 6
+	}
+
+	culture = {
+		inca = 10
+	}
+	religion = {
+		animism = 10
+	}
+
+	provinces = {
+		793 795 797 800 801 802 803 2831 2832 2833 2834 2835 2838 2940 2941 2942 2946 2947 #Bolivia
+		2840 2841
+	}
+
+	# Generic
+	names = {
+		name = "COLONIAL_CHARCAS_Root_Culture_GetName_Charcas"
 	}
 }
 
@@ -1150,14 +1207,14 @@ colonial_plattina = {
 		791 794 2836 2837 2839 2842 #Tucoman
 		790 2854 2878 #Chaco
 		772 773 2850 2851 2852 #Banda Oriental
-		783 784 787 792 793 796 2840 2841 2862 2873 2874 #Chile
+		783 784 787 792 2862 2873 2874 #Chile
 		775 776 799 2882 2883 #Paraguay
 	}
 	
 	# Specific
 	names = {
 		trigger = {
-			culture_group = gaelic
+			culture_group = brythonic
 		}
 		name = "COLONIAL_LA_PLATA_ter_gogyrfan"
 	}
@@ -1167,6 +1224,16 @@ colonial_plattina = {
 		}
 		name = "COLONIAL_QUARIANA_Plattina"
 	}
+	names = {
+		trigger = {
+			OR = {
+				culture = dutch
+				culture = oostfranken
+			}
+		}
+		name = "COLONIAL_PLATTINA_batavia"
+	}
+
 	# Generic
 	names = {
 		name = "COLONIAL_QUARIANA_Root_Culture_GetName_Quariana"
@@ -1234,14 +1301,34 @@ colonial_brazil = {
 	# Specific
 	names = {
 		trigger = {
-			OR = {
-				tag = MOR
-				tag = GRA
-				tag = ALG
-			}
-			religion_group = muslim			
+			religion_group = christian
 		}
-		name = "COLONIAL_BRAZIL_new_granada"
+		name = "COLONIAL_BRAZIL_Sancta_Crux"
+	}
+	names = {
+		trigger = {
+			culture_group = carthagennan_group		
+		}
+		name = "COLONIAL_BRAZIL_Amarana"
+	}
+	names = {
+		trigger = {
+			culture_group = germanic
+			NOT = { primary_culture = dutch }
+		}
+		name = "COLONIAL_BRAZIL_Papeganenland"
+	}
+	names = {
+		trigger = {
+			culture = dutch		
+		}
+		name = "COLONIAL_BRAZIL_Brazilie"
+	}
+	names = {
+		trigger = {
+			culture_group = gothic_group
+		}
+		name = "COLONIAL_BRAZIL_Papegallia"
 	}
 	# Generic
 	names = {
@@ -1261,28 +1348,6 @@ colonial_brazil = {
 			owns = 756 # Bahia
 		}
 		name = "PROV756"
-	}
-	names = {
-		trigger = {
-			religion_group = christian
-		}
-		name = "COLONIAL_BRAZIL_Sancta_Crux"
-	}
-	names = {
-		trigger = {
-			culture_group = germanic
-			NOT = { primary_culture = dutch }
-		}
-		name = "COLONIAL_BRAZIL_Papeganenland"
-	}
-	names = {
-		trigger = {
-			OR = {
-				culture_group = gothic_group
-				culture_group = carthagennan_group
-			}
-		}
-		name = "COLONIAL_BRAZIL_Papegallia"
 	}
 }
 
@@ -1363,40 +1428,18 @@ colonial_australia = {
 	names = {
 		trigger = {
 			OR = {
-				tag = ENG
-				tag = GBR
+				culture_group = carthagennan_group
+				culture_group = brythonic
+				culture_group = gothic_group
+				culture_group = latine
+				culture_group = gallic_group
+				culture_group = africanu
 			}
 		}
+		name = "COLONIAL_AUSTRALIA_Terra_Australis"
+	}
+	names = {
 		name = "COLONIAL_AUSTRALIA_Australia"
-	}
-	names = {
-		trigger = {
-			OR = {
-				tag = SPA
-				tag = CAS
-				tag = ARA
-			}
-		}
-		name = "COLONIAL_AUSTRALIA_Tierra_Austral"
-	}
-	names = {
-		trigger = {
-			OR = {
-				tag = FRA
-				culture_group = french
-			}
-		}
-		name = "COLONIAL_AUSTRALIA_Terre_Australe"
-	}
-	names = {
-		trigger = {
-			OR = {
-				tag = NED
-				tag = HOL
-				primary_culture = dutch
-			}
-		}
-		name = "COLONIAL_AUSTRALIA_New_Holland"
 	}
 	# Generic
 	names = {

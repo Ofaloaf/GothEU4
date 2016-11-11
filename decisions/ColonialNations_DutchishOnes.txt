@@ -1,0 +1,258 @@
+# REGION	COUNTRY
+# Plattina	Batavia
+# East. America	New Netherlands
+
+country_decisions = {
+
+	# Batavia
+	Batavia_nation = {
+		major = yes
+		potential = {
+			NOT = { has_country_flag = changed_from_colonial_nation }
+			is_nomad = no
+			is_random_new_world = no
+			OR = {
+				culture = dutch
+				culture = oostfranken
+			}		
+			NOT = {
+				OR = {
+					technology_group = north_american
+					technology_group = mesoamerican
+					technology_group = south_american
+					technology_group = andean
+					technology_group = high_american
+				}
+			}
+			capital_scope = {
+				OR = {
+					continent = north_america
+					continent = south_america
+					continent = oceania
+				}
+			}
+			colonial_plattina = {
+				owned_by = ROOT
+			}
+			OR = {
+				ai = no
+				AND = {
+					ai = yes
+					num_of_cities = 3	
+				}
+			}
+		}
+		allow = {
+			adm_tech = 10
+			#is_former_colonial_nation = yes
+			is_subject = no
+			is_at_war = no
+			capital_scope = {
+				colonial_region = colonial_plattina
+				is_core = ROOT
+			}
+			NOT = { exists = N05 }
+		}
+		effect = {
+			change_tag = N05
+			if = {
+				limit = {
+					is_part_of_hre = yes
+					is_elector = no
+					is_emperor = no
+				}
+				every_owned_province = {
+					limit = {
+						is_part_of_hre = yes
+					}
+					set_in_empire = no
+				}
+			}
+			if = {
+				limit = {
+					NOT = { government_rank = 2 }
+				}
+				set_government_rank = 2
+			}
+			colonial_plattina = {
+				limit = {
+					NOT = { owned_by = ROOT }
+				}
+				add_permanent_claim = N05
+			}
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+			set_country_flag = changed_from_colonial_nation
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	# EASTERN AMERICA - New Netherlands
+	newnetherlands_nation = {
+		major = yes
+		potential = {
+			NOT = { has_country_flag = changed_from_colonial_nation }
+			NOT = {
+				OR = {
+					technology_group = north_american
+					technology_group = mesoamerican
+					technology_group = south_american
+					technology_group = andean
+					technology_group = high_american
+				}
+			}
+			capital_scope = {
+				OR = {
+					continent = north_america
+					continent = south_america
+					continent = oceania
+				}
+			}
+			OR = {
+				colonial_alleghania = {
+					owned_by = ROOT
+				}
+				colonial_appalachia = {
+					owned_by = ROOT
+				}
+				colonial_ohio = {
+					owned_by = ROOT
+				}
+				colonial_florida = {
+					owned_by = ROOT
+				}
+				colonial_mississippi = {
+					owned_by = ROOT
+				}
+			}
+			OR = {
+				culture = dutch
+				culture = oostfranken
+			}
+			OR = {
+				ai = no
+				AND = {
+					ai = yes
+					num_of_cities = 3	
+				}
+			}
+		}
+		allow = {
+			adm_tech = 10
+			#is_former_colonial_nation = yes
+			is_subject = no
+			is_at_war = no
+			OR = {
+				capital_scope = {
+					colonial_region = colonial_alleghania
+					is_core = ROOT
+				}
+				capital_scope = {
+					colonial_region = colonial_appalachia
+					is_core = ROOT
+				}
+				capital_scope = {
+					colonial_region = colonial_ohio
+					is_core = ROOT
+				}
+				capital_scope = {
+					colonial_region = colonial_florida
+					is_core = ROOT
+				}
+				capital_scope = {
+					colonial_region = colonial_mississippi
+					is_core = ROOT
+				}
+			}
+			NOT = { exists = N06 }
+		}
+		effect = {
+			change_tag = N06
+			if = {
+				limit = {
+					is_part_of_hre = yes
+					is_elector = no
+				}
+				every_owned_province = {
+					limit = {
+						is_part_of_hre = yes
+					}
+					set_in_empire = no
+				}
+			}
+			if = {
+				limit = { NOT = { government_rank = 2 } }
+				set_government_rank = 2
+			}
+			swap_free_idea_group = yes
+			if = {
+				limit = {
+					OR = {
+						capital_scope = {
+							colonial_region = colonial_alleghania
+						}
+						capital_scope = {
+							colonial_region = colonial_appalachia
+						}
+						capital_scope = {
+							colonial_region = colonial_ohio
+						}
+						capital_scope = {
+							colonial_region = colonial_florida
+						}
+					}
+				}
+				colonial_alleghania = {
+					limit = {
+						NOT = { owned_by = ROOT }
+					}
+					add_permanent_claim = ROOT
+				}
+				colonial_appalachia = {
+					limit = {
+						NOT = { owned_by = ROOT }
+					}
+					add_permanent_claim = ROOT
+				}
+				colonial_ohio = {
+					limit = {
+						NOT = { owned_by = ROOT }
+					}
+					add_permanent_claim = ROOT
+				}
+				colonial_florida = {
+					limit = {
+						NOT = { owned_by = ROOT }
+					}
+					add_permanent_claim = ROOT
+				}
+			}
+			if = {
+				limit = {
+					capital_scope = {
+						colonial_region = colonial_mississippi
+					}
+				}
+				colonial_mississippi = {
+					limit = {
+						NOT = { owned_by = ROOT }
+					}
+					add_permanent_claim = ROOT
+				}
+			}
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+			set_country_flag = changed_from_colonial_nation
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}

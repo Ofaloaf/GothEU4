@@ -1,0 +1,112 @@
+# Heveldun
+
+graphical_culture = westerngfx
+
+color = { 123  90  90 }
+
+revolutionary_colors = { 1  0  4 }
+
+historical_idea_groups = {
+	innovativeness_ideas
+	offensive_ideas
+	diplomatic_ideas
+	quality_ideas
+	economic_ideas
+	trade_ideas
+	defensive_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	prussian_frederickian
+	prussian_uhlan
+	prussian_drill
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Otto #0" = 50
+	"Pieter #0" = 40
+	"Maurits #0" = 40
+	"Willem #0" = 30
+	"Frederik #0" = 30
+	"Rudolf #0" = 25
+	"Lod3wijk #0" = 20
+	"Laurens #0" = 10
+
+	"Anna #0" = -5
+	"Drahomira #0" = -5
+	"Emilie #0" = -5
+	"Margaretha #0" = -5
+	"Edgitha #0" = -1
+
+	"Adalbert #0" = 0
+	"Adolf #0" = 0
+	"Ambrosius #0" = 0
+	"Anton #0" = 0
+	"August #0" = 0
+	"Cornelius #0" = 0
+	"Cosmas #0" = 0
+	"Desiderius #0" = 0
+	"Dobromir #0" = 0
+	"Eugenius #0" = 0
+	"Gerard #0" = 0
+	"Gijsbert #0" = 0
+	"Hendrik #0" = 0
+	"Jan #0" = 0
+	"Julius #0" = 0
+	"Martius #0" = 0
+	"Paulus #0" = 0
+	"Philippus #0" = 0
+	"Renier #0" = 0
+	"Severinus #0" = 0
+	"Teunis #0" = 0
+	"Theophilus #0" = 0
+	"Tugumir #0" = 0
+	"Widukind #0" = 0
+}
+
+leader_names = {
+	Abegg
+	Behemannus Baldaeus Bruyns
+	Candidius
+	Delitzsch Duifhuis
+	Esper
+	Ghillany
+	Harless Hoogendijk Helmichius Hulft Hubrecht
+	Junius "de Jognhe"
+	Kalb Kipp
+	Lindemans Letuppe
+	Merehanus
+	Noether Nöbeling
+	Steinhübel Semnonus Schweigger
+	Traudenius
+	"van Uden"
+	Verloop
+	"van der Waerden"
+	"van Zuylestein"
+}
+
+ship_names = {
+	Achilles
+	Eumenius
+	Hevellia
+	Krijger
+	Moordenaar
+	Onwrikbaar Onoverwinnelijk Overwinnaar
+	Provintia
+	Stodor Standvastig
+	Trouw
+	Vastberaden Veroveraar
+}

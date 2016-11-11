@@ -2,7 +2,7 @@
 
 owner = AMC
 controller = AMC
-capital = "Brest"
+capital = "Brista"
 is_city = yes
 culture = armorican
 religion = catholic

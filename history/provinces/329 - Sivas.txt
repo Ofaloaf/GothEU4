@@ -2,7 +2,7 @@
 
 owner = QOC
 controller = QOC
-culture = turkish
+culture = rummen
 religion = jewish
 capital = "Sivas"
 trade_goods = wool
