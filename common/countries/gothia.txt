@@ -38,7 +38,7 @@ monarch_names = {
 	"Pèitre #1" = 30
 	"Gautier #2" = 30
 	"Amalric #2" = 25
-	"Gabriel #1" = 25
+	"Gabrieu #1" = 25
 	"Dodon #1" = 20
 	"Pons #1" = 20
 	"Agila #2" = 15
@@ -50,7 +50,7 @@ monarch_names = {
 	"Sibilla #1" = -15
 	"Gisela #0" = -10
 	"Andrieva #0" = -10
-	"Puelle #0" = -10
+	"Puelle #0" = -5
 	"Victoria #0" = -10
 	"Galla #0" = -5
 
@@ -107,6 +107,7 @@ monarch_names = {
 	"Gallus #0" = 0
 	"Gelamir #0" = 0
 	"Gregaurei #0" = 0
+	"Grimoart #0" = 0
 	"Gundisalf #0" = 0
 	"Gutauin #0" = 0
 	"Helias #0" = 0
@@ -152,56 +153,71 @@ monarch_names = {
 }
 
 leader_names = {
-	Airus Aspa Audags Aiz Aurtia Ambaur "d'Avenas" "d'Ansa" "d'Ararajovis" "d'Azœlètes" Aindis Ayrinhac "d'Aorlhac"
+	Airus Aspa Audags Aiz Aurtia Ambaur "d'Avenas" "d'Ansa" "d'Ararajovis" "d'Azœlètes" Aindis Ayrinhac "d'Aorlhac" Astaychs
+	Aispina Aibali Airmengalh "d'Audenas" Aubat
 	Balthes "de Berna" "de Boxum" Baira Bidagua Bolas Botsonnada Barravus Bruyas "de Bron" "de Bagnols" "de Bibost" "de Bulyi"
-	Bluss Barril
+	Bluss Barril Boyscheta "dal Bugo" "del Bost" Boysc Barreya "de la Boaria" Battaut Borgaugo Botas Bru Boaressa "de Bonabocha"
 	Cadraut Cunce Candacius "de Carilocus" "de Cabillaun" Causidicus "de Cambes" Clavellus Cathena Crozat Cailla "de Cadartz"
-	Codax "de Caersi" "de Capduelh"
-	Drautine "de Decotia" "de Dibio" Dius Delyduun Daza "de Daniceus" "de Diurnus"
-	Ermengau
-	Fanci Falgario "de Fulhonibus" "de Floriac" Fonsalada Figueira
-	Gabics Guisardo "de Guimballo" "de Gaunus" "de Grandris" Gaido Granella Garriga Gryphius
-	Jalenca "de Jocus"
-	Leuge Lagomia "de Liun" "de Laniacus" "de Lentiniacum" "de Létra" "de Limans" "de Lozana" "de Lauzuun" "de Lunel"
-	Mandubingis "de Massava" Maura Mateigs Massabuou Mercieyra Mera "de Matiscone" "de Milyeri" "de Madisus" "de Marennas"
-	Merla Menendi "de Monciocus" "de Massimiau" Malaspina
+	Codax "de Caersi" "de Capduelh" Cruvelier Chopi Chablanc Chamban Charrada Comet Coyfet Charruel "de Costinat"
+	Drautine "de Decotia" "de Dibio" Dius Delyduun Daza "de Daniceus" "de Diurnus" Darrago Delprat Dalhona "lo Duc" Durant Despes
+	Dauriac Dolinier Degran Delluc "del Deffes"
+	"d'Espero" "d'Eschalabo"
+	Fanci Falgario "de Fulhonibus" "de Floriac" Fonsalada Figueira Favela Furlan "dal Forn" "de Faya" "de Fulhada" Farel Formoy
+	"del Faysther"
+	Gabics Guisardo "de Guimballo" "de Gaunus" "de Grandris" Gaido Granella Garriga Gryphius Galliach Gontiera Garchot Gorda Goyo
+	Grango "de Guilhalmo" "de Godorn" Gravart Guandel Garel
+	Jalenca "de Jocus" "del Jaric" "de Jaudo" "de Jouani"
+	Leuge Lagomia "de Liun" "de Laniacus" "de Lentiniacum" "de Létra" "de Limans" "de Lozana" "de Lauzuun" "de Lunel" Laboaria
+	Lapeyrierya Lunaut "del Lacel" "La Crotz" "de Launat" "de Labenchia" Laurens "de Landric" Lidrolhac Laboyschiera Lafauria
+	Lagreliera Larua
+	Mandubingis "de Massava" Maura Mateigs Massabuou Mercieyra Mera "de Matiscone" "de Milyeri" "de Madisus" "de Marennas" Malet
+	Merla Menendi "de Monciocus" "de Massimiau" Malaspina "del Mas" Morlhona "del Mosnar" Mico Machabuey Martis Moschart Mynhot
+	Manha Mauri Mezura Malaura "lo Mosnier" "de Malgraula" Milheyrol
 	Natas "de Nivernum"
-	"d'Odenas"
-	Palhargues "de Potinesca" Pictavini Payrolerius Petri "de Pullenai" "de Pusiniau"
-	Rampa "de Riobe" Regandi Rossinhol Rostanh "de Roaxio" Rainal "de Ronno" "de Rantalona"
-	Sballes Seyrac Simeonis "de Saturnaz" Saisset "de Sestaro" "de las Salas"
-	Triarius Tervinge Triggus "de Tilena" Terissa "del Troc" Trullols
-	Ultrobon "d'Usès" "d'Uisel"
-	Veziac "de Vaurmacio" "de Vallibus" "de Vaqueiras" "del Vilar"
+	Palhargues "de Potinesca" Pictavini Payrolerius Petri "de Pullenai" "de Pusiniau" "del Potz" Paya "del Puey" Pinso Pressagier
+	Pars "de Peyroni" "de Pueymaya" "de Pomel" "de Pas" Pales Petitalt Pinel
+	Quoms
+	Rampa "de Riobe" Regandi Rossinhol Rostanh "de Roaxio" Rainal "de Ronno" "de Rantalona" "del Rat" "lo Regratier" Raleya Romyo
+	Rossel Ribeyrol Rambai "de la Rossia" Reynaut Rulhos
+	Sballes Seyrac Simeonis "de Saturnaz" Saisset "de Sestaro" "de las Salas" "de Sarro" Sadola Segui Sepet Sechaval
+	"de Samatias" "de Serventio" "de Senh Ribier" "de Soldier"
+	Triarius Tervinge Triggus "de Tilena" Terissa "del Troc" Trullols "del Telh" Trotart Tortorel "de Tarrasso" Teulel
+	Telhac Teysthendier
+	Ultrobon "d'Usès" "d'Uisel" Urtaut
+	Veziac "de Vaurmacio" "de Vallibus" "de Vaqueiras" "del Vilar" Vinharier "de las Veyrieyras" Velat Vigoros Vinhal
+	"de Vinheyrac"
 	"de Warcia"
 	"d'Ycon"
 }
 
 ship_names = {
-	Amal Arius Augis Alavivus Athanaricus Avaricum Argilo Alatheus "Asa Paulini" Augustodunum Andeolus Alienòr Arimirus Atharidus
-	Angilac Auedonnaco Aquarius Andromeda Auriga Arcturus
-	Berig Bigelis Burdigala Bibracte Borvo "Lo Breu" Boötes
-	Calamitas Cristina "Claudius Augustus" Calviniaco Castrumairaldi Camelopardus Cassiopeia Cepheus
-	Diluvium Divitiacus Dulcilla Duasdives Dalfi
+	Amal Arius Augis Alavivus Athanaricus Avaricum Argilo Alatheus "Asa Paulini" Augustodunum Andeolus Alienòr Arimirus Atharidus Anticlea
+	Angilac Auedonnaco Aquarius Andromeda Auriga Arcturus Anthonya Angellina Astrugua Audisia Aymoneta Alays Audoynot Atena Àjax Ascàlaf
+	Berig Bigelis Burdigala Bibracte Borvo "Lo Breu" Boötes Blanca Bertranda Bernarda Biatrisia Bernim
+	Calamitas Cristina "Claudius Augustus" Calviniaco Castrumairaldi Camelopardus Cassiopeia Cepheus Clareta Calídice
+	Diluvium Divitiacus Dulcilla Duasdives Dalfi 
 	Ermanaricus
-	Farnobius Fravittas Faidit
-	Gothismus Gregorius "Gallia Gothica" Gallicus "Godesteus Saevus" Gautiermanhe Goddas Gaatha Gutthikas Guidonis Gavaudan
-	Hisarnis Hunuil Hydra
-	Inna "Insula Barbara"
-	Janus
-	Lugdunensis Liger Lagnus Ludna Lunna Losdunum Lanterlmus Lupus
-	Mummadomna Mansuara Mediolanum Matisco Mirabellum Marcoat Marcabru
-	Noctua
-	Ouim Odotheus Octavus
-	Procrinum "Pontius Rex" Pina Peitieus Parthiniacum Pistoleta
-	Quadrigellae
-	Radagaisus Rhodanus "Romulus Nigrinus" Rodelina Rosimunda Rodumna Rhima Rugiano
+	Farnobius Fravittas Faidit Francesa Fina Focho Fortanier Fidip
+	Gothismus Gregorius "Gallia Gothica" Gallicus "Godesteus Saevus" Gautiermanhe Goddas Gaatha Gutthikas Guidonis Gavaudan Guia
+	Guirauda Gerarda Gileta Gordana Guillerma Grimoart Goumart
+	Hisarnis Hunuil Hydra "Hèlena de Troia"
+	Inna "Insula Barbara" Itier
+	Janus Jaquelyna Jammeta Jehanetta Janseranda
+	Lugdunensis Liger Lagnus Ludna Lunna Losdunum Lanterlmus Lupus Lisetta Laurensa Losanetta
+	Mummadomna Mansuara Mediolanum Matisco Mirabellum Marcoat Marcabru Magdalayna Mondetta Matiot Menelau
+	Noctua Nonela Nitona Naudina Nireu
+	Ouim Odotheus Octavus Olyna
+	Procrinum "Pontius Rex" Pina Peitieus Parthiniacum Pistoleta Peyret Peyrona Pevela Penota Plastolf Parsiprestre Penèlope Palamedes
+	Peribea Patrocle
+	Quadrigellae Quatalina Quataryna
+	Radagaisus Rhodanus "Romulus Nigrinus" Rodelina Rosimunda Rodumna Rhima Rugiano Ramonda
 	Saphrax "Santa Romana" "Sent Gabriel" "Sent Marius" "Sent Haimaricus" "Sent Liupoldus" "Sent Saba" Sansalas Santonicensis
-	Sabiniacum "Santa Tarsicia" Sagittarius
-	Theodericus Turonum Turdine Tegridia Tauniaco Talleburgi
+	Sabiniacum "Santa Tarsicia" Sagittarius Steva Sazia
+	Theodericus Turonum Turdine Tegridia Tauniaco Talleburgi Tomasa Tuffayna Telègon
 	Ulfilas Uiliaricus
-	Vitherigmanhe Vithimiris Visontio Valavrans Vithericopolis Villanova
+	Vitherigmanhe Vithimiris Visontio Valavrans Vithericopolis Villanova Valentina
 	Wella Winguricus
+	Ysabel
 }
 
 army_names = {

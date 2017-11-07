@@ -1,6 +1,6 @@
 #521 - Kathiawar
 
-owner = MAr
+owner = MAR
 controller = MAR
 add_core = MAR
 culture = gujarati

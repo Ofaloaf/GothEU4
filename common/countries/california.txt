@@ -1,0 +1,141 @@
+# California
+
+graphical_culture = westerngfx
+
+colonial_parent = LUS
+random_nation_chance = 0
+
+color = { 211 211 211 }
+
+historical_idea_groups = {
+	plutocracy_ideas
+	trade_ideas
+	economic_ideas
+	defensive_ideas
+	maritime_ideas
+	administrative_ideas
+	offensive_ideas
+	quantity_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	chevauchee
+	western_longbow
+	gaelic_mercenary
+	gaelic_free_shooter
+	french_caracolle
+	irish_charge
+	anglofrench_line
+	french_dragoon
+	british_redcoat
+	british_hussar
+	british_square
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Alexander #0" = 30
+	"Julius #0" = 30
+	"Nicholaus #0" = 30
+	"Tiberius #0" = 20
+	"Claudius #0" = 20
+	"Romulus #0" = 10
+	"Salomon #0" = 10
+	"Theodericus #0" = 5
+
+	"Galla #0" = -5
+	"Julia #0" = -5
+	"Lydia #0" = -5
+	"Maria #0" = -5
+
+	"Abdias #0" = 0
+	"Abraham #0" = 0
+	"Alexius #0" = 0
+	"Andreas #0" = 0
+	"Antonius #0" = 0
+	"Aureolus #0" = 0
+	"Austremonius #0" = 0
+	"Benedictus #0" = 0
+	"Bonifacius #0" = 0
+	"Felix #0" = 0
+	"Ferreolus #0" = 0
+	"Georgius #0" = 0
+	"Gregorius #0" = 0
+	"Ignatius #0" = 0
+	"Innocentius #0" = 0
+	"Isaac #0" = 0
+	"Jedidias #0" = 0
+	"Lemuel #0" = 0
+	"Leonidas #0" = 0
+	"Lucas #0" = 0
+	"Lysander #0" = 0
+	"Marcus #0" = 0
+	"Marculus #0" = 0
+	"Mariolus #0" = 0
+	"Marius #0" = 0
+	"Martinus #0" = 0
+	"Maximus #0" = 0
+	"Petrus #0" = 0
+	"Paulus #0" = 0
+	"Patricius #0" = 0
+	"Philippus #0" = 0
+	"Remigius #0" = 0
+	"Romaeus #0" = 0
+	"Salvator #0" = 0
+	"Samuel #0" = 0
+	"Silas #0" = 0
+	"Stephanus #0" = 0
+	"Stilicho #0" = 0
+	"Thaddeus #0" = 0
+	"Theodorus #0" = 0
+	"Ulixes #0" = 0
+	"Urbanus #0" = 0
+	"Zephyrinus #0" = 0
+}
+
+leader_names = {
+	Apuleio Angelus "de Aillio" Alacampi Abbas Arbalistarius Apparitor Apotecarius Armiger Aurelius Agricola Aretinus
+	Bormanico Byrennius Barrarius Badulfus Barbatus Bituricensis Blundus Bonoius Brunus Burgensis Balbus Brocardus
+	Carioceco Cempso Calvus Caecilius Camerarius "de Campis" Cantor Canonicus Camellus Cardanus Cervinus Cochanovius 
+	Cusanus Cremonensis "de Cessolis" Caius
+	Dutentius Doderigus Diuitius
+	Estrabao Erpenius Eustachiu Eulerus Euphemius
+	Fabricius Fronto Ferratus Fierebrachius Fallopius
+	Grammaticus Gobio Galbaio "de Grangia" Granetarius Gulaffra Guido Guarnerius
+	Hondius Hugenius Hylacomylus
+	Lassus Lilius Lipsius Lusius
+	Macer Morinus Morus Miles
+	Novus
+	Ophiuso
+	Pésure Piscator Pelliparius Paruus Ponderator Plancius Purbachius
+	Runesocésio Regiomantus Rhodius Rivetus
+	Salqiu Sévio Scholasticus Syluanectensis Sigonius Stadius Syncerus
+	Tongoenabiago Treborunnis Taporo Talliator "de Tanaia" Tillaeus
+	Varro Vindulator Vardaeus Venator Vesalius
+}
+
+ship_names = {
+	Ares Aernus Albucelainco Arabo Aracus Ataegina
+	Bandua Bormanicus Berengarius
+	Commodus Caritas Cabuniaegenis Canderberonio Cariocecus Carneus Cauleces Coronus Cronus Coso
+	Dercetius Duberdicus Durius
+	Endovelicus Edovio Eniragillo Epona Erbina Elias
+	Frovida
+	Igaedo Illustris Ingenuus Ilerbeda
+	Janus
+	Laepo Laho Laneana Laraucus Lucubo Lurunis
+	Minerva Moelio Morcilo Munidis "Miraro Samaco"
+	Nabia Neto
+	Oddyseus Ocaere
+	Quangeio
+	Reo Reue
+	"Sancta Maria" "Sanctus Andreas" "Sanctus Marcus" "Sanctus Lucas" "Sanctus Paulus" "Sanctus Petrus" "Sanctus Iohannes"
+	"Sanctus Anacletus" "Sanctus Zephyrinus" "Sanctus Leo" "Sanctus Christophorus" "Sanctus Stephanus"
+	Tameobrigus Tongoe Trebaruna Turiacus Trebopala Taurus
+	Verore
+	Zephyrius
+}

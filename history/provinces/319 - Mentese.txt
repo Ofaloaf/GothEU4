@@ -1,10 +1,10 @@
-#319 - Mentese
+#319 - Mentese / Caria
 
 owner = THR
 controller = THR
 culture = macedonian
 religion = catholic
-capital = "Mughla"
+capital = "Mylasa"
 trade_goods = cloth
 hre = no
 base_tax = 3 

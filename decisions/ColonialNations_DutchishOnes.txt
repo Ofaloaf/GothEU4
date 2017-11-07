@@ -12,8 +12,8 @@ country_decisions = {
 			is_nomad = no
 			is_random_new_world = no
 			OR = {
-				culture = dutch
-				culture = oostfranken
+				primary_culture = dutch
+				primary_culture = oostfranken
 			}		
 			NOT = {
 				OR = {
@@ -130,8 +130,8 @@ country_decisions = {
 				}
 			}
 			OR = {
-				culture = dutch
-				culture = oostfranken
+				primary_culture = dutch
+				primary_culture = oostfranken
 			}
 			OR = {
 				ai = no

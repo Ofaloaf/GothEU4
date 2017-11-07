@@ -1,5 +1,5 @@
 government = republican_dictatorship
 technology_group = western
 religion = orthodox
-primary_culture = liunesan
+primary_culture = gautes
 capital = 778	# Santa María del Buen Ayre

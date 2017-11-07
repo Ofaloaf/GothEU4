@@ -1,4 +1,4 @@
-#64 - Straubing (includes Passau)
+#64 - Straubing (includes Passau) / Batavis
 
 owner = RNT
 controller = RNT

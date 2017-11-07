@@ -1,0 +1,5 @@
+868 = "Okumura"		# Oak Village
+869 = "Matsu Hanto"	# Pine Peninsula
+871 = "Budo-sho"	# Grapes Village
+1997 = "Nakado"		# Midway.
+2021 = "Kinyama"	# Gold Mountain

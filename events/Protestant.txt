@@ -106,9 +106,8 @@ country_event = {
 		modifier = {
 			factor = 8.0
 			OR = {
-				culture_group = vlach_group
+				culture_group = byzantine
 				culture_group = south_slavic
-				culture = turkish
 			}
 		}
 	}

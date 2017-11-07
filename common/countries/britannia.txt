@@ -62,6 +62,7 @@ monarch_names = {
 	"Awstin #0" = 0
 	"Beliatus #0" = 0
 	"Caratauc #0" = 0
+	"Deodatus #0" = 0
 	"Dewidd #0" = 0
 	"Dionysius #0" = 0
 	"Donal #0" = 0
@@ -106,26 +107,32 @@ monarch_names = {
 }
 
 leader_names = {
-	Addedmarol Artran Androgus Aldus
-	Breichnir Boibont Bailbiret Berdicguent "di Bannatia" Barbtruc Bledudo
+	Addedmarol Artran Androgus Aldus Anianus Abbas
+	Breichnir Boibont Bailbiret Berdicguent "di Bannatia" Barbtruc Bledudo Bletherus "di Buldwas"
 	Corw Clentsin Coelan Comro Cybidd Clig "di Calleva" Cornovius Cantiag Casiguellan Custenhinan Coilus Capoir
+	Cappellanus Cellerarius Conuersus Cantor
 	Dunantu Dysbellur "di Durnovaris" "di Dincamol" "di Deva"
-	"di Ebriog" "di Eblaid"
+	Espus "di Ebriog" "di Eblaid"
 	Ffereir Ffeirth Ffuneir
-	Gwirdd Glasobrin Gryffid Glythun Gwenadur Gwefer Gabrantovig Guotadin "di Gloui" "di Guenta" Goronwy Gorviniaw Gurguiricius
-	Iewen Iguret Imanguentan
+	Gwirdd Glasobrin Gryffid Glythun Gwenadur Gwefer Gabrantovig Guotadin "di Gloui" "di Guenta" Goronwy Gorviniaw 
+	Gurguiricius "di Goinet" Geruasius
+	Hescerrin
+	Iewen Iuguret Imanguentan
 	Jaygo
-	Llewan "di Loidis" "di Lunguvall" Llydwig Llineir "di Lindinis" "di Lerion" Llefelys
-	Martius "di Mancastrel" Moelmut Meddig Mandubragan Magmeil Mabascan
-	Nepus Noguant
+	Kaduganus "di Keueiliauc"
+	Llewan "di Loidis" "di Lunguvall" Llydwig Llineir "di Lindinis" "di Lerion" Llefelys "di Lanternia" "di Llineguestl"
+	Laurentius Lewelinus
+	Martius "di Mancastrel" Moelmut Meddig Mandubragan Magmeil Mabascan Morganus Meilerus
+	Nepus Noguant Niger
 	Ordofig
-	Pab Protictoris Penrhys Prefder Pereirin Paddedo
+	Pab Protictoris Penrhys Prefder Pereirin Paddedo Possernin Paruus Preco
 	Quidgerey
-	Rhedun Rhoch Rhiu
-	Serw Silwri Seisyll
-	Trammelpila Tegdouerd "de Tuesis" "di Tamia" Tudorig Trahaearn Tennancius
-	"di Uxella"
-	Yniwr
+	Rhedun Rhoch Rhiu Rieredus Resus Ruwatlanus Ruffus
+	Serw Silwri Seisyll Sacerdos Senascallus "di Strattywi" Seis
+	Trammelpila Tegdouerd "de Tuesis" "di Tamia" Tudorig Trahaearn Tennancius Tollasius
+	Urbanus "di Uxella"
+	Worganus
+	Yniwr Yeuuaf
 }
 
 ship_names = {
@@ -144,16 +151,16 @@ ship_names = {
 	Juliana
 	Kimbelinus Kimarcus Kinarius Kenetus
 	Londinium Lindum Lemanis Locrinus "Lucius Imperator" Leudonus
-	Millus "Maxima Caesariensis" "Magnus Maximus" Mempricius Marganus Morvidus Merianus Marius "Mons Badonicus" Marganus Marcia Maponos
+	Millus "Maxima Caesariensis" "Magnus Maximus" Mempricius Morvidus Merianus Marius "Mons Badonicus" Marganus Marcia Maponos
 	Oenus Octavius "Ostorius Scapula"
 	Peredurus "Portus Dubris" Porrex Prasutagus Pinner Penalun "Pabius Rex"
 	Rutupiae Regulbium Rivallo Redechius Rudaucus Rivaldus Riothamus Rodericus
 	Seniciana "Saeth Augustinus" "Saeth Pelagius" Sisillius "Saeth Vortimerus" "Saeth Dubricius" "Suetonius Paulinus" Seneca Staterius
-	"Saeth Ursula" Saturnus "Saeth Canna" "Saeth Crallus" "Saeth Iltutus" "Saeth Davidus" "Saeth Dubricius" "Saeth Daniolus"
+	"Saeth Ursula" Saturnus "Saeth Canna" "Saeth Crallus" "Saeth Iltutus" "Saeth Davidus" "Saeth Daniolus"
 	"Saeth Telianus" "Saeth Oudoceus" Solomus "Saeth Cunocius"
 	Theonus Tenvantius Tancogeistla Theodora
 	Urianus Urbanus
-	Verlamium Valentia "Venta Icenorum" Volusenus Vortiporius Victoria Vitalis
+	Verulamium Valentia "Venta Icenorum" Volusenus Vortiporius Victoria Vitalis
 	Ygerna
 }
 

@@ -1,10 +1,10 @@
-#2297 - Saruhan
+#2297 - Saruhan / Lydia
 
 owner = THR
 controller = THR
 culture = rummen
 religion = catholic
-capital = "Manisa"
+capital = "Sardis"
 trade_goods = cotton
 hre = no
 base_tax = 4 

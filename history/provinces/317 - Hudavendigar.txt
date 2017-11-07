@@ -1,4 +1,4 @@
-#317 - Bursa
+#317 - Prusa/Bursa
 
 owner = THR
 controller = THR

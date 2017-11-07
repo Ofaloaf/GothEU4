@@ -2,7 +2,7 @@
 
 owner = SPM
 controller = SPM
-capital = "Pau"
+capital = "Beneharnum"
 is_city = yes
 culture = aquitanian
 religion = catholic

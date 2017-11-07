@@ -2,8 +2,8 @@
 
 owner = VBG
 controller = VBG
-capital = "Galich"
-culture = bolghar
+capital = "Galitš"
+culture = mordvin
 religion = catholic
 trade_goods = salt
 hre = no

@@ -10,7 +10,7 @@ base_tax = 2
 base_production = 2
 trade_goods = wine 
 base_manpower = 1
-capital = "Logroño"
+capital = "Vareia"
 estate = estate_nobles
 is_city = yes
 

@@ -2,7 +2,7 @@
 
 owner = SPM
 controller = SPM
-capital = "Ruthenia"
+capital = "Ruthenorum"
 is_city = yes
 culture = arvernian
 religion = catholic

@@ -10,7 +10,7 @@ base_production = 6
 trade_goods = iron 
 base_manpower = 5
 fort_15th = yes #Hochosterwitz Castle
-capital = "Klagenfurt" 
+capital = "Celovec" 
 is_city = yes
 hre = no
 

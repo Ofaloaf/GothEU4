@@ -113,25 +113,25 @@ leader_names = {
 }
 
 ship_names = {
-	Avalonia "Ambrosius Aurelianus" Agricola "Aulus Plautius" Apollinaris
-	Britannia Boudicca Brutus
-	Cambria Cornubia Constantinus Ceint Caratacus Cerialis
-	Dumnonia Durnovaria "Deva Victrix" Durotrigia
+	Avalonia "Ambrosius Aurelianus" Agricola "Aulus Plautius" Apollinaris Anderidos
+	Britannia Boudicca Brutus Bannaventa
+	Cambria Cornubia Constantinus Ceint Caratacus Cerialis Caesaromagus
+	Dumnonia Durnovaria "Deva Victrix" Durotrigia Durolitum Durocobrivis
 	Excalibur Eboracum Elmetia Eugenius Edobichus
 	"Flavia Caesariensis"
 	Glevum "Gloria Iceni" Guotepauc Gemina Grattius Gildas
 	Honorius "Hosidius Geta"
 	"Julius Frontinus"
-	Londinium Legio
-	"Maxima Caesariensis" "Mons Badonicus" "Magnus Maximus" Monapia "Mons Graupius"
-	Noviomagus Nemesianus Nennius Nebiogastes
+	Londinium Legio Lactodurum
+	"Maxima Caesariensis" "Mons Badonicus" "Magnus Maximus" Monapia Magiovinium
+	Noviomagus Nemesianus Nennius Nebiogastes "Novus Portus"
 	Ordovicia
-	Pelagius Pabo Penuchel
+	Pelagius Pabo Penuchel Pontes
 	"Quintus Veranius"
-	Rhegin
-	Siluria "Saeth Alban" "Saeth Gregorius" "Saeth Palladius" "Saeth Augustinus" "Saeth Theonus"
-	"Titus Sabinus" Togodumnus Tamesis
-	Victoria Vectis "Valeria Victrix" Verica
+	Rhegin Ratae
+	Siluria "Saeth Alban" "Saeth Gregorius" "Saeth Palladius" "Saeth Augustinus" "Saeth Theonus" "Saeth Andreas"
+	Tripontium "Titus Sabinus" Togodumnus Tamesis
+	Victoria Vectis "Valeria Victrix" Verica Venonis
 }
 
 army_names = {

@@ -1,0 +1,92 @@
+# Murom
+
+graphical_culture = easterngfx
+
+color = { 77 146 134 }
+
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	economic_ideas
+	quantity_ideas
+	diplomatic_ideas
+	quality_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	druzhina_cavalry
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+monarch_names = {
+	"Mordvinko #1" = 20
+	"Setyamka #0" = 15
+	"Tylmache #0" = 15
+	"Tutyra #0" = 10
+	"Kubrat #1" = 10
+	"Chumbulat #0" = 10
+	"Deryab #0" = 5
+
+	"Shonzhava #1" = -5
+	"Litava #0" = 0
+
+	"Chichayka #0" = 0
+	"Elias #0" = 0
+	"Epiphianus #0" = 0
+	"Kichay #0" = 0
+	"Matvei #0" = 0
+	"Paksyay #0" = 0
+	"Pauli #0" = 0
+	"Pivtsay #0" = 0
+	"Purgaz #0" = 0
+	"Shindyay #0" = 0
+	"Tapani #0" = 0
+	"Tyushtya #0" = 0
+	"Uchva #0" = 0
+	"Vechkas #0" = 0
+}
+
+leader_names = {
+	Alhoniemi Aini
+	Beke Beskond
+	Cherem Cherdyn
+	Erzinen
+	Froni
+	Inzhayinen
+	Kum Kubratinen Kardazinen Koskinen
+	Meshchera Merä Murunzinen
+	Napolskikh Nuyakshinen
+	Pronskinen
+	Qaratay
+	Rahkonen
+	Shoshko Sum Saran Saarikivi Savolainen
+	Tanakh Teryukhan Tyushtyinen
+}
+
+ship_names = {
+	"Azra-Va" Aamu
+	Chindyapa Chitska
+	Iapheth
+	Kunava "Kúgu Táu"
+	Meschiera Meren "Mardezh Yumo" Mut
+	"Osh Kugu Yumo"
+	Rostislava
+	Sinyava Sangasa Sarantay
+	"Tul Yumo"
+}

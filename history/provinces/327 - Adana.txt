@@ -1,10 +1,10 @@
-#327 - Adana
+#327 - Adana / Cilicia
 
 owner = ALP
 controller = ALP
 culture = rummen
 religion = catholic
-capital = "Adana"
+capital = "Sisia"
 trade_goods = cotton
 hre = no
 base_tax = 4 

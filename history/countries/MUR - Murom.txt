@@ -1,0 +1,19 @@
+# Murom
+
+government = despotic_monarchy
+primary_culture = mordvin
+religion = catholic
+technology_group = eastern
+capital = 1754
+
+1387.6.11 = {
+	monarch = {
+		name = "Shonzhava I"
+		dynasty = "Pronskid"
+		female = yes
+		birth_date = 1335.12.2
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}

@@ -1,10 +1,11 @@
 #3002 - Southern part of Vrhbosna + some lands in modern Serbia
+# Domavia / Domavium
 
 owner = THR
 controller = THR
 culture = dalmatian
 religion = catholic
-capital = "Visoki"
+capital = "Domavium"
 trade_goods = grain
 hre = no
 base_tax = 2

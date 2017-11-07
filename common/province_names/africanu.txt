@@ -12,6 +12,7 @@
 2558 = "Fluminanas"
 
 # Brazil
+748 = "Bethleem"
 763 = "Portus Januarius"
 2890 = "Interamnia"
 

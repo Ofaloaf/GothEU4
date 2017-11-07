@@ -29,6 +29,7 @@
 226 = "Mons Calpe"
 
 # Alleghania
+953 = "Ruminalis"
 958 = "Calpiana"
 962 = "Rancocus"
 963 = "Esopus"
@@ -36,13 +37,16 @@
 965 = "Novum Eboracum"
 2555 = "Numancia"
 2558 = "Fluminanas"
+2561 = "Palinurum"
 
 # Brazil
+748 = "Bethleem"
 763 = "Portus Januarius"
 2890 = "Interamnia"
 
 # Caribbean
 487 = "Sancta Gloria"
+491 = "Sicania"
 497 = "Dominica"
 498 = "Martinica"
 499 = "Sancta Lucia"
@@ -54,15 +58,44 @@
 2813 = "Novataga"
 
 # Florida
-927 = "Sanctus Augustinus"
-
-# Louisiana
-893 = "Cartagula"
-2014 = "Concordia"
+927 = "Sanctus Augustinus"	# St. Augustine
+2536 = "Vasconiola"		# 'Little Basque Country'. There's some history Spanish name in southern Florida related to the Basques, I forget what.
 
 # Mexico
+2628 = "Abarimon"
 2647 = "Veracrux"
 
+# Mississippi
+893 = "Cartagula"		# 'Little Carthage'
+895 = "Almo"
+2014 = "Concordia"
+
 # Ohio
+917 = "Oppidium Novum"
+944 = "Districtum"
 946 = "Novum Toletum"
-2520 = "Aegyptula"
+947 = "Castrasilva"		# 'Fort Forest'. Cleveland is the 'Forest City', so...
+948 = "Castrum Ripensis"
+2520 = "Aegyptulus"		# 'Little Egypt'
+
+# Patagonia
+780 = "Scallabitana"
+786 = "Baia Alba"		# 'White Bay', Bahia Blanca
+2863 = "Augustica"		# just making up some shit
+
+# Plattina
+772 = "Terra Beata"		# 'Blessed Land'. Not riffing on anything irl.
+773 = "Sancta Victoria"		# Santa Vittoria
+778 = "Bonaër"			# Latin for Buenos Aires, slightly garbled.
+779 = "Salatiola"		# 'Little Salatia', Alcácer do Sal
+2847 = "Ludovicum"
+2848 = "Sancta Fides"		# Latin for Santa Fe.
+2849 = "Pagus Arrugius"		# Rosario was originally 'Pago de los Arroyos', land of the streams. Arroyo is from vulgar latin Arrugium.
+2850 = "Ovidium"		# named after St. Ovidius, a possible namesake of Montevideo
+2851 = "Colonia"		# Colonia.
+2852 = "Saltum"			# Salto
+2861 = "Scipiana"
+2877 = "Vicus Civicus"		# Village of Civics. Making up shit.
+
+# Yucatan
+845 = "Iarbas"

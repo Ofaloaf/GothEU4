@@ -3,41 +3,18 @@
 # FEMALE ADVISORS
 #
 ##################################################   
-#philosopher
-#natural_scientist
-#artist
-#statesman
-#treasurer 
-#naval_reformer
-#army_reformer 
-#trader
-#theologian 
-#spymaster 
-#colonial_governor 
-#diplomat
+# philosopher
+# natural_scientist
+# artist
+# statesman
+# treasurer 
+# naval_reformer
+# army_reformer 
+# trader
+# theologian 
+# spymaster 
+# colonial_governor 
+# diplomat
 ##################################################    
 # Range: 1600-1650
 ##################################################
-
-advisor = {
-	advisor_id = 1630
-	name = "Pocahontas" #Emmisary between settlers and natives
-	location = 950 #Powhatan
-	skill = 2
-	type = diplomat
-	female = yes
-	date = 1610.1.1 #~18 years old
-	death_date = 1617.3.21 #dies
-}
-
-advisor = {
-	advisor_id = 1632
-	name = "Nanye-hi" #AKA Nancy Ward. Cherokee prophetess who led warriors when at war and headed councils when at peace
-	location = 935 #Cherokee
-	skill = 1
-	type = statesman 
-	female = yes
-	date = 1756.1.1 #18 years old
-	death_date = 1763.2.10 #Province owned by the English
-}
-

@@ -160,7 +160,7 @@ country_event = {
 			factor = 8.0
 			OR = {
 				culture_group = carthagennan_group
-				culture = turkish
+				culture_group = byzantine
 			}
 		}
 	}

@@ -1,4 +1,4 @@
-﻿french_revolution = {
+french_revolution = {
 	potential = {
 		NOT = { has_country_flag = had_revolution }
 		tag = FRC

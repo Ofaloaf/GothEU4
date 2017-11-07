@@ -1,0 +1,1664 @@
+namespace = namechange_GTH
+
+province_event = {
+	id = namechange_GTH.1
+	title = namechange_GTH.1.t
+	desc = namechange_GTH.1.d
+	picture = EXPLORERS_eventPicture
+
+	#is_triggered_only = yes		# on_province_owner_change should fire when an unclaimed province is colonized, right?
+	hidden = yes
+
+	trigger = {
+		NOT = { has_province_flag = rename_GTH }
+		owner = {
+			culture_group = gothic_group
+		}
+		has_owner_culture = yes
+	}
+
+	mean_time_to_happen = {
+		days = 1	# whatever
+	}
+
+	option = {
+		name = "EVTOPTACOLONYNAMES"
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 367
+				NOT = { has_province_flag = rename_GTH }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Sent Amfion"
+			set_province_flag = rename_GTH
+		}
+
+
+		# Alleghania ####################################################
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 953
+				NOT = { has_province_flag = rename_GTH }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Senta Ana"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 954
+				NOT = { has_province_flag = rename_GTH }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Acre"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 955
+				NOT = { has_province_flag = rename_GTH }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Vila Ainrici"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 956
+				NOT = { has_province_flag = rename_GTH }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Betelèm"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 957
+				NOT = { has_province_flag = rename_GTH }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Lupium"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 958
+				NOT = { has_province_flag = rename_GTH }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Arcturus"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 962
+				NOT = { has_province_flag = rename_GTH }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Fòrt Guilielmus"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 963
+				NOT = { has_province_flag = rename_GTH }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Vila Safraci"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 964
+				NOT = { has_province_flag = rename_GTH }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Esopus"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 965
+				NOT = { has_province_flag = rename_GTH }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Nau Bordèu"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 967
+				NOT = { has_province_flag = rename_GTH }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Nau Refugi"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 968
+				NOT = { has_province_flag = rename_GTH }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Trimontium"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2010
+				NOT = { has_province_flag = rename_GTH }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Fòrt Místic"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2013
+				NOT = { has_province_flag = rename_GTH }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Nau Rotomagus"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2553
+				NOT = { has_province_flag = rename_GTH }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Vila Quintili"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2554
+				NOT = { has_province_flag = rename_GTH }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Eleusa"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2555
+				NOT = { has_province_flag = rename_GTH }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Nemacolin"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2557
+				NOT = { has_province_flag = rename_GTH }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Nauva Antioca"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2558
+				NOT = { has_province_flag = rename_GTH }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Vila Berigi"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2560
+				NOT = { has_province_flag = rename_GTH }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Nauport"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2561
+				NOT = { has_province_flag = rename_GTH }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Efraïm"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2639
+				NOT = { has_province_flag = rename_GTH }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Vila Pavoni"
+			set_province_flag = rename_GTH
+		}
+
+
+		# Appalachia ###########################################################
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 918
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Siló"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 929
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Romanica"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 930
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Terminus"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 931
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Atenas"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 932
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Ciutadèla"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 933
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Bailijoc"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 937
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Amistat"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 938
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Pòrt Fons"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 949
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Vila Danieli"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 950
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Scigoa"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 952
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Ricamont"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2011
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Filadèlfia"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2537
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Vaudouta"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2538
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Nau Nivèrns"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2539
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Caireforc"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2540
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Béfô"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2542
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Nau Virdun"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2543
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Bonastre"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2544
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Lunivila"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2545
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Vila Peytris"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2546
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Cap Paur"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2547
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Alexandria"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2549
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Vila Jehanis"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2550
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Tiudrigobol"
+			set_province_flag = rename_GTH
+		}
+
+
+		# BRAZIL #################################################################
+
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 748
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Betleèm"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 753
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Riu Grand"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 757
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Illas de Sent Jorge"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 762
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Sent Tumas"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 763
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Riu de Gener"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 764
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Sent Amarus"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 765
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Minas General"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 766
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Nau Saliensa"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2857
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Pòrt Gaug"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2879
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Senta Maria"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2884
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Vila Laülfi"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2895
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Castèlh"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2907
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Vila Ubaldi"
+			set_province_flag = rename_GTH
+		}
+
+
+		# CALIFORNIA #############################################################
+
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 868
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Los Sents"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2021
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Sent Francés"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2479
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Naua Ingoleime"
+			set_province_flag = rename_GTH
+		}
+
+
+		# CANADA #################################################################
+
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 982
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Cap Naurdman"
+			set_province_flag = rename_GTH
+		}
+		# 987
+		# 992
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 994
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Mont Reial"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2584
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Laup de Reprobus"
+			set_province_flag = rename_GTH
+		}
+
+
+		# Carribean/CARIBBEAN ##############################################################
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 482
+				NOT = { has_province_flag = rename_GTH }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Eleutérha"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 484
+				NOT = { has_province_flag = rename_GTH }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Petropolis"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 485
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Ciutat Trinitat"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 486
+				NOT = { has_province_flag = rename_GTH }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Senta Caterina"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 487
+				NOT = { has_province_flag = rename_GTH }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Senta Gloria"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 488
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Espitau"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 489
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Sent Bartoumiéu"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 491
+				NOT = { has_province_flag = rename_GTH }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Ponça Amal"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 492
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Fènix"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 493
+				NOT = { has_province_flag = rename_GTH }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Sent Tumas"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 494
+				NOT = { has_province_flag = rename_GTH }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Sent Cristau"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 495
+				NOT = { has_province_flag = rename_GTH }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Naua Grava"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 496
+				NOT = { has_province_flag = rename_GTH }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Naua Blaiés"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 497
+				NOT = { has_province_flag = rename_GTH }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Blauvila"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 498
+				NOT = { has_province_flag = rename_GTH }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Sent Martin"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 499
+				NOT = { has_province_flag = rename_GTH }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Senta Lucia"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 500
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Sent Vicenç"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 501
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Sent Miquel"
+			set_province_flag = rename_GTH
+		}
+
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2654
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Sent Isidor"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2655
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Castèl d'Eliande"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2656
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Pòrt del Prince"
+			set_province_flag = rename_GTH
+		}
+
+
+		# EQUINOCTIALIA #####################################################################
+
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 830
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Antioquia"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 831
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Nova Palmyra"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2806
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Riuacha"
+			set_province_flag = rename_GTH
+		}
+
+
+		# FLORIDA ################################################
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 926
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Cap del Corrent"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 927
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Sent Agustin"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 928
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Apalachicola"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2533
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Chactansa"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2534
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Solelh Daurant"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2536
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Vasconiola"
+			set_province_flag = rename_GTH
+		}
+
+
+		# GUATEMALA ################################
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 838
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Blaucamps"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 839
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Sent Salvator"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 841
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Ainstanh Verd"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 842
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Hlors"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2635
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Sent Cristòl dels Casas"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2636
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Elisabetapolis"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2637
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Pòrt Cavals"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2638
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Triunf"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2649
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Li Sacral Còr"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2653
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Pòrt Falgario"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2662
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Ais del Palús"
+			set_province_flag = rename_GTH
+		}
+
+
+		# MEXICO ######################################################
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 843
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Vilabali"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 844
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Salina Crotz"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 847
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Pòrt Amagat"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 848
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Latzer"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 849
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Pòrt del Marquès"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 850
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Sent Pèitre de Tlaxcala"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 852
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Ciutat Messici"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 853
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Ciutat Guastiqi"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 854
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Sent Sebastian del Oèst"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 858
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Las Loiras"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2614
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Sautel"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 880
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Senta Fe"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 894
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Benrefugi"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2614
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Senta Caterina de la Val"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2619
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Torre Grande"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2628
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Sent Marcellin"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2630
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Sent Jacme de Catemac"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2631
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Ais Dolça"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2641
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Vila Lobuòu"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2644
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Naua Cesarcosta"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2647
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Averalcrotz"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2668
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Liyunet"		# Little Lyons
+			set_province_flag = rename_GTH
+		}
+
+
+		# MISSISSIPPI ############################################
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 893
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Naua Aurliani"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 900
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Sent Lozoïc"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 921
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Auma"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2014
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Natchitusha"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2513
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Boötes"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2516
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Ataiza"
+			set_province_flag = rename_GTH
+		}
+
+
+		# OHIO ####################################################
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 915
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Ciutat Jardin"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 939
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Bostra"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 940
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Aram"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 942
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Pusinius"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 943
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Nazaret"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 944
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Listrech"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 945
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Ciutat Gran Talh"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 947
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Ciutat Selva"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 948
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Nauacarcin"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 961
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Oiumula"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2520
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Tebas"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2521
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Vila Guillemi"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2523
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Jehanisvila"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2524
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Vairsalias"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2526
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Oliu Puèg"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2551
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "L'Assumpcion"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2552
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Nova Vesontio"
+			set_province_flag = rename_GTH
+		}
+
+
+		# TERRANOVA #############################################
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 980
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Sent Jehan"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 981
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Pòrt Roqòs"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2573
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Sent Peytre"
+			set_province_flag = rename_GTH
+		}
+
+
+		# TEXAS I MEAN TEJAS WHOOPS ##################################################
+
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 884
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Pòrt Jairich"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 885
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Amarellh"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 886
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Sent David de Montcarme"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 888
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Sent Jacint"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2498
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Nauasolyma"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2499
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Nau Hebron d'Abraham"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2666
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Del Riu"
+			set_province_flag = rename_GTH
+		}
+
+
+		# YUCATAN ###################################################
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 845
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Ciutat Cadartz"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2632
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Ciutat del Carme"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2633
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Turena"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2634
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "País Avesque"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2650
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "La Reformata"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2651
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Celèst"
+			set_province_flag = rename_GTH
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2652
+				NOT = { has_province_flag = rename_GTH }
+			}
+			rename_capital = "Luent"
+			set_province_flag = rename_GTH
+		}
+	}
+}
+
+
+# cleanup event for if/when a Gothic province is no longer owned by a Goth
+province_event = {
+	id = namechange_GTH.2
+	title = namechange_GTH.2.t
+	desc = namechange_GTH.2.d
+	picture = EXPLORERS_eventPicture
+
+	is_triggered_only = yes
+	hidden = yes
+
+	trigger = {
+		has_province_flag = rename_GTH
+		owner = {
+			NOT = { culture_group = gothic_group }
+		}
+	}
+
+	mean_time_to_happen = {
+		days = 1	# whatever
+	}
+
+	option = {
+		name = "EVTOPTACOLONYNAMES"
+		remove_province_flag = rename_GTH
+	}
+}

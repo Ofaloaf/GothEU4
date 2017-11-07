@@ -1,10 +1,10 @@
-#1828 - Donji Kraji
+#1828 - Donji Kraji / Servitium / Savia
 
 owner = ILY
 controller = ILY
 culture = dalmatian
 religion = catholic
-capital = "Jajce"
+capital = "Servitium"
 trade_goods = wool
 hre = no
 base_tax = 2 

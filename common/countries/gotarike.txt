@@ -121,14 +121,15 @@ ship_names = {
 	Beowulf "Bödvar Bjarki" Borås Birka Brömsebro Bohuslän
 	Carolus
 	Draken Dáinn Dvalinn Duneyrr Durathrór Dal
-	Egenäs
+	Egenäs Elefanten
 	Fagertärn Fegen Falkenburg Frida Fäktare Finnveden
 	Gothia Góinn Grafvitnir Grábakr Gullered Gustavus Gothus
 	Hornborgasjön Högvadsån Halmstad Handbörd
 	Isenhult
+	Jutehataren
 	Kolmården Kalmar Körmt Kerlaugar Kalvån Kungsbacka Korp Krigare Kinda
 	Loholmen Lif Lifthrasir Lagaholm
-	Móinn Möre
+	Móinn Möre "Mars Makalös"
 	Näck Norden Njudung
 	Oden Örmt Ófnir "Östra Frölunda"
 	Paganus

@@ -1,0 +1,155 @@
+# Patagonia
+
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+colonial_parent = LUS
+random_nation_chance = 0
+
+color = {  117 94 55 }
+
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	trade_ideas
+	economic_ideas
+	plutocracy_ideas
+	diplomatic_ideas
+	offensive_ideas
+	spy_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_longbow
+	gaelic_mercenary
+	gaelic_free_shooter
+	irish_charge
+	anglofrench_line
+	british_redcoat
+	british_hussar
+	british_square
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Aurelius #0" = 40
+	"Antonius #0" = 40
+	"Iohannes #0" = 25
+	"Victor #0" = 15
+	"Nigolago #0" = 10
+	"Agust #0" = 10
+
+	"Maria #0" = -5
+	"Miranda #0" = -5
+	"Teresa #0" = -5
+
+	"Abdias #0" = 0
+	"Abundantius #0" = 0
+	"Amentario #0" = 0
+	"Amphilocius #0" = 0
+	"Andreas #0" = 0
+	"Artemio #0" = 0
+	"Auriolus #0" = 0
+	"Beatus #0" = 0
+	"Benatus #0" = 0
+	"Bellito #0" = 0
+	"Bonon #0" = 0
+	"Braolio #0" = 0
+	"Cereial #0" = 0
+	"Cesarius #0" = 0
+	"Cassianus #0" = 0
+	"Conantius #0" = 0
+	"Cornelio #0" = 0
+	"Cresconio #0" = 0
+	"David #0" = 0
+	"Deodato #0" = 0
+	"Dominico #0" = 0
+	"Donnel #0" = 0
+	"Donno #0" = 0
+	"Dulcidio #0" = 0
+	"Felix #0" = 0
+	"Florentino #0" = 0
+	"Floridio #0" = 0
+	"Fortes #0" = 0
+	"Fortunio #0" = 0
+	"Frunimius #0" = 0
+	"Genadius #0" = 0
+	"Gricorio #0" = 0
+	"Heliseus #0" = 0
+	"Iaceo #0" = 0
+	"Iulius #0" = 0
+	"Lecinius #0" = 0
+	"Liberio #0" = 0
+	"Lucas #0" = 0
+	"Marcus #0" = 0
+	"Marius #0" = 0
+	"Matteus #0" = 0
+	"Maurellus #0" = 0
+	"Maxitus #0" = 0
+	"Nicanor #0" = 0
+	"Ordonius #0" = 0
+	"Pabius #0" = 0
+	"Pascuale #0" = 0
+	"Pater #0" = 0
+	"Pelagius #0" = 0
+	"Probus #0" = 0
+	"Quirico #0" = 0
+	"Romanus #0" = 0
+	"Sarracino #0" = 0
+	"Serenianus #0" = 0
+	"Taddeo #0" = 0
+	"Valerio #0" = 0
+	"Venancio #0" = 0
+	"Viator #0" = 0
+	"Violentus #0" = 0
+	"Vistruario #0" = 0
+	"Zacarias #0" = 0
+}
+
+leader_names = {
+	Aravo Alsina Aspina Alma Abolus Apidius Arvidio Azrec Annalus Ahala Aculeo Agricola Arvina Asellio
+	Bacarius Balla Ballello Bera Butapichún Balbus Barba Bassus Bestia Brocchus Bucco Buteo
+	Cauceno Caluro Calontinse Colarno "de Capara" Calfucurus Cuius Catrielis Cililia Citi Cosendinus Cricorium Collio Colocolus Curignancus Caepio Calvinus Calvus Capito
+	Carbo Cilo Cethegus Cinna Cornicen Cornutus Costa Cotta Culleo
+	Dalea Dento Deodavi Dives Dolabella Dorsuo
+	Elbocoro Eizac Elpidius Ervigius Evare
+	Fabricius Fronto Felzano Filoria Foracasas Fornarius Flaccus Fimbria Figulus Fullo
+	Gemel Gisellus Galeo Glabrio Gurges Grammaticus
+	Huenucalquin Helva
+	Iderales Isciame Iscipio Iubandus Iubla Iullus
+	Leodibicus Lubla Lunes Lautaro Labeo Lactuca Laenas Libo Lurco Lucullus Longus
+	Mela Menendo Magito Materno Maurane Mauratelle Mauronta Mayrelli Mentius Muza Monioni Michimaloncus Metellus Merula Messalla Murena Mus Musca
+	Namuncurus Nangoniel Nasica Naso Natta Nepos Novellus
+	Osuna Oranius Ocella
+	Pesuro Palanto Pires Pepi Pilotti Presentio Pruenze Plaza Pelantarus Pansa Papus Pacilus Pavo Pera Pictor Piso Pulcher
+	Quenta Quepuantus
+	Rabaldes "de Ripa" Ralla Rufus Ruga
+	Sater Sando Sonna Salinator Scaeva Scaevola Scapula Scrofa Silanus Silo Stolo Sura
+	Taluro Taporo "de Tamusia" Tango "de Turgalio" Tagel Teodinus Todredus Teton Tubero Tubulus Tullus
+	Viriado Valdeo Velasconi Varro Vatia Verres
+	Zaiton Zanitu Zarinus Zezzon Zonius
+}
+
+ship_names = {
+	Araucania Artemidorus Aldonza Auria Aurofilo Anastasium
+	Bornazela
+	Celebritas Celer
+	Endovelicus Enderquina
+	Frádulo
+	Gileta Gordana Guarona Graciosa
+	Iuppiter
+	Jimena
+	Lupa
+	Maule Margarida Margo Marieta Miranda Mafalda Mencia
+	Naudina Nitona
+	Patagonia Paula Penota Pevela Peyrona Plazensa Paterna
+	Sazia Servanda
+	Tegrida Toda
+	Urraca
+}

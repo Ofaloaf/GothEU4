@@ -1,4 +1,4 @@
-government = tribal_monarchy
+government = tribal_kingdom
 primary_culture = cahokian
 religion = nahuatl
 technology_group = north_american

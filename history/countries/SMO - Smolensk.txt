@@ -4,3 +4,14 @@ religion = catholic
 technology_group = eastern
 capital = 293	# Smolensk
 fixed_capital = 293 # Cannot move capital away from this province & no power cost to move to it
+
+1373.5.27 = {
+	monarch = {
+		name = "Matti II"
+		dynasty = "Savolainen"
+		birth_date = 1362.5.26
+		adm = 4
+		dip = 3
+		mil = 1
+	}
+}

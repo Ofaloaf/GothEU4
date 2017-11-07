@@ -1,5 +1,5 @@
 government = despotic_monarchy
-primary_culture = quechua
+primary_culture = inca
 religion = inti
 technology_group = andean
 unit_type = south_american

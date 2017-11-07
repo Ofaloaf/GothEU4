@@ -1,0 +1,124 @@
+# Gwercryg / 'Vera Crux'
+
+graphical_culture = westerngfx
+
+color = { 71 139 83 }
+
+colonial_parent = LOE
+
+historical_idea_groups = {
+	administrative_ideas
+	exploration_ideas
+	quality_ideas
+	maritime_ideas
+	economic_ideas
+	expansion_ideas
+	trade_ideas
+	naval_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_longbow
+	gaelic_mercenary
+	gaelic_free_shooter
+	irish_charge
+	anglofrench_line
+	british_redcoat
+	british_hussar
+	british_square
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Pedr #0" = 50
+	"Gereint #0" = 35
+	"Padrig #0" = 30
+	"Gion #0" = 30
+	"Dewidd #0" = 25
+	"Eirlan #0" = 20
+	"Mewrig #0" = 15
+
+	"Elen #0" = -1
+	"Genovefa #0" = -5
+	"Nest #0" = -3
+	"Sibyl #0" = -5
+
+	"Aleisandr #0" = 0
+	"Calweir #0 " = 0
+	"Clotual #0" = 0
+	"Cristian #0" = 0
+	"Dunat #0" = 0
+	"Enrhig #0" = 0
+	"Ewein #0" = 0
+	"Garmon #0" = 0
+	"Gioffri #0" = 0
+	"Gregor #0" = 0
+	"Hewel #0" = 0
+	"Iago #0" = 0
+	"Iewen #0" = 0
+	"Iosep #0" = 0
+	"Lannildut #0" = 0
+	"Llawreint #0" = 0
+	"Migangel #0" = 0
+	"Pawl #0" = 0
+	"Rhyssin #0" = 0
+	"Serigi #0" = 0
+	"Teilo #0" = 0
+	"Theonus #0" = 0
+	"Timothew #0" = 0
+	"Voteporig #0" = 0
+	"Ysteffan #0" = 0
+	"Ystin #0" = 0
+	"Yuil #0" = 0
+}
+
+leader_names = {
+	Addedmarol Arff Arient
+	Beisrudd Boibont Brecryg Barfeir Blanc Blun Brê Bryn 
+	Casiguellan Cligg Cybidd Canell Canyd Carod Castell Ceisin Ceres
+	Dwywan "di Defed" Dui Dysbellur Deid Dent Doeth
+	Emerid
+	Fferreir Ffer
+	Gwilelm Glasobrin Gabrantovig Glas Glythun Gris
+	Iuguret
+	Llewan Llefan Llyddwig
+	Maggyll Maor Magr "di Magi" Meddig Molineir Muin Mandubragan Mostyn
+	Nepus Noguant
+	Pomhui Prefder Penrhys Pengras
+	Rhui Rhoch
+	Silwre
+	Tramethig Trammelpila Tegouerd Trinoguant
+	Urs
+	Yniwr Yrffawr
+}
+
+ship_names = {
+	Angel "Albania Nova" Annarfinabl Arddent Arein Arient Astyd Athen Assalt Asselir Atlenhidd Awenyrus
+	Benlligad Bellatrix Bondad "Bon Bonud" "Bon Brad" Briw Bugun Buidd Benedictus "Bon Cad" "Bon Greg"
+	Cafelleir Calltfent Calýn Câr Carfungwiw Caruisif Castell Catafol Ceisin Cerw Cleidd Cofaeth Colant
+	Despeith Destruithiwn Dewdiwn Dewin Dewrad Dilyw Disciblin Dônig Dragun Dunediwn Dyr
+	Ebostol EbrilEfigdad Eleithurad Eloghent Elys Essegydiwn
+	Ffer Ffafus Ffalseir Ffanastig Fferug Ffalchun Ffeir Ffeirth Ffinystiw Ffog
+	Geiddad Gioddediwn "Geiddus Glob" Grandad Greidus Gwalurun Gury Grydyddin Gwener Gwenhyr
+	Heron
+	Pindorama
+	Nîr
+	Ourdolat
+	"Saeth Cryg" "Saeth Palladius" "Saeth Padrig" "Saeth Columbanus"
+	Tarfin "Ill Terruin" Tarribl Taran Tebent Temhest Toisag Torchlen Trinidad Tudbodent
+	Vindex Victor
+	Yddigfent Yndad Yscelleint Yscinhell Yspecial Yspirid Ystiwlan
+}
+
+army_names = {
+	"Yysserchid di $PROVINCE$"
+}
+
+fleet_names = {
+	"Eiscair di $PROVINCE$" # for all the sperginess of Ill Bethisad, I can't find a Brithenig word for "navy", "fleet" or "squadron". Rowans made up something instead!
+}

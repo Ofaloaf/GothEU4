@@ -48,7 +48,6 @@ monarch_names = {
 	"Ayamuynuex #0" = 10
 	"Guamá #0" = 10
 	"Guarocuya #0" = 10
-	"Jumacao #0" = 0
 
 	"Anacaonacacica #0" = -10
 	"Casiguaya #0" = -5

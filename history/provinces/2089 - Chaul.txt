@@ -2,7 +2,7 @@
 
 owner = I02
 controller = I02
-add_core = I0
+add_core = I02
 culture = marathi
 religion = hinduism
 capital = "Chaul"

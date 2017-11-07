@@ -1,4 +1,4 @@
-# 84 - Berg
+# 84 - Berg / Thusila
 
 owner = RPA
 controller = RPA
@@ -6,7 +6,7 @@ add_core = RPA
 culture = old_gothic
 religion = catholic
 trade_goods = cloth
-capital = "Düsseldorf"
+capital = "Thusila"
 base_tax = 3
 base_production = 3
 base_manpower = 1

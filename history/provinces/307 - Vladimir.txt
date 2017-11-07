@@ -1,7 +1,7 @@
 #307 - Vladimir
 
-owner = VBG
-controller = VBG 
+owner = MUR
+controller = MUR 
 culture = mordvin
 religion = catholic
 hre = no
@@ -9,9 +9,9 @@ base_tax = 7
 base_production = 7
 trade_goods = iron  
 base_manpower = 7
-capital = "Vladimir"
+capital = "Suur-Valto"
 is_city = yes
-add_core = VBG
+add_core = MUR
 
 
 

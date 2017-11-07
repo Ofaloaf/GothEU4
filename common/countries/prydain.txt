@@ -86,44 +86,48 @@ monarch_names = {
 	"Tristan #0" = 0
 	"Tudor #0" = 0
 	"Urien #0" = 0
-	"Vaughan #0" = 0
 }
 
 leader_names = {
-	Addedmarol Anwyl
-	Bevan Benfras Bach Brycheiniog Beli Brydydd Bryffwrch
-	Cadarn Ceri Cyfeiliog Cadwaladr
-	Daron Ddu Dyfi
-	Foel Fychan Ffrangcon
-	Gwyn Gough Gorlech Gryg Gethin Glyn Gwr Goch Glodrydd
-	Huws
-	Ifans
+	Addedmarol Anwyl Adoyre Aniud Argantmoet Anaoc
+	Bevan Benfras Bach Brycheiniog Beli Brydydd Bryffwrch Bychan Brogintun Brithael
+	Cadarn Ceri Cyfeiliog Cadwaladr Criu Ceisiad Cethin Coch Crydd Conredeu Cenmin
+	Daron Ddu Dyfi Dofagan
+	Espus "ab Einws"
+	Foel Fychan Ffrangcon Fflam Frioc
+	Gwyn Gough Gorlech Gryg Gethin Glyn Gwr Goch Glodrydd Gwreang Grifinus Glaswen Gurdilic Gurheter Gurbodus
+	Huws Hir Hiruein
+	Ifans Iarnguallon "ap Ithell"
+	Kog Karadocus Kenig
 	Llewellyn Llwyd Llaety
-	Madog Mostyn Mechain Môn Morgannwg
+	Madog Mostyn Mechain Môn Morgannwg Mamaeth Moel Meilyr Milcenoc Mor
 	Nanmor
 	Offeiriad
-	Pugh
-	Rhys Rhoch Rhyfel
-	Sais Swrdwal
-	Tew "Tad Awen"
-	Wan Wen
+	Pugh Penkelli Picotus Putrael
+	Rhys Rhoch Rhyfel Rieredus Resus Rinduran
+	Sais Swrdwal Saer Seithmarchog Salenn
+	Tew "Tad Awen" Terfyst Toppan Tollasius Tanwr
+	Wan Wen Woru Worganus
 }
 
 ship_names = {
-	Bedwyr Brycheiniog
-	Cadwaladr Caerdydd Caernarfon Caradoc Ceredigion Conwy Culhwch  
-	"Dewi Sant" Ddraig Deheubarth Dolbadarn Dolwyddelan Dyfed Dyserth
-	Eryri
-	Glywysing Gwalchmei "Gwenan Gorn" Gwydion Gwyn Gwynedd "Gwasanaeth Mair"
-	Henfynyw
-	Lleu "Llewellyn Fawr"
-	Mabinogi Math Meirionydd Morgannwg
+	Arganteilin "Argoed Llwyfain" Aneirin "Arddyn Benasgel" Artaca Anaudat Aedoc
+	Bedwyr Brycheiniog Branwen "Ben Beirdd" "Brochwel Ysgithrog"
+	Cadwaladr Caerdydd Caernarfon Caradoc Ceredigion Conwy Culhwch Cenau "Cian Gwenith Gwawd" Catguistl
+	Daicus "Dewi Sant" Ddraig Deheubarth Dolbadarn Dolwyddelan Dyfed Dyserth Diuset
+	Eryri Euroswydd Ewsannec
+	Fflamddwyn
+	Glywysing Gwalchmei "Gwenan Gorn" Gwydion Gwyn Gwynedd "Gwasanaeth Mair" Guenmon Gloiucen Guenguerthlon
+	Henfynyw Halbiu
+	Ilcum Iudprost Iofa Iudgent
+	Lleu "Llewellyn Fawr" "Llyr Llediaith" Lueli Louhelic Luncen
+	Mabinogi Math Meirionydd Morgannwg Matholwch "Maelgwn Gwynedd" Meifod Meduil Meonre
 	Non Nennius
-	Olwen "Owain Glyndwr"
-	Penfro Powys "Preiddeu Annwn" Pryderi Pwyll
-	Rhiannon Rhigyfarch
-	"Sant Siôr" "Sypyn Cyfeiliog"
-	Taff Teifi Teirnon Tywi "Twm o'r Nant"
+	Olwen "Owain Glyndwr" Ourdilic Ourcen Oncum Oncenedl Ordguydel
+	Penfro Powys "Preiddeu Annwn" Pryderi Pwyll Prydwen Proscen Prosguetel Perem
+	Rhiannon Rhigyfarch Pannoeu Rumun
+	"Sant Siôr" "Sypyn Cyfeiliog" Sulcen Sulleisoc Sulmed
+	Taff Teifi Teirnon Tywi "Twm o'r Nant" "Tad Awen" Tysilio
 	Ursula
 	"Ynys Môn"
 }

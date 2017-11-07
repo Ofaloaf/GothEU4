@@ -1,6 +1,6 @@
 #77 - Heidelberg
 
-capital = "Heidelberg"
+capital = "Lopodunum"
 culture = swabian
 religion = catholic
 trade_goods = wine

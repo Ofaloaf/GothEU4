@@ -21,22 +21,27 @@
 BY REGION	Culture			Name			TAG	Notes?
 
 Floating	Brithenig (group)	Avallonia		AVL	# from 'Avalon'
+Floating	Brithenig & Celtic	Madogwys		N02	# Supposed to be the name of "Welsh" Native American tribes. Only available in North America.
 Floating	Gallic (group)		Vergentorica		N08	# Plutarch rendered 'Vercingetorix', a Gaulish king, as 'Vergentorix'
 Floating	Gothic (group)		Gauthaim		GHH	# 'Goth-home' in old Germanic Gothic. Now there can be a Gauthaim City.
 Floating	Carthagennan (group)	Eleutheria		N09	# Ancient Greek term and personification of liberty
-Floating	Romano-African (group)	Hannonia		-	# named after Hanno the Navigator
+Floating	Romano-African (group)	Hannonia		N13	# named after Hanno the Navigator
 
 Alleghania	[Generic]		USA			USA	# GOD BLESS
 Alleghania	Dutch/Oostfranken	New Netherlannds	N06	# I considered 'New France' but surely that's too silly.
-Alleghania	Brithenig & Celtic	Madogwys		N02	# Supposed to be the name of "Welsh" Native American tribes.
+Alleghania	Norwegian		Norumbega		N19	#
+
+Amazonia	[Generic]		Amazonia		N12	# from the Amazon
+Amazonia	Africanu		Charetes		N07 	# 'Charetes' is the name of a river Hanno the Navigator allegedly discovered
+Amazonia	Brithenig		Gwercryg		N14	# 'Vera Cruz' was an early name for Brazil. Brithenig-ized it.
 
 Appalachia	[Generic]		Watauga			WTG	# riffing off the 'Watauga Association'
 Appalachia	Carthagennan (group)	Aeneica			N10	# Land of Aeneas
 
 Brazil		Gothic & Germanic	Papegania		PPG	# Papaga returns! 'Papaga' ('Parrot') itself is rendered 'papegân' in Old German.
 Brazil 		Carthagennan (group)	Sanctacrux		SCX	# 'Ilha/Terra de Santa Cruz' was an early name for Brazil
-Brazil		Africanu		Charetes		N07 	# 'Charetes' is the name of a river Hanno the Navigator allegedly discovered
 
+California	[generic]		California		N18
 California	Gothic (group)		Sentandray		GTA	# Occitan-Gothic version of 'San Andreas', slightly garbled.
 
 Canada		[generic]		Canada			CAN	# Vanilla
@@ -48,19 +53,25 @@ Caribbean (cuba)[generic]		Cuba			CUB	# Only formable if the CN's capital is in 
 Caribbean	Brithenig (group)	Lethowsow		LTW	# Cornish name for certain lost lands, conflated with Arthur's Lyonesse.
 Caribbean	Gothic (group)		Royllo			ROY	# Historical apocryphal island. https://en.wikipedia.org/wiki/Royllo
 
+Charcas		[generic]		Charcas			N16	# Pre-Independence name for the area where Bolivia is
+
+Chile		[generic]		Chile			CHL	# Vanilla
+
 Equinoctialia	[generic]		Equinoctia		N00	# 'Land of the Equinox'
 
 Florida		[generic]		Florida			FLD	# It's Florida.
 Florida		Gothic (group)		Agustinha		AGN	# 'Augustinia', playing off St. Augustine being in Florida.
 
+Guatemala	Gothic (group)		Figuyèras		N20	# 'Higueras' was a historical name for western Honduras. Turns out, it literally means 'The Fig Trees'. I translated 'The Fig Trees' int Occitan and then tried garbling it a little.
+
 Mexico		[generic]		Mexico			MEX	# Vanilla
-Mexico		Gothic (group)		Guastica		GST	# Attempt to derive an alt-name for Mexico from the Huastec people.
+Mexico		Gothic (group)		Anáhuac			GUS	# 'Anahuac' is the old Nahuatl name for the region.
 Mexico		Brithenig		Messig			N03	# Attempt to Brithenig-ize the name "Mexico"
 
 Mississippi	[generic]		Mississippi		MSS	# It's Mississippi.
 Mississippi	[generic]		Missouri		MIS	# It's Missouri.
 Mississippi	Brithenig		Gwyddno			GWD	# Gwyddno Garanhir ruled a mythical kingdom which flooded 'cos of booze.
-Mississippi	Gothic (group)		Arheimaria		ARH	# 'Arheimar' was, by the Hervarar saga, a Gothic town on the Dneiper
+Mississippi	Gothic (group)		Areymarha		ARH	# 'Arheimar' was, by the Hervarar saga, a Gothic town on the Dneiper. Arheimar + Arheimaria.
 
 Ohio		[generic]		Michigan		UOM	# GO BLUE
 
@@ -68,11 +79,13 @@ Peru		[generic]		Peru			PER	# Vanilla
 Peru		Gothic (group)		Içymha			ICY	# The area around Lima, Peru was once called 'Itychma', after the Ichma people nearby. From Itchyma, a more Latinized 'Itchimia' can be made, and garbling that into Occitan-Gothic can make something like 'Içymha'
 
 Plattina	[generic]		Argentina		LAP	# Vanilla, relocalized La Plata
-Plattina	[generic]		Chile			CHL	# Vanilla
 Plattina	Gothic (group)		Goranica		QRT	# Derived from the name of the Guarani people.
 Plattina	Brithenig		Terarient		N04	# 'Ter Arient' is something like 'Silver-land'
 Plattina	Dutch & Oostfr.		Batavia			N05	# Azeri LP
 
 Tejas		[generic]		Tejas			N11	# Texas
+Tejas		Gothic			Jacintana		N15	# Playing off San Jacinto
 
 Terranova	Scandinavian (group)	Vinland			VIN	# It's Vinland! Includes Canada in claims.
+
+Yucatan		[generic]		Yucatan			N17	

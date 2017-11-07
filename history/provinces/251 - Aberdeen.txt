@@ -1,15 +1,15 @@
-#251 - Aberdeen
+#251 - Aberdeen / Dervana / Deathan
 
 owner = ARG
 controller = ARG
-culture = highland_scottish #Mix of Highland and Lowland Scotts 
+culture = highland_scottish #
 religion = catholic
 hre = no
 base_tax = 5
 base_production = 5
 trade_goods = fish
 base_manpower = 2
-capital = "Aberdeen"
+capital = "Aberdon"
 is_city = yes
 add_core = ARG
 

@@ -36,8 +36,14 @@ historical_units = {
 }
 
 monarch_names = {
-	"Amandus #1" = 30
-	"Totila #1" = 20
+	"Amandus #1" = 50
+	"Totila #1" = 30
+	"Alaric #0" = 20
+	"Tiuderic #0" = 5
+
+	"Maria #0" = -5
+	"Rosmerta #0" = -5
+	"Terèsa #0" = -10
 
 	"Agust #0" = 0
 	"Ainric #0" = 0
@@ -88,7 +94,6 @@ monarch_names = {
 	"Rodericho #0" = 0
 	"Teia #0" = 0
 	"Telo #0" = 0
-	"Tiuderic #0" = 0
 	"Tumas #0" = 0
 	"Ubald #0" = 0
 	"Úlfila #0" = 0

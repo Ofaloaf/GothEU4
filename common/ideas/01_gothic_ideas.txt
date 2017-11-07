@@ -93,7 +93,7 @@ brithenig_major_ideas = { # for Loegria and Brithenig version of Great Britain f
 carthagennan_ideas = {
 	start = {
 		diplomatic_reputation = 1
-		relations_decay_of_me = 0.50
+		prestige_decay = -0.01
 	}
 	
 	bonus = {
@@ -206,5 +206,47 @@ ZYX_ideas = {
 	}	
 	curriculum_of_the_cadet_corps = {
 		technology_cost = -0.10
+	}
+}
+
+frankish_ideas = { 
+	start = {
+		army_tradition_decay = -0.01
+		core_creation = -0.10
+	}
+
+	bonus = {
+		ae_impact = -0.15
+	}
+	
+	trigger = {
+		OR = {
+			tag = FRC
+			tag = F03
+		}
+	}
+	free = yes		#wibe added at load.
+
+	FRC_foederati_legacy = {
+		merc_maintenance_modifier = -0.25
+	}
+	FRC_new_tribal_laws = {
+		num_accepted_cultures = 1
+	}
+	FRC_eastern_marches = {
+		global_garrison_growth = 0.15
+		fort_maintenance_modifier = -0.10
+	}
+	FRC_north_sea_ports = {
+		trade_steering = 0.25
+	}
+	FRC_the_modern_mercenary = {
+		possible_mercenaries = 0.5
+	}
+	FRC_domination_of_the_baltic = {
+		trade_efficiency = 0.1
+	}
+	FRC_signum_manus = {
+		diplomatic_upkeep = 1
 	}
 }

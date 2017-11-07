@@ -1,4 +1,4 @@
-#4121 - Ulster
+#4121 - Ulster / Ultonia / Wlaidd
 
 owner = IWR
 controller = IWR
@@ -9,7 +9,7 @@ base_tax = 3
 base_production = 3
 trade_goods = grain
 base_manpower = 2
-capital = "Carrickfergus"
+capital = "Din Fhearghais"
 is_city = yes
 add_core = IWR
 discovered_by = western

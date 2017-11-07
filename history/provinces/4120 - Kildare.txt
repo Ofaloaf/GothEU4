@@ -1,4 +1,4 @@
-#4120 - Kildare
+#4120 - Kildare / Cill Dara
 
 owner = IWR
 controller = IWR

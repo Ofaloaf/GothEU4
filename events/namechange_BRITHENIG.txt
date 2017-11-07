@@ -1,0 +1,487 @@
+namespace = namechange_BRITHENIG
+
+province_event = {
+	id = namechange_BRITHENIG.1
+	title = namechange_BRITHENIG.1.t
+	desc = namechange_BRITHENIG.1.d
+	picture = EXPLORERS_eventPicture
+
+	#is_triggered_only = yes		# on_province_owner_change should fire when an unclaimed province is colonized, right?
+	hidden = yes
+
+	trigger = {
+		NOT = { has_province_flag = rename_BRITHENIG }
+		owner = {
+			culture_group = brythonic
+		}
+		has_owner_culture = yes
+	}
+
+	mean_time_to_happen = {
+		days = 1	# whatever
+	}
+
+	option = {
+		name = "EVTOPTACOLONYNAMES"
+
+		# ALLEGHANIA ####################################################
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 955
+				NOT = { has_province_flag = rename_BRITHENIG }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Pegtref"
+			set_province_flag = rename_BRITHENIG
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 956
+				NOT = { has_province_flag = rename_BRITHENIG }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Ffradrfent Afant"
+			set_province_flag = rename_BRITHENIG
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 960
+				NOT = { has_province_flag = rename_BRITHENIG }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Castregai"
+			set_province_flag = rename_BRITHENIG
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 965
+				NOT = { has_province_flag = rename_BRITHENIG }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Castreleon"
+			set_province_flag = rename_BRITHENIG
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 968
+				NOT = { has_province_flag = rename_BRITHENIG }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Truimont"
+			set_province_flag = rename_BRITHENIG
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2556
+				NOT = { has_province_flag = rename_BRITHENIG }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Pedretref"
+			set_province_flag = rename_BRITHENIG
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2557
+				NOT = { has_province_flag = rename_BRITHENIG }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Tref Nadelidad" 		# province name is 'Nadelig'
+			set_province_flag = rename_BRITHENIG
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2561
+				NOT = { has_province_flag = rename_BRITHENIG }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Tintagol"
+			set_province_flag = rename_BRITHENIG
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2563
+				NOT = { has_province_flag = rename_BRITHENIG }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Camlann"
+			set_province_flag = rename_BRITHENIG
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2639
+				NOT = { has_province_flag = rename_BRITHENIG }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Porth Yscyrdad"
+			set_province_flag = rename_BRITHENIG
+		}
+
+		# AMAZONIA ######################################################
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 748
+				NOT = { has_province_flag = rename_BRITHENIG }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Bethleem"
+			set_province_flag = rename_BRITHENIG
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 749
+				NOT = { has_province_flag = rename_BRITHENIG }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Porth Madel"
+			set_province_flag = rename_BRITHENIG
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 750
+				NOT = { has_province_flag = rename_BRITHENIG }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Tref Flavia"
+			set_province_flag = rename_BRITHENIG
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 751
+				NOT = { has_province_flag = rename_BRITHENIG }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Castredathyl"
+			set_province_flag = rename_BRITHENIG
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 752
+				NOT = { has_province_flag = rename_BRITHENIG }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Berytus"
+			set_province_flag = rename_BRITHENIG
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 753
+				NOT = { has_province_flag = rename_BRITHENIG }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Segontium"
+			set_province_flag = rename_BRITHENIG
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2890
+				NOT = { has_province_flag = rename_BRITHENIG }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Porth Gybi"
+			set_province_flag = rename_BRITHENIG
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2921
+				NOT = { has_province_flag = rename_BRITHENIG }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Porth Deva"
+			set_province_flag = rename_BRITHENIG
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2922
+				NOT = { has_province_flag = rename_BRITHENIG }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Castraranrhod"
+			set_province_flag = rename_BRITHENIG
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2923
+				NOT = { has_province_flag = rename_BRITHENIG }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Heliaebel"
+			set_province_flag = rename_BRITHENIG
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2927
+				NOT = { has_province_flag = rename_BRITHENIG }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Gwercryg"
+			set_province_flag = rename_BRITHENIG
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2928
+				NOT = { has_province_flag = rename_BRITHENIG }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Tref Rhudan"
+			set_province_flag = rename_BRITHENIG
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2933
+				NOT = { has_province_flag = rename_BRITHENIG }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Tref Rhoen Gwirdd"
+			set_province_flag = rename_BRITHENIG
+		}
+
+		# CALIFORNIA ####################################################
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 869
+				NOT = { has_province_flag = rename_BRITHENIG }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Montrhui"
+			set_province_flag = rename_BRITHENIG
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2021
+				NOT = { has_province_flag = rename_BRITHENIG }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Porth Dragun"
+			set_province_flag = rename_BRITHENIG
+		}
+
+		# EQUINOCTIALIA ################################################
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 741
+				NOT = { has_province_flag = rename_BRITHENIG }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Trefmarthyr" 		# 'Treferthyr' was an older name for Criccieth, which is part of the old Eifionydd.
+			set_province_flag = rename_BRITHENIG
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 742
+				NOT = { has_province_flag = rename_BRITHENIG }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Guricon"
+			set_province_flag = rename_BRITHENIG
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 829
+				NOT = { has_province_flag = rename_BRITHENIG }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Maddalen"
+			set_province_flag = rename_BRITHENIG
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 830
+				NOT = { has_province_flag = rename_BRITHENIG }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Leughar"
+			set_province_flag = rename_BRITHENIG
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 831
+				NOT = { has_province_flag = rename_BRITHENIG }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Castrazarias"
+			set_province_flag = rename_BRITHENIG
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 834
+				NOT = { has_province_flag = rename_BRITHENIG }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Tref Mathin"
+			set_province_flag = rename_BRITHENIG
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 848
+				NOT = { has_province_flag = rename_BRITHENIG }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Porth Dubris"
+			set_province_flag = rename_BRITHENIG
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2806
+				NOT = { has_province_flag = rename_BRITHENIG }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "New Segeint"
+			set_province_flag = rename_BRITHENIG
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2807
+				NOT = { has_province_flag = rename_BRITHENIG }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Porth Conan"
+			set_province_flag = rename_BRITHENIG
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2809
+				NOT = { has_province_flag = rename_BRITHENIG }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Tref Peg'"
+			set_province_flag = rename_BRITHENIG
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2813
+				NOT = { has_province_flag = rename_BRITHENIG }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Brithemagus"
+			set_province_flag = rename_BRITHENIG
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2815
+				NOT = { has_province_flag = rename_BRITHENIG }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Urnarc"
+			set_province_flag = rename_BRITHENIG
+		}
+
+		# FLORIDA #####################################################
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 926
+				NOT = { has_province_flag = rename_BRITHENIG }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Trefysclade"		# 'Tref Esclados'/'Village of Escaldos'. The Brithenig name of the province is 'Brokliande', so I figured I might as well keep going with the Arthurian theme
+			set_province_flag = rename_BRITHENIG
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 927
+				NOT = { has_province_flag = rename_BRITHENIG }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Saeth Awstin"		# Saint Augustine
+			set_province_flag = rename_BRITHENIG
+		}
+
+		# GUYANA ######################################################
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 743
+				NOT = { has_province_flag = rename_BRITHENIG }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Castr Geory"
+			set_province_flag = rename_BRITHENIG
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 744
+				NOT = { has_province_flag = rename_BRITHENIG }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Llan Gwirdd"
+			set_province_flag = rename_BRITHENIG
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2889
+				NOT = { has_province_flag = rename_BRITHENIG }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Castr Geory"
+			set_province_flag = rename_BRITHENIG
+		}
+	}
+}
+
+
+# cleanup event for if/when a Brithenig province is no longer owned by a Brithenig
+province_event = {
+	id = namechange_BRITHENIG.2
+	title = namechange_BRITHENIG.2.t
+	desc = namechange_BRITHENIG.2.d
+	picture = EXPLORERS_eventPicture
+
+	is_triggered_only = yes
+	hidden = yes
+
+	trigger = {
+		has_province_flag = rename_BRITHENIG
+		owner = {
+			NOT = { culture_group = brythonic }
+		}
+	}
+
+	mean_time_to_happen = {
+		days = 1	# whatever
+	}
+
+	option = {
+		name = "EVTOPTACOLONYNAMES"
+		remove_province_flag = rename_BRITHENIG
+	}
+}

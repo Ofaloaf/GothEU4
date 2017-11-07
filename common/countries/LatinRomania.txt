@@ -126,7 +126,7 @@ leader_names = {
 	Gadaricus "ëd Giaven" Gualberto "de Gorrevôd" "dël Giss" Grils Galligh
 	Insubrigh
 	Liunat "ëd Lissandria" "ëd Lòd" "ëd Luca" "ëd Leinì" Ligurigh
-	"ëd Milan" "dël Mondvì" "ëd Maensac" "ëd Maian"
+	"ëd Milan" "dël Mondvì" "ëd Maensac" "ëd Maian" "ëd Modissia"
 	"d'Òstia"
 	"ëd Pisa" "de Prez" "dël Pesi" "ëd Prangins"
 	Rava "dla Rol" "ëd Roma"
@@ -137,30 +137,31 @@ leader_names = {
 }
 
 ship_names = {
-	August Annonaria Antonin "Augusta Taurinorum" "Ager Gallicus" "Alpes Cottiae" "Amicus Optimus"
-	Basilica Brutium "Bellator Sanctus"
-	Ciceron Costantin Calìgola Clàudi Censora Còmod Caracala Carinus "Costans Clòr" Calabria Campania Cisalpina Castitas Cossezen
-	Dioclessian Domissian Decio "Datum Optimum" Diadumeniano
+	August Annonaria Antonin "Augusta Taurinorum" "Ager Gallicus" "Alpes Cottiae" "Amicus Optimus" Argentea Avocat
+	Basilica Brutium "Bellator Sanctus" Bronzolo
+	Ciceron Costantin Calìgola Clàudi Censora Còmod Caracala Carinus "Costans Clòr" Calabria Campania Cisalpina Castitas Cossezen Coragios
+	Dioclessian Domissian Decio "Datum Optimum" Diadumeniano Durriae
 	Egilona Eròd Eliogàbal Etruria Exarchus Eliogabalo
 	Florentia Flaminia Fides
 	"Giulio Céser" "Glissio Agrìcola" "Giulia Dòmna" Galeri Godesteus Galba
 	Histria
 	Italia Insubria Integritas
-	Liutberga Latinitas "Lissànder Sever" Liguria Lucania
-	Maddalena "March Aureli" Macrin Mediolanum Molisium Marche
-	Neron Nerva
+	Liutberga Latinitas "Lissànder Sever" Liguria Lucania "Laus Pompeia"
+	Maddalena "March Aureli" Macrin Mediolanum Molisium Marche Modicia
+	Neron Nerva Novaria
 	Orìgen Oton Osta
-	Porphyrius Pisanus Pietas Pudicitiam Pudor Pertinace
-	Romanitas Ravena
-	Svetòni "Sétim Sever" Sabina "Sancta Virgo" Sanctimonia
-	Tiberi Trentin Transpadana
+	Porphyrius Pisanus Pietas Pudicitiam Pudor Pertinace Plumbia "Pons Aureoli" Proibì
+	Romanitas Ravena Retovium
+	Svetòni "Sétim Sever" Sabina "Sancta Virgo" Sanctimonia Sibrium Sondri
+	Tiberi Trentin Transpadana "Tres Tabernae" Ticinum
 	Umbria
 	Vespasian Viteli Valeria Venerabilis
 }
 
 army_names = {
-	"Armada de $PROVINCE$" "Legió I" "Legió II" "Legió III" "Legió IV" "Legió V" "Legió VI" "Legió VII" "Legió VIII" "Legió IX" "Legió X"
-	"Legió XI" "Legió XII" "Legió XIII" "Legió XIV" "Legió XV" "Legió XVI" "Legió XVII" "Legió XVIII" "Legió XIX" "Legió XX"
+	"Armada de $PROVINCE$" "Legió I" "Legió II" "Legió III" "Legió IV" "Legió V" "Legió VI" "Legió VII" "Legió VIII" "Legió IX" "Legió X" "Legió XI" "Legió XII"
+	"Legió XIII" "Legió XIV" "Legió XV" "Legió XVI" "Legió XVII" "Legió XVIII" "Legió XIX" "Legió XX" "Legió XXI" "Legió XXII" "Legió XXIII" "Legió XXIV" "Legió XXV"
+	"Legió XXVI" "Legió XXVII" "Legió XXVIII" "Legió XXIX" "Legió XXX"
 }
 
 fleet_names = {

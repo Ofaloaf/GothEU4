@@ -1,4 +1,4 @@
-#249 - Ayrshire
+#249 - Ayrshire / Gallovidia / Galwyddel
 
 owner = ARG
 controller = ARG
@@ -10,7 +10,7 @@ base_tax = 5
 base_production = 5
 trade_goods = iron
 base_manpower = 4
-capital = "Ayr"
+capital = "Pen Rhionydd"
 is_city = yes
 add_core = ARG
 

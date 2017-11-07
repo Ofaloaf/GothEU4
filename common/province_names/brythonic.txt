@@ -1,17 +1,24 @@
 # Europe & Old World
-236 = "Lundein"
+166 = "Suïts"
+235 = "Ceint"
+236 = "Llondin"
+237 = "Elia"
+238 = "Camulodunum"
 240 = "Lla Ferch"
 241 = "Termorgan"
+245 = "Ebrauc"
+247 = "Cummria"
 368 = "Elys"
+372 = "Terowain"
 1861 = "Derwent"
+1979 = "Ysl Brendanus"
 4130 = "Dûnein"
 
 # Alleghania
 481 = "Sarras"
-953 = "Ter Mair"	# "Mary's Land". Get it? GET IT
-954 = "Yriel"		# Erie, slightly tweaked.
-955 = "Pegtref"		# "Peace-town". Incorrect order for Brithenig, but there used to be an indian settlement nearby named "Peixtin" or "Paxtang" and I just imagined some early Brithenig colonizers going "oh, that sounds like this"
-956 = "Ffradrfent Afant" # 'Brotherly Love', I think.
+954 = "Yriel"			# Erie, slightly tweaked.
+955 = "Pegtref"			# "Peace-town". Incorrect order for Brithenig, but there used to be an indian settlement nearby named "Peixtin" or "Paxtang" and I just imagined some early Brithenig colonizers going "oh, that sounds like this"
+956 = "Ffradrfent Afant" 	# 'Brotherly Love', I think. It's Philadelphia. DO YOU GET IT
 960 = "Castregai"
 962 = "Glestingas"
 963 = "Castrebran"
@@ -19,39 +26,71 @@
 965 = "Castreleon"
 966 = "Lodonesia"
 967 = "Ysl Rhys"
-968 = "Trimontium"
-2023 = "Gran Ministeir"	# "Great Ministry"
+968 = "Truimont"		# Boston's first name was 'Trimountaine'
+2023 = "Gran Ministeir"		# "Great Ministry"
 2555 = "Armterid"
-2556 = "Pedretref" 	# "Stone-town"
-2557 = "Nadelig"	# "Christmas" (adj)
+2556 = "Pedretref" 		# "Stone-town"
+2557 = "Nadelig"		# "Christmas" (adj)
 2558 = "Llanteulyddog"
 2559 = "An Dinas"
 2561 = "Tintagol"
 2563 = "Camlann"
-2639 = "Porth Yscyrdad" # "Port Darkness". It's New Jersey, alright?
+2639 = "Porth Yscyrdad" 	# "Port Darkness". It's New Jersey, alright?
+
+# Amazonia
+748 = "Bethleem"
+749 = "Porth Nadel"
+750 = "Tref Flavia"		# 'Flavian Village'.
+751 = "Castredathyl"		# Caer Dathyl
+752 = "Berytus"			# Latin name for Beirut. I dunno.
+753 = "Segontium"
+754 = "Dinorwig"
+755 = "Ardudwy"
+757 = "Llo Ysl"			# 'Ilheus' is a really archaic Portuguese for 'The Islands'
+2890 = "Porth Gybi"		# Caer Gybi being the welsh name for Holyhead, on Anglesey
+2921 = "Porth Deva"		# 'Port Deva/Chester'
+2922 = "Aranrhod"		# Caer Aranrhod
+2923 = "Heliaebel"		# Another name for Elaine of Corbenic
+2924 = "Ter Brân"		# Land of Bran or Land of Crows, depending on if you want to interpret Bran as a name or word.
+2927 = "Gwercryg"		# Veracruz
+2928 = "Tref Rhufan"		# 'Roman Village'
+2933 = "Rhoen Gwirdd"		# 'Green Peak'
+2934 = "Antwyfn"		# Intentionally trying to make the most archaic form of 'Annwn' possible.
 
 # Appalachia
 929 = "Apollonia"
-931 = "Lliferadiwn"	# Deliverance
-932 = "Porth Nîr"	# Port Black
-936 = "Castrebannog"
+931 = "Lliferadiwn"		# Deliverance
+932 = "Porth Nîr"		# Port Black
+936 = "Castrebannog"		# Caer Bannog
 937 = "Dore"
 938 = "Brenn"
 950 = "Parmen"
 952 = "Castrenoel"
+953 = "Saeth Anna"		# 'Saint Anna', after Annapolis
 2539 = "Emmaus"
 2539 = "Ioppe"
 2542 = "Fowi"
 2545 = "Tref Duhare"
 2549 = "Camp Ffinystiw"
 2550 = "Alexandria"
+2553 = "New Cummria"
+2554 = "Ter Mair"		# "Mary's Land". Get it? GET IT
 
 # Brazil
 763 = "Castr Januarius"
+2890 = "Saeth Mair"
+
+# California
+869 = "Montrhui"		# 'Mount King'. MONTEREY. DO YOU GET IT
+2021 = "Porth Dragun"		# 'Port Dragon'. Sir Francis Drake went by there or something like that, right?
 
 # Canada
 991 = "Trefith"
 994 = "Astolat"
+998 = "Paes di'll Gran Fforest"	# Provinces of the Grand Forest
+999 = "Lla Gran"		# after the La Grande River
+1000 = "Rhoberth"		# Brithenig for 'Robert', after Fort Robert
+1005 = "Efrauc"			# variant for York, after York Factory
 2584 = "Listenysia"
 
 # Carribean
@@ -64,11 +103,31 @@
 
 # Equinoctialia
 491 = "Mona"
+741 = "Tereifion"		# Ter Eifion, slightly more Brithenig-y form of Eifionydd.
+742 = "Guricon"
+827 = "Paes d'Ednyfed"
+828 = "Gloviola"		# "Caer Gloui" is an Old Welsh form of Caerlowy, AKA Gloucester. Gloui-[Latinized sorta]->Glovia-[add diminutive]->Gloviola
+829 = "Maddalen"		# Magdalena
+830 = "Leughar"			# after Leucarum, AKA Loughor
+831 = "Paes d'Asa"
+834 = "Paes di Cenyw"
+848 = "Porth Dubris"		# Port Dover
+2806 = "Llaen"			# after the Llyn Peninsula in Wales.
+2807 = "Porth Conan"
+2809 = "Llo Camp"		# 'The Fields', compare to the RL Spanish toponym 'Los Llanos', 'The Plains'
+2813 = "Brithemagus"		#
+2815 = "Urnarc"
+2816 = "Paes di Trillo"
 
-# Floridia
+# Florida
 926 = "Brokliande"
 927 = "Saeth Awstin"
 2536 = "Pogannwn"
+
+# Guyana
+743 = "Castr Geory"		# 'Fort George' or 'George Town', after the actual Georgetown.
+744 = "Llan Gwirdd"		# 'Green Village'.
+2889 = "Afon Blanc"		# 'White River'. Guess what 'Rio Branco' translates as?
 
 # Mexico
 2647 = "Gweracryg"
@@ -78,7 +137,7 @@
 896 = "Sefid-Lla-Peis" 	# "Path of the Petticoat". Counldn't find the Brithenig word for "Junction".
 
 # Ohio
-916 = "Casllows"	# Cas llo Ws "House of Bones", I think.
+916 = "Casllows"	# Cas llo Ws means "House of Bones" in proper Welsh, I think.
 917 = "Baddon"
 945 = "Elmet"
 951 = "Killaraus"

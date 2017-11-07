@@ -5,6 +5,7 @@
 # Mexico	Messig
 # Mississippi	Gwyddno
 # Plattina	Terarient
+# Equinoxialia	New Valentia
 
 country_decisions = {
 
@@ -30,60 +31,32 @@ country_decisions = {
 				}
 			}
 			culture_group = brythonic
-			OR = {
-				colonial_alaska = {
-					owned_by = ROOT
-				}
-				colonial_alleghania = {
-					owned_by = ROOT
-				}
-				colonial_appalachia = {
-					owned_by = ROOT
-				}
-				colonial_brazil = {
-					owned_by = ROOT
-				}
-				colonial_california = {
-					owned_by = ROOT
-				}
-				AND = {
-					colonial_canada = {
-						owned_by = ROOT
+			NOT = {
+				OR = {
+					AND = {
+						colonial_canada = {
+							owned_by = ROOT
+						}
+						exists = LNR
 					}
-					exists = LNR
-				}
-				AND = {
-					colonial_the_carribean = {
-						owned_by = ROOT
+					AND = {
+						colonial_the_carribean = {
+							owned_by = ROOT
+						}
+						exists = LTW
 					}
-					exists = LTW
-				}
-				colonial_florida = {
-					owned_by = ROOT
-				}
-				AND = {
-					colonial_mexico = {
-						owned_by = ROOT
+					AND = {
+						colonial_mexico = {
+							owned_by = ROOT
+						}
+						exists = N03
 					}
-					exists = N03
-				}
-				colonial_mississippi = {
-					owned_by = ROOT
-				}
-				colonial_ohio = {
-					owned_by = ROOT
-				}
-				colonial_peru = {
-					owned_by = ROOT
-				}
-				AND = {
-					colonial_plattina = {
-						owned_by = ROOT
+					AND = {
+						colonial_plattina = {
+							owned_by = ROOT
+						}
+						exists = N04
 					}
-					exists = N04
-				}
-				colonial_terranova = {
-					owned_by = ROOT
 				}
 			}
 			OR = {
@@ -99,60 +72,6 @@ country_decisions = {
 			#is_former_colonial_nation = yes
 			is_subject = no
 			is_at_war = no
-			OR = {
-				capital_scope = {
-					colonial_region = colonial_alaska
-					is_core = ROOT
-				}
-				capital_scope = {
-					colonial_region = colonial_alleghania
-					is_core = ROOT
-				}
-				capital_scope = {
-					colonial_region = colonial_appalachia
-					is_core = ROOT
-				}
-				capital_scope = {
-					colonial_region = colonial_brazil
-					is_core = ROOT
-				}
-				capital_scope = {
-					colonial_region = colonial_california
-					is_core = ROOT
-				}
-				capital_scope = {
-					colonial_region = colonial_canada
-					is_core = ROOT
-				}
-				capital_scope = {
-					colonial_region = colonial_the_carribean
-					is_core = ROOT
-				}
-				capital_scope = {
-					colonial_region = colonial_florida
-					is_core = ROOT
-				}
-				capital_scope = {
-					colonial_region = colonial_mexico
-					is_core = ROOT
-				}
-				capital_scope = {
-					colonial_region = colonial_mississippi
-					is_core = ROOT
-				}
-				capital_scope = {
-					colonial_region = colonial_ohio
-					is_core = ROOT
-				}
-				capital_scope = {
-					colonial_region = colonial_peru
-					is_core = ROOT
-				}
-				capital_scope = {
-					colonial_region = colonial_terranova
-					is_core = ROOT
-				}
-			}
 			NOT = { exists = AVL }
 		}
 		effect = {
@@ -185,7 +104,7 @@ country_decisions = {
 					limit = {
 						NOT = { owned_by = ROOT }
 					}
-					add_permanent_claim = ROOT
+					add_claim = ROOT
 				}
 			}
 			if = {
@@ -198,7 +117,20 @@ country_decisions = {
 					limit = {
 						NOT = { owned_by = ROOT }
 					}
-					add_permanent_claim = ROOT
+					add_claim = ROOT
+				}
+			}
+			if = {
+				limit = {
+					capital_scope = {
+						colonial_region = colonial_amazonia
+					}
+				}
+				colonial_amazonia = {
+					limit = {
+						NOT = { owned_by = ROOT }
+					}
+					add_claim = ROOT
 				}
 			}
 			if = {
@@ -211,7 +143,7 @@ country_decisions = {
 					limit = {
 						NOT = { owned_by = ROOT }
 					}
-					add_permanent_claim = ROOT
+					add_claim = ROOT
 				}
 			}
 			if = {
@@ -224,7 +156,7 @@ country_decisions = {
 					limit = {
 						NOT = { owned_by = ROOT }
 					}
-					add_permanent_claim = ROOT
+					add_claim = ROOT
 				}
 			}
 			if = {
@@ -237,7 +169,7 @@ country_decisions = {
 					limit = {
 						NOT = { owned_by = ROOT }
 					}
-					add_permanent_claim = ROOT
+					add_claim = ROOT
 				}
 			}
 			if = {
@@ -250,7 +182,7 @@ country_decisions = {
 					limit = {
 						NOT = { owned_by = ROOT }
 					}
-					add_permanent_claim = ROOT
+					add_claim = ROOT
 				}
 			}
 			if = {
@@ -263,7 +195,46 @@ country_decisions = {
 					limit = {
 						NOT = { owned_by = ROOT }
 					}
-					add_permanent_claim = ROOT
+					add_claim = ROOT
+				}
+			}
+			if = {
+				limit = {
+					capital_scope = {
+						colonial_region = colonial_charcas
+					}
+				}
+				colonial_charcas = {
+					limit = {
+						NOT = { owned_by = ROOT }
+					}
+					add_claim = ROOT
+				}
+			}
+			if = {
+				limit = {
+					capital_scope = {
+						colonial_region = colonial_chile
+					}
+				}
+				colonial_chile = {
+					limit = {
+						NOT = { owned_by = ROOT }
+					}
+					add_claim = ROOT
+				}
+			}
+			if = {
+				limit = {
+					capital_scope = {
+						colonial_region = colonial_equinoxialia
+					}
+				}
+				colonial_equinoxialia = {
+					limit = {
+						NOT = { owned_by = ROOT }
+					}
+					add_claim = ROOT
 				}
 			}
 			if = {
@@ -276,7 +247,33 @@ country_decisions = {
 					limit = {
 						NOT = { owned_by = ROOT }
 					}
-					add_permanent_claim = ROOT
+					add_claim = ROOT
+				}
+			}
+			if = {
+				limit = {
+					capital_scope = {
+						colonial_region = colonial_guatemala
+					}
+				}
+				colonial_guatemala = {
+					limit = {
+						NOT = { owned_by = ROOT }
+					}
+					add_claim = ROOT
+				}
+			}
+			if = {
+				limit = {
+					capital_scope = {
+						colonial_region = colonial_guyana
+					}
+				}
+				colonial_guyana = {
+					limit = {
+						NOT = { owned_by = ROOT }
+					}
+					add_claim = ROOT
 				}
 			}
 			if = {
@@ -289,7 +286,7 @@ country_decisions = {
 					limit = {
 						NOT = { owned_by = ROOT }
 					}
-					add_permanent_claim = ROOT
+					add_claim = ROOT
 				}
 			}
 			if = {
@@ -302,7 +299,20 @@ country_decisions = {
 					limit = {
 						NOT = { owned_by = ROOT }
 					}
-					add_permanent_claim = ROOT
+					add_claim = ROOT
+				}
+			}
+			if = {
+				limit = {
+					capital_scope = {
+						colonial_region = colonial_patagonia
+					}
+				}
+				colonial_patagonia = {
+					limit = {
+						NOT = { owned_by = ROOT }
+					}
+					add_claim = ROOT
 				}
 			}
 			if = {
@@ -315,7 +325,20 @@ country_decisions = {
 					limit = {
 						NOT = { owned_by = ROOT }
 					}
-					add_permanent_claim = ROOT
+					add_claim = ROOT
+				}
+			}
+			if = {
+				limit = {
+					capital_scope = {
+						colonial_region = colonial_plattina
+					}
+				}
+				colonial_plattina = {
+					limit = {
+						NOT = { owned_by = ROOT }
+					}
+					add_claim = ROOT
 				}
 			}
 			if = {
@@ -328,7 +351,20 @@ country_decisions = {
 					limit = {
 						NOT = { owned_by = ROOT }
 					}
-					add_permanent_claim = ROOT
+					add_claim = ROOT
+				}
+			}
+			if = {
+				limit = {
+					capital_scope = {
+						colonial_region = colonial_yucatan
+					}
+				}
+				colonial_yucatan = {
+					limit = {
+						NOT = { owned_by = ROOT }
+					}
+					add_claim = ROOT
 				}
 			}
 			add_country_modifier = {
@@ -750,6 +786,170 @@ country_decisions = {
 					NOT = { owned_by = ROOT }
 				}
 				add_permanent_claim = N04
+			}
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+			set_country_flag = changed_from_colonial_nation
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	# Gwercryg
+	gwercryg_nation = {
+		major = yes
+		potential = {
+			NOT = { has_country_flag = changed_from_colonial_nation }
+			NOT = {
+				OR = {
+					technology_group = north_american
+					technology_group = mesoamerican
+					technology_group = south_american
+					technology_group = andean
+					technology_group = high_american
+				}
+			}
+			capital_scope = {
+				OR = {
+					continent = north_america
+					continent = south_america
+					continent = oceania
+					continent = new_world
+				}
+			}
+			colonial_amazonia = {
+				owned_by = ROOT
+			}
+			culture_group = brythonic
+			OR = {
+				ai = no
+				AND = {
+					ai = yes
+					num_of_cities = 3	
+				}
+			}
+		}
+		allow = {
+			adm_tech = 10
+			#is_former_colonial_nation = yes
+			is_subject = no
+			is_at_war = no
+			capital_scope = {
+				colonial_region = colonial_amazonia
+				is_core = ROOT
+			}
+			NOT = { exists = N14 }
+		}
+		effect = {
+			change_tag = N14
+			if = {
+				limit = {
+					is_part_of_hre = yes
+					is_elector = no
+				}
+				every_owned_province = {
+					limit = {
+						is_part_of_hre = yes
+					}
+					set_in_empire = no
+				}
+			}
+			if = {
+				limit = {
+					NOT = { government_rank = 2 }
+				}
+				set_government_rank = 2
+			}
+			colonial_amazonia = {
+				limit = {
+					NOT = { owned_by = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+			set_country_flag = changed_from_colonial_nation
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	# EQUINOXIALIA - NEW VALENTIA
+	new_valentia_nation = {
+		major = yes
+		potential = {
+			NOT = { has_country_flag = changed_from_colonial_nation }
+			NOT = {
+				OR = {
+					technology_group = north_american
+					technology_group = mesoamerican
+					technology_group = south_american
+					technology_group = andean
+					technology_group = high_american
+				}
+			}
+			capital_scope = {
+				OR = {
+					continent = north_america
+					continent = south_america
+					continent = oceania
+				}
+			}
+			colonial_equinoxialia = {
+				owned_by = ROOT
+			}
+			OR = {
+				ai = no
+				AND = {
+					ai = yes
+					num_of_cities = 3	
+				}
+			}
+			culture_group = brythonic
+		}
+		allow = {
+			adm_tech = 10
+			#is_former_colonial_nation = yes
+			is_subject = no
+			is_at_war = no
+			capital_scope = {
+				colonial_region = colonial_equinoxialia
+				is_core = ROOT
+			}
+			NOT = { exists = N21 }
+		}
+		effect = {
+			change_tag = N21
+			if = {
+				limit = {
+					is_part_of_hre = yes
+					is_elector = no
+				}
+				every_owned_province = {
+					limit = {
+						is_part_of_hre = yes
+					}
+					set_in_empire = no
+				}
+			}
+			if = {
+				limit = { NOT = { government_rank = 2 } }
+				set_government_rank = 2
+			}
+			swap_free_idea_group = yes
+			colonial_equinoxialia = {
+				limit = {
+					NOT = { owned_by = ROOT }
+				}
+				add_claim = ROOT
 			}
 			add_country_modifier = {
 				name = "centralization_modifier"

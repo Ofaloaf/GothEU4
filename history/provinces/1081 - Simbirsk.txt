@@ -2,7 +2,7 @@
 
 owner = VBG
 controller = VBG
-capital = "Bolgar"
+capital = "Chirmeshän"
 culture = bolghar
 religion = catholic
 trade_goods = iron

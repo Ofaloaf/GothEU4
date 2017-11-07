@@ -82,17 +82,16 @@ colonial_canada = {
 	}
 	
 	provinces = {
-		1010 1008 1009 1011 1006 1005 1004 1007 1002 1003 1000 999 998 1001 992 991 989 988 987
-		993 990 994 986 985 984 995 996 983 982 1813 2012 2015 2568 2569 2570
-		2571 2572 2576 2577 2578 2579 2580 2581 2582 2583 2584 2585 2586 2587 2588
-		2589 2590 2591 2592 2593 2594 2595 2596 2597 2670 2671
+		992 991 989 988 987
+		993 990 994 986 985 984 995 996 983 982 2012 2568 2569 2570
+		2571 2572 2576 2577 2578 2579 2580 2581 2582 2583 2584 2585 2586 2587
+		2670 2671
 	}
-	
+
 	# Specific
 	names = {
 		trigger = {
 			OR = {
-				religion_group = christian
 				culture_group = latine
 				culture_group = carthagennan_group
 			}
@@ -102,11 +101,11 @@ colonial_canada = {
 	names = {
 		trigger = {
 			OR = {
-				culture = albann
+				primary_culture = albann
 				any_owned_province = {
 					OR = {
-						region = highlands
-						region = lowlands
+						area = highlands_area
+						area = lowlands_area
 					}
 				}
 			}
@@ -130,22 +129,104 @@ colonial_canada = {
 		name = "COLONIAL_CANADA_Laurentia"
 	}
 	names = {
-		name = "COLONIAL_CANADA_Borealia"
-	}
-	names = {
 		name = "COLONIAL_CANADA_Root_Culture_GetName_Canada"
-	}
-	names = {
-		name = "COLONIAL_REGION_New_Root_GetName"
 	}
 	names = {
 		name = "COLONIAL_CANADA_Root_Culture_GetName_Quebec"
 	}
+}
+
+colonial_winnipeg = {
+	color = { 211 173 103 } #
+
+	# Random New World
+	tax_income = 1
+	native_size = 4
+	native_ferocity = 1
+	native_hostileness = 4
+	
+	trade_goods = {
+		fur = 20
+		fish = 10
+		naval_supplies = 3
+		grain = 1
+	}
+
+	culture = {
+		inuit = 15
+		cree = 15
+		nakota = 2
+		cheyenne = 2
+		anishinabe = 2
+		huron = 1
+	}
+	
+	religion = {
+		shamanism = 10
+	}
+
+	provinces = {
+		998 999 1000 1001 1002 1003 1004 1005 1006 1007 1008 1009 1010 1011
+		1813 2015
+		2588 2589 2590 2591 2592 2593 2594 2595 2596 2597
+	}
+
+	### NAMES ###
+	names = {
+		trigger = {
+			OR = {
+				primary_culture = geatish
+				primary_culture = osterlander
+				primary_culture = danish
+				primary_culture = norwegian
+				primary_culture = swedish
+			}
+		}
+		name = "COLONIAL_WINNIPEG_Helluland"
+	}
+	names = {
+		trigger = {
+			culture_group = gothic_group
+		}
+		name = "COLONIAL_WINNIPEG_Gissuria"
+	}
+	names = {
+		trigger = {
+			culture_group = carthagennan_group
+		}
+		name = "COLONIAL_WINNIPEG_Orcus"
+	}
+	names = {
+		trigger = {
+			culture_group = brythonic
+		}
+		name = "COLONIAL_WINNIPEG_Ter_Beif"
+	}
+	names = {
+		trigger = {
+			OR = {
+				primary_culture = dutch
+				primary_culture = oostfranken
+			}
+		}
+		name = "COLONIAL_WINNIPEG_Robrechtsland"
+	}
+
+	### GENERIC ###
 	names = {
 		trigger = {
 			owns = 1010 # Manitoba
 		}
 		name = "PROV1010"
+	}
+	names = {
+		name = "COLONIAL_CANADA_Borealia"
+	}
+	names = {
+		name = "COLONIAL_REGION_New_Root_GetName"
+	}
+	names = {
+		name = "COLONIAL_WINNIPEG_Root_Culture_GetName_Winnipeg"
 	}
 }
 
@@ -257,16 +338,16 @@ colonial_alleghania = {
 		name = "COLONIAL_ALLEGHANIA_Nova_Belgica"
 		trigger = {
 			OR = {
-				culture = dutch
-				culture = rhenish
+				primary_culture = dutch
+				primary_culture = rhenish
 			}
 		}
 	}
 	names = {
 		trigger = {
-			OR = {
+			AND = {
 				is_female = yes
-				has_female_heir = yes
+				has_heir = no
 			}
 		}
 		name = "COLONIAL_EASTERN_AMERICA_Virginia"
@@ -274,9 +355,15 @@ colonial_alleghania = {
 
 	# Generic
 	names = {
+		trigger = {
+			primary_culture = norwegian
+		}
 		name = "COLONIAL_ALLEGHANIA_Norumbega"
 	}
 	names = {
+		trigger = {
+			has_idea_group = humanist_ideas
+		}
 		name = "COLONIAL_ALLEGHANIA_Canojeharia"
 	}
 	names = {
@@ -420,6 +507,12 @@ colonial_appalachia = {
 
 	names = {
 		trigger = {
+			primary_culture = norwegian
+		}
+		name = "COLONIAL_APPALACHIA_Nylandet"
+	}
+	names = {
+		trigger = {
 			owns = 924
 		}
 		name = "PROV924" # Alabama
@@ -482,6 +575,12 @@ colonial_ohio = {
 			culture_group = gothic_group
 		}
 		name = "COLONIAL_OHIO_Vandalia"
+	}
+	names = {
+		trigger = {
+			primary_culture = norwegian
+		}
+		name = "COLONIAL_APPALACHIA_Nylandet"
 	}
 	names = {
 		trigger = {
@@ -698,9 +797,21 @@ colonial_california = {
 	# Specific
 	names = {
 		trigger = {
+			culture_group = japanese_g
+		}
+		name = "COLONIAL_CALIFORNIA_Kaigai"
+	}
+	names = {
+		trigger = {
 			culture_group = gothic_group
 		}
 		name = "COLONIAL_CALIFORNIA_Sant_Andreas"
+	}
+	names = {
+		trigger = {
+			culture_group = carthagennan_group
+		}
+		name = "COLONIAL_CALIFORNIA_Bonafortuna"
 	}
 	names = {
 		trigger = {
@@ -769,7 +880,7 @@ colonial_mexico = {
 		852 879
 		2614 2615 2616 2617 2618 2619 2620
 		2621 2622 2623 2624 2626 2627 2628 2629 2630 2631
-		2641 2642 2643 2644 2645 2646 2647 2648 2653 2657
+		2641 2642 2643 2644 2645 2646 2647 2648 2657
 		2667 2668
 	}
 	
@@ -847,6 +958,63 @@ colonial_tejas = {
 	}
 }
 
+# Yucatan
+colonial_yucatan = {
+	color = { 10 104 71 } # green from republic flag
+
+	# Random New World
+	tax_income = 2
+	native_size = 10
+	native_ferocity = 2
+	native_hostileness = 5
+	
+	trade_goods = {
+		fish = 1
+		tropical_wood = 5
+		gold = 4
+		cocoa = 4
+		naval_supplies = 1
+		spices = 5
+	}
+	
+	culture = {
+		putun = 1
+		highland_mayan = 7
+	}
+	
+	religion = {
+		animism = 10
+	}
+	
+	provinces = {
+		846 2652 2634 2633 2651 845 2650 2632
+	}
+	
+	# Specific
+	# Generic
+	names = {
+		trigger = {
+			has_idea_group = humanist_ideas
+		}
+		name = "COLONIAL_YUCATAN_Mayab"
+	}
+	names = {
+		trigger = {
+			culture_group = gothic_group
+		}
+		name = "COLONIAL_YUCATAN_Jucatanha"
+	}
+	names = {
+		trigger = {
+			culture_group = carthagennan_group
+		}
+		name = "COLONIAL_YUCATAN_Iucatania"
+	}
+	names = {
+		name = "COLONIAL_YUCATAN_Root_Culture_GetName_Yucatan"
+	}
+}
+
 # Guatemala
 colonial_guatemala = {
 	color = { 56 214 241 }
@@ -883,14 +1051,50 @@ colonial_guatemala = {
 	}
 
 	provinces = {
-		2632 2635 2638 2649 			# Chiapas Area
-		845 846 2633 2634 2650 2651 2652 	# Yuatan Area
+		2635 2638 2649 				# Chiapas Area
 		841 842 843 2636 2653 			# Guatemala Area
 		839 840 2637 2640 2662			# Honduras Area
 		837 838 2660 2661			# Nicaragua Area
 		836 2663 2664				# A bit of Panama
 	}
 
+	names = {
+		trigger = {
+			culture_group = gothic_group
+			any_owned_province = { 
+				OR = {
+					area = guatemala_area
+					area = honduras_area
+				}
+			}
+		}
+		name = "COLONIAL_GUATEMALA_Figuyeras"
+	}
+
+	names = {
+		trigger = {
+			culture_group = gothic_group
+			any_owned_province = { 
+				OR = {
+					area = honduras_area
+					area = nicaragua_area
+				}
+			}
+		}
+		name = "COLONIAL_GUATEMALA_Fundeyras"
+	}
+
+	names = {
+		trigger = {
+			culture_group = gothic_group
+			any_owned_province = { 
+				area = panamaa_area
+			}
+		}
+		name = "COLONIAL_GUATEMALA_Terra_Distme"
+	}
+
+	# Generic
 	names = {
 		name = "COLONIAL_GUATEMALA_Root_Culture_GetName_Guatemala"
 	}
@@ -918,12 +1122,9 @@ colonial_guatemala = {
 		}
 		name = "PROV840"
 	}
-	names = {
-		name = "COLONIAL_MEXICO_Yucatan"
-	}
 }
 
-# The Carribean
+# The Caribbean
 colonial_the_carribean = {
 	color = { 78 202 78 }
 
@@ -965,10 +1166,7 @@ colonial_the_carribean = {
 	}
 	names = {
 		trigger = {
-			OR = {
-				culture_group = gothic_group
-				culture_group = gallic_group
-			}
+			culture_group = gallic_group
 			owns = 488 # Les Cayes
 			owns = 489 # Barahonas
 			owns = 490 # Tortuga
@@ -998,12 +1196,36 @@ colonial_the_carribean = {
 	}
 	names = {
 		trigger = {
+			culture_group = gothic_group
+			owns = 488 # Les Cayes
+			owns = 489 # Barahonas
+			owns = 490 # Tortuga
+		}
+		name = "COLONIAL_THE_CARRIBEAN_Gothiola"
+	}
+	names = {
+		trigger = {
 			owns = 484 # Havana
 			owns = 485 # Moron
 			owns = 486 # Guantanamo
 		}
 		name = "COLONIAL_THE_CARRIBEAN_Cuba"
 	}
+	names = {
+		trigger = {
+			primary_culture = norwegian
+			owns = 492
+			owns = 493
+		}
+		name = "COLONIAL_THE_CARRIBEAN_Jomfruoyene"
+	}
+	names = {
+		trigger = {
+			primary_culture = norwegian
+		}
+		name = "COLONIAL_THE_CARRIBEAN_Vestindia"
+	}
+
 	# Generic
 	names = {
 		name = "COLONIAL_THE_CARRIBEAN_Root_Culture_GetName_West_Indies"
@@ -1059,6 +1281,12 @@ colonial_equinoxialia = {
 
 	# Specific
 	# Generic
+	names = {
+		trigger = {
+			culture_group = brythonic
+		}
+		name = "COLONIAL_EQUINOXIALIA_New_Valentia"
+	}
 	names = {
 		name = "COLONIAL_EQUINOXIALIA_Terra_Equinoxialis"
 	}
@@ -1172,9 +1400,9 @@ colonial_charcas = {
 	}
 }
 
-# Plattina
-colonial_plattina = {
-	color = { 101 102 163 }
+# Patagonia
+colonial_patagonia = {
+	color = { 116 172 223 }
 
 	# Random New World
 	tax_income = 3
@@ -1201,23 +1429,112 @@ colonial_plattina = {
 	
 	provinces = {
 		780 781 782 786 2863 2868 2869 2870 2875 2876 #Patagonia
-		785 2843 2844 2845 2847 2867 2871 2872 2877 #Cuyo
-		779 2860 2861 2865 2866 #Southern Pampas
-		777 778 2846 2848 2849 2853 2855 2858 2859 #Buenos Aires
-		791 794 2836 2837 2839 2842 #Tucoman
-		790 2854 2878 #Chaco
-		772 773 2850 2851 2852 #Banda Oriental
-		783 784 787 792 2862 2873 2874 #Chile
-		775 776 799 2882 2883 #Paraguay
+		785 2871
+		1095 # LAS MALVINAS
 	}
-	
-	# Specific
+
 	names = {
 		trigger = {
 			culture_group = brythonic
 		}
 		name = "COLONIAL_LA_PLATA_ter_gogyrfan"
 	}
+
+	names = {
+		name = "COLONIAL_PATAGONIA_Root_Culture_GetName_Patagonia"
+	}
+	names = {
+		name = "COLONIAL_REGION_New_Root_GetName"
+	}
+}
+
+# Chile
+colonial_chile = {
+	color = { 255 254 25 } # yellow from first flag of chile
+
+	# Random New World
+	tax_income = 1
+	native_size = 12
+	native_ferocity = 8
+	native_hostileness = 8
+	
+	trade_goods = {
+		grain = 8
+		fish = 5
+		copper = 18
+		iron = 2
+		gold = 5
+		naval_supplies = 5
+	}
+
+	culture = {
+		mapuche = 5
+		patagonian = 2
+	}
+	religion = {
+		animism = 10
+	}
+
+	provinces = {
+		783 784 787 792 2862 2873 2874 #Chile
+	}
+
+	names = {
+		trigger = {
+			owns = 783 # Chiloe / Patagonia Occidental
+		}
+		name = "COLONIAL_CHILE_Araucania"
+	}
+	names = {
+		name = "COLONIAL_LA_PLATA_Root_Culture_GetName_Chile"
+	}
+	names = {
+		name = "COLONIAL_REGION_New_Root_GetName"
+	}
+}
+
+# Plattina
+colonial_plattina = {
+	color = { 101 102 163 }
+
+	# Random New World
+	tax_income = 3
+	native_size = 12
+	native_ferocity = 1
+	native_hostileness = 4
+	
+	trade_goods = {
+		grain = 15
+		fish = 5
+		copper = 3
+		cloth = 3
+		iron = 1
+	}
+
+	culture = {
+		patagonian = 7
+		mapuche = 2
+		het = 8
+		charruan = 3
+		huarpe = 8
+		chacoan = 3
+		diaguita = 8
+	}
+	religion = {
+		animism = 10
+	}
+	
+	provinces = {
+		2843 2844 2845 2847 2867 2872 2877 #Cuyo
+		779 2860 2861 2865 2866 #Southern Pampas
+		777 778 2846 2848 2849 2853 2855 2858 2859 #Buenos Aires
+		791 794 2836 2837 2839 2842 #Tucoman
+		790 2854 2878 #Chaco
+		772 773 2850 2851 2852 #Banda Oriental
+		775 776 799 2882 2883 #Paraguay
+	}
+	
+	# Specific
 	names = {
 		trigger = {
 			culture_group = carthagennan_group
@@ -1227,8 +1544,8 @@ colonial_plattina = {
 	names = {
 		trigger = {
 			OR = {
-				culture = dutch
-				culture = oostfranken
+				primary_culture = dutch
+				primary_culture = oostfranken
 			}
 		}
 		name = "COLONIAL_PLATTINA_batavia"
@@ -1245,9 +1562,6 @@ colonial_plattina = {
 		name = "COLONIAL_LA_PLATA_Root_Culture_GetName_Paraguay"
 	}
 	names = {
-		name = "COLONIAL_LA_PLATA_Root_Culture_GetName_Chile"
-	}
-	names = {
 		name = "COLONIAL_LA_PLATA_Argentina"
 	}
 	names = {
@@ -1255,6 +1569,92 @@ colonial_plattina = {
 			owns = 772 # Uruguay
 		}
 		name = "PROV772"
+	}
+}
+
+colonial_amazonia = {
+	color = { 50 117 204 } # blue star from flag of Para
+
+	# Random New World
+	tax_income = 2
+	native_size = 8
+	native_ferocity = 1
+	native_hostileness = 4
+	
+	trade_goods = {
+		iron = 8
+		tropical_wood = 7
+		gold = 4
+	}
+	
+	culture = {
+		guarani = 5
+		tupinamba = 12
+	}
+	
+	religion = {
+		animism = 10
+	}
+
+	provinces = {
+		756 757 2914 2916 #Bahia
+		750 751 753 754 755 2885 2912 2913 2915 2917 2918 2921 2922 #Pernambuco
+		749 752 2886 2923 2924 2925 2926 2927 #Maranhao
+		747 748 2890 2928 2929 2930 2933 2934 2935 #Grao-Para
+	}
+
+	# Specific
+	names = {
+		trigger = {
+			primary_culture = norwegian
+		}
+		name = "COLONIAL_AMAZONIA_Jernskogen"
+	}
+	names = {
+		trigger = {
+			religion_group = christian
+		}
+		name = "COLONIAL_BRAZIL_Sancta_Crux"
+	}
+	names = {
+		trigger = {
+			culture_group = carthagennan_group
+			OR = {
+				owns = 749
+				owns = 2923
+				owns = 2924
+				owns = 2926
+				owns = 2927
+			}		
+		}
+		name = "COLONIAL_AMAZONIA_Maragnanensis"
+	}
+	names = {
+		trigger = {
+			culture_group = germanic
+			NOT = { primary_culture = dutch }
+		}
+		name = "COLONIAL_BRAZIL_Papeganenland"
+	}
+	names = {
+		trigger = {
+			culture = dutch		
+		}
+		name = "COLONIAL_BRAZIL_Brazilie"
+	}
+	names = {
+		trigger = {
+			culture_group = gothic_group
+		}
+		name = "COLONIAL_BRAZIL_Papegallia"
+	}
+
+	# Generic
+	names = {
+		name = "COLONIAL_AMAZONIA_Root_Culture_GetName_Amazonia"
+	}
+	names = {
+		name = "COLONIAL_REGION_New_Root_GetName"
 	}
 }
 
@@ -1286,16 +1686,13 @@ colonial_brazil = {
 	}
 	
 	provinces = {
+		760 761 
 		2857 2879 2884 2887 #Rio Grande
 		759 765 2891 2892 2894 2898 2899 #Minas Gerais
 		758 2906 2907 2908 2909 2910 2911 2919 #Goias
 		2881 2888 2893 2900 2901 2902 2903 2904 2905 2920 #Mato Grosso
 		766 768 769 2895 2896 2897 #Sao Paolo
 		762 763 764 #Rio De Janeiro
-		756 757 760 761 2914 2916 #Bahia
-		750 751 753 754 755 2885 2912 2913 2915 2917 2918 2921 2922 #Pernambuco
-		749 752 2886 2923 2924 2925 2926 2927 #Maranhao
-		747 748 2890 2928 2929 2930 2933 2934 2935 #Grao-Para
 	}
 	
 	# Specific
@@ -1425,6 +1822,15 @@ colonial_australia = {
 	}
 	
 	# Specific
+	names = {
+		trigger = {
+			OR = {
+				culture_group = malay
+				culture_group = pacific
+			}
+		}
+		name = "COLONIAL_AUSTRALIA_Selatan"
+	}
 	names = {
 		trigger = {
 			OR = {

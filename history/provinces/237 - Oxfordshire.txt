@@ -13,7 +13,6 @@ base_manpower = 2
 capital = "Aelia"
 is_city = yes # Includes Reading
 add_core = LOE
-seat_in_parliament = yes
 
 
 

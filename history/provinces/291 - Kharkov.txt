@@ -9,7 +9,7 @@ base_tax = 3
 base_production = 3
 trade_goods = iron 
 base_manpower = 1
-capital = "Belgorod"
+capital = "Kharka"
 is_city = yes
 add_core = ZYX
 

@@ -23,17 +23,17 @@ province_gothic_monarchy = {
 	
 	rank = {
 		1 = {
-			advisor_pool = 1
+			stability_cost_modifier = -0.05
 			global_unrest = -1
 			global_autonomy = -0.025		
 		}
 		2 = {
-			advisor_pool = 1
+			stability_cost_modifier = -0.05
 			global_unrest = -1
 			global_autonomy = -0.05		
 		}
 		3 = {	
-			advisor_pool = 1
+			stability_cost_modifier = -0.05
 			global_unrest = -1
 			global_autonomy = -0.075			
 		}

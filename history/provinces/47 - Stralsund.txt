@@ -1,4 +1,4 @@
-#47 - Stralsund
+#47 - Stralsund / Rugia
 
 owner = MKL
 controller = MKL
@@ -10,7 +10,7 @@ base_tax = 3
 base_production = 3
 trade_goods = fish
 base_manpower = 2
-capital = "Stralsund"
+capital = "Gora"
 is_city = yes
 
 

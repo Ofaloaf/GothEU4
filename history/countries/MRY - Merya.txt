@@ -1,0 +1,17 @@
+# Vepsia
+
+government = despotic_monarchy
+primary_culture = mordvin
+religion = catholic
+technology_group = eastern
+capital = 4147
+
+1376.7.3 = {
+	monarch = {
+		name = "Kazhevat I"
+		dynasty = "Pronskid"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}

@@ -18,6 +18,8 @@
 # HES - Hessen				# now it's archaically Dutch!
 # MUG - Mughal				# now it's Chinese????
 
+HAW = "countries/hawaii.txt"
+
 # Africa et Mauretania et cetera
 BYC = "countries/byzacena.txt"
 CRH = "countries/carthago.txt"
@@ -138,6 +140,8 @@ VST = "countries/vestlandet.txt"
 ILM = "countries/ilmenia.txt"		# Mordvin northern Russia
 JZY = "countries/jazygia.txt"
 MLD = "countries/mulda.txt"		# Sarmatian Moldova
+MRY = "countries/Merya.txt"
+MUR = "countries/Murom.txt"		# Finnic Murom
 RTH = "countries/ruthenia.txt"
 SRB = "countries/sorbia.txt"
 TRC = "countries/taurica.txt"
@@ -182,21 +186,28 @@ AVL = "countries/avallonia.txt"		# Brithenig
 GHH = "countries/gauthaim.txt"		# Gothic
 N08 = "countries/vergentorica.txt"	# Gallic
 N09 = "countries/eleutheria.txt"	# Carthagennan
+N13 = "countries/hannonia.txt"		# Africanu
 
 # Alleghania
 N02 = "countries/madogwys.txt"		# Brithenig & Celtic. Also works for Ohio, Florida, Mississippi and Appalachia
 N06 = "countries/newnetherlands.txt"	# Dutch & Oostfranken
+N19 = "countries/norumbega.txt"		# Norwegian
+
+# Amazonia
+N07 = "countries/charetes.txt"		# Africanu
+N12 = "countries/amazonia.txt"		# Generic
+N14 = "countries/gwercryg.txt"		# Brithenig
 
 # Appalachia
 N10 = "countries/aeneica.txt"		# Carthagennan
 WTG = "countries/watauga.txt"		# Generic
 
 # Brazil
-N07 = "countries/charetes.txt"		# Africanu
 PPG = "countries/papegania.txt"		# Gothic
 SCX = "countries/sanctacrux.txt"	# Generic
 
 # California
+N18 = "countries/california.txt"	# Generic
 GTA = "countries/sentandray.txt"	# Gothic
 
 # Canada
@@ -208,15 +219,25 @@ CUB = "countries/cuba.txt"		# Generic
 LTW = "countries/lethowsow.txt"		# Brithenig & Celtic
 ROY = "countries/royllo.txt"		# Gothic
 
+# Charcas
+N16 = "countries/charcas.txt"		# Generic
+
+# Chile
+#CHL = "countries/chile.txt"		# Generic
+
 # Equinoctialia
-N00 = "countries/equinoctia.txt"
+N00 = "countries/equinoctia.txt"	# Generic
+N21 = "countries/newvalentia.txt"	# Brithenig
 
 # Florida
 AGN = "countries/agustinha.txt"		# Gothic
 FLR = "countries/florida.txt"		# Generic
 
+# Guatemala
+N20 = "countries/figuyeras.txt"		# Gothic
+
 # Mexico
-GUS = "countries/guastica.txt"		# Gothic
+GUS = "countries/anahuac.txt"		# Gothic
 N03 = "countries/messig.txt"		# Brithenig
 
 # Mississippi
@@ -239,3 +260,7 @@ QRT = "countries/goranica.txt"		# Gothic
 
 # Tejas
 N11 = "countries/tejas.txt"		# Generic
+N15 = "countries/jacintana.txt"		# Gothic
+
+# Yucatan
+N17 = "countries/yucatan.txt"		# Generic

@@ -1,0 +1,159 @@
+# Yucatan (Gothic)
+
+graphical_culture = westerngfx
+
+colonial_parent = AMC
+random_nation_chance = 0
+
+color = { 201 153 109 }
+
+historical_idea_groups = {
+	defensive_ideas
+	spy_ideas
+	trade_ideas
+	offensive_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	economic_ideas
+	religious_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	french_caracolle
+	anglofrench_line
+	french_dragoon
+	french_bluecoat
+	french_cuirassier
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Cunstantin #0" = 30
+	"Jehan #0" = 20
+	"Atila #0" = 20
+	"Lozoïc #0" = 20
+	"Ainric #0" = 15
+	"Agust #0" = 15
+	"Baudoïn #0" = 10
+	"Godesteo #0" = 5
+
+	"Anna #0" = -5
+	"Berta #0" = -5
+	"Peytra #0" = -1
+	"Puelle" = -5
+	"Tiudora #0" = -1
+	"Tiufila #0" = -1
+
+	"Audericho #0" = 0
+	"Audon #0" = 0
+	"Aznar #0" = 0
+	"Belisari #0" = 0
+	"Clamenç #0" = 0
+	"Claudi #0" = 0
+	"Dracó #0" = 0
+	"Eraric #0" = 0
+	"Estilicó #0" = 0
+	"Evaric #0" = 0
+	"Froila #0" = 0
+	"Gauteric #0" = 0
+	"Gudafres #0" = 0
+	"Guidéric #0" = 0
+	"Guidimir #0" = 0
+	"Guillemó #0" = 0
+	"Hieró #0" = 0
+	"Jacint #0" = 0
+	"Jorge #0" = 0
+	"Laülf #0" = 0
+	"Leidrat #0" = 0
+	"Leonidas #0" = 0
+	"Leuberic #0" = 0
+	"Lixandre #0" = 0
+	"Lodoycus #0" = 0
+	"Marc #0" = 0
+	"Miquel #0" = 0
+	"Nicaulas #0" = 0
+	"Pèitre #0" = 0
+	"Pèricles #0" = 0
+	"Pol #0" = 0
+	"Pons #0" = 0
+	"Porphyrius #0" = 0
+	"Ricard #0" = 0
+	"Riculf #0" = 0
+	"Sans #0" = 0
+	"Sever #0" = 0
+	"Suer #0" = 0
+	"Sylvanus #0" = 0
+	"Temístocles #0" = 0
+	"Theophilus #0" = 0
+	"Tièrri #0" = 0
+	"Tiudor #0" = 0
+	"Tiudosi #0" = 0
+	"Toribius #0" = 0
+	"Tumas #0" = 0
+}
+
+leader_names = {
+	Amutingi Alnovemtingi Aleicoune Ablabis Ainanianeis Ambaur Albrauge Ayceli Aribert "del Abatut" Athonis
+	Barbachun "de Bacalar" Betcroeis Brannuve Bandeli Bolas Boysonnada Bozesa Bournazels Barravus Barranus Bonasias
+	Cabillate Chi Curruchich Canul Cocom Candacingi Cadraut Causidicus Catsrosignanei Cumosices Cabrespinas Capelier Combas
+	Calsutras "del Cros" Camboulas Clavellus Cathena "de Clinsenh"
+	Drautine "de Dubis" Darbleis Domerc Denabbas
+	Frode Fabricius Ferrarius Floretas Formis Fonfrega Fromenta Falgario "de Fulhonibus" Ferabocha Feljairat
+	Gabic Gabriac Galbaio Galvahn Ginesta Guirlarda Grefolieyra "de Gotorio" Guisardo "de Guimballo" Garneyr Gibalda Ginhos
+	Guandilho Guarassalt Guaya Guilhalmo Gisbert Gleyzola Grosso
+	Hunac
+	Ixquiac Insedus
+	Jalenca Janalgue Jaqua
+	Limaiseis Lagomia "de Lissaco" Lorderius
+	Miles Maní Mes Menchú Micles Melanclaenau Mascetis Maurus "de Monmato" Mansaga Massabuou Mercieyra Menestralh 
+	Molinerius "de Mosenquis" Macellarius Maiordierum Massonerius
+	Napuc "de Namaria" Natas
+	Oueitei Oulphsune
+	Pat Pilleates Piscador Palhargues Pictavini Payrolerius "de Prinhaco" Pinsonis "de Puialibus"
+	"de Quersi"
+	Rampa Rejón Rovira Roau Raurage Romieu Randaynes Regandi Rossinhol Rostanh "de Roaxio"
+	Spadic Sballes Secuani Seiscians Solli Salustre "de Scoalha" Segualar Seyrac Simeonis "de Scalquemchis"
+	Tanungeis Tizimín Tuyuc Timrei "de Tilein" Tigurine Tulli Terissa Torena "del Troc" Tornerius
+	Uiltes
+	Vinices Vulturareis Veirbigin Vergreis "del Verdier" Veziac
+	Wintrus "de Warcia"
+	Xicara Xiloj
+}
+
+ship_names = {
+	Alexander Achilles Attica Amorsa Angelus Anna Anastasia Arius Augusta
+	Brutus "Bak Halal" "Bon Chaman" Bonifacius
+	Cicero Chable "Chun Pom" "Chilam Balam"	Czitbalche Constantia Caesar
+	Danielus
+	Eolus Elysium Esparvièr Eugenia Euphenia
+	Fòrça Fidelis
+	Gladius Genialis
+	Hercules Honoria
+	Ixil Itzamkanac Iuppiter Iuno Istiophorus
+	Leo Làmia Laurentius
+	Muyil Meridionalis Minerva Marlí
+	Neptunus
+	Odysseus Ombra
+	Potentia Pomona Passerat Platana "Peix Espasa" Prudentia Providentia Pia
+	Saturnus Stephania
+	Theseus Tulum Tetrapturus Tetricus
+	Victoria Virgilius Virtus Verdon Vigilantia
+	Xoken
+}
+
+army_names = {
+	"Armada de $PROVINCE$" 
+}
+
+fleet_names = {
+	"Fluta de $PROVINCE$"
+}

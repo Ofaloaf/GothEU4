@@ -60,16 +60,16 @@ country_decisions = {
 			OR = {
 				NOT = { 
 					OR = { 
-						culture = dutch 
-						culture = oostfranken 
+						primary_culture = dutch 
+						primary_culture = oostfranken 
 					} 
 				}
 				AND = {
 					OR = {
-						culture = dutch 
-						culture = oostfranken
+						primary_culture = dutch 
+						primary_culture = oostfranken
 					}
-					exists = NND # A dutch CN should only be able to go for this if the New Netherlands is already taken
+					exists = N06 # A dutch CN should only be able to go for this if the New Netherlands is already taken
 				}
 			}
 			OR = {
@@ -155,12 +155,6 @@ country_decisions = {
 		major = yes
 		potential = {
 			NOT = { has_country_flag = changed_from_colonial_nation }
-			NOT = {
-				AND = {
-					culture_group = gothic_group
-					NOT = { exists = LBT }
-				}
-			}
 			NOT = {
 				AND = {
 					culture_group = carthagennan_group
@@ -513,6 +507,13 @@ country_decisions = {
 				AND = {
 					ai = yes
 					num_of_cities = 3	
+				}
+			}
+			or = {
+				NOT = { culture_group = brythonic }
+				AND = {
+					exists = N21
+					culture_group = brythonic
 				}
 			}
 		}
@@ -1113,6 +1114,12 @@ country_decisions = {
 					num_of_cities = 3	
 				}
 			}
+			NOT = {
+				AND = {
+					culture_group = gothic_group
+				}
+				NOT = { exists = N15 }
+			}
 		}
 		allow = {
 			adm_tech = 10
@@ -1145,6 +1152,234 @@ country_decisions = {
 			}
 			swap_free_idea_group = yes
 			colonial_tejas = {
+				limit = {
+					NOT = { owned_by = ROOT }
+				}
+				add_claim = ROOT
+			}
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+			set_country_flag = changed_from_colonial_nation
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	# GENERIC CHARCAS - Charcas
+	charcas_nation = {
+		major = yes
+		potential = {
+			NOT = { has_country_flag = changed_from_colonial_nation }
+			NOT = {
+				OR = {
+					technology_group = north_american
+					technology_group = mesoamerican
+					technology_group = south_american
+					technology_group = andean
+					technology_group = high_american
+				}
+			}
+			capital_scope = {
+				continent = south_america
+			}
+			colonial_charcas = {
+				owned_by = ROOT
+			}
+			OR = {
+				ai = no
+				AND = {
+					ai = yes
+					num_of_cities = 3	
+				}
+			}
+		}
+		allow = {
+			adm_tech = 10
+			#is_former_colonial_nation = yes
+			is_subject = no
+			is_at_war = no
+			capital_scope = {
+				colonial_region = colonial_charcas
+				is_core = ROOT
+			}
+			NOT = { exists = N16 }
+		}
+		effect = {
+			change_tag = N16
+			if = {
+				limit = {
+					is_part_of_hre = yes
+					is_elector = no
+				}
+				every_owned_province = {
+					limit = {
+						is_part_of_hre = yes
+					}
+					set_in_empire = no
+				}
+			}
+			if = {
+				limit = { NOT = { government_rank = 2 } }
+				set_government_rank = 2
+			}
+			swap_free_idea_group = yes
+			colonial_charcas = {
+				limit = {
+					NOT = { owned_by = ROOT }
+				}
+				add_claim = ROOT
+			}
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+			set_country_flag = changed_from_colonial_nation
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	# GENERIC YUCATAN - Yucatan
+	yucatan_nation = {
+		major = yes
+		potential = {
+			NOT = { has_country_flag = changed_from_colonial_nation }
+			NOT = {
+				OR = {
+					technology_group = north_american
+					technology_group = mesoamerican
+					technology_group = south_american
+					technology_group = andean
+					technology_group = high_american
+				}
+			}
+			capital_scope = {
+				colonial_region = colonial_yucatan
+			}
+			colonial_yucatan = {
+				owned_by = ROOT
+			}
+			OR = {
+				ai = no
+				AND = {
+					ai = yes
+					num_of_cities = 3	
+				}
+			}
+		}
+		allow = {
+			adm_tech = 10
+			#is_former_colonial_nation = yes
+			is_subject = no
+			is_at_war = no
+			capital_scope = {
+				colonial_region = colonial_yucatan
+				is_core = ROOT
+			}
+			NOT = { exists = N17 }
+		}
+		effect = {
+			change_tag = N17
+			if = {
+				limit = {
+					is_part_of_hre = yes
+					is_elector = no
+				}
+				every_owned_province = {
+					limit = {
+						is_part_of_hre = yes
+					}
+					set_in_empire = no
+				}
+			}
+			if = {
+				limit = { NOT = { government_rank = 2 } }
+				set_government_rank = 2
+			}
+			swap_free_idea_group = yes
+			colonial_yucatan = {
+				limit = {
+					NOT = { owned_by = ROOT }
+				}
+				add_claim = ROOT
+			}
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+			set_country_flag = changed_from_colonial_nation
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	# GENERIC CALIFORNIA - California
+	california_nation = {
+		major = yes
+		potential = {
+			NOT = { has_country_flag = changed_from_colonial_nation }
+			NOT = {
+				OR = {
+					technology_group = north_american
+					technology_group = mesoamerican
+					technology_group = south_american
+					technology_group = andean
+					technology_group = high_american
+				}
+			}
+			capital_scope = {
+				continent = north_america
+			}
+			colonial_california = {
+				owned_by = ROOT
+			}
+			OR = {
+				ai = no
+				AND = {
+					ai = yes
+					num_of_cities = 3	
+				}
+			}
+		}
+		allow = {
+			adm_tech = 10
+			#is_former_colonial_nation = yes
+			is_subject = no
+			is_at_war = no
+			capital_scope = {
+				colonial_region = colonial_california
+				is_core = ROOT
+			}
+			NOT = { exists = N18 }
+		}
+		effect = {
+			change_tag = N18
+			if = {
+				limit = {
+					is_part_of_hre = yes
+					is_elector = no
+				}
+				every_owned_province = {
+					limit = {
+						is_part_of_hre = yes
+					}
+					set_in_empire = no
+				}
+			}
+			if = {
+				limit = { NOT = { government_rank = 2 } }
+				set_government_rank = 2
+			}
+			swap_free_idea_group = yes
+			colonial_california = {
 				limit = {
 					NOT = { owned_by = ROOT }
 				}

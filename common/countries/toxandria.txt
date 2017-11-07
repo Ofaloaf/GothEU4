@@ -36,7 +36,9 @@ historical_units = {
 monarch_names = {
 	"Tiuderic #0" = 50
 	"Evaric #0" = 40
-	"Alaric #0" = 0
+	"Alaric #0" = 10
+
+	"Maria #0" = -5
 
 	"Benaitu #0" = 0
 	"Borel #0" = 0

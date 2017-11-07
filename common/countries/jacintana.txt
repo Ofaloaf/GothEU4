@@ -1,0 +1,172 @@
+# Jacintana
+# Hyacintha/Jacinta
+# whatever, it's Gothic Texas
+
+graphical_culture = westerngfx
+
+colonial_parent = GTH
+random_nation_chance = 0
+
+color = { 0 40 104 }
+
+historical_idea_groups = {
+	plutocracy_ideas
+	trade_ideas
+	economic_ideas
+	defensive_ideas
+	maritime_ideas
+	administrative_ideas
+	offensive_ideas
+	quantity_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	chevauchee
+	western_longbow
+	gaelic_mercenary
+	gaelic_free_shooter
+	french_caracolle
+	irish_charge
+	anglofrench_line
+	french_dragoon
+	british_redcoat
+	british_hussar
+	british_square
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Amalric #0" = 40
+	"Pèitre #0" = 40
+	"Cunstantin #0" = 25
+	"Agust #0" = 20
+	"Tiuderic #0" = 10
+	"Porphyrius #0" = 10
+
+	"Anna #0" = -10
+	"Dèbora #0" = -1
+	"Fe #0" = -5
+	"Guihelma #0" = -5
+	"Luquetas #0" = -5
+	"Maria #0" = -10
+	"Victoria #0" = -10
+
+	"Andrai #0" = 0
+	"Audax #0" = 0
+	"Audericho #0" = 0
+	"Aymeric #0" = 0
+	"Barral #0" = 0
+	"Bartoumiéu #0" = 0
+	"Claudi #0" = 0
+	"Dat #0" = 0
+	"Davi #0" = 0
+	"Ermengau #0" = 0
+	"Filip #0" = 0
+	"Frederi #0" = 0
+	"Fulc #0" = 0
+	"Garçi #0" = 0
+	"Gomé #0" = 0
+	"Gudafres #0" = 0
+	"Guidimir #0" = 0
+	"Guillemó #0" = 0
+	"Immanuèl #0" = 0
+	"Irmanric #0" = 0
+	"Istève #0" = 0
+	"Jacme #0" = 0
+	"Jaufret #0" = 0
+	"Jehan #0" = 0
+	"Josèp #0" = 0
+	"Laülf #0" = 0
+	"Laurènç #0" = 0
+	"Luc #0" = 0
+	"Marc #0" = 0
+	"Marçau #0" = 0
+	"Matias #0" = 0
+	"Miquel #0" = 0
+	"Olban #0" = 0
+	"Ordonno #0" = 0
+	"Pascalis #0" = 0
+	"Plastulf #0" = 0
+	"Pons #0" = 0
+	"Salvator #0" = 0
+	"Sans #0" = 0
+	"Theophrastus #0" = 0
+	"Timbalt #0" = 0
+	"Tiudosi #0" = 0
+	"Toribius #0" = 0
+	"Ursus #0" = 0
+}
+
+leader_names = {
+	Abamilh Arocha Arreola Ambustus Agricola Agrippa Ahala Alquerius Athonis Amatein Aroy Abriat Andamas Angholet
+	Badilh Barcena Bergara Bassus Buteo Bubulcus Baiulus Bergonhot Bajuli Banlhe Barca Barrali Bonassio Bot "de Banio"
+	Berga Bornazela Benesit Bertot Blazi Balaria Barascona Barbeyr Barsanghas Basseta Baile Bergonho Berengeyr Besseyra
+	Bessol Blaela Blancz Blant Barya Bodent Baraphi Bodilho Bonfaos Bontemps Boschona Brossozas Brugeyra Brunel Botarel
+	Carmona "de Cos" Curvier Cantius Caepio Carbo Capito Cilo Costa Cotta Cornicen Carabordas Christini Coyre Coysset
+	Chantal Camion Cebial Celeyr Chabrelhat Calcaht Chalretona Champanhat Chanarribeyra Costairat Crosilh Cruveler
+	Despallier Daigon Danuha Dasches Daurenx Davida Dax Denbas Denlas Deuganas Dalbrat Ducel Dobax Dolmeira Donnat Delolme
+	Deudonat Dobla Delostal Desparo Dolso Donnat
+	Eliel "le Especier" Eralh Eschaleyr Esclavi Escudeyr Espinassa Esqudeir Estival Esquet
+	Fabricius Fuqua Ferrarius Fabri Fora Floris Finas Fabre Faet Ferreyr Folx Forneyrs Frescho "dels Faus"
+	Galba Galbaio Garic Gralherius Gaucelmus Guitardi "de Guiroubat" Guinot "del Gurbe" Galhardi Garcias Gast Guiraldi
+	Gourris Guillelmi Gualhardetz Guaspart Gualhart Giri Gabarela Garassalt Gerart Gleisola GRanolha Guabarela Guales
+	Heralh "de Hulhac" Helis Heliot
+	Insedus Isarnus
+	Jorcius Joni Jerzat Jaca Jueria Juniat "lo Jove"
+	Landeria Lorderius "de Lassaco" "de Latay" "de Lenozan" Lana Lerescat Lonsat Labas Labuygha Lespaser "de Laira" Lors
+	Latgaza Lobaressas Loleyr
+	Miles Menchaca Modius Manelani Massonerius Macellarius Maiordierum Menestralh Molinerius Maro Montarzinus "de Mazer"
+	Minald Mus "de Monsos" "de Mirana" "de Mallacasanha" Macellar Maigre Maistrona Malara Malbort Manhagha Manuola Marti
+	Mauranghas Meleda Merceyr Migo Moceta Moneira Monneyr Moreyras Mostel Moyssat Mugola
+	Nava Naso Nasica Nerva "de Nuane" Nadal Nassi
+	Olamius Ocella Oddetus Offinus Ostencius Obax Orssa Oulher
+	Paganus Payrolerius Pantellus Pagesius "de Palatio" "de Peyrolle" Pansa Pavo Pera Piso Pulcher Peytrel "de Paluteria"
+	Pictavinius "de Paolhaco" "de Pergolhan" "de Pert" "de Pusquecia" "del Plaicar" Parricha "Lo Pau" Pageza Palissa Poget
+	Pealfalit Peliceyr Pelros Penonola Perpezat Peschau Pestre Petis Pigaule Polnerelas Polneyrat Portaleyra Pratmayrat
+	Quatrelhouras Quitarda
+	Ralla Ruga Rostanh Rudellus "de Riperia" Riguo Robi Rollando Rasquanela Redoli Regort Retalhada Ribeira Renel Rocho
+	Rodeir Ronger Rotgeirola Rotgeyr Runel
+	Sballes "de Salqc" Salinator Scaeva Scapula Scaevola Scrofa Silo Sura Sancius Sansanerius Senebrunus "de Sadelhaco"
+	Sezanus "de Scifurt" "del Salan" "del Spliscat" "lo Saralher" Sabateir Salvanhat Sangnaneva Sarpela Sartro Saunat
+	Saurinot Sebnejol Seghalory Selho Sera Sinada Sinairagha Siuque Soleir Suor
+	Tubero "de Tarre" Thinordus Theca Tencho Talissa Targanayra Tarnalt Teronda Teyssedre Toret Torral "de Targanaira"
+	Trencheyr Tronchi "de Troys" Tremoleyra "de Tuela" "del Tor" Trobel
+	Varro "de Vesseriis" "del Valt" Verres Vidotus Vitalis "de Valueghol" Vaiceyra Vales Vargarguas Vedel Veray Vernina
+	Vaurlheta Vendesa Verdieyr Verdura Vezi Vidal Vinhareir Voltoirer Vila
+	Ysarni Yter Yvern
+	Zancus Zepeda
+}
+
+ship_names = {
+	Aiglina Alays Aldeta Andrena Angelina Anthonia Astrugha Astrònom Amistat
+	Beatris Betranda Boneta Brazos
+	Catarina Cebelia Corteza Cornelia Constantia Constellació Compromís Cicló Confiança
+	Dalphina Dolssa Dorothea
+	Esperta Euphemia Elefant
+	Floretas Franceza Fraternitat
+	Guiomars Garina Guilelmina Galla Guepard Golias Gasela Guerrer
+	Halena Huracà
+	Imparable Invencible Igualtat
+	Jacma Jona Juliana Junia Justitia
+	Libertat
+	Minerva Mars Margharida Michela Maragda
+	Navegant "Nova Massalia"
+	Philippa Placidia Persistència Paciència Pau
+	Robus Rubí Responsable Resistència
+	Saura "Sent Jacint" "Sent Antoni" "Senta Anna" "Senta Maria" "Senta Romana" Salomon Safir Samsó
+	Theodora Tigre Tornado Tranquillitat
+	Victoria Valeria Valentina Vespa
+	Yzabela
+}
+
+army_names = {
+	"Armada de $PROVINCE$" 
+}
+
+fleet_names = {
+	"Fluta de $PROVINCE$"
+}

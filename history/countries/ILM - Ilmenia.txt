@@ -1,3 +1,5 @@
+# Vepsia
+
 government = despotic_monarchy
 primary_culture = mordvin
 religion = catholic

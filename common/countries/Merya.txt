@@ -1,0 +1,91 @@
+# Merya
+
+graphical_culture = easterngfx
+
+color = { 227 221 77 }
+
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	quality_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	druzhina_cavalry
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+monarch_names = {
+	"Kezhevat #1" = 25
+	"Surt #2" = 25
+	"Deryab #1" = 20
+	"Pokshayka #1" = 15
+	"Tutyra #1" = 15
+	"Maruchad #1" = 15
+	"Velmayka #1" = 15
+	"Mordvinko #1" = 10
+	"Ovtay #1" = 10
+	"Kinyak #1" = 10
+	"Ensio #2" = 5
+	"Atyamas #0" = 5
+
+	"Ashava #0" = -1
+	"Megurka #0" = -1
+	"Tekay #0" = -1
+
+	"Azyren #0" = 0
+	"David #0" = 0
+	"Inzhay #0" = 0
+	"Lysko #0" = 0
+	"Nalka #0" = 0
+	"Putyayka #0" = 0
+	"Tylze #0" = 0
+	"Varmanpaz #0" = 0
+	"Vechkas #0" = 0
+	"Verdyan #0" = 0
+}
+
+leader_names = {
+	Ahti Aijli Ahlaierffui
+	Djäkn Diägn
+	Enckie
+	Harjumaa Hoykka
+	Kemiläinen Kaxijois Köykosche Kawlokala
+	Laitela
+	Mescherainen Mukonen Mäghenpän
+	Pöhänen Pundan
+	Renaekaeltae Rayko
+	Skittha Skynnare
+	Tyushtinen Teikar
+	Vepsä Vehnäpää
+	Wesala
+}
+
+ship_names = {
+	Adelitsa
+	Clara
+	Dionisius
+	Edgard
+	Litova
+	"Kardaz Kardazinen"
+	Sochava
+}

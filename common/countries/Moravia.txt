@@ -1,0 +1,101 @@
+#Country Name: Moraustan
+
+graphical_culture = westerngfx
+
+color = { 232 149 18 }
+
+preferred_religion = protestant
+
+historical_idea_groups = {
+	economic_ideas
+	defensive_ideas
+	diplomatic_ideas
+	offensive_ideas
+	innovativeness_ideas
+	quantity_ideas
+	administrative_ideas
+	religious_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Arsen #1" = 30
+	"Leri #2" = 30
+	"Candac #1" = 30
+	"Daler #1" = 30
+	"Balambar #2" = 25
+	"Ibragim #1" = 25
+	"Guram #1" = 20
+	"Ruslan #1" = 20
+	"Gazdan #1" = 15
+	"Pkharmat #1" = 15
+	"Uruzma #1" = 15
+	"Koser #1" = 15
+	"Respindal #1" = 5
+	"Tamerlan #0" = 5
+
+	"Ana #0" = -5
+	"Elene #0" = -5
+	"Lashin #0" = -5
+	"Mariamy #0" = -5
+	"Rusudan #0" = -5
+
+	"Ardabur #0" = 0
+	"Ashkatar #0" = 0
+	"Aton #0" = 0
+	"Bakhva #0" = 0
+	"Bartatua #1" = 0
+	"Batraz #0" = 0
+	"Drazko #0" = 0
+	"Girgon #0" = 0
+	"Gubaz #1" = 0
+	"Inal #0" = 0
+	"Kashtariti #1" = 0
+	"Kruto #0" = 0
+	"Kuddana #1" = 0
+	"Lyudvig #0" = 0
+	"Safrak #1" = 0
+	"Scyla #1" = 0
+	"Totraz #1" = 0
+}
+
+leader_names = {
+	Aini Alagir
+	Berka Beslan Besik
+	Capek Chikola Cordukh
+	Digor
+	Elbrus
+	Harant
+	Iaxam
+	Jiskra
+	Kolowrat Kudar
+	Mirabi
+	Nyxas
+	Píka Purkyne
+	Tual
+	Velen
+	Xurzerin
+	Yuta
+	Znaur
+}
+
+ship_names = {
+	"Koshel Mordvanid"
+	Uatsdin
+}

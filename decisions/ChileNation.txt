@@ -1,1 +1,81 @@
-#
+country_decisions = {
+
+	chile_nation = {
+		major = yes
+		potential = {
+			NOT = { has_country_flag = changed_from_colonial_nation }
+			is_nomad = no
+			is_random_new_world = no			
+			NOT = {
+				OR = {
+					technology_group = north_american
+					technology_group = mesoamerican
+					technology_group = south_american
+					technology_group = andean
+					technology_group = high_american
+				}
+			}
+			colonial_chile = {
+				owned_by = ROOT
+			}
+			capital_scope = {
+				OR = {
+					area = southern_chile_area
+					area = central_chile_area
+				}
+			}
+			OR = {
+				ai = no
+				AND = {
+					ai = yes
+					num_of_cities = 3	
+				}
+			}
+		}
+		allow = {
+			adm_tech = 10
+			is_former_colonial_nation = yes
+			is_free_or_tributary_trigger = yes
+			is_at_war = no
+			NOT = { exists = CHL }
+		}
+		effect = {
+			change_tag = CHL
+			if = {
+				limit = {
+					is_part_of_hre = yes
+					is_elector = no
+					is_emperor = no
+				}
+				every_owned_province = {
+					limit = {
+						is_part_of_hre = yes
+					}
+					set_in_empire = no
+				}
+			}
+			if = {
+				limit = {
+					NOT = { government_rank = 2 }
+				}
+				set_government_rank = 2
+			}
+			colonial_chile = {
+				limit = {
+					NOT = { owned_by = ROOT }
+				}
+				add_permanent_claim = CHL
+			}
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+			set_country_flag = changed_from_colonial_nation
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+}

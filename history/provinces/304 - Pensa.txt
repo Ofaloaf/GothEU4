@@ -1,4 +1,4 @@
-#304 - Pensa
+#304 - Pensa/Penza/Purgaz
 
 owner = ZYX
 controller = ZYX

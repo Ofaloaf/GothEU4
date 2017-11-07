@@ -1,4 +1,4 @@
-#252 - Highlands
+#252 - Highlands / Nis
 
 owner = ARG
 controller = ARG
@@ -9,7 +9,7 @@ base_tax = 3
 base_production = 4
 trade_goods = wool
 base_manpower = 4
-capital = "Inverness"
+capital = "Inbhir Nis"
 is_city = yes
 estate = estate_nobles
 add_core = ARG

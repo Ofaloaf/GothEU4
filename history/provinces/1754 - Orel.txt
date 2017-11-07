@@ -1,8 +1,8 @@
 #1754 - Murom ( formerly Orel)
 
-owner = VBG
-controller = VBG   
-culture = bolghar
+owner = MUR
+controller = MUR  
+culture = mordvin
 religion = catholic
 hre = no
 base_tax = 4 
@@ -11,7 +11,7 @@ trade_goods = grain
 base_manpower = 4
 capital = "Murom"
 is_city = yes
-add_core = VBG
+add_core = MUR
 
 
 

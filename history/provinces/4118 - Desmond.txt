@@ -1,4 +1,4 @@
-#4118 - Desmond and Ormond
+#4118 - Desmond and Ormond / Corcagiensis / Corc
 
 owner = IWR
 controller = IWR
@@ -9,7 +9,7 @@ base_tax = 4
 base_production = 4
 trade_goods = copper
 base_manpower = 2
-capital = "Cork"
+capital = "Corcagia"
 is_city = yes
 add_core = IWR
 discovered_by = western

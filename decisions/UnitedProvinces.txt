@@ -41,7 +41,6 @@ country_decisions = {
 			owns_core_province = 57
 			owns_core_province = 50		# Berlin
 			senior_union_with = SRB
-			NOT = { num_of_unions = 2 }
 		}
 		effect = {
 			change_tag = F03

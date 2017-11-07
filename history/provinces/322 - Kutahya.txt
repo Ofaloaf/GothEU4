@@ -1,10 +1,10 @@
-#322 - Küthaya
+#322 - Küthaya / Cotyaeum
 
 owner = A00
 controller = A00
 culture = rummen
 religion = manichee
-capital = "Kütahya"
+capital = "Cotyaeum"
 trade_goods = cloth
 hre = no
 base_tax = 6

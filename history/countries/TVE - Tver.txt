@@ -4,3 +4,27 @@ religion = finnish_pagan_reformed
 technology_group = eastern
 capital = 294	# Tver
 fixed_capital = 294 # Cannot move capital away from this province & no power cost to move to it
+
+1375.12.1 = {
+	monarch = {
+		name = "Virdyan"
+		dynasty = "Pronskid"
+		birth_date = 1359.9.14
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1400.9.3 = {
+	heir = {
+		name = "Inzhay"
+		dynasty = "Pronskid"
+		birth_date = 1379.1.20
+		death_date = 1450.1.1
+		claim = 95
+		adm = 1
+		dip = 4
+		mil = 1
+	}
+}

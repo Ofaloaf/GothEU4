@@ -1,11 +1,21 @@
 # Europe & Old World
 233 = "Kernow"
 236 = "Llundain"
-239 = "Caerloyw"
+239 = "Glywysing"
 240 = "Powys"
+245 = "Efrog"
+246 = "Bryneich"
+248 = "Lleuddiniawn"
+249 = "Galwyddel"
+251 = "Deathan"
 368 = "Elys"
+373 = "Mhi"
+374 = "Laighin"
+376 = "Connachta"
 1860 = "Ffens"
 1861 = "Derwent"
+4118 = "Corc"
+4121 = "Wlaidd"
 4130 = "Dyfnaint"
 
 # Canada
@@ -42,6 +52,9 @@
 950 = "Parmen"
 952 = "Carnoel"
 2542 = "Fowi"
+
+# Brazil
+748 = "Bethleem"
 
 # Equinoctialia
 491 = "Mona"

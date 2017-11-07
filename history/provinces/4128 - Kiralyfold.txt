@@ -1,10 +1,10 @@
-#1951 - Hunyad
+#4128 - Aluta
 
 owner = JZY
 controller = JZY
 culture = wallachian
 religion = catholic
-capital = "Sibiu"
+capital = "Cibinium"
 trade_goods = cloth
 estate = estate_burghers
 hre = no

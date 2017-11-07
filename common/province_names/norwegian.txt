@@ -1,0 +1,96 @@
+10 = "Jemtland"
+16 = "Båhuslen"
+100 = "Frisland"
+245 = "Jorvik"
+369 = "Orkneyjar"
+1978 = "Hjaltland"
+1979 = "Færøyene"
+4143 = "Borgarsysla"
+
+
+# NOVUS ORBIS
+
+# Alleghania
+953 = "Lade"
+954 = "Voss"
+955 = "Ringerike"
+956 = "Grenfylke"
+957 = "Vanse"
+958 = "Fidjane"
+961 = "Utgard"
+962 = "Rogafylke"
+963 = "Geirstad"
+964 = "Valdresflye"
+965 = "Ny Vingulmark"		# 'Vingulmark' is an old, old name for the territory around where Oslo now is.
+2023 = "Vestmar"
+2554 = "Lista"
+2555 = "Hoddmimers Skog"
+2556 = "Toten"
+2557 = "Herdalir"
+2558 = "Alvheim"
+2559 = "Valdres"
+2560 = "Sygnafylke"
+2561 = "Noatun"			# Meaning 'ship-enclosure' in old norse, and is the home of the vanir god Njörðr. Cape Cod seems appropriate.
+2639 = "Hordafylke"
+
+# Amazonia
+2934 = "Mimes Brønn"		# Mímisbrunnr is a mythical well of knowledge and shit that's located underneath Yggdrasil and such stuff.
+
+# APPALACHIA
+936 = "Hindarfjall"
+938 = "Sökkvabekkr"
+950 = "Flatøy"
+2011 = "Ydalar"			# Ýdalir was a place in norse mythology. The name means "yew-dales". Trees. The Shenandoah Valley has lots of trees.
+2547 = "Ranrike"
+2550 = "Solør"
+
+# Canada
+982 = "Thyrkarhjem"		# Tyrker was the name of one of Leif Ericson's servants, who was the first to discover grapevines in the New World.
+983 = "Moen"
+984 = "Namdalafylke"
+985 = "Moldegård"
+994 = "Ny Nidaros"		# 'Nidaros' is an old name for Trondheim.
+995 = "Rauma"
+996 = "Furthustrand"
+2572 = "Fosen"
+2577 = "Háleygjafylke"
+2578 = "Madkasjoland"
+2566 = "Grip"
+2568 = "Gaudalafylke"
+2569 = "Orkdølafylke"
+2583 = "Norrmørefylke"
+2584 = "Sunnmørefylke"
+
+# Caribbean
+487 = "Herlighetland"		# 'Glory Land'. Columbus named the island of Jamaica 'St. Gloria'.
+492 = "Rikhavn"			# 'Rich Port', Puerto Rico
+493 = "Jomfruøyene"		# Actual Norwegian name for the Virgin Islands, which translates to... 'Virgin Islands'
+
+# Florida
+927 = "Sankt Augustin"		# St. Augustine. Because it's where St. Augustine is.
+2536 = "Sørby"			# South Town. Fight me, okay?
+
+# Mississippi
+2504 = "Kvergjelme"		# Norwegian name for 'Hvergelmir', which in turn is Old Norse for "Bubbling Boiling Spring" and is mentioned in the Poetic Edda.
+
+# Ohio
+917 = "Idavollen"		# Iðavöllr is a mythological plain where the gods first built an altar and a temple. Cahokia was a city of artificial mounds that I bet someone cold mistake for altars and temples or some such.
+951 = "Himinbjörg"
+
+# Terranova
+980 = "Straumfjord"
+981 = "Leifsbudir"
+997 = "Kjalarnes"
+2573 = "Hop"
+2574 = "Nye Fjordane"
+2575 = "Sand"
+
+# Texas
+887 = "Okolnir"			# 'Never Cold'
+2499 = "Nastrand"
+
+# Winnipeg
+1000 = "Litehus"
+1003 = "Attavpisgofylke"
+1004 = "Vindfull"
+1005 = "Muskegofylke"

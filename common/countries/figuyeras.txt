@@ -1,0 +1,196 @@
+# Higueras - ES
+# Figueras - Catalan
+# Figuièra(s) - Occitan
+# Figuyèras - Occitan-Gothic???
+
+graphical_culture = westerngfx
+
+colonial_parent = GTH
+random_nation_chance = 0
+
+color = { 39 84 129 }
+
+historical_idea_groups = {
+	maritime_ideas
+	plutocracy_ideas
+	humanist_ideas
+	trade_ideas	
+	defensive_ideas
+	economic_ideas
+	quality_ideas
+	innovativeness_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	italian_condotta
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Alaric #0" = 30
+	"Pons #0" = 30
+	"Lixandre #0" = 30
+	"Amalric #0" = 25
+	"Istève #0" = 25
+	"Liun #0" = 20
+	"Pèitre #0" = 15
+	"Agust #0" = 10
+	"Jehan #0" = 10
+
+	"Andrieva #0" = -10
+	"Aster #0" = -1
+	"Berenguela #0" = -1
+	"Dulça #0" = -1
+	"Eisabèu #0" = -10
+	"Gabrièla #0" = -10
+	"Ildaria #0" = -1
+	"Loïsa #0" = -5
+	"Regina #0" = -1
+	"Sança #0" = -5
+	"Sibilla #0" = -5
+	"Terèsa #0" = -5
+	"Tiudora #0" = -1
+
+	"Amaneus #0" = 0
+	"Anambad #0" = 0
+	"Andrai #0" = 0
+	"Artau #0" = 0
+	"Atalaric #0" = 0
+	"Atila #0" = 0
+	"Audoacre #0" = 0
+	"Audon #0" = 0
+	"Bartoumiéu #0" = 0
+	"Baudoïn #0" = 0
+	"Belisari #0" = 0
+	"Benexet #0" = 0
+	"Bermond #0" = 0
+	"Borrel #0" = 0
+	"Boson #0" = 0
+	"Caraules #0" = 0
+	"Celdoni #0" = 0
+	"Centolh #0" = 0
+	"Claudi #0" = 0
+	"Constantin #0" = 0
+	"Dàvi #0" = 0
+	"Deodatus #0" = 0
+	"Diaco #0" = 0
+	"Doumenge #0" = 0
+	"Eraric #0" = 0
+	"Estilicó #0" = 0
+	"Evaric #0" = 0
+	"Fagim #0" = 0
+	"Ferrand #0" = 0
+	"Flaín #0" = 0
+	"Frodoí #0" = 0
+	"Froila #0" = 0
+	"Fulc #0" = 0
+	"Goyo #0" = 0
+	"Guttier #0" = 0
+	"Ildebad #0" = 0
+	"Immanuèl #0" = 0
+	"Irmanric #0" = 0
+	"Ives #0" = 0
+	"Jacme #0" = 0
+	"Jordan #0" = 0
+	"Jorge #0" = 0
+	"Justi #0" = 0
+	"Laülf #0" = 0
+	"Laurènç #0" = 0
+	"Leidrat #0" = 0
+	"Leuderat #0" = 0
+	"Lozoïc #0" = 0
+	"Marc #0" = 0
+	"Martin #0" = 0
+	"Matfrei #0" = 0
+	"Matias #0" = 0
+	"Milau #0" = 0
+	"Miquel #0" = 0
+	"Nicaulas #0" = 0
+	"Narseis #0" = 0
+	"Nicodim #0" = 0
+	"Pascalis #0" = 0
+	"Pol #0" = 0
+	"Olban #0" = 0
+	"Omèr #0" = 0
+	"Ordonno #0" = 0
+	"Oveco #0" = 0
+	"Raimond #0" = 0
+	"Rainaut #0" = 0
+	"Raolf #0" = 0
+	"Remistau #0" = 0
+	"Riculf #0" = 0
+	"Rodericho #0" = 0
+	"Savarics #0" = 0
+	"Sergi #0" = 0
+	"Sidauni #0" = 0
+	"Suneario #0" = 0
+	"Teia #0" = 0
+	"Telo #0" = 0
+	"Theodorus #0" = 0
+	"Theophilus #0" = 0
+	"Tiuderic #0" = 0
+	"Wifredo #0" = 0
+}
+
+leader_names = {
+	Aymon Astruc Abrahe "ben Annum" "de Apiara" "ben Aarde" "den Adret" Abenmenax Avincabra Adarra Azcarel Alfor Aleu Aymerich Albusquia Ataus
+	Boquièr Bondia Bonet "de Belcaire" "de Besalu" Bedoç Bonet Bonto Baró Bosens Bodere Boet Belser
+	Caraulon Carpentièr Crexent Coen "de la Cavaleria" Coras Camlonch Camps Çafont "de Corasciola" Caranyana Cirera Cabironis Cambo Calmetas Casalis Crosilhes
+	Dento Dericol Deuslosall Duran Desaintcric Delamygne Dedoigne Dartes Degarcos Delayt Decorroal Delalo Duc
+	Estrader Esquelles Estochait Estene
+	Front Fustièr Fabre Ferrer Fornièr Font Fontanills Feliu Fisnerola Fortuny Feyna Floyrac
+	Guynelon Gairini Guyon Goscemps Gorgoll Gatell Garriga Guilabert Gual Galzin Guaterot Guitbald Gili Galterius Gorio Guilhot
+	Huyon
+	Iuceff Isbert
+	Johannis Joris Jolia
+	Lazaron Levi Lineyto "de Lauras" "de Loranazes" Lopes Livin Licroisic Luceal
+	Menusièr Maselièr Maimo Modeci Morer Màrgens Martorell Massa Massot Muntargull Mas Mercerius Monerius "de Mallelvilla" Moric Monic Melis
+	Nabert
+	Oms Olivera "d'Olmieyras" Orcuellus
+	Peytron Pancosièr Provencalem Par Plana Pascas Prat Puig Ponç Pilot "de Puechmeja" Picarel Picolet Parenchieras
+	Queralt
+	Rofreo "de la Rotxela" "de Za Reial" Rovira Roig Riba Roca Rabassa Riquas Rossellus Rondelas Raynes Rollald Ribes
+	Samiel "ben Salmo" Saltellis Sala Salvat Sentleyr Segarra Sentanaclet Sallels Simeu Sanchas Silaret
+	Torquelles Terrasona Texidor Torra Trenquerius
+	Vallfolor Vallongera Valls Virenca Vignalt Vaquièr
+	Yagut
+}
+
+ship_names = {
+	Adzero Animus Argo Aristòtel Adrech Afrós Aistiu Aiscien Andreas
+	Baynole "Blós Cór" Bontose Bartonne Bidonna Bravesa Balèsta "Bon Rit"
+	Cobes Conthor "Christianus Falgarius" Cortage Caritat Cantaire Cavalièr Crocodil Coguol Curiós Cipres "Camparòl Fòl" Colomb
+	Domaisèla Defensa Demoni Digne Diplomat Dirigir Descobèrta Duc
+	Ermanaricus Epicur Engandor 
+	Fundeyras Fave Falcon Fantin
+	Guaymuras Gaux Guilhermus Gauch Guerrier
+	Independéncia
+	Jehanna Jorn Jujament Justicia
+	Libertat "Ley Naua"
+	Mesteiral Maestre Meravelha Melhor Marculus
+	Narcís
+	Onor Orgolh
+	Pietas Pindar Platon Paloma Pasqua Plazer Petrus
+	Salvament "Sent Marc" "Sent Jehan" "Sent Luc" "Sent Matias" "Sent Pol" "Sent Andrai" Seïsme "Sent Sperit" "Senta Fe" "Sent Payre" Saraçin Stella
+	Terrible Tamboraire Tèrratremol Talan Theodericus Telemachus
+	Virtus
+}
+
+army_names = {
+	"Armada de $PROVINCE$" 
+}
+
+fleet_names = {
+	"Fluta de $PROVINCE$"
+}

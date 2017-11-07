@@ -133,10 +133,6 @@ army_names = {
 	"Armada de %PROVINCE%"
 }
 
-army_names = {
-	"Armada de $PROVINCE$" 
-}
-
 fleet_names = {
 	"Fluta de $PROVINCE$"
 }

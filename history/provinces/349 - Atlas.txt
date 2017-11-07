@@ -1,10 +1,10 @@
-#349 - Figuig
+#349 - Figuig/Mulucha
 
 owner = MOR
 controller = MOR
 culture = mauru
 religion = catholic
-capital = "Volubilis"
+capital = "Malva"
 trade_goods = grain
 hre = yes
 base_tax = 4

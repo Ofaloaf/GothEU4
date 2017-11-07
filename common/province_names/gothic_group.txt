@@ -1,16 +1,26 @@
-# Gallia et Gothia
+# Gallia et Gothia et other shit in Europe
+68 = "Cassilhac"
+69 = "Brigansa"
+70 = "Soliçin"
+71 = "Onautiac"
+72 = "Brisgòvia"
+77 = "Lodun"
+78 = "Maiança"
 80 = "Trevèri"
+85 = "Colonha"
 87 = "Caleeis"
 88 = "Atrebatesa"
 90 = "Brujas"
 91 = "Fanomarésa"
 92 = "Brussèlas"
 93 = "Legia"
+166 = "Suïts"
 167 = "Rodumo"
 168 = "Costanciensa"
 169 = "Redonia"
 171 = "Veneda"
-174 = "Bordelh"
+172 = "Namntas"
+174 = "Burdelh"
 177 = "Meduana"
 178 = "Anjau"
 179 = "Burgis"
@@ -37,76 +47,117 @@
 204 = "Viennensa"
 1743 = "Camaraco"
 1760 = "Coblensa"
+1761 = "Vormatas"
 1866 = "Lomacés"
+1869 = "Turic"
+1873 = "Cuira"
 1877 = "Cadrela"
 
 
 # Alleghania
-953 = "Senta Ana"
+953 = "Senta Ana"	# playing off of Annapolis
+954 = "Acre"
+955 = "Campus Pextang"	# 'Pextang' was the old native name for the area around Harrisburg, PA
+956 = "Betelèm"		# Bethlehem, Pennsylvania
 957 = "Lupésa"
 958 = "Arcturus"
-962 = "Linabucinsa"
-963 = "Scanentatia"
+962 = "Gulielmus"	# Fort Wilhelmus, old Dutch settlement in southern New Jersey
+963 = "Saphracis"	# '[Villa of] Saphrax'
 964 = "Esopus"
-965 = "Naua Bordèu"
+965 = "Nau Bordèu"	# New Bordeaux
+967 = "Nau Refugi"	# 'New Refuge'
 968 = "Trimontium"
-2010 = "Quinitucas"
-2554 = "Mariana"
+2010 = "Místic"		# Mystic River
+2013 = "Nau Rotomagus"	# 'New Rouen/Rotomagus', ref. the old town back in Gothic Gaul
+2553 = "Quintilis"	# '[Villa of] Quintil'
+2554 = "Mariana"	# It's Maryland!
 2555 = "Yohogania"
-2560 = "Nauaporta"
+2557 = "Nauva Antioca"	# Antioch
+2558 = "Berigis"	# '[Villa of] Berig'
+2560 = "Nauport"	# Newport, CT
 2561 = "Efraïm"
+2639 = "Ripenés"	# Ripensis
 
 # Appalachia
-918 = "Shiloh"
-931 = "Temerésa"
-937 = "Spica"
+918 = "Siló"
+929 = "Romanés"		# 'Romanensis'. Like, I guess the guy founding the place wanted to call it the Land of the Romans? I'm just making stuff up.
+930 = "Terminus"	# 'Terminus' was the old name for Atlanta
+931 = "Atica"		# 'Attica', where Athens, Greece is. Athens is coincidentally the name of a town in northern Georgia.
+932 = "Ciutadèla"	# 'Citadel', after The Citadel near Charleston
+933 = "Bailijoc"	# Occitan-Gothic for Beaujeu. From CK2 mod.
+937 = "Amistat"		# Occitan for 'Friendly'.
+938 = "Naua Vindèa"	# 'New Vendée'
+949 = "Danielis"	# 'Daniel's Villa'/'[Villa] Danielis'. Dansville, VA.
 950 = "Scigoa"
-952 = "Ricamont"
-2011 = "Jordà"
-2538 = "Nauabiojolés"
-2542 = "Nauvastinés"
+952 = "Ricamont"	# Richond
+2011 = "Jordà"		# Jordan
+2537 = "Vaudouta"	# Valdosta, GA
+2538 = "Nau Nivèrnés"	# 'New Nevers'
+2539 = "Caireforc"	# 'Crossroads'
+2540 = "Béfô"		# Occitan-Gothic name for Belfort. From CK2 mod.
+2542 = "Nau Virdunés"
+2543 = "Bonastre"	# 'Good luck', but with the Occitan 'Bon Astre' translation smooshed together.
+2544 = "Lunivila"	# Occitan-Gothic for Luneville, France. From CK2 mod.
+2545 = "Peytris"	# '[Villa of] Peytre'
+2546 = "Cap Paur"	# 'Cape Fear'. Because that's where Cape Fear, in North Carolina, actually is. Wow.
 2547 = "Alexandria"
-2550 = "Tiudrigobol"
+2549 = "Johannis"	# '[Villa of] Johannes'
+2550 = "Tiudrigobol"	# slightly garbled form of 'Theodericopolis', derived from the medieval Occitan form of Gratianopolis (modern Grenoble).
 
 # Brazil
+748 = "Betleèm"
 753 = "Riu Grand"
+757 = "Illas"
 762 = "Sent Tumas"
 763 = "Riu de Gener"
 764 = "Sent Amarus"
+765 = "Minas General"
+766 = "Nau Saliensa"
+2857 = "Pòrt Gaug"
+2879 = "Senta Maria"
+2884 = "Laülfis"
+2895 = "Castèlh"
+2907 = "Ubaldis"
 
 # California
 868 = "Los Sents"
+869 = "Punta dels Pins"
 2021 = "Sent Francés"
+2479 = "Naua Ingolmés"
 
 # Canada
 982 = "Cap Naurdman"
 987 = "Nauapertica"
 992 = "Syaunés"
-994 = "Mont Reial"
+994 = "Mont Reial"		# 'Mount Royal'. Hmmm, I WONDER WHAT THAT NAME COULD BE DERIVED FROM
+2477 = "Jaroujiya"
 2584 = "Laup de Reprobus"
 
 # Caribbean
 482 = "Gautat"
-484 = "Habana"
+484 = "Petropolis"		# City of Peter
+485 = "Trinitat"		# Trinity, Trinidad
+486 = "Guantanam"		# Valley of Guantánamo
 487 = "Senta Gloria"
 489 = "Insula Turturis"
-492 = "Cassiopeiana"
+491 = "Curocit"
+492 = "Cassiopeia"
 493 = "Sent Tumas"
 494 = "Christophorana"
-495 = "Naua Grava" # Pointe de Grave/Punta de Grava
+495 = "Naua Grava" 		# Pointe de Grave/Punta de Grava
 496 = "Naua Blaiés"
 497 = "Dominica"
 498 = "Martinica"
 499 = "Senta Lucia"
 500 = "Sent Vicenç"
 501 = "Barbuts"
-1503 = "Eleutérha"
-
-# Colombia
-830 = "Antioquia"
-831 = "Nova Palmyra"
+2654 = "Sent Isidor"
+2655 = "Païses d'Eliande"
+2656 = "Pòrt del Prince"
 
 # Equinoctialia
+830 = "Antioquia"
+831 = "Nova Palmyra"
 2806 = "Istriola"
 
 # Floridia
@@ -117,33 +168,90 @@
 2534 = "Còsta Dintra"
 2536 = "Biscaïne"
 
-# Mexico
+# Guatemala
+838 = "Miscitana"
 839 = "Lo Salvator"
+840 = "Fundeyras"		# 'Honduras' means 'The Depths', ultimately derived from the Latin 'Profundum'. Played around with that, bibbity-boppity-boo Fundeyras.
+841 = "Aistanh Verd"		# 'Green Pond'
+842 = "Hlors"			# flores, guatemala
+2635 = "Sent Cristòl"		# San Cristobal de las Casas is the old capital of Chiapas
+2636 = "Riu Dolç"		# Rio Dulce is an actual river that runs through the area.
+2637 = "Pòrt Cavals"
+2638 = "Triunf"			# Occitan-Gothic for 'Triumph'
+2649 = "Sacral Còr"		# 'Los Corazones' is an actual place in the area, but what the fuck kind of name is "The Hearts"?
+2653 = "Falgario"
+2662 = "Ais del Palús"		# 'Water of the Moor/Fen'. Attempted translation of Comayagua- archaic Spanish for 'Moor Water'- into Occitan-Gothic.
+
+# Mexico
 843 = "Balis"
-844 = "Bunabaia"
-894 = "Benrefugi"
-852 = "Messicau"
-880 = "Senta Fe"
-2498 = "Nauasolyma"
-2647 = "Averalcrotz"
+844 = "Bunabaia"		# 'Good bay'.
+847 = "Còstet"			# 'Little Coast'
+848 = "Latzer"			# 'Lazarus'. I dunno, I just picked that name. Fight me.
+849 = "Lo Marquèsat"		# 'The Marquesate'????
+850 = "Talaxcaltés"		# Talaxcaltec + Latin -ensis ending turned Occitan-Gothic into -és
+852 = "Messicau"		# actual Mexico Valley
+853 = "Guasticés"		# Huastec + latin -ensis, '(Land of) the Huastec', which is then garbled into Occitan-Gothic
+854 = "Sent Sebastian"		# San Sebastián del Oeste
+858 = "Las Loiras"		# 'The Otters'. 'Tampico' is Huastec for 'The Otter'/'The Water-Dog'
+880 = "Senta Fe"		# fucking Santa Fe what did you think it was
+894 = "Benrefugi"		# 'Good Refuge'
+2614 = "Vauvert"		# 'Green Valley'. Ha.
+2619 = "Torre Grande"		# 'Terreon', Mexico, means 'Big Tower'.
+2628 = "Nau Faurés"		# 'New Forez'
+2630 = "Lis Tuxtlas"		# 'Los Tuxtlas' is an actual thing.
+2631 = "Ais Dolça"		# 'Agua Dolce' is a place in that general area.
+2641 = "Lo Buòu"		# 'The Bull'
+2644 = "Naua Cesarcosta"	# 'New Zaragoza'. Puebla, Mexico is properly 'Heroica Puebla de Zaragoza' and I tried to play around with that.
+2647 = "Averalcrotz"		# 'True Cross'. Veracruz.
+2668 = "Reialmet"		# 'Little Kingdom'
 
 # Mississippi
-893 = "Naua Aureliansa"
-900 = "Sent Lozoïc"
+893 = "Naua Aureliansa"		# "New Orleans"? What kind of name is that??
+900 = "Sent Lozoïc"		# HMM WHAT COULD THIS CITY, LOCATED WHERE RL ST. LOUIS IS, POSSIBLY BE NAMED? HMMM
 921 = "Auma"
 2014 = "Natchitusha"
 2513 = "Boötes"
 2516 = "Ataiza"
 
 # Ohio
-944 = "Listrech"
+915 = "Ciutat Jardin"		# 'Garden City' - 'Urbs in Horto', 'City in a Garden', is Chicago's Motto
+939 = "Bostra"			# After Bostra, Syria
+940 = "Aramés"			# after the Biblical region of Aram
+942 = "Pusinius"
+943 = "Nazaret"
+944 = "Listrech"		# 'The Strait'. Compare to the etymology of 'Detroit'.
 945 = "Gran Talh"
+947 = "Ciutat Selva"		# 'Forest City'. GUESS WHAT THE MOTTO OF CLEVELAND IS
 948 = "Nauacarcin"
-2520 = "Egiptulha"
-2522 = "Sent Josep"
+961 = "Oiumula"			# 'Little Ouim' in Latin, 'Ouim' being one of the legendary homelands of the Goths.
+2520 = "Egiptulha"		# Attempt to Occitan-ize 'Aegyptula', which is the Latin equivalent of 'Little Egypt', a common name for that southernmost part of Illinois.
+2521 = "Guillemis"		# '[Villa of] Guillemó'
+2522 = "Sent Josep"		# St. Joseph, MI.
+2523 = "Jehanisvila"		# 'Jehan/John's Village'. Riffing off Evansville.
+2524 = "Vairsalias"		# Versailles, IN
+2526 = "Oliu Puèg"		# Olive Hill, KY
 2551 = "Monongalia"
+2552 = "Nova Sequanica"
 
 # Terranova
 980 = "Sent Jehan"
 981 = "Pòrt Roqòs"
 2573 = "Sent Peytre"
+
+# Texas Tejas
+884 = "Pòrt Jairich"		# 'Port Jericho', garbled a bit.
+885 = "Amarellh"		# Amarillo is derived from the Latin word 'Amarellus', which in turn is from the world 'amarus'. 
+886 = "Montcarme"		# 'Mount Carmel', garbled a bit.
+888 = "Sent Jacint"		# San Jacinto
+2498 = "Nauasolyma"		# 'New Jerusalem'
+2499 = "Nau Hebron"		# Hebbronville/just some biblical-ish name you totes know some pious pioneer would name a place
+2666 = "Del Riu"		# Del Rio
+
+# Yucatan
+845 = "País de Cadartz"		# LP
+2632 = "Carme"			# Ciudad del Carmen is an actual place in Mexico. I translated it into Occitan-Gothic MORE OR LESS
+2633 = "Turenesa"		# Turonensis, Turonum, Tours
+2634 = "País Avesque"		# 'Land (of the) Bishop'. Payo Obispo was an older colonial name for what's now the port of Chetumal.
+2650 = "La Reformata"		# 'The Reformed'
+2651 = "Celèst"			# just picking a pretty word
+2652 = "Luent"			# I /think/ it might be Occitan for 'Glistening'? Playing off the nickname for Cancun here.

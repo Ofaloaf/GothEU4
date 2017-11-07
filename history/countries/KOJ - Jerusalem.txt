@@ -4,3 +4,115 @@ primary_culture = pestemari
 religion = catholic
 technology_group = eastern
 capital = 379	# Jerusalem
+
+1108.8.1 = {
+	monarch = {
+		name = "Franjo"
+		dynasty = "Selimovic"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1114.5.14 = {
+	monarch = {
+		name = "Moise"
+		dynasty = "Selimovic"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1131.4.25 = {
+	monarch = {
+		name = "Clara"
+		dynasty = "Selimovic"
+		adm = 2
+		dip = 2
+		mil = 2
+		female = yes
+	}
+}
+
+1154.2.23 = {
+	monarch = {
+		name = "Pârvu I"
+		dynasty = "Selimovic"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1182.12.17 = {
+	monarch = {
+		name = "Simion"
+		dynasty = "Selimovic"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1226.9.1 = {
+	monarch = {
+		name = "Milos"
+		dynasty = "Csaky"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1228.12.21 = {
+	monarch = {
+		name = "Simion"
+		dynasty = "Selimovic"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+
+1254.3.18 = {
+	monarch = {
+		name = "Pârvu II"
+		dynasty = "Selimovic"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1256.3.28 = {
+	monarch = {
+		name = "Ciprian"
+		dynasty = "Selimovic"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1289.8.6 = {
+	monarch = {
+		name = "Pârvu III"
+		dynasty = "Selimovic"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1319.3.26 = {
+	monarch = {
+		name = "Pârvu IV"
+		dynasty = "Selimovic"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}

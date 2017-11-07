@@ -358,15 +358,15 @@ scythic = {
 	alan = {
 	}
 	sarmatian = {
-		tag = MUL
+		primary = MUL
 	}
 	venediy = {
 	}
 	boyustaniy = {
-		tag = F04
+		primary = F04
 	}
 	jasi = {
-		tag = JZY
+		primary = JZY
 	}
 	male_names = {
 		Ælbeg Æmbalan Aghsartan Alatey Akhsar Anbal Anbazuk Aravat Arsen Askhkadar Ashot Aslan Aspar Athom

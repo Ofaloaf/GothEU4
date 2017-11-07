@@ -1,0 +1,17 @@
+government = despotic_monarchy
+primary_culture = polynesian
+religion = animism
+technology_group = andean
+unit_type = south_american
+capital = 1240
+
+
+1375.1.1 = {
+	monarch = {
+		name = "Kahoukapu"
+		dynasty = "Moi"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}

@@ -10,7 +10,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 trade_goods = fish
-capital = "Torshavn"
+capital = "Mynachlog"
 is_city = yes
 add_core = IWR
 

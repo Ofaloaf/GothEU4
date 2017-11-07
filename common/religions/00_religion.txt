@@ -671,7 +671,7 @@ christian = {
 		}
 
 		country = {
-			global_trade_income_modifier = 0.10
+			#global_trade_income_modifier = 0.10
 			global_unrest = -1
 		}
 		country_as_secondary = {
@@ -694,8 +694,6 @@ christian = {
 			allow_usury_aspect
 			translated_bibles_aspect
 		}
-		
-		hre_heretic_religion = yes
 
 		will_get_center = {
 			any_owned_province = {

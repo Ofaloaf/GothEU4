@@ -1,0 +1,132 @@
+# Charcas
+
+graphical_culture = westerngfx
+
+color = { 158 52 73 }
+
+colonial_parent = GTH
+random_nation_chance = 0
+
+historical_idea_groups = {
+	administrative_ideas
+	plutocracy_ideas
+	trade_ideas
+	defensive_ideas
+	economic_ideas
+	expansion_ideas
+	quality_ideas
+	innovativeness_ideas
+}
+
+historical_units = {
+	halberd_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Jehan #0" = 40
+	"Pèitre #0" = 30
+	"Amalric #0" = 10
+	"Audericho #0" = 10
+	"Tiuderic #0" = 5
+
+	"Cunstancia #0" = -5
+	"Estevena #0" = -3
+	"Jacotina #0" = -1
+	"Jehanna #0" = -3
+	"Maria #0" = -10
+	"Vuissancia #0" = -1
+
+	"Amelh #0" = 0
+	"Aymeric #0" = 0
+	"Aznar #0" = 0
+	"Barral #0" = 0
+	"Eraric #0" = 0
+	"Evaric #0" = 0
+	"Fidelis #0" = 0
+	"Frederi #0" = 0
+	"Genialis #0" = 0
+	"Guidimir #0" = 0
+	"Lixandre #0" = 0
+	"Lop #0" = 0
+	"Luc #0" = 0
+	"Marc #0" = 0
+	"Martialis #0" = 0
+	"Martin #0" = 0
+	"Mathias #0" = 0
+	"Miquel #0" = 0
+	"Pol #0" = 0
+	"Pons #0" = 0
+	"Sans #0" = 0
+	"Tiudor #0" = 0
+	"Tumas #0" = 0
+	"Ulfila #0" = 0
+}
+
+leader_names = {
+	Affaros Aldebal Aribert Ayceli "d'Auzits" Ardalhona Arloy Arfuelha Aorlhat Alhadeiras Agani
+	Balsac "de Bruelh" Bandeli Bastier Bergonho Bocart Bolas Bonafos Bournazels Boysonnada Bozesa Broa Balaria Barbeyr
+	Brut "del Bes" "de Belvezer" "de Betgus" "de la Boda" "los Barta"
+	Cabrespinas Caissac "de Condat" Calsutras Campanhac Canac Cantal Capelier Castanhier Cayrosa Combas Contet "del Cayro"
+	Combas "del Cros" Chalbrial Chailada Chalbrelhat Cebial Camion Chanarribeyra Champanhaga Chalvel Claveyras Costa
+	Colomp "de Celus" Contastis Cordureyr "de Colandres" "de Las Cols" "lo Ceralheyr"
+	Deodat Dumirgue Dauda Dalmas Dalbrat Dolso Ducel Dobax Delolme Deodonat
+	Ebrart Escudeyr Esclavi Eschaleyr Esperta Estival Esquet Esqudeir
+	Fabricius Ferrarius "de Fontencha" Fromenta Farcel Fonfraga Floretas Fort Formis "de Frayssenet" "de Faurghas" Faet
+	Feljairat Fer Ferabocha Ferreyr Fontregha Folx Forneyrs Fort Frescho Fabres "de Fuelhval" Feliú
+	Gualhard "de Gualhac" Guilhabèrt Grefolieyra Guirlart Ginesta Gabriac Galbaio Girma Galvahn Guasanha "lo Goyrs" Guales
+	Grifol "de Guiamont" "del Grat" Gabarela Galhart Garassalt Garneyr Gaubert Granolha Grosso Guarassalt Guilhalmo Guaya
+	Jalenca Jerzat "de Joa" Jenressa Jenre Jausserant Jaric Janalgue Joglar Jovenros Jueri Juniat "lo Jove"
+	Lagomia "de Limayrac" "de Latua" "de Lin" Labuygha Lespaser Laydet Latgaza Lobaressas Loleyr Lors "de Liniers"
+	Manha Morro Marques Martel Marti Massabuou Mercieyra Moysset Molenier "de Malpertus" "de Marssilhat" Maigre Maistrona
+	Malara Manhagha Manuola Mauranghas Mansset Marquota Martili Manen Merceyr Miguo Moledas Moceta Moneira Moreyras Mugola
+	Natas "de Nozeyras" Nadal Nassi Neiro Nicolau Noel
+	Obax Ongle Orssa Oulher
+	Palhargues Palhol "de Penacar" Payrolerius Porret Poncho Parricha Paden Pageza Palissa Pealfalit Peliceyr Pelros 
+	Penonola Perpezat Pestre Petis Piguale Planes Poget Poleyr Polnerelas Polneyrat Portaleyra Puneyras Porret Pratmayrat
+	Quitarda Quatrelhouras
+	Riquet "de Rubys" Rossinhol Rostanh Riaul Roquier Randaynes Rigaldi "de Riom" "de Rofiat" Rasquanela Redoli Renel
+	Richart Ribeyra Regort Redont Rocha Rotgeirola Runel 
+	Samoral "de Scoralhas" Sedassier Sampso Sandral Segualar Serras Seyrac Segui Sabateyr Sala Sarpela Sartro Saunat SAvi
+	Seghalory Sebnejol Saurinot Sangnaneva Salvanhat Sinairagha Siuque Soleyr
+	Terissa Teldes Talissa Targanaira Tarnalt Teycedre Teronda Torral Tremoleyra Trencheyr Tronchi
+	Vidal Vitalis Viguier "de Valueghol" Vaiceira Valanes Valharguas Vaurlheta Vezi Vernis Voltoirer
+	Yspani Yverna
+}
+
+ship_names = {
+	Anhés Alasais Alesta Algaia Alicia Alissenda Alemanda Arnauda Auda Aquila Atuncana Ayabiri
+	Brunissenda Berenguièira Bertomièva Beatriz Bernadeta Blanca
+	Condors Constantia Charcitat Confiança Cobija Cochabamba Carabaya
+	Eglantina Eva Ermersenda Ermengarda Esclarmonda Esperta Estela
+	Fabricia Floréncia Falco
+	Galharda Gauda Gauzia Gentila Gradiza Guilhemeta
+	Imperator
+	Loba Lupa
+	Marquesina Montanha Mengarda Maura Matena Moxos
+	Onors Oruro
+	Princeps Puno
+	Rixenda Rossa Raimonda Romulus Regilius
+	"Senta Crotz" Stephania Sibilha "Senta Romana" "Sent Marc" "Sent Andreu" Sangabana
+	Tomassia Tarija Tarapaca Trinitat
+	Ugueta Ursula Umasuyu Urqusuyu
+}
+
+army_names = {
+	"Armada de $PROVINCE$" 
+}
+
+fleet_names = {
+	"Fluta de $PROVINCE$"
+}

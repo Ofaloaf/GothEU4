@@ -1,6 +1,6 @@
 #1761 - Pfalz
 
-capital = "Worms"
+capital = "Vormatia"
 culture = rhenish
 religion = catholic
 trade_goods = wine

@@ -2,7 +2,7 @@ government = despotic_monarchy
 primary_culture = bolghar
 religion = catholic
 technology_group = eastern
-capital = 1081
+capital = 4267
 
 1377.10.4 = {
 	monarch = {

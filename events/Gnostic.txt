@@ -39,10 +39,10 @@ country_event = {
 		modifier = {
 			factor = 0.4
 			OR = {
-				culture_group = vlach_group
+				culture_group = byzantine
 				culture_group = south_slavic
 				culture_group = gaelic
-				culture = dalmatian
+				primary_culture = dalmatian
 			}
 		}
 				
@@ -113,7 +113,7 @@ country_event = {
 			factor = 8.0
 			OR = {
 				culture_group = gothic_group
-				culture = turkish
+				primary_culture = turkish
 			}
 		}
 	}

@@ -1,10 +1,10 @@
-#140 - Core of Bosnian kingdom, Soli+Usora+Most of Vrhbosna
+#140 - Core of Bosnian kingdom, Soli+Usora+Most of Vrhbosna # Bathinum / Bathinus
 
 owner = ILY
 controller = ILY
 culture = dalmatian
 religion = catholic
-capital = "Doboj" #or Srebrenik
+capital = "Saldate" #or Srebrenik
 trade_goods = salt
 hre = no
 base_tax = 3

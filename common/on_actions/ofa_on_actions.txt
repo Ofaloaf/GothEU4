@@ -1,0 +1,39 @@
+# province
+#on_adm_development = {
+#	events = {
+#		ofaloaf_thinks_hes_hot_shit.1
+#	}
+#}
+
+# province
+#on_dip_development = {
+#	events = {
+#		ofaloaf_thinks_hes_hot_shit.1
+#	}
+#}
+
+# province
+#on_mil_development = {
+#	events = {
+#		ofaloaf_thinks_hes_hot_shit.1
+#	}
+#}
+
+# province
+on_province_owner_change = {
+	events = {
+		namechange_NOR.1
+		namechange_NOR.2
+		namechange_GTH.1
+		namechange_GTH.2
+	}
+}
+
+on_province_culture_converted = {
+	events = {
+		namechange_NOR.1
+		namechange_NOR.2
+		namechange_GTH.1
+		namechange_GTH.2
+	}
+}

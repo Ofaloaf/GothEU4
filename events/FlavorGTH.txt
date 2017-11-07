@@ -72,3 +72,25 @@ country_event = {
 		}
 	}
 }
+
+country_event = {
+	id = flavor_goth.3
+	title = "EVTNAMEflavor_goth01"
+	desc = "EVTDESCflavor_goth01"
+	picture = MERCHANTS_TALKING_eventPicture
+
+	fire_only_once = yes
+
+	trigger = {
+		tag = C00
+		has_global_flag = this_will_never_happen
+	}
+	
+
+	option = {
+		declare_war_with_cb = {
+			who = GTH
+			casus_belli = cb_colonial_independance_war
+		}
+	}
+}

@@ -9,9 +9,6 @@ gaelic = {
 			"of Bristol" "Evans" "Owen" "Lloyd" 
 		}
 		male_names = {
-			Owain Dafydd Gruffydd Llewelyn Rhodri Maredudd Cynan Cadwaladr Iago Idwal Maelgwyn Einion Iorwerth Trahaearn 
-			Aeron Aled Aneirin Arvel Berwyn Brynmor Cadfael Cadoc Cadwgawn Celyn Cledwyn Colwyn Dai Dilwyn Emyr Gawain 
-			Glynn Gwyn Heddwyn Heilyn Hywel Rhian Tristan Tudor Urien Vaughan
 			Adda Adgar Edgar Adran Adrian Aeddan Alan Aldwr Aldroenus Algwyn Alisander Alexander Alured 
 			Alfred Alwyn Anarawd Andreas Andrew Aneurin Anlaff Olaf Anllech Annwn Antoninus Argad Arcadius 
 			Arod Arthen Artemius Arthfael Arthfoddw Arthbodus Arthwr Arthur Arthws Arthwys Artorius Asa 
@@ -46,7 +43,7 @@ gaelic = {
 			Tewdwr Theodore Tomos Thomas Trahaearn Tudur Tudwal Tuathal Tudwallon Tydy Tyfoedd Tysilio Urien 
 			Urbgenius Uthyr Victor Ynyr Honorius Ysfael Llewelyn Maelgwyn Aeron Aled Aneirin Arvel Berwyn 
 			Brynmor Cadoc Cadwgawn Celyn Cledwyn Colwyn Dai Dilwyn Emyr Gawain Glynn Heddwyn Heilyn Rhian 
-			Tudor Vaughan 
+			Vaughan 
 		}
 		female_names = {
 			Elain 
@@ -76,9 +73,6 @@ gaelic = {
 			"of Bristol" "Evans" "Owen" "Lloyd" 
 		}
 		male_names = {
-			Owain Dafydd Gruffydd Llewelyn Rhodri Maredudd Cynan Cadwaladr Iago Idwal Maelgwyn Einion Iorwerth Trahaearn 
-			Aeron Aled Aneirin Arvel Berwyn Brynmor Cadfael Cadoc Cadwgawn Celyn Cledwyn Colwyn Dai Dilwyn Emyr Gawain 
-			Glynn Gwyn Heddwyn Heilyn Hywel Rhian Tristan Tudor Urien Vaughan
 			Adda Adgar Edgar Adran Adrian Aeddan Alan Aldwr Aldroenus Algwyn Alisander Alexander Alured 
 			Alfred Alwyn Anarawd Andreas Andrew Aneurin Anlaff Olaf Anllech Annwn Antoninus Argad Arcadius 
 			Arod Arthen Artemius Arthfael Arthfoddw Arthbodus Arthwr Arthur Arthws Arthwys Artorius Asa 
@@ -133,7 +127,7 @@ gaelic = {
 		}
 	}
 	hibernaidd = {
-		primary = IWD
+		primary = IWR
 
 		dynasty_names = { 
 			Aberffraw Dinefwr Mathrafal Gwynedd Tudor Kernew "of Cornwall" Glyndwr "Ternyllwg" 
@@ -143,9 +137,6 @@ gaelic = {
 			"of Bristol" "Evans" "Owen" "Lloyd" 
 		}
 		male_names = {
-			Owain Dafydd Gruffydd Llewelyn Rhodri Maredudd Cynan Cadwaladr Iago Idwal Maelgwyn Einion Iorwerth Trahaearn 
-			Aeron Aled Aneirin Arvel Berwyn Brynmor Cadfael Cadoc Cadwgawn Celyn Cledwyn Colwyn Dai Dilwyn Emyr Gawain 
-			Glynn Gwyn Heddwyn Heilyn Hywel Rhian Tristan Tudor Urien Vaughan
 			Adda Adgar Edgar Adran Adrian Aeddan Alan Aldwr Aldroenus Algwyn Alisander Alexander Alured 
 			Alfred Alwyn Anarawd Andreas Andrew Aneurin Anlaff Olaf Anllech Annwn Antoninus Argad Arcadius 
 			Arod Arthen Artemius Arthfael Arthfoddw Arthbodus Arthwr Arthur Arthws Arthwys Artorius Asa 

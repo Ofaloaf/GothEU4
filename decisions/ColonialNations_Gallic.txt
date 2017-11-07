@@ -25,56 +25,6 @@ country_decisions = {
 			}
 			culture_group = gallic_group
 			OR = {
-				colonial_alaska = {
-					owned_by = ROOT
-				}
-				colonial_alleghania = {
-					owned_by = ROOT
-				}
-				colonial_appalachia = {
-					owned_by = ROOT
-				}
-				colonial_brazil = {
-					owned_by = ROOT
-				}
-				colonial_california = {
-					owned_by = ROOT
-				}
-				colonial_canada = {
-					owned_by = ROOT
-				}
-				colonial_the_carribean = {
-					owned_by = ROOT
-				}
-				colonial_equinoxialia = {
-					owned_by = ROOT
-				}
-				colonial_florida = {
-					owned_by = ROOT
-				}
-				colonial_mexico = {
-					owned_by = ROOT
-				}
-				colonial_mississippi = {
-					owned_by = ROOT
-				}
-				colonial_ohio = {
-					owned_by = ROOT
-				}
-				colonial_peru = {
-					owned_by = ROOT
-				}
-				colonial_terranova = {
-					owned_by = ROOT
-				}
-				colonial_plattina = {
-					owned_by = ROOT
-				}
-				colonial_guyana = {
-					owned_by = ROOT
-				}
-			}
-			OR = {
 				ai = no
 				AND = {
 					ai = yes
@@ -87,72 +37,6 @@ country_decisions = {
 			is_former_colonial_nation = yes
 			is_subject = no
 			is_at_war = no
-			OR = {
-				capital_scope = {
-					colonial_region = colonial_alaska
-					is_core = ROOT
-				}
-				capital_scope = {
-					colonial_region = colonial_alleghania
-					is_core = ROOT
-				}
-				capital_scope = {
-					colonial_region = colonial_appalachia
-					is_core = ROOT
-				}
-				capital_scope = {
-					colonial_region = colonial_brazil
-					is_core = ROOT
-				}
-				capital_scope = {
-					colonial_region = colonial_california
-					is_core = ROOT
-				}
-				capital_scope = {
-					colonial_region = colonial_canada
-					is_core = ROOT
-				}
-				capital_scope = {
-					colonial_region = colonial_the_carribean
-					is_core = ROOT
-				}
-				capital_scope = {
-					colonial_region = colonial_equinoxialia
-					is_core = ROOT
-				}
-				capital_scope = {
-					colonial_region = colonial_florida
-					is_core = ROOT
-				}
-				capital_scope = {
-					colonial_region = colonial_mexico
-					is_core = ROOT
-				}
-				capital_scope = {
-					colonial_region = colonial_mississippi
-					is_core = ROOT
-				}
-				capital_scope = {
-					colonial_region = colonial_ohio
-					is_core = ROOT
-				}
-				capital_scope = {
-					colonial_region = colonial_peru
-					is_core = ROOT
-				}
-				capital_scope = {
-					colonial_region = colonial_terranova
-					is_core = ROOT
-				}
-				capital_scope = {
-					colonial_region = colonial_plattina
-					is_core = ROOT
-				}
-				capital_scope = {
-					colonial_region = colonial_guyana
-					is_core = ROOT
-				}
-			}
 			NOT = { exists = N08 }
 		}
 		effect = {
@@ -195,6 +79,19 @@ country_decisions = {
 					}
 				}
 				colonial_alleghania = {
+					limit = {
+						NOT = { owned_by = ROOT }
+					}
+					add_claim = ROOT
+				}
+			}
+			if = {
+				limit = {
+					capital_scope = {
+						colonial_region = colonial_amazonia
+					}
+				}
+				colonial_amazonia = {
 					limit = {
 						NOT = { owned_by = ROOT }
 					}
@@ -269,6 +166,32 @@ country_decisions = {
 			if = {
 				limit = {
 					capital_scope = {
+						colonial_region = colonial_charcas
+					}
+				}
+				colonial_charcas = {
+					limit = {
+						NOT = { owned_by = ROOT }
+					}
+					add_claim = ROOT
+				}
+			}
+			if = {
+				limit = {
+					capital_scope = {
+						colonial_region = colonial_chile
+					}
+				}
+				colonial_chile = {
+					limit = {
+						NOT = { owned_by = ROOT }
+					}
+					add_claim = ROOT
+				}
+			}
+			if = {
+				limit = {
+					capital_scope = {
 						colonial_region = colonial_equinoxialia
 					}
 				}
@@ -286,6 +209,32 @@ country_decisions = {
 					}
 				}
 				colonial_florida = {
+					limit = {
+						NOT = { owned_by = ROOT }
+					}
+					add_claim = ROOT
+				}
+			}
+			if = {
+				limit = {
+					capital_scope = {
+						colonial_region = colonial_guatemala
+					}
+				}
+				colonial_guatemala = {
+					limit = {
+						NOT = { owned_by = ROOT }
+					}
+					add_claim = ROOT
+				}
+			}
+			if = {
+				limit = {
+					capital_scope = {
+						colonial_region = colonial_guyana
+					}
+				}
+				colonial_guyana = {
 					limit = {
 						NOT = { owned_by = ROOT }
 					}
@@ -321,10 +270,10 @@ country_decisions = {
 			if = {
 				limit = {
 					capital_scope = {
-						colonial_region = colonial_peru
+						colonial_region = colonial_patagonia
 					}
 				}
-				colonial_peru = {
+				colonial_patagonia = {
 					limit = {
 						NOT = { owned_by = ROOT }
 					}
@@ -334,10 +283,10 @@ country_decisions = {
 			if = {
 				limit = {
 					capital_scope = {
-						colonial_region = colonial_terranova
+						colonial_region = colonial_peru
 					}
 				}
-				colonial_terranova = {
+				colonial_peru = {
 					limit = {
 						NOT = { owned_by = ROOT }
 					}
@@ -360,10 +309,23 @@ country_decisions = {
 			if = {
 				limit = {
 					capital_scope = {
-						colonial_region = colonial_guyana
+						colonial_region = colonial_terranova
 					}
 				}
-				colonial_plattina = {
+				colonial_terranova = {
+					limit = {
+						NOT = { owned_by = ROOT }
+					}
+					add_claim = ROOT
+				}
+			}
+			if = {
+				limit = {
+					capital_scope = {
+						colonial_region = colonial_yucatan
+					}
+				}
+				colonial_yucatan = {
 					limit = {
 						NOT = { owned_by = ROOT }
 					}

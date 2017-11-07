@@ -1,0 +1,146 @@
+# Norumbega
+
+graphical_culture = westerngfx
+
+colonial_parent = NOR
+random_nation_chance = 0
+
+color = { 60 43 117 }
+
+historical_idea_groups = {
+	aristocracy_ideas
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	maritime_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	dutch_maurician
+	swedish_gallop
+	swedish_gustavian
+	swedish_caroline
+	swedish_arme_blanche
+	prussian_frederickian
+	prussian_uhlan
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Frederik #0" = 50
+	"Ulrik #0" = 40
+	"Christian #0" = 40
+	"Jacob #0" = 30
+	"Ludvig #0" = 30
+	"Erik #0" = 25
+	"Peter #0" = 25
+	"Henrik #0" = 20
+	"Wilhelm #0" = 20
+
+	"Anna #0" = -5
+	"Conradine #0" = -1
+	"Ditlevine  #0" = -1
+	"Gertrud #0" = -1
+	"Henrikka #0" = -1
+	"Ingeborg #0" = -5
+	"Karen #0" = -1
+	"Lucia #0" = -1
+	"Magdalena #0" = -1
+
+	"Abraham #0" = 0
+	"Andreas #0" = 0
+	"Bartholomæus #0" = 0
+	"Bottolf #0" = 0
+	"Bernhard #0" = 0
+	"Christopher #0" = 0
+	"Cornelius #0" = 0
+	"Diderik #0" = 0
+	"Elias #0" = 0
+	"Enevold #0" = 0
+	"Eystein #0" = 0
+	"Erling #0" = 0
+	"Fridtjov #0" = 0
+	"Georg #0" = 0
+	"Gerhard #0" = 0
+	"Gottschalk #0" = 0
+	"Gregers #0" = 0
+	"Gunnar #0" = 0
+	"Gunvald #0" = 0
+	"Håkon #0" = 0
+	"Hallvard #0" = 0
+	"Henning #0" = 0
+	"Harald #0" = 0
+	"Hannibal #0" = 0
+	"Hans #0" = 0
+	"Helge #0" = 0
+	"Helmer #0" = 0
+	"Jens #0" = 0
+	"Jonas #0" = 0
+	"Just #0" = 0
+	"Knud #0" = 0
+	"Lorentz #0" = 0
+	"Niels #0" = 0
+	"Ole #0" = 0
+	"Omund #0" = 0
+	"Paul #0" = 0
+	"Salomon #0" = 0
+	"Samuel #0" = 0
+	"Thomas #0" = 0
+	"Zacharias #0" = 0
+}
+
+leader_names = {
+	Andersen Aall Aars Allewelt Anker Angell Arrebo Adeler Arup
+	Balke Birkeland Bjørnsen Brock Blankenborg Been Buchholm Bull Brun Bjelke Berg Bendssøn Boesen Bech Bugge Bang Berggrav Birkeli Bolt Bicherod Boson
+	Collett Colbjørnsen Claussøn
+	Darre Dorph Deichman Dass Dunker Dall
+	Ely Egede Essendrop
+	Fabricius Fleischer Floer Flor Foss Feddersen Friis
+	Gram Gjedeboe Garup Gad Gunnerus Gyldenløve Gabel Galtung Glostrup
+	Holst Harildstad Haslum "von Haxthausen" Hegermann Heidmann Hoel Holck Hjeltnes Hersleb Hagerup Holk Hagerup
+	Iglerød Ingier Ibsen Irgens
+	Jensen Jürgensen Juel Jersin
+	Kastrup Klüwer Krebs Krefting Kühle Koren Kiønig Korning Kærup
+	Lange Loftesnæs Lundh Løvenskiold Lysholm Løset
+	Meidell Munch Müller Motzfeldt Mathiesen Mowat Madssøn Mule Mus
+	Nannestad Nordalh Nypan Nilssøn Nyrop
+	Ohme
+	Paulsen Petersen Prydz Porsanger Pontoppidan Paludan
+	Rask Ramus Rosenheim Rosenkrantz Rev Rosing
+	Sehested Stockfleth Svendsen Steenblock Suhm Schøning Schønheyder Strøm Steenstrup Senning Simonsen Schmidt Sørensen Smemo Støylen Stoud Sigwardt Spidberg Schjelderup
+	Thorsen Toller Tullin Tandberg Tidemand Tübring
+	Vibe
+	Wessel Wolff "von Westervick"
+}
+
+ship_names = {
+	Arnaldur Arg Antilope
+	Bjørn
+	Dødelig Drage
+	Ekstraordinær Enhjørning
+	Formynder Fromhet Finch Formidable
+	Gilbert Gjeter Gasell
+	Hai Hval Hauk Herkules Høygaffel
+	"Ivar Skjalg"
+	Kol Kriger Konkurrent Kraken Kobra
+	Løve Leopard Lyn Legendarisk Leivus
+	Modig Majestet
+	Nåde Narhval
+	Orm Overraskelse Ørn 
+	Praktfull Papegøye Pelikan
+	Ragnar Rasende Resolutt
+	Sverdfisk Seilfisk Storslått Spurv Sangfugl Storm Skremmende
+	Torolv Torir Tiger Tryllekunstner Torden Truende Tilfelding Torkell
+	Uslåelig Udødelig Utfordring
+	Voldsom Verge Veldedighet Vred Vokter Villsvin
+	Zevs
+}

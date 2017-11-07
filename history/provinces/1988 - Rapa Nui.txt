@@ -3,7 +3,7 @@
 owner = W03
 controller = W03
 add_core = W03
-culture = quechua
+culture = inca
 religion = inti
 capital = "Hanga Roa"
 trade_goods = naval_supplies

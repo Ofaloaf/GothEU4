@@ -104,7 +104,7 @@ country_decisions = {
 				limit = {
 					is_tribal = yes
 				}
-				change_government = despotic_monarchy
+				change_government = celestial_empire
 			}
 			if = {
 				limit = { has_custom_ideas = no }

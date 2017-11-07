@@ -1,4 +1,4 @@
-#248 - Lothian
+#248 - Lothian / Goddodin / Lleuddiniawn
 
 owner = GOD
 controller = GOD

@@ -17,8 +17,11 @@ capital = 463 # Circassia
 	}
 	heir = {
 		name = "Vartan"
+		monarch_name = "Vartan"
 		dynasty = "Beskond"
 		birth_date = 1378.8.5
+		death_date = 1450.1.1
+		claim = 95
 		adm = 2
 		dip = 2
 		mil = 4

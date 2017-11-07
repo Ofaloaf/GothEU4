@@ -1,4 +1,4 @@
-#1953 - Szabolcs
+#1953 - Szabolcs/Crisia
 
 owner = JZY
 controller = JZY

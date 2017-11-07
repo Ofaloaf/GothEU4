@@ -1,0 +1,26 @@
+#143 - Albania
+
+owner = THR
+controller = THR
+culture = macedonian
+religion = catholic
+capital = "Vlorë"
+trade_goods = wool
+hre = no
+base_tax = 2
+base_production = 1
+base_manpower = 1
+is_city = yes
+add_core = ALB
+add_core = MKD
+add_core = THR
+add_core = SKL
+discovered_by = KAZ
+discovered_by = CRI
+discovered_by = GOL
+discovered_by = AST
+discovered_by = QAS
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+discovered_by = western

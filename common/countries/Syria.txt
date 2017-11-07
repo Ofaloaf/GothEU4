@@ -80,7 +80,7 @@ leader_names = {
 	Litovoi
 	"Micu-Klein"
 	Odescalchi Octavian
-	"de Paphos"
+	Parvescu "de Paphos"
 	"de Raha"
 	Szapolyai Selimovic
 	Zach

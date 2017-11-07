@@ -1,0 +1,6 @@
+10 = "Jämtland"
+12 = "Själland"
+13 = "Slesvig"
+14 = "Fyn"
+20 = "Tröndelagen"
+43 = "Danzig"

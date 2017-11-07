@@ -86,7 +86,7 @@ monarch_names = {
 }
 
 leader_names = {
-	Antoniadis Archyriou Atta Atalla Angaelos Atiya Armanious
+	Antoniadis Archyriou Atta Atalla Angaelos Atiya Armanious Aspinal
 	Boutros Benakis Batatzes Boumbalis Beshara Bakhoum
 	Charobim
 	Daloghlou Dryton

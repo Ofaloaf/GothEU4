@@ -36,13 +36,17 @@ historical_units = {
 
 monarch_names = {
 	"Franjo #1" = 30
+	"Pârvu #4" = 30		# Pirvu in CK2
 	"Gavril #0" = 25
-	"Moise #0" = 20
+	"Milos #1" = 25
+	"Ciprian #1" = 20
+	"Moise #1" = 20
 	"Filip #0" = 20
 	"Vasile #0" = 15
 	"Alexandru #0" = 10
 	"Vlad #0" = 10
 
+	"Clara #1" = -10
 	"Elena #0" = -5
 	"Sophia #0" = -5
 
@@ -78,10 +82,8 @@ monarch_names = {
 	"Lisandru #0" = 0
 	"Menandru #0" = 0
 	"Militiades #0" = 0
-	"Milos #0" = 0
 	"Pericle #0" = 0
 	"Petre #0" = 0
-	"Pirvu #0" = 0
 	"Policarp #0" = 0
 	"Ptolemeu #0" = 0
 	"Radu #0" = 0
@@ -89,6 +91,7 @@ monarch_names = {
 	"Sabbas #0" = 0
 	"Samuel #0" = 0
 	"Saul #0" = 0
+	"Simion #1" = 0
 	"Solomon #0" = 0
 	"Stefan #0" = 0
 	"Teodor #0" = 0

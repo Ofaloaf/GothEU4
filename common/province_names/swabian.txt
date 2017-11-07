@@ -1,0 +1,4 @@
+68 = "Kasselach"	# Cassiliacum
+71 = "Onolzbach"
+77 = "Lobdenburg"
+1873 = "Khûr"

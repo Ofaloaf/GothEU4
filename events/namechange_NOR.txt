@@ -1,0 +1,238 @@
+namespace = namechange_NOR
+
+province_event = {
+	id = namechange_NOR.1
+	title = namechange_NOR.1.t
+	desc = namechange_NOR.1.d
+	picture = EXPLORERS_eventPicture
+
+	is_triggered_only = yes		# on_province_owner_change should fire when an unclaimed province is colonized, right?
+	hidden = yes
+
+	trigger = {
+		NOT = { has_province_flag = rename_NOR }
+		owner = {
+			primary_culture  = norwegian
+		}
+		has_owner_culture = yes
+	}
+
+	mean_time_to_happen = {
+		days = 1	# whatever
+	}
+
+	option = {
+		name = "EVTOPTACOLONYNAMES"
+
+		################################################################################################################
+		# ALLEGHANIA
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 965
+				NOT = { has_province_flag = rename_NOR }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Gudrødby"
+			set_province_flag = rename_NOR
+		}
+
+		################################################################################################################
+		# CANADA
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 982
+				NOT = { has_province_flag = rename_NOR }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Thyrkarhjem"
+			set_province_flag = rename_NOR
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 984
+				NOT = { has_province_flag = rename_NOR }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Ny Njarðøy"	# or Ny Nærøy
+			set_province_flag = rename_NOR
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 985				# 'Moldegård' when NOR
+				NOT = { has_province_flag = rename_NOR }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Moldegård"
+			set_province_flag = rename_NOR
+		}
+
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2572				# 'Fosen' when NOR
+				NOT = { has_province_flag = rename_NOR }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Fosen"
+			set_province_flag = rename_NOR
+		}
+
+		################################################################################################################
+		# THE CARIBBEAN / THE CARRIBEAN
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 487
+				NOT = { has_province_flag = rename_NOR }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Kongensby"
+			set_province_flag = rename_NOR
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 492
+				NOT = { has_province_flag = rename_NOR }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Sankt Johan"
+			set_province_flag = rename_NOR
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 493
+				NOT = { has_province_flag = rename_NOR }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Sankt Kryss"
+			set_province_flag = rename_NOR
+		}
+
+		################################################################################################################
+		# FLORIDA
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 927
+				NOT = { has_province_flag = rename_NOR }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Sankt Augustin"
+			set_province_flag = rename_NOR
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2536
+				NOT = { has_province_flag = rename_NOR }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Sørby"
+			set_province_flag = rename_NOR
+		}
+
+		################################################################################################################
+		# TERRANOVA
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 980				# 'Straumfjord' when NOR
+				NOT = { has_province_flag = rename_NOR }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Straumsey"
+			set_province_flag = rename_NOR
+		}
+
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 981				# 'Leifsbudir' when NOR
+				NOT = { has_province_flag = rename_NOR }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Leifsbudir"
+			set_province_flag = rename_NOR
+		}
+
+		################################################################################################################
+		# WINNIPEG
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 1000				# 'Litehus' when NOR
+				NOT = { has_province_flag = rename_NOR }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Litehus"
+			set_province_flag = rename_NOR
+		}
+
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 1004				# 'Attavpisgofylke' when NOR
+				NOT = { has_province_flag = rename_NOR }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Chatavpisgoby"
+			set_province_flag = rename_NOR
+		}
+
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 1004				# 'Vindfull' when NOR
+				NOT = { has_province_flag = rename_NOR }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Steinfort"
+			set_province_flag = rename_NOR
+		}
+
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 1005				# 'Muskegofylke' when NOR
+				NOT = { has_province_flag = rename_NOR }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Nedstrømsby"
+			set_province_flag = rename_NOR
+		}
+	}
+}
+
+
+# cleanup event for if/when a norwegian province is no longer owned by a norwegian
+province_event = {
+	id = namechange_NOR.2
+	title = namechange_NOR.2.t
+	desc = namechange_NOR.2.d
+	picture = EXPLORERS_eventPicture
+
+	is_triggered_only = yes
+	hidden = yes
+
+	trigger = {
+		has_province_flag = rename_NOR
+		owner = {
+			NOT = { primary_culture  = norwegian }
+		}
+	}
+
+	mean_time_to_happen = {
+		days = 1	# whatever
+	}
+
+	option = {
+		name = "EVTOPTACOLONYNAMES"
+		remove_province_flag = rename_NOR
+	}
+}

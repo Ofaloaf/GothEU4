@@ -1,4 +1,4 @@
-#373 - Meath
+#373 - Meath / Midiensis / Mhi
 
 owner = IWR
 controller = IWR
@@ -10,7 +10,7 @@ base_tax = 4
 base_production = 4
 trade_goods = grain
 base_manpower = 3
-capital = "Dublin"
+capital = "Dulyn"
 is_city = yes
 fort_15th = yes
 

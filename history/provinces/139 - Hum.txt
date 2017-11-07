@@ -1,10 +1,10 @@
-#139 - Hum
+#139 - Hum # Delminium
 
 owner = ILY
 controller = ILY
 culture = dalmatian
 religion = catholic
-capital = "Mostar"	# Unofficial capital of Herzegovina
+capital = "Delminium"	# Unofficial capital of Herzegovina
 trade_goods = wool
 hre = no
 base_tax = 3 
