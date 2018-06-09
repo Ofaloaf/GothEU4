@@ -1,0 +1,129 @@
+# Terranova
+
+graphical_culture = westerngfx
+
+colonial_parent = GAL
+random_nation_chance = 0
+
+color = { 130 153 172 }
+
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+	administrative_ideas
+	economic_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	spanish_tercio
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Georgius #0" = 40
+	"Alexander #0" = 40
+	"Ioannes #0" = 35
+	"Thomas #0" = 30
+	"Gregorius #0" = 20
+	"Theodorus #0" = 20
+	"Caesar #0" = 10
+	"Maximus #0" = 5
+
+	"Julia #0" = -5
+	"Elisabeta #0" = -5
+	"Ioanna #0" = -5
+	"Marcia #0" = -1
+	"Maria #0" = -1
+	
+	"Aegidius #0" = 0
+	"Aeneas #0" = 0
+	"Agricola #0" = 0
+	"Alexius #0" = 0
+	"Andreas #0" = 0
+	"Belisarius #0" = 0
+	"Caius #0" = 0
+	"Calvinus #0" = 0
+	"Claudius #0" = 0
+	"Claudianus #0" = 0
+	"Ferriolus #0" = 0
+	"Gallus #0" = 0
+	"Germanus #0" = 0
+	"Julius #0" = 0
+	"Julianus #0" = 0
+	"Lucas #0" = 0
+	"Lucius #0" = 0
+	"Marcus #0" = 0
+	"Matthias #0" = 0
+	"Michael #0" = 0
+	"Nicetas #0" = 0
+	"Nicolaus #0" = 0
+	"Numerius #0" = 0
+	"Patricius #0" = 0
+	"Paulus #0" = 0
+	"Petrus #0" = 0
+	"Publicola #0" = 0
+	"Severus #0" = 0
+	"Sidonius #0" = 0
+	"Stephanus #0" = 0
+	"Syagrius #0" = 0
+	"Symmachus #0" = 0
+	"Theophilus #0" = 0
+	"Tiberius #0" = 0
+	"Timotheus #0" = 0
+	"Titus #0" = 0
+	"Vitalis #0" = 0
+}
+
+leader_names = {
+	Aurelius Apollinaris Anicius Artifex Auchenius Ambustus
+	Bassus Basilius Buteo
+	Conditor Cerialis Catullinus
+	Dento Dorsuo Dorsennus
+	Fronto Faber Figulus Faltonius Fabullus
+	Grammaticus Gemmarius
+	Hermogenianus
+	Lignarius Lapicida Luscinus Longus Longinus Licinus
+	Mercator Munitor Molitor Meropius
+	Opifex
+	Pharmacopola Praenestinus Paulinus Pictor Philomathius
+	Rullianus Rusticus Repentinus
+	Salinator Scholasticus Structor Stolo Servillianus Sanga
+	Theophrastus
+	Venator Verrucosus Vibulanus Vergilianus
+}
+
+ship_names = {
+	Antipater Aeolus Annona Asclepius Apollo Athenonix Augustus Armoricus Aesculapius Aquila Agathopus Armata Aureliolus Aconia
+	Concordia Cupidus Ceres Castor Caprus Caritas Clementia Ceionia
+	Dacicus Diana
+	Eufrates Eudocia
+	Fides Fortuna Fabiola Fulgentius
+	Hercules
+	Isis
+	Juno Juppiter
+	Libertas Lucifer "Liberus Pater"
+	Minerva Mercurius Mars
+	Neptunus Nilus Nemesis Nereis Negotiator
+	Ops Olivus Oceanus Olympia Olybria Orestilla
+	Petrulus Perseus Patricus Pietas Pollux Proventia Pia Petronia
+	Quodvultdeus
+	Spes Salus Satyra Salvia Sol
+	Terranova Tigris Taurus Tibur Triumphus Tyrrenia
+	Victoria Vesta Venus Virtus
+	Zephyrus
+}

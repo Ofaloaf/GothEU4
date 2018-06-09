@@ -192,6 +192,7 @@ N13 = "countries/hannonia.txt"		# Africanu
 N02 = "countries/madogwys.txt"		# Brithenig & Celtic. Also works for Ohio, Florida, Mississippi and Appalachia
 N06 = "countries/newnetherlands.txt"	# Dutch & Oostfranken
 N19 = "countries/norumbega.txt"		# Norwegian
+N28 = "countries/uniondelnord.txt"	# Gothic
 
 # Amazonia
 N07 = "countries/charetes.txt"		# Africanu
@@ -208,6 +209,7 @@ SCX = "countries/sanctacrux.txt"	# Generic
 
 # California
 N18 = "countries/california.txt"	# Generic
+N26 = "countries/JapaneseCalifornia.txt"	# Japanese
 GTA = "countries/sentandray.txt"	# Gothic
 
 # Canada
@@ -236,6 +238,9 @@ FLR = "countries/florida.txt"		# Generic
 # Guatemala
 N20 = "countries/figuyeras.txt"		# Gothic
 
+# Guyana
+N23 = "countries/manoa.txt"			# Generic
+
 # Mexico
 GUS = "countries/anahuac.txt"		# Gothic
 N03 = "countries/messig.txt"		# Brithenig
@@ -259,8 +264,11 @@ N05 = "countries/batavia.txt"		# Dutch
 QRT = "countries/goranica.txt"		# Gothic
 
 # Tejas
-N11 = "countries/tejas.txt"		# Generic
+N11 = "countries/tejas.txt"			# Generic
 N15 = "countries/jacintana.txt"		# Gothic
+
+# Terranova
+N27 = "countries/terranova.txt"		# Generic
 
 # Yucatan
 N17 = "countries/yucatan.txt"		# Generic

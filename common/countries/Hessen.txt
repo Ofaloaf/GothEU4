@@ -89,24 +89,26 @@ monarch_names = {
 leader_names = {
 	Alebernus Alvericus Amelgeirsz
 	Best Blech Böckel Bollarde Bodekine Brandekijn
-	Camerarius Chlotijn
+	Camerarius Chlotijn Cruciger
 	Dreyer
-	Ecksellon Eikenboom Eghenonis Egghebrecht
+	Ecksellon Eikenboom Eghenonis Egghebrecht Eilshemius
 	Fabricius Forkel Folcardingh
-	Gomarus Geel Gozzo Gobelsz
+	Gomarus Geel Gozzo Gobelsz Glocenius
 	Hochstetler Haller Haspelmath Hessellisz Hornekinga Huecsyne
 	Keil Koechlin
-	Lohelius Loeb Loeffler
+	Lohelius Loeb Loeffler Lucius
 	Nöldeke
 	Oytgier Oede
 	Pareus Pflimlin
 	Ruvenacht Rampe
-	Scultetus Schefferus Schongauer Speth Schwally
+	Scultetus Schefferus Schongauer Speth Schwally Scultetus
+	Tossanus
 	Ungerer
 	Valken Vastraid Vranke
 }
 
 ship_names = {
+	Angelocrator
 	Chattus
 	Ekster
 	Fortuyn

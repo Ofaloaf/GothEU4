@@ -77,8 +77,13 @@
 2554 = "Ter Mair"		# "Mary's Land". Get it? GET IT
 
 # Brazil
-763 = "Castr Januarius"
+759 = "Saeth Pawl"	
+763 = "Afon d'Ianeir"		# Literal translation of Rio de Janeiro
+769 = "Castr Busc"		# "Wood Town"
+2884 = "Miserigheirdd"	# "Mercy of God"
 2890 = "Saeth Mair"
+2916 = "Tref Ffrencisc"	# "Frankish Town". No real reason this was chosen for here, just decided to do it.
+2918 = "Camp Llong"		# 'Campo Largo' translated into Brithenig
 
 # California
 869 = "Montrhui"		# 'Mount King'. MONTEREY. DO YOU GET IT
@@ -87,7 +92,7 @@
 # Canada
 991 = "Trefith"
 994 = "Astolat"
-998 = "Paes di'll Gran Fforest"	# Provinces of the Grand Forest
+998 = "Gran Fforest"		# (Provinces of) the Grand Forest
 999 = "Lla Gran"		# after the La Grande River
 1000 = "Rhoberth"		# Brithenig for 'Robert', after Fort Robert
 1005 = "Efrauc"			# variant for York, after York Factory

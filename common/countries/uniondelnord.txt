@@ -1,0 +1,126 @@
+# Union del Nòrd
+
+graphical_culture = westerngfx
+
+colonial_parent = AMC
+random_nation_chance = 0
+
+color = { 198 197 166 }
+
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	spy_ideas
+	economic_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	spanish_tercio
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Pèitre #0" = 40
+	"Gautier #0" = 40
+	"Jehan #0" = 30
+	"Marc #0" = 25
+	"Tiuderic #0" = 20
+	"Ulisses #0" = 10
+
+	"Maria #0 " = -5
+	"Puelle #0" = -5
+	"Sibilla #0" = -5
+	"Tiborg #0" = -5
+	"Ypola #0" = -5
+
+	"Amadaius #0" = 0
+	"Aquilles #0" = 0
+	"Arramon #0" = 0
+	"Ausias #0" = 0
+	"Azen #0" = 0
+	"Balaguer #0" = 0
+	"Bartoumiéu #0" = 0
+	"Bonetus #0" = 0
+	"Caraules #0" = 0
+	"Carbonel #0" = 0
+	"Esbaldíd #0" = 0
+	"Galceran #0" = 0
+	"Goçalbo #0" = 0
+	"Gundisalf #0" = 0
+	"Hercules #0" = 0
+	"Laertes" = 0
+	"Leonidas #0" = 0
+	"Lisandre" = 0
+	"Lixandre" = 0
+	"Luc #0" = 0
+	"Nicodim #0" = 0
+	"Omèr #0" = 0
+	"Pol" = 0
+	"Pons #0" = 0
+	"Simaun #0" = 0
+	"Teia #0" = 0
+	"Telèmac #0" = 0
+	"Telo #0" = 0
+	"Theophilus #0" = 0
+	"Totila #0" = 0
+}
+
+leader_names = {
+	Alinád "d'Artagnan" Athonis Alquerius Alnas "del Aversenh"
+	Bernat "de Biaix" Bayrulh Bria Bonfill Burbo Baiuli Barravi Bernardi Beyronha Bonasie Bonsom Blanch
+	Camani Chardis Chassurial Camsoris Compan Chapel Costa Comelas "de Castèlnòu d'Arri" Cerverí
+	Davi "de Divodrèi" Duran Denaytz Deloregne Denasam Durtz
+	Eneg
+	Figueira Ferrarius Fabricius Fabrit Falqui Fleys Farinhaco Fontanis Fragas Funerius Fabrihote
+	Gitard "de Garlin" "de Guinsestre" Garriga Gerouart Gili Garcias Guerra Gorp Guifre Galbarra
+	Hugonis
+	Iozbert Insedi
+	Jusep "de Janilhac"
+	Labazh Lom "de Lunel" Lubert Lauro Luna Laneria
+	Mancíp "de Morlans" Mir Mascurd Miró Molinerius Marotus Maynart Micahelis Margalh Masur Mabres Montevarius Molinièr Mallol Montalt
+	Oromir Oller Orucius Otonis Odonis Omellarius
+	Phoebus Peyras Pachéra "de Pinu" Polinus Pastre
+	Ralhaferi "de Rubys" Raditoris Ros Riquerius Raynes Roquetas Retonditor Riberia
+	Salles "de Salinis" Sancius Salvanh Sartor Sparcellus
+	Trullols
+	Udalardi
+	Vives Vasconis Vilhas
+	Ysnari Ycart
+}
+
+ship_names = {
+	Afrodita Arquir Apostol Alegransa Acort Antioca Artèmis Apollon Arès Afrodita Atena Ades Astrèa
+	Bella "Bon Joglar"
+	Cahohatatea Canarsee Crespa Covenent "Lo Cocut" Crozada Cançoneret
+	Diomar Donzella Dous "Danapris Nova" Donatz Demetèr Dionís Domidieu
+	Esopus Estiu Eòl Enèu Ermengallus Esperansa Eleutheria "Excellen Dictador" Enuig Efèst Èra Ermès Estia
+	Ginovisa Gentil Gabador Ganimèdes 
+	Iris
+	Johanetus
+	Lauzenger Libertat
+	Muhheakantuck "Mons Viridis" Manhattan Magdalena Marculf Marquesa Messatger
+	Neptunus
+	Orastriosa Orgolh
+	Petonbauc Penelòpa Palacesa Paor Planh Poseidon
+	Quiteria
+	Rondac Raritan Ricla Rossinholet
+	Scolana Stefania "Santa Fe" Saturunus Senhortage Sauvamen Sagramen
+	Ticonderoga Telemac Thoma Trichador
+	Valentina Viana Vicenta Veritat Vencemen "Violeta d'Aur"
+	Zèus
+}

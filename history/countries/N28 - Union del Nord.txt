@@ -1,0 +1,5 @@
+government = constitutional_republic
+technology_group = western
+primary_culture = armorican
+religion = protestant
+capital = 965	# New York

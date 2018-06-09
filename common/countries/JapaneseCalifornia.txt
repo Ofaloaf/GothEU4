@@ -1,0 +1,98 @@
+﻿# Shiminato
+# "Four Harbors", referring to the four natural harbors of California: San Diego, Monterey, San Francisco and Humboldt Bay
+# San Minato
+# Like above, but "three" instead of "four".
+
+graphical_culture = asiangfx
+
+colonial_parent = JAP
+random_nation_chance = 0
+
+historical_score = 200
+
+color = { 253 230 96 }
+
+historical_idea_groups = {
+	plutocracy_ideas
+	trade_ideas
+	economic_ideas
+	defensive_ideas
+	maritime_ideas
+	administrative_ideas
+	offensive_ideas
+	quantity_ideas
+}
+
+historical_units = {
+	japanese_archer
+	eastern_bow
+	japanese_footsoldier
+	japanese_samurai
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	reformed_asian_musketeer
+	reformed_asian_cavalry
+}
+
+monarch_names = {
+	"Asuka #0" = 10
+	"Hideyoshi #0" = 10
+	"Kazurahara #0" = 20
+	"Masamune #0" = 10
+	"Yasuyoshi #0" = 20
+	"Yoshinobu #0" = 20
+	
+	"Asahara #0" = -1
+	"Sakahito #0" = -1
+	"Sugawara #0" = -1
+
+	"Akira #0" = 0
+	"Hiratada #0" = 0
+	"Kagetaka #0" = 0
+	"Kokichi #0" = 0
+	"Koreaki #0" = 0
+	"Naosuke #0" = 0
+	"Nariakira #0" = 0
+	"Rintaro #0" = 0
+	"Saito #0" = 0
+	"Shosaburo #0" = 0
+	"Shosuke #0" = 0
+	"Tadamasu #0" = 0
+	"Taro #0" = 0
+	"Uchida #0" = 0
+}
+
+leader_names = {
+	Abe
+	Honda
+	Ichiya Ichiro
+	Gensabulo Goto
+	Hiroshi Hasekura
+	Kikuchi Kaga Kano Kanakuri Kunosuke Kenzo 
+	Matsudaira Mishima Masaren
+	Otori Ogata Ohama
+	Sakurai Saigo Seiichiro Sabura Shinichi
+	Takenoya Tojo Tsuboi Tezuka Tomeichi Tanaka Toyotomi
+	Udono
+	Yahei
+	Zensaku
+}
+
+ship_names = {
+	Awa Ate Amagi Atakemaru "Asahi Maru" Atuga Ashigara
+	Banryu
+	Choyo Chogei Chiyodagata
+	Heian Hikami Hinomaru Hiryu "Hakudo Maru" "Hoo Maru" Haguro
+	Kaishu "Kanrin Maru" Kannabi Kudara Koan Ki Kongo "Kanko Maru" "Kobayashi Maru" "Kaiyo Maru" Kaiten Kasuga Kanpaku Kotetsu
+	Ito
+	Musui Mikaho Moshun Myoko
+	Nisshin "Nankai Maru" Nachi
+	Oi
+	Ryujo
+	Shigeno Shinsoku "Shohei Maru"
+	Tachibana Tajihi Tamana Teibo "Takao Maru"
+	Unyo
+	Yamabe Yamato Yoshun
+}

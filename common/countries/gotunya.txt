@@ -107,7 +107,7 @@ monarch_names = {
 }
 
 leader_names = {
-	Alavivus Alfor Armenós Aleu d'Auns d'Argentorate Arracartas
+	Alavivus Alfor Armenós Aleu d'Auns "d'Argentorate" Arracartas
 	Berenguer Baró Bartomeu Boey Bonto Bosens "de Béfô" "de Belgardis" "de Brancèi" "de Bruomade" Blaves Baigos
 	Brulartus Baveraz
 	Cardona "de Caleua" "de Columbarius" Camlonc Camps Carbó Canyelles Costa Cirera Caranyana "de Calauna" 

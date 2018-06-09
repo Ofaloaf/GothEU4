@@ -126,7 +126,7 @@ province_event = {
 			set_province_flag = rename_BRITHENIG
 		}
 
-		# AMAZONIA ######################################################
+		# AMAZONIA AND BRAZIL BECAUSE I MESSED UP THERE ######################################################
 		if = {
 			limit = {
 				has_owner_culture = yes
@@ -190,6 +190,26 @@ province_event = {
 		if = {
 			limit = {
 				has_owner_culture = yes
+				province_id = 754
+				NOT = { has_province_flag = rename_BRITHENIG }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Dinorwig"
+			set_province_flag = rename_BRITHENIG
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 757
+				NOT = { has_province_flag = rename_BRITHENIG }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Llo Ysl"
+			set_province_flag = rename_BRITHENIG
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
 				province_id = 2890
 				NOT = { has_province_flag = rename_BRITHENIG }
 			}
@@ -230,6 +250,16 @@ province_event = {
 		if = {
 			limit = {
 				has_owner_culture = yes
+				province_id = 2924
+				NOT = { has_province_flag = rename_BRITHENIG }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Tref Brân"
+			set_province_flag = rename_BRITHENIG
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
 				province_id = 2927
 				NOT = { has_province_flag = rename_BRITHENIG }
 			}
@@ -257,6 +287,88 @@ province_event = {
 			rename_capital = "Tref Rhoen Gwirdd"
 			set_province_flag = rename_BRITHENIG
 		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2934
+				NOT = { has_province_flag = rename_BRITHENIG }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Castrantwyfn"
+			set_province_flag = rename_BRITHENIG
+		}
+
+		# BRAZIL ########################################################
+
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 759
+				NOT = { has_province_flag = rename_BRITHENIG }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Saeth Pawl"
+			set_province_flag = rename_BRITHENIG
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 763
+				NOT = { has_province_flag = rename_BRITHENIG }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Afon d'Ianeir"
+			set_province_flag = rename_BRITHENIG
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 769
+				NOT = { has_province_flag = rename_BRITHENIG }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Castr Busc"
+			set_province_flag = rename_BRITHENIG
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2884
+				NOT = { has_province_flag = rename_BRITHENIG }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Miserigheirdd"
+			set_province_flag = rename_BRITHENIG
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2890
+				NOT = { has_province_flag = rename_BRITHENIG }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Saeth Mair"
+			set_province_flag = rename_BRITHENIG
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2916
+				NOT = { has_province_flag = rename_BRITHENIG }
+			}
+			# province renaming is done by the province_names directory now
+			rename_capital = "Tref Ffrencisc"
+			set_province_flag = rename_BRITHENIG
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2918
+				NOT = { has_province_flag = rename_BRITHENIG }
+			}
+			rename_capital = "Camp Llong"
+			set_province_flag = rename_BRITHENIG
+		}
 
 		# CALIFORNIA ####################################################
 		if = {
@@ -265,7 +377,6 @@ province_event = {
 				province_id = 869
 				NOT = { has_province_flag = rename_BRITHENIG }
 			}
-			# province renaming is done by the province_names directory now
 			rename_capital = "Montrhui"
 			set_province_flag = rename_BRITHENIG
 		}
@@ -275,8 +386,73 @@ province_event = {
 				province_id = 2021
 				NOT = { has_province_flag = rename_BRITHENIG }
 			}
-			# province renaming is done by the province_names directory now
 			rename_capital = "Porth Dragun"
+			set_province_flag = rename_BRITHENIG
+		}
+
+		# CANADA #######################################################
+
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 991
+				NOT = { has_province_flag = rename_BRITHENIG }
+			}
+			rename_capital = "Trefith"
+			set_province_flag = rename_BRITHENIG
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 994
+				NOT = { has_province_flag = rename_BRITHENIG }
+			}
+			rename_capital = "Astolat"
+			set_province_flag = rename_BRITHENIG
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 998
+				NOT = { has_province_flag = rename_BRITHENIG }
+			}
+			rename_capital = "Castr Gwirdd" # 'Green Fort'
+			set_province_flag = rename_BRITHENIG
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 999
+				NOT = { has_province_flag = rename_BRITHENIG }
+			}
+			rename_capital = "Cunobelinus"	# Suetonius called Cunobelinus 'King of the Britons' at the time of British submission to Rome. I'd imagine the Romano-British Brithenigs might name something after him.
+			set_province_flag = rename_BRITHENIG
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 1000
+				NOT = { has_province_flag = rename_BRITHENIG }
+			}
+			rename_capital = "Rhoberth"
+			set_province_flag = rename_BRITHENIG
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 1005
+				NOT = { has_province_flag = rename_BRITHENIG }
+			}
+			rename_capital = "Efrauc"
+			set_province_flag = rename_BRITHENIG
+		}
+		if = {
+			limit = {
+				has_owner_culture = yes
+				province_id = 2584
+				NOT = { has_province_flag = rename_BRITHENIG }
+			}
+			rename_capital = "Arviragus"
 			set_province_flag = rename_BRITHENIG
 		}
 

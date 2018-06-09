@@ -26,6 +26,7 @@
 # Louisiana
 # UPCA
 # Venezuela
+# Quebec
 
 country_decisions = {
 
@@ -57,20 +58,12 @@ country_decisions = {
 					owned_by = ROOT
 				}
 			}
-			OR = {
-				NOT = { 
-					OR = { 
-						primary_culture = dutch 
-						primary_culture = oostfranken 
-					} 
-				}
-				AND = {
-					OR = {
-						primary_culture = dutch 
-						primary_culture = oostfranken
-					}
-					exists = N06 # A dutch CN should only be able to go for this if the New Netherlands is already taken
-				}
+			NOT = { 
+				OR = { 
+					primary_culture = dutch 
+					primary_culture = oostfranken
+					culture_group = gothic_group
+				} 
 			}
 			OR = {
 				ai = no
@@ -1334,6 +1327,7 @@ country_decisions = {
 					technology_group = andean
 					technology_group = high_american
 				}
+				culture_group = japanese_g
 			}
 			capital_scope = {
 				continent = north_america
@@ -1380,6 +1374,157 @@ country_decisions = {
 			}
 			swap_free_idea_group = yes
 			colonial_california = {
+				limit = {
+					NOT = { owned_by = ROOT }
+				}
+				add_claim = ROOT
+			}
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+			set_country_flag = changed_from_colonial_nation
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	# GENERIC GUYANA - Manoa
+	manoa_nation = {
+		major = yes
+		potential = {
+			NOT = { has_country_flag = changed_from_colonial_nation }
+			NOT = {
+				OR = {
+					technology_group = north_american
+					technology_group = mesoamerican
+					technology_group = south_american
+					technology_group = andean
+					technology_group = high_american
+				}
+			}
+			capital_scope = {
+				continent = south_america
+			}
+			colonial_guyana = {
+				owned_by = ROOT
+			}
+			OR = {
+				ai = no
+				AND = {
+					ai = yes
+					num_of_cities = 3	
+				}
+			}
+		}
+		allow = {
+			adm_tech = 10
+			#is_former_colonial_nation = yes
+			is_subject = no
+			is_at_war = no
+			capital_scope = {
+				colonial_region = colonial_guyana
+				is_core = ROOT
+			}
+			NOT = { exists = N23 }
+		}
+		effect = {
+			change_tag = N23
+			if = {
+				limit = {
+					is_part_of_hre = yes
+					is_elector = no
+				}
+				every_owned_province = {
+					limit = {
+						is_part_of_hre = yes
+					}
+					set_in_empire = no
+				}
+			}
+			if = {
+				limit = { NOT = { government_rank = 2 } }
+				set_government_rank = 2
+			}
+			swap_free_idea_group = yes
+			colonial_guyana = {
+				limit = {
+					NOT = { owned_by = ROOT }
+				}
+				add_claim = ROOT
+			}
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+			set_country_flag = changed_from_colonial_nation
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	terranova_nation = {
+		major = yes
+		potential = {
+			NOT = { has_country_flag = changed_from_colonial_nation }
+			NOT = {
+				OR = {
+					technology_group = north_american
+					technology_group = mesoamerican
+					technology_group = south_american
+					technology_group = andean
+					technology_group = high_american
+				}
+			}
+			capital_scope = {
+				colonial_region = colonial_terranova
+			}
+			colonial_terranova = {
+				owned_by = ROOT
+			}
+			OR = {
+				ai = no
+				AND = {
+					ai = yes
+					num_of_cities = 3	
+				}
+			}
+		}
+		allow = {
+			adm_tech = 10
+			#is_former_colonial_nation = yes
+			is_subject = no
+			is_at_war = no
+			capital_scope = {
+				colonial_region = colonial_terranova
+				is_core = ROOT
+			}
+			NOT = { exists = N27 }
+		}
+		effect = {
+			change_tag = N27
+			if = {
+				limit = {
+					is_part_of_hre = yes
+					is_elector = no
+				}
+				every_owned_province = {
+					limit = {
+						is_part_of_hre = yes
+					}
+					set_in_empire = no
+				}
+			}
+			if = {
+				limit = { NOT = { government_rank = 2 } }
+				set_government_rank = 2
+			}
+			swap_free_idea_group = yes
+			colonial_terranova = {
 				limit = {
 					NOT = { owned_by = ROOT }
 				}

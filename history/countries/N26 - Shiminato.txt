@@ -1,0 +1,5 @@
+government = constitutional_republic
+technology_group = chinese
+religion = shinto
+primary_culture = togoku
+capital = 2021

@@ -1,3 +1,4 @@
 51 = "Rypin"
 60 = "Hornja Lužica"
+267 = "Pilzno"
 1763 = "Dolna Lužyca"

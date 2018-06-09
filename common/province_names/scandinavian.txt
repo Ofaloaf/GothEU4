@@ -1,3 +1,5 @@
+25 = "Gotland"
+
 # Alleghania
 956 = "Nya Gothenborg"
 957 = "Trefaldigheten"

@@ -41,8 +41,10 @@ monarch_names = {
 	"Arnold #2" = 25
 	"Filips #1" = 25
 	"Frederik #1" = 25
+	"Lodewijk #0" = 25
 	"Claeuwaert #2" = 20
 	"Ludewijn #1" = 20
+	"Karel #0" = 15
 	"Godfried #1" = 15
 	"Theodolf #1" = 15
 	"Charibert #0" = 15
@@ -95,13 +97,12 @@ monarch_names = {
 	"Jeroen #0" = 0
 	"Julius #0" = 0
 	"Justus #0" = 0
-	"Karel #0" = 0
 	"Karloman #0" = 0
+	"Kempo #0" = 0
 	"Koenraad #0" = 0
 	"Kristof #1" = 0
 	"Lambert #0" = 0
 	"Laurens #0" = 0
-	"Lodewijk #0" = 0
 	"Lotharius #0" = 0
 	"Lucius #0" = 0
 	"Marcomer #0" = 0
@@ -122,45 +123,51 @@ monarch_names = {
 	"Rutger #1" = 0
 	"Sebastiaen #0" = 0
 	"Simon #0" = 0
+	"Sixtinus #0" = 0
 	"Sunno #0" = 0
 	"Theudemeres #0" = 0
 	"Theuderik #4" = 0
 	"Theodowald #0" = 0
+	"Walrave #0" = 0
 	"Wening #0" = 0
 	"Willem #0" = 0
 	"Willichar #0" = 0
 }
 
 leader_names = {
-	Alteras "van der Aa" "van Aarsens" "van Assendelft"
-	Bicker "van Breda" "van Beuningen" "van Beverningh" Buys Boreel Bataafse Brunsvelt
-	Cats "van Casembroot" Coebel "van Coehoorn"
-	Daendels "van Diemen" Duyck
-	Evertzen "van Egmont" "van den Eynde"
-	Fagel
-	Gerritszoon "van Galen" "De Grouwe" "de Groot" Geelvinck "van der Goes"
-	Heinsius "De Houtman" "van Huchtenbroek" "ten Hove"
+	Alteras "van der Aa" "van Aarsens" "van Assendelft" Amama "van Aylva"
+	Bicker "van Breda" "van Beuningen" "van Beverningh" Buys Boreel Bataafse Brunsvelt Bogerman Bekker Boelens
+	Cats "van Casembroot" Coebel "van Coehoorn" Coccejus Canterus Clant
+	Daendels "van Diemen" Duyck Damman Dibbetzius Dwinglonius
+	Evertzen "van Egmont" "van den Eynde" Eilshemius "van Essen"
+	Fagel Faukelius
+	Gerritszoon "van Galen" "De Grouwe" "de Groot" Geelvinck "van der Goes" Goswinus Grevinckhoven Goulartius
+	Heinsius "De Houtman" "van Huchtenbroek" "ten Hove" Hommius "van Hel" "van Holij" Heyngius "van Heemskerc" "van Helsdingen" Harinxma Hillenius Halbes "van Honaert" Herteveld "van Haagen" "van Hemerde"
 	"van Ilpendam"
-	Kater "Van Keppel" Kortenaer Keetlaer
-	"van der Loo"
-	"van Marnix" Martena "De Moor" "van Maarsseveen" Musch
-	Nachtegaal "van Neck"
-	"van Oldenbarnevelt"
-	Pauw "van de Pairra"
-	Schimmelpenninck "van de Spiegel" Stevenisse "de Smet" Sugramber Saliër
-	Tasman
-	Vliechop "van Voorst" Verheije Vulancius
-	Witsen "Van Walbeeck" "de Witt"
+	Kater "Van Keppel" Kortenaer Keetlaer "van Kampe" Krombout
+	Lubbertus "van der Loo" Latius Langius
+	Martena "van Marnix" "De Moor" "van Maarsseveen" Musch Moenius Muys
+	Nachtegaal "van Neck" Naeranus "van Nieuburg" "van Nieuveld" Niellius
+	Oortcampius "van Oldenbarnevelt"
+	Pauw "van de Pairra" Placius
+	Rolandus "de Ryck"
+	Schimmelpenninck "van de Spiegel" Stevenisse "de Smet" Sugramber Saliër Scotte Sampa Smout
+	Tasman Triglandius
+	Udemannus
+	Vliechop "van Voorst" Verheije Vulancius Voetius Vitringa Verheyden Vosbergius
+	Witsen "Van Walbeeck" "de Witt" Wittichius Wiferding Wezekius Wtenbogaert
+	Ysbrants
+	"van Zuylen"
 }
 
 ship_names = {
-	Arminius Alkmaar Adelaar Ajax Amsterdam Amelia Austrasië Antverpia Antenor Asperen
+	Arminius Alkmaar Adelaar Ajax Amsterdam Amelia Austrasië Antverpia Antenor Asperen Angelocrator
 	Batavia Bo Beschermer
 	Chattus Campen Cerberus Clovis "Castra Vetera"
 	Duitsland Delft Delfland Daphne Dolfijn Duivenvoorde
 	Eendracht Eenhorn
 	Francia Frisia "Flavius Merobaudes"
-	Gaesterland Gelderland Groningen "Groot Francia" Gouda
+	Gaesterland Gelderland Groningen "Groot Francia" Gouda Gulielmus
 	Hadewigis Haarlem Heldin Hercules
 	"Jong Prins te Paard"
 	"Kleene Sint Joris"
@@ -174,7 +181,7 @@ ship_names = {
 	Soetkin "Sint Paulus"
 	Tholen Tyger "Thyl Ulenspiegel"
 	Vrijheid
-	Wassenaar
+	Wassenaar 
 	Zeehond
 }
 

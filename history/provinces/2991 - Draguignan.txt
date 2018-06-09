@@ -2,7 +2,7 @@
 
 owner = PRV
 controller = PRV
-capital = "Draguignane"
+capital = "Dragonianum"
 is_city = yes
 culture = provincian
 religion = catholic

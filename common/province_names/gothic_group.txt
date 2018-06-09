@@ -48,10 +48,12 @@
 1743 = "Camaraco"
 1760 = "Coblensa"
 1761 = "Vormatas"
+1865 = "Gan"
 1866 = "Lomacés"
 1869 = "Turic"
 1873 = "Cuira"
 1877 = "Cadrela"
+2991 = "Draguinhan"
 
 
 # Alleghania
